@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241004162252
-! Last modified: 2024/10/04 16:22:52
-! Blocked domains: 98175
+! Version: 20241005002316
+! Last modified: 2024/10/05 00:23:16
+! Blocked domains: 98189
 ! unBlocked domains: 23
 !
 ||052db.website^
@@ -11435,6 +11435,7 @@
 ||webtracker.apicasystem.com^
 ||apicit.net^
 ||apicloud.ru^
+||www.apicsaba.xyz^
 ||apilian.xyz^
 ||ipfs.apillon.io^
 ||partneri.apimedika.sk^
@@ -14519,6 +14520,7 @@
 ||bedodrioer.com^
 ||bedodrioon.com^
 ||bedraffenetrk.com^
+||bedzbu.xyz^
 ||bedziepasjaczas.autos^
 ||beead.co.uk^
 ||beead.net^
@@ -21621,6 +21623,7 @@
 ||chucklesserver.com^
 ||y66xvgo5i.chuimg.com^
 ||chulhawakened.com^
+||chullocaviars.shop^
 ||chullohagrode.com^
 ||chumukedimatambola28.com^
 ||chupsanpham88.com^
@@ -25085,6 +25088,7 @@
 ||d2sn24mi2gn24v.cloudfront.net^
 ||d2sp5g360gsxjh.cloudfront.net^
 ||d2t47qpr8mdhkz.cloudfront.net^
+||d2tf0.icu^
 ||d2tycn7nnoiglw.cloudfront.net^
 ||d2u4fn5ca4m3v6.cloudfront.net^
 ||d2uhnetoehh304.cloudfront.net^
@@ -28113,6 +28117,7 @@
 ||donaldtrumpnews.co^
 ||donalise.com^
 ||ad.donanimhaber.com^
+||donarycrips.com^
 ||wv.donarynahane.com^
 ||donateentrailskindly.com^
 ||done-install.com^
@@ -39720,6 +39725,7 @@
 ||haumrogue.link^
 ||haunteddishwatermortal.com^
 ||hauntingfannyblades.com^
+||hauqou.top^
 ||app.hauskey.com^
 ||havepussy.com^
 ||havfruen4220.dk^
@@ -50101,6 +50107,7 @@
 ||kohlistic.com^
 ||ww8.kohls.com^
 ||ww9.kohls.com^
+||koiaripolymny.com^
 ||koifull.jp^
 ||koiluck.com^
 ||fcrcwf.koimooi.com^
@@ -60840,6 +60847,7 @@
 ||muleur.top^
 ||link.mulliegolf.com^
 ||a.muloqot.uz^
+||mulsouloobsaiz.xyz^
 ||go.multi-conveyor.com^
 ||multi-feeds.com^
 ||ns1.multi.net.pk^
@@ -76531,6 +76539,7 @@
 ||usji.qqqlsnf.top^
 ||www.qqqmy.com^
 ||qqqqbdma.com^
+||qqryt111.fun^
 ||dpvchos.qqyy.com^
 ||qqzmm.com^
 ||d.qqzx.cc^
@@ -83005,6 +83014,7 @@
 ||redirect.sizeyourmissionmetrics.com^
 ||sizzledfirings.com^
 ||sj88.com^
+||sjezce.xyz^
 ||analytics.sjf.se^
 ||sjgsgy.xyz^
 ||sjmsw.net^
@@ -83619,6 +83629,7 @@
 ||question.snapiio.com^
 ||a8.snapmaker.jp^
 ||snapmoonlightfrog.com^
+||errortracking.snapp.site^
 ||sensors.snappea.com^
 ||snappedanticipation.com^
 ||snappedtesting.com^
@@ -84435,6 +84446,7 @@
 ||speedcoaching.co.jp^
 ||speedilyabsolvefraudulent.com^
 ||speedingbroadcastingportent.com^
+||2.speedknow.co^
 ||track.speedlinesp.com^
 ||speedomizer.com^
 ||smetrics.speedousa.com^
@@ -91241,6 +91253,7 @@
 ||twsylxp.com^
 ||twtad.com^
 ||a1.twtym.com^
+||twurseri.top^
 ||twyvergongs.com^
 ||twzui6.com^
 ||tx2.ru^
@@ -96355,6 +96368,7 @@
 ||wonderv.sbs^
 ||www.wonderwallperu.com^
 ||wondoads.de^
+||woneguess.click^
 ||wongahmalta.com^
 ||woniu.com^
 ||wonoddgiris.com^
