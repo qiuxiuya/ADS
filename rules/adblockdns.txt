@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241005002316
-! Last modified: 2024/10/05 00:23:16
-! Blocked domains: 98189
+! Version: 20241005091914
+! Last modified: 2024/10/05 09:19:14
+! Blocked domains: 98205
 ! unBlocked domains: 23
 !
 ||052db.website^
@@ -328,6 +328,7 @@
 ||statistics.11880.com^
 ||118crops.com^
 ||118kbet.com^
+||1192349565.rsc.cdn77.org^
 ||ywrcqa.11alive.com^
 ||11avehuto61tate.xyz^
 ||11bet.bz^
@@ -529,12 +530,14 @@
 ||dhl.135320.com^
 ||1360.cn^
 ||137kfj65k.de^
+||1380804958.rsc.cdn77.org^
 ||138lm.com^
 ||138xt.com^
 ||lyapi.1391.com^
 ||mhdufile.1391.com^
 ||mhjk.1391.com^
 ||13bt.info^
+||13c4491879.com^
 ||b0bee72a02.13e153630d.com^
 ||563639804d.13e63e2dea.com^
 ||13kbs.com^
@@ -2745,6 +2748,7 @@
 ||j9yvvyc.591books.xyz^
 ||592749d456.com^
 ||oolx.59484015.xyz^
+||59644010.xyz^
 ||59betorspin.com^
 ||59cn7.com^
 ||59e6ea7248001c.com^
@@ -3011,6 +3015,7 @@
 ||78win04.com^
 ||78win07.com^
 ||78win09.com^
+||79180284.xyz^
 ||gg.7976.top^
 ||allegro1-okalnie9.798000.xyz^
 ||6fb11f4b6e.7981d0e1b2.com^
@@ -4201,6 +4206,7 @@
 ||abs-static.org^
 ||say.abs.beauty^
 ||thay.abs.beauty^
+||absalomcsa.com^
 ||abscakez.com^
 ||data-11c63b1cbc.abschied-nehmen.de^
 ||discover.absciex.com^
@@ -7936,6 +7942,7 @@
 ||www.agricredi.com^
 ||al.agriz.net^
 ||tk.agrizone.net^
+||agrmufot.com^
 ||agro-gid.com^
 ||agro.net.ru^
 ||tesla-x4.agrodetal.site^
@@ -16006,7 +16013,6 @@
 ||binomo2022.net^
 ||binomoidr.com^
 ||binomoindonesia.com^
-||binomorupiah-id.com^
 ||binomorush.in^
 ||binomotop.com^
 ||binomoweb.org^
@@ -21501,6 +21507,7 @@
 ||choogeet.net^
 ||vkbvny.chookjenews.kr^
 ||a8.choomia.com^
+||chooncv.icu^
 ||choongou.com^
 ||marketing.choosechicago.com^
 ||choosegiftel.top^
@@ -29135,6 +29142,7 @@
 ||eapect.icu^
 ||go.eapps.com^
 ||eaptekaplus.ru^
+||eaqgsw.xyz^
 ||eaqlos.xyz^
 ||ear1hb1und.xyz^
 ||ear1hetern1al.xyz^
@@ -32505,7 +32513,6 @@
 ||fashion-tube.be^
 ||adsrv.fashion.bg^
 ||trk.fashion365.com^
-||fashionadid.com^
 ||gaafbi.fashiondays.hu^
 ||nltihf.fashiondays.ro^
 ||dyghye.fashionesta.com^
@@ -35697,6 +35704,7 @@
 ||gadlt.nl^
 ||gadsdentoday.com^
 ||gadspmz.com^
+||gaetojnxujn.com^
 ||gafsolutions.com^
 ||gafuner.space^
 ||gagdungeon.com^
@@ -39042,6 +39050,7 @@
 ||usoa.gxldskcu.top^
 ||gxlsjt.com^
 ||gxmlkgraj.com^
+||gxnfz.com^
 ||gxpvnveyqowm.com^
 ||ll.gxsky.com^
 ||gxtmsmni.com^
@@ -56165,6 +56174,7 @@
 ||mbet.co.za^
 ||mbfhwag.xyz^
 ||ad.sp.mbga.jp^
+||mbhhxqkr.com^
 ||ptcdn.mbicash.nl^
 ||bid.mbidtg.com^
 ||mbih.top^
@@ -61037,8 +61047,10 @@
 ||mvc07.top^
 ||usvw.mvcfngxu.top^
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
+||mvcngm.xyz^
 ||mvevgi.xyz^
 ||datadog-service.mvfglobal.com^
+||mvfmdfsvoq.com^
 ||mvhiyha.com^
 ||panda.mvhphotoproject.org^
 ||mvilivestats.com^
@@ -62526,6 +62538,7 @@
 ||info.navitor.com^
 ||l.navx.co^
 ||www.navy9gear.com^
+||img2021.navyfederal.org^
 ||app-uat.navyhealth.com.au^
 ||srepdata.navytimes.com^
 ||navywilyoccur.com^
@@ -65092,6 +65105,7 @@
 ||ntoftheusysianedt.info^
 ||ntoftheusysih.info^
 ||banner.ntop.tv^
+||ntpnfyga.icu^
 ||ntreeom.com^
 ||ntrtifx.xyz^
 ||www.ntsearch.com^
@@ -68375,6 +68389,7 @@
 ||pajtll.xyz^
 ||www.pakalertpress.com^
 ||pakasinfo.com^
+||pakaujf.icu^
 ||pakbanners.com^
 ||www.pakets.life^
 ||pakhuy.com^
@@ -72797,6 +72812,7 @@
 ||www.prt-or-067.com^
 ||prtadf.xyz^
 ||prtawe.com^
+||prtfpl.xyz^
 ||prtord.com^
 ||prtracker.com^
 ||prtsw.ru^
@@ -92888,7 +92904,6 @@
 ||smetrics.catalog.usmint.gov^
 ||usn.cc^
 ||usnd.to^
-||usnewoutdoor.com^
 ||link.biz-messaging.usnews.com^
 ||link.messaging.usnews.com^
 ||m3.usnews.com^
@@ -97419,6 +97434,7 @@
 ||yfefdlv.com^
 ||yfgrxkz.com^
 ||yfkflfa.com^
+||yfoega.xyz^
 ||yfznypugeuunng.com^
 ||a8cv.ygm-clinic.or.jp^
 ||ygto.com^
