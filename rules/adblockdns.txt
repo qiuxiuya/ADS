@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241017002115
-! Last modified: 2024/10/17 00:21:15
-! Blocked domains: 112072
+! Version: 20241017092040
+! Last modified: 2024/10/17 09:20:40
+! Blocked domains: 112096
 ! unBlocked domains: 6
 !
 ||0551huayanbdf.com^
@@ -5079,6 +5079,7 @@
 ||pumpkin.abine.com^
 ||abiskarfoodproduct.com^
 ||abissnet.net^
+||abixkw.xyz^
 ||abjectattempt.com^
 ||abjectionblame.com^
 ||abjectionpatheticcoloured.com^
@@ -5882,6 +5883,7 @@
 ||acridtubsource.com^
 ||acridtwist.com^
 ||acritolyarke.top^
+||acrityezra.shop^
 ||bjozin.acrmart.com^
 ||acrobatalar.shop^
 ||acrobaticdesire.com^
@@ -12086,6 +12088,7 @@
 ||almiras.kz^
 ||almondnetworks.com^
 ||almondusual.com^
+||almonryminuter.com^
 ||go.almoproav.com^
 ||19035924.automated.almosafer.com^
 ||19035924.email.almosafer.com^
@@ -13734,6 +13737,7 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animi2.com^
@@ -20770,6 +20774,7 @@
 ||ttse.b-cdn.net^
 ||unibotscdn.b-cdn.net^
 ||verify-human.b-cdn.net^
+||w2g-ping.b-cdn.net^
 ||webmailserver98291.b-cdn.net^
 ||winonexd.b-cdn.net^
 ||b-click.net^
@@ -32316,6 +32321,7 @@
 ||cgd-h.com^
 ||cgd-protecao.com^
 ||cgeckmydirect.biz^
+||cggyyi.xyz^
 ||ad.cgi.cz^
 ||cgigc.com.cn^
 ||info.cgjordaninsurance.com^
@@ -32956,6 +32962,7 @@
 ||chitsnooked.com^
 ||clc.chiuhua.com.cn^
 ||chivalrouscord.com^
+||chiwaiwhor.xyz^
 ||chixingkeji.com^
 ||www.chiyih.com^
 ||a8.chiyo-moni.com^
@@ -44809,6 +44816,7 @@
 ||im.etr.im^
 ||im2.etr.im^
 ||jabber.etr.im^
+||etroytj33.fun^
 ||ets-2-mod.ru^
 ||smetrics.ets.org^
 ||ablink.email.etsy.com^
@@ -48158,6 +48166,7 @@
 ||data-1fbcf6d7f5.franken-gedenkt.de^
 ||data-1fbcf6d7f5.frankenpost.de^
 ||stats.frankfurterneuepresse.de^
+||frankgreenauonline.shop^
 ||samc.frankly.ch^
 ||tp.frankonia.com^
 ||wnyywf.frankonia.de^
@@ -50099,6 +50108,7 @@
 ||majdmw.gigasport.at^
 ||profiitsmaks-pl.gigasprofit.com^
 ||ocean.gigatron.rs^
+||mt.gigazine.net^
 ||pw.gigazine.net^
 ||giggleostentatious.com^
 ||gigsmanhowls.top^
@@ -50724,6 +50734,7 @@
 ||gonpc.com^
 ||hlreoc.gonuldensevenler.com^
 ||app.info.gonzaga.edu^
+||goobefirumaupt.net^
 ||gooblesdd.com^
 ||images.e.good2gotravelinsurance.com.au^
 ||goodadvert.ru^
@@ -60296,6 +60307,7 @@
 ||links.iopool.com^
 ||info.iowaeventscenter.com^
 ||ioxffew.com^
+||ioykmxa.icu^
 ||www.ip-route.net^
 ||ipadclaim-424ptrk.com^
 ||ipadclaim-mar0trk.com^
@@ -60558,6 +60570,7 @@
 ||h5.isnssdk.com^
 ||imapi-sg.isnssdk.com^
 ||open.isnssdk.com^
+||rtlog.isnssdk.com^
 ||notification.iso-ne.com^
 ||my.iso.com^
 ||iso100.ru^
@@ -69574,6 +69587,7 @@
 ||tigershark.moonpot.com^
 ||koala.moontells.com^
 ||arabiislamijor.mooo.info^
+||mooruptraiks.com^
 ||images.moparservice.mopar.eu^
 ||images.promo.mopar.eu^
 ||web.mailing.morawa.at^
@@ -77675,6 +77689,7 @@
 ||etracker.p3p.repl.co^
 ||p3s18f1d0.com^
 ||p3vn.co^
+||p40rlh4k.xyz^
 ||ybfahy.p448.com^
 ||p4r24.eu^
 ||p555.cc^
@@ -80929,6 +80944,7 @@
 ||pingshetrip.com^
 ||api.pingstart.com^
 ||pinion.gg^
+||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamuang.top^
 ||partner.pinkasistent.sk^
@@ -89113,6 +89129,7 @@
 ||qczx1.com^
 ||qdlyqbpzfkl.com^
 ||qdmil.com^
+||qdoeki.xyz^
 ||qdotzfy.com^
 ||stats.qdq.com^
 ||mtm.qdqmedia.com^
@@ -89438,6 +89455,7 @@
 ||quiblaxon.shop^
 ||quickcaptcha.tel^
 ||quickorange.com^
+||quiffredsear.com^
 ||quigrjlow.info^
 ||ea.quiksilver.eu^
 ||share.quin.cl^
@@ -90056,6 +90074,7 @@
 ||dc.realmadrid.com^
 ||data.fundacion.realmadrid.org^
 ||ad.realmcdn.net^
+||iot-in-logser.realme.com^
 ||iot-logser.realme.com^
 ||realmealshake.com^
 ||bdapi-ads.realmemobile.com^
@@ -99059,6 +99078,7 @@
 ||go.thruinc.com^
 ||mastodon.thrustcarbon.com^
 ||thrustlumpypulse.com^
+||thrzbf.xyz^
 ||rcudsw.ths-net.jp^
 ||thshopee.com^
 ||thterras.com^
@@ -99142,6 +99162,7 @@
 ||tiktokclaim.org^
 ||tiktokpanels.com^
 ||tiktokshop13.xyz^
+||log-boot.tiktokv.com^
 ||log-phx.tiktokv.com^
 ||log-va-useast2a.tiktokv.com^
 ||log16-normal.tiktokv.com^
@@ -101642,6 +101663,7 @@
 ||origin-tracking.trulia.com^
 ||smetric.trulia.com^
 ||smetrics.trulicity.com^
+||trullercurrant.com^
 ||trullyoutlet.com^
 ||trulydevotionceramic.com^
 ||trulysuitedcharges.com^
@@ -106826,6 +106848,7 @@
 ||w00tmedia.net^
 ||w0r1kw0nd1ers.cam^
 ||werbemanager.w24.at^
+||w2g-mtrx.w2g.tv^
 ||a8cv.w2solution.co.jp^
 ||340e2a02.w3coworking.com.br^
 ||a58e62f8.w3coworking.com.br^
@@ -109095,6 +109118,7 @@
 ||inencr.woodhouseclothing.com^
 ||capi.woodhousespas.com^
 ||arphzc.woodica.pl^
+||woodieababua.com^
 ||woodiessnirl.digital^
 ||rdwwke.woodlanddirect.com^
 ||woodlandsmonthlyelated.com^
