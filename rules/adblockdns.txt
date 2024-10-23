@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241023162355
-! Last modified: 2024/10/23 16:23:55
-! Blocked domains: 121218
+! Version: 20241024002241
+! Last modified: 2024/10/24 00:22:41
+! Blocked domains: 121241
 ! unBlocked domains: 12
 !
 ||fametech-8489462541.04dyg7jir.info^
@@ -589,6 +589,7 @@
 ||130gelh8q.de^
 ||1310530397.rsc.cdn77.org^
 ||131377.com^
+||1323818756.rsc.cdn77.org^
 ||132dfd.cc^
 ||133u.com^
 ||133uu.com^
@@ -619,6 +620,7 @@
 ||1437953666.rsc.cdn77.org^
 ||143betorspin.com^
 ||www.143nchrtl3.com^
+||1446023384.rsc.cdn77.org^
 ||b73b66d5e6.144a0bcf96.com^
 ||146betorspin.com^
 ||147d72d01e.com^
@@ -19967,6 +19969,7 @@
 ||birdtogether.com^
 ||birglucy.xyz^
 ||stats.birgun.net^
+||birleeris.com^
 ||birlerskababs.com^
 ||links.emails.birminghammidshires.co.uk^
 ||biroads.com^
@@ -27425,6 +27428,7 @@
 ||new9645.cetusinvestmentsbtc.com^
 ||analytics.ceu.com^
 ||cewghana.com^
+||cexofira.com^
 ||cexucetum.com^
 ||www.cexxd.com^
 ||xow.ceykocv.shop^
@@ -27912,6 +27916,7 @@
 ||cheebetoops.com^
 ||cheebilaix.com^
 ||cheecmou.com^
+||cheedroumsoaphu.net^
 ||cheekysleepyreproof.com^
 ||cn4.cheemsporn.com^
 ||mail.cheepwebb.com^
@@ -42411,6 +42416,7 @@
 ||elabs5.com^
 ||elabs6.com^
 ||elabs7.com^
+||eladove.com^
 ||eladproperties.com^
 ||elainasblog.xyz^
 ||metrics.elal.com^
@@ -53419,6 +53425,7 @@
 ||msweb-protocol-info.gjkptfl.cn^
 ||gjonfartyb.com^
 ||gjrhqyc.com^
+||gjskjzejk.com^
 ||gjtech.net^
 ||gjwos.org^
 ||gk-casino.online^
@@ -60923,6 +60930,7 @@
 ||hybridnetworks.com.ng^
 ||hybridsbatteryworld.com^
 ||tr.communication.hybrigenics.com^
+||hybubehxmv.com^
 ||hycantyoubelik.com^
 ||hyccwzj.com^
 ||hycmcapitalmarkets.com^
@@ -66837,6 +66845,7 @@
 ||link.jig.space^
 ||pro.jig.space^
 ||jigavlogs.com^
+||jiggleowk.com^
 ||jighucme.com^
 ||jigsawchristianlive.com^
 ||jigsawthirsty.com^
@@ -68479,6 +68488,7 @@
 ||data-a351401692.kachelmannwetter.com^
 ||kaciekace.blogspot.com^
 ||xz.kack4lio.ru.com^
+||kacukrunitsoo.net^
 ||kadak.jp^
 ||kadam.net^
 ||kadam.ru^
@@ -84200,6 +84210,7 @@
 ||nhbusinessdaily.com^
 ||nhdave.net^
 ||nheappyrincen.info^
+||nhgpidvhdzm.vip^
 ||smetrics.nhhealthyfamilies.com^
 ||goat1.nhimmeo.cf^
 ||adsgo.nhipcaudautu.vn^
@@ -86275,6 +86286,7 @@
 ||olink.ai^
 ||lnpost.olipun.lol^
 ||olitoryhunter.com^
+||olivecough.com^
 ||olivefail.com^
 ||metric.olivegarden.com^
 ||rychu55.olivergrzegorz.pl^
@@ -87405,6 +87417,7 @@
 ||oqnjfotketk.com^
 ||oqqwrjanxy.com^
 ||oqsttfy.com^
+||oquftwsabsep.xyz^
 ||qnbskk.oqvestir.com.br^
 ||oqvzndovoug.com^
 ||or-oil.online^
@@ -89800,6 +89813,7 @@
 ||peskyresistamaze.com^
 ||pessim.trade^
 ||pesterclinkaltogether.com^
+||pesterolive.com^
 ||affiliate.pesvbyte.cz^
 ||pet2find.com^
 ||news.petage.com^
@@ -89949,6 +89963,7 @@
 ||testdomain.pg.com^
 ||uatpamperstestdomain.pg.com^
 ||vydelavejtesnami.pg.cz^
+||pg2bk.icu^
 ||pgalvaoteles.pt^
 ||pgammedia.com^
 ||returnpath2.pgaofamericagolf.com^
@@ -97776,6 +97791,7 @@
 ||cdn.qc24h.com^
 ||qc789.vip^
 ||qccoccocmedia.vn^
+||qcerujcajnme.com^
 ||qchannel04.cn^
 ||qcjod51vy.top^
 ||qcjslm.com^
@@ -102554,6 +102570,7 @@
 ||news.salonpiscineparis.com^
 ||news.salonreeduca.com^
 ||u.salony.com^
+||retail-client-events-service.internal.salsify.com^
 ||salsjn.wixsite.com^
 ||salspizzawilliamsburg.com^
 ||saltbistroandcafe.com^
@@ -109259,6 +109276,7 @@
 ||swoopanalytics.com^
 ||swoopanomalousgardener.com^
 ||swoopkennethsly.com^
+||swopsalane.com^
 ||sworatio.co^
 ||swordanatomy.com^
 ||swordbloatgranny.com^
@@ -114549,6 +114567,7 @@
 ||updateadvancedgreatlytheproduct.vip^
 ||c8d.upde.cc^
 ||upfiles.eu^
+||upgoawqlghwh.com^
 ||upgulpinon.com^
 ||sms.uphabit.com^
 ||eblastengine.upickem.net^
@@ -114997,6 +115016,7 @@
 ||utopia-privacy.com^
 ||utoxybknuxcc.com^
 ||utpxddtc.cfd^
+||utrdiwdcmhrfon.com^
 ||utrellpark.com^
 ||utrlcbyh.cfd^
 ||lizard.utropia.es^
@@ -117878,6 +117898,7 @@
 ||whereuponcomicsraft.com^
 ||wherunee.com^
 ||track.whervice.com^
+||whhasymvi.com^
 ||syndication.whibd.com^
 ||syndication.whibp.com^
 ||whilieesrogs.top^
@@ -118556,6 +118577,7 @@
 ||woodejou.net^
 ||woodhenmils.com^
 ||arphzc.woodica.pl^
+||woodlandanyone.com^
 ||woodlandsmonthlyelated.com^
 ||woodlandsprout826.sbs^
 ||woodlandwalks.xyz^
@@ -119178,6 +119200,7 @@
 ||xasukae.xyz^
 ||xatech.com^
 ||xavaghakfjaiklgjalewag.com^
+||xavitithnga.buzz^
 ||xaxoro.com^
 ||xaxrtiahkft.com^
 ||js1.xbaixing.com^
