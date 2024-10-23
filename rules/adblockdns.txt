@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241023002316
-! Last modified: 2024/10/23 00:23:16
-! Blocked domains: 183445
+! Version: 20241023092021
+! Last modified: 2024/10/23 09:20:21
+! Blocked domains: 183470
 ! unBlocked domains: 50
 !
 ||00186.shop^
@@ -2533,6 +2533,7 @@
 ||property.472782.bid^
 ||47296536.xyz^
 ||4736.in^
+||47415889.xyz^
 ||5e7c26314c.474b0fa000.com^
 ||www.476601.com^
 ||booking.47845-confirm.com^
@@ -18159,6 +18160,7 @@
 ||affil.atan.cz^
 ||atanorithom.com^
 ||atapgogreen.com^
+||atardrushim.com^
 ||atas.io^
 ||atashows.com^
 ||rowsrm.atasunoptik.com.tr^
@@ -21825,7 +21827,6 @@
 ||somni.banzel.com^
 ||ads.baoangiang.com.vn^
 ||adv.baoangiang.com.vn^
-||baobabsruesome.com^
 ||ads.baobinhduong.vn^
 ||ads.baobinhthuan.com.vn^
 ||ads.baocantho.com.vn^
@@ -30750,6 +30751,7 @@
 ||client.botchk.net^
 ||botdetector.ru^
 ||ens.bote.ch^
+||botelpu.com^
 ||reklama.botevgrad.com^
 ||botfaqtor.ru^
 ||web-analytics.botgenes.org^
@@ -33626,6 +33628,7 @@
 ||cablepaddle.com^
 ||som.cablestogo.co.uk^
 ||cabombaskopets.life^
+||cabreminyan.com^
 ||cabusinessdaily.com^
 ||cac6d.top^
 ||cacaca123.cc^
@@ -37750,6 +37753,7 @@
 ||choagrie.com^
 ||choakalsimen.com^
 ||choakaucmomt.com^
+||choalsegroa.xyz^
 ||choamikr.com^
 ||choang.fun^
 ||choang.tv^
@@ -51521,6 +51525,7 @@
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dn3y71tq7jf07.cloudfront.net^
 ||dn6rwwtxa647p.cloudfront.net^
+||dn7u3i0t165w2.cloudfront.net^
 ||dn9.biz^
 ||dn9uzzhcwc0ya.cloudfront.net^
 ||dna-sklad.ru^
@@ -54160,7 +54165,6 @@
 ||ms.dzen.ru^
 ||dzfzfv.xyz^
 ||dzgg.com^
-||ima.dzgsm.com^
 ||dzgwautxzdtn9.cloudfront.net^
 ||dzhzp0zlnyoe8.cloudfront.net^
 ||dzialamyodrazu.rest^
@@ -57749,6 +57753,7 @@
 ||tr.communication.enkiapp.io^
 ||tr.mep.enkiapp.io^
 ||tr.news.enkiapp.io^
+||enkvum.xyz^
 ||beetle.enlacepermanente.es^
 ||enlales.com^
 ||enlargementerroronerous.com^
@@ -61939,6 +61944,7 @@
 ||fashiongleam.cam^
 ||fashionhight.com^
 ||jldtlh.fashionnova.com^
+||ldpsh.fashionnova.com^
 ||fashionograf.com^
 ||mchtna.fashionplus.co.kr^
 ||fashionpulse.cam^
@@ -75619,6 +75625,7 @@
 ||dm.haojuzi.net^
 ||bd.haomagujia.com^
 ||haoora.com^
+||2.haory.cn^
 ||by.haory.cn^
 ||mbrowser.news.haosou.com^
 ||haowei.me^
@@ -76466,6 +76473,7 @@
 ||go.healthallowancecentre.com^
 ||track.healthandharmony1.com^
 ||healthandsnacks.com^
+||mob2.healthapplines.com^
 ||link.healthbank.io^
 ||clk.healthbestchoice.org^
 ||get.healthbestoffers.site^
@@ -77179,7 +77187,6 @@
 ||hercockremarke.info^
 ||better.herculesrx.com^
 ||hercuthlon.com^
-||www.hercvlesconcrete.com^
 ||herdailylife.com^
 ||herdethi.net^
 ||herdintwillelitt.com^
@@ -82834,6 +82841,7 @@
 ||imcod.net^
 ||imcounting.com^
 ||go.imd.org^
+||metrics.imdb.com^
 ||imdbwatch.com^
 ||imdn.pics^
 ||communication.imec.be^
@@ -92941,6 +92949,7 @@
 ||keepsociety.com^
 ||keepsosto.com^
 ||analytics.keepstreams.com^
+||servo-report.keepstreams.com^
 ||go.keeptruckin.com^
 ||getapp.keepy.me^
 ||secure.keet1liod.com^
@@ -93203,6 +93212,7 @@
 ||kevinschartner.com^
 ||kevinsmithson.com^
 ||kevinsnow.online^
+||kewal.shop^
 ||rusekgrzegorz.kewinkamil.nieruchomosci.pl^
 ||kexarvamr.com^
 ||kexihao.xyz^
@@ -106565,6 +106575,7 @@
 ||pixel.meteora.us^
 ||meteorclashbailey.com^
 ||meteordentproposal.com^
+||cmp.meteored.com^
 ||meteorsolutions.com^
 ||compare.meteoservice.ru^
 ||lrhyty.meteovista.be^
@@ -109565,6 +109576,7 @@
 ||coviyr.modafurnishings.co.uk^
 ||jswlpe.modainpelle.com^
 ||marketing.modalife.com^
+||modalsaya.xyz^
 ||modamotyl.com^
 ||www.modani.com^
 ||modastro.ee^
@@ -110578,6 +110590,7 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||mosspf.com^
+||adx.mossru.com^
 ||mossypinebush903.sbs^
 ||lnk.most-days.com^
 ||mostauthor.com^
@@ -112245,6 +112258,7 @@
 ||my-promo7.com^
 ||my-ranking.de^
 ||my-rewardsvault.com^
+||my-rudderjolly.com^
 ||my-smbccard.tokyo^
 ||my-softbank-jp.com^
 ||my-soup-blink.com^
@@ -114315,7 +114329,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -115720,6 +115733,7 @@
 ||news-capufu.com^
 ||news-caxxar.site^
 ||news-caxxar.store^
+||news-cdn.site^
 ||news-center.biz^
 ||news-center.fun^
 ||news-center.shop^
@@ -119394,6 +119408,7 @@
 ||moose.octo.app^
 ||octoads.shop^
 ||octobergypsydeny.com^
+||octoberrates.com^
 ||octobird.com^
 ||octolinkcom.me^
 ||octomarket.com^
@@ -127569,6 +127584,7 @@
 ||placeofentertainment.org^
 ||placeoff.ru^
 ||placeplay.com^
+||placetobeforever.com^
 ||placidactivity.com^
 ||placidocn.com^
 ||placidperson.com^
@@ -130683,6 +130699,7 @@
 ||presentimentguestmetaphor.com^
 ||mysunrise-ch.preservacontabilidade.com.br^
 ||preservealso.com^
+||preservedresentful.com^
 ||offers.preservegold.com^
 ||presetrabbits.com^
 ||presidecookeddictum.com^
@@ -135981,6 +135998,7 @@
 ||qq167.com^
 ||qq188.com^
 ||qq288.com^
+||qq288cm1.com^
 ||qq628.live^
 ||qq86tbqodk.ru^
 ||www.qq8788.net^
@@ -137997,6 +138015,7 @@
 ||rdwmct.com^
 ||pokemon-vip.rdx.pl^
 ||rdxmjgp.com^
+||rdxqbp.xyz^
 ||secure.checkout.re-brand-de.com^
 ||secure.checkout.re-brand-fi.com^
 ||re-captha-version-3-243.buzz^
@@ -139836,7 +139855,7 @@
 ||form.respondi.app^
 ||respondunexpectedalimony.com^
 ||go.respondus.com^
-||ad.responsad1.space^
+||responsad1.space^
 ||olx.response-200.shop^
 ||marketing.responsepoint.com^
 ||responserver.com^
@@ -144037,6 +144056,7 @@
 ||vinted-pl-gj32d.sangbi.top^
 ||active.sangfor.com^
 ||tech.sangfor.com^
+||sanggauchelys.shop^
 ||sanggilregard.com^
 ||sanglah.com^
 ||sangleysoldo.com^
@@ -149790,6 +149810,7 @@
 ||gtm.skrz.cz^
 ||hit.skrz.cz^
 ||sks.com^
+||sksbgm.xyz^
 ||sksds.pages.dev^
 ||sksingh4bjp.com^
 ||sksolutionss.in^
@@ -152598,6 +152619,7 @@
 ||spawngrant.com^
 ||track.spaxads.com^
 ||spazbotstudios.com^
+||www.spaziotempo.info^
 ||spb-plitka.ru^
 ||spb-scenar.ru^
 ||marketing.spbatpa.org^
@@ -155439,7 +155461,6 @@
 ||stripchat.com^
 ||creative.stripchat.global^
 ||ycjhuh.stripe-club.com^
-||m.stripe.com^
 ||r.stripe.com^
 ||stripedbat.com^
 ||stripedonerous.com^
@@ -158723,6 +158744,7 @@
 ||taqueriajalapenos.com^
 ||tar-nama.com^
 ||www.tara-medium.com^
+||tarafnagging.com^
 ||tarbend.online^
 ||metrics.tarceva.com^
 ||smetrics.tarceva.com^
@@ -163667,6 +163689,7 @@
 ||tipforcefulmeow.com^
 ||tipico.com^
 ||tipicool.com^
+||tipitspart.com^
 ||tipjamdavwygxm.com^
 ||media.tipjunkie.com^
 ||tipkeomoingay.club^
@@ -168606,6 +168629,7 @@
 ||twopence.live^
 ||tworinformacyjny.click^
 ||914cada338608c3880ae86686ee2e6ee.twospx.pl^
+||twoter.info^
 ||twoubleerdo.pro^
 ||twovqti.com^
 ||twowife.com^
@@ -179803,6 +179827,7 @@
 ||yatrk.xyz^
 ||ojmxro.yatsan.com^
 ||yaudience.com^
+||yaupingbought.com^
 ||yautube.com^
 ||yavapainews.com^
 ||yavli.com^
