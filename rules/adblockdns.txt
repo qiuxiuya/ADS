@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241025162327
-! Last modified: 2024/10/25 16:23:27
-! Blocked domains: 110476
+! Version: 20241026002236
+! Last modified: 2024/10/26 00:22:36
+! Blocked domains: 110482
 ! unBlocked domains: 19
 !
 ||0-0.fr^
@@ -40048,6 +40048,7 @@
 ||dsdsa-9zy.pages.dev^
 ||dsghhbqey6ytg.cloudfront.net^
 ||vinted-pl-gj32d.dsgl8.top^
+||dsikpuv.icu^
 ||dsj66.cn^
 ||dsk-financial.com^
 ||ad.dslr-forum.de^
@@ -41676,6 +41677,7 @@
 ||ee8802.com^
 ||ee8803.com^
 ||b.eeaach.com^
+||eeaczcf.icu^
 ||eealv.info^
 ||eecheweegru.com^
 ||eechicha.com^
@@ -67441,6 +67443,7 @@
 ||lakhlan.com^
 ||www.laksjd4.com^
 ||lakusdvroa.com^
+||lalabaos1025.top^
 ||a8.lalala-clean.com^
 ||lalapush.com^
 ||info.laley.es^
@@ -108156,6 +108159,7 @@
 ||worthwhileawe.com^
 ||woudaufe.net^
 ||woufour.xyz^
+||wouvxlie.top^
 ||acl.wowma.jp^
 ||marketing.wowrack.com^
 ||bsxmuny.wp.pl^
@@ -108610,6 +108614,7 @@
 ||xhictk.com^
 ||xhit.com^
 ||xhivjkfghj.com^
+||xhm.pub^
 ||xhmnbvn.com^
 ||xhnedvpcml.com^
 ||xhnvgdkw.xyz^
@@ -109143,6 +109148,7 @@
 ||www.yclawcollegepune.org^
 ||yclhwh.com^
 ||ycmgeb.icu^
+||ycq.cab^
 ||yctszpyse.top^
 ||ycuhky.xyz^
 ||yd88c.com^
