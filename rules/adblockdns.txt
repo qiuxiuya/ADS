@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241026162101
-! Last modified: 2024/10/26 16:21:01
-! Blocked domains: 97470
+! Version: 20241027002039
+! Last modified: 2024/10/27 00:20:39
+! Blocked domains: 97473
 ! unBlocked domains: 32
 !
 ||0-0.fr^
@@ -1859,6 +1859,7 @@
 ||8890.335678.club^
 ||analytic.337.com^
 ||33848102.xyz^
+||33862684.xyz^
 ||338kbet.com^
 ||339.cn^
 ||3393.com^
@@ -67700,6 +67701,7 @@
 ||opticflash.com^
 ||optidl.com^
 ||optimaconsulting.com.au^
+||optimads.info^
 ||optimatic.com^
 ||optimeeze.appspot.com^
 ||def1.optimhome-recrutement.com^
@@ -87438,6 +87440,7 @@
 ||toutiao.xn--fiqs8s^
 ||toutlesgenerateurs.com^
 ||toutpourmonjardin.com^
+||touvxlii.top^
 ||touzia.xyz^
 ||touzoaty.net^
 ||tovery.net^
