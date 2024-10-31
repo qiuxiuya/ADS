@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241031162114
-! Last modified: 2024/10/31 16:21:14
-! Blocked domains: 103906
+! Version: 20241101002319
+! Last modified: 2024/11/01 00:23:19
+! Blocked domains: 103929
 ! unBlocked domains: 7
 !
 ||0-0.fr^
@@ -730,6 +730,7 @@
 ||166f.com^
 ||1675450967.rsc.cdn77.org^
 ||1680660.com^
+||1686385128.rsc.cdn77.org^
 ||cui.m.1688.com^
 ||dcms.1688.com^
 ||dmtracking.1688.com^
@@ -835,6 +836,7 @@
 ||19093.jp^
 ||sl.1910genetics.com^
 ||19199675.xyz^
+||1937343605.rsc.cdn77.org^
 ||19515bia.de^
 ||tracking.196189.com^
 ||19706903.xyz^
@@ -5489,6 +5491,7 @@
 ||acceptimpatient.com^
 ||acceptlnterac-email-transfer-online-2fasecure.com^
 ||acceptthispodcast.com^
+||acceptvigorously.com^
 ||acces-direct.net^
 ||tool.acces-vod.com^
 ||accesoplugin.com^
@@ -6868,6 +6871,7 @@
 ||adgroups.com^
 ||api.adgrowth.jp^
 ||adgtracker.com^
+||adgzfujunv.com^
 ||gondola.adh-ukon.com^
 ||adhai.com^
 ||adhaia.com^
@@ -27425,6 +27429,7 @@
 ||affil.bruderland.cz^
 ||brudnemysli.click^
 ||brudnyromans.com^
+||brughsasha.shop^
 ||bruh-moment.com^
 ||bruisebaseball.com^
 ||bruisedlungmisuse.com^
@@ -30735,6 +30740,7 @@
 ||info.citymarketingamersfoort.nl^
 ||oms.citynews.ca^
 ||ad.citynews.it^
+||dmp.citynews.ovh^
 ||control.cityofcairns.com^
 ||citypaketet.se^
 ||cityparkhotelandresidence.com^
@@ -34346,6 +34352,7 @@
 ||target.danmurphys.com.au^
 ||yyqlpi.danmusikk.no^
 ||39cbfb927.danrothery.com^
+||dansimseng.xyz^
 ||p1.danskebank.co.uk^
 ||p2.danskebank.co.uk^
 ||p1.danskebank.dk^
@@ -34917,6 +34924,7 @@
 ||deiso.net^
 ||deitynosebleed.com^
 ||deja.com^
+||dejjjdbifojmi.com^
 ||dejoyaux.fr^
 ||statse.deka-etf.de^
 ||statse-omtrdc.deka.de^
@@ -42102,6 +42110,7 @@
 ||ec7c66fef979e79d2a1b99ea1b9a868c.fjao.pl^
 ||f206b417e95ecbe5ef7cc47314c819fb.fjao.pl^
 ||fjaqxtszakk.com^
+||fjbtkrfay.com^
 ||fjdiscounts.store^
 ||fywfld.fjellsport.no^
 ||fjgw.net^
@@ -47919,6 +47928,7 @@
 ||gomtdatacom.xyz^
 ||adw.gomtv.com^
 ||ana.gomtv.com^
+||gonakedowing.com^
 ||goncoufkfh.com^
 ||gondolagnome.com^
 ||goneawaytogy.info^
@@ -57418,6 +57428,7 @@
 ||go.jbihairtrk.com^
 ||bee.jbkmobiledj.com^
 ||ftmsyy.jbl.com.br^
+||jblkvlyurssx.xyz^
 ||jbmnc.com^
 ||rt.jbnaturals.com^
 ||jbnonline.com.br^
@@ -61491,6 +61502,7 @@
 ||go.kotterinc.com^
 ||kotzzdwl.com^
 ||koubi.jp^
+||koublid.top^
 ||kouceeptait.com^
 ||kouclo.com^
 ||koudaiyundong.com^
@@ -66829,6 +66841,7 @@
 ||majestyafterwardprudent.com^
 ||majestybrightennext.com^
 ||majiainc.com^
+||majime-site-rk.com^
 ||major-video.click^
 ||majorbet.net^
 ||majorcharacter.com^
@@ -67806,6 +67819,7 @@
 ||ressources.mavoiturecash.fr^
 ||tr.info.mavoiturecash.fr^
 ||mawitan.shop^
+||mawkggrbhsknuw.com^
 ||mawlaybob.com^
 ||max-adserv.com^
 ||tracking.max-stg.co.il^
@@ -73462,6 +73476,7 @@
 ||neverthelessdepression.com^
 ||go.neverware.com^
 ||nevillepreserved.com^
+||new-access802.net^
 ||new-adtest.pages.dev^
 ||new-assessment.online^
 ||new-bigpenn.com^
@@ -74203,6 +74218,7 @@
 ||nnowa.com^
 ||nnrbyty.xyz^
 ||nnvjbb.xyz^
+||nnxfiqgqdsoywwa.com^
 ||www2goonline-bnpparibas-pl.no-no.es^
 ||no2veeamggaseber.com^
 ||noaderir.com^
@@ -78238,6 +78254,7 @@
 ||pbvdlb.xyz^
 ||pbxcloudeservices.com^
 ||pbxphonenetwork.com^
+||pbyfdgnh.com^
 ||pc-agency24.de^
 ||pc-tc.s3-eu-west-1.amazonaws.com^
 ||pc1ads.com^
@@ -78657,6 +78674,7 @@
 ||permanentlyvulture.com^
 ||permissionarriveinsert.com^
 ||perper.ru^
+||perpetraterummage.com^
 ||perpetualpail.com^
 ||perrigogames.com^
 ||perryvolleyball.com^
@@ -84270,6 +84288,7 @@
 ||quizzity.shop^
 ||quizzstar.com^
 ||qujishu.com^
+||qujptcqr.com^
 ||qumagee.com^
 ||qumasai.io^
 ||qummafsivff.com^
@@ -89061,6 +89080,7 @@
 ||shtormmall.xyz^
 ||shubheducation.com^
 ||shudderloverparties.com^
+||shudoufunguptie.net^
 ||shuffele.com^
 ||shugraithou.com^
 ||umini.shujupie.com^
@@ -90847,6 +90867,7 @@
 ||cname-aa.staffservice-engineering.jp^
 ||tracking.stageandscreen.travel^
 ||stagepopkek.com^
+||stagerydialing.shop^
 ||staggeredowner.com^
 ||staggeredplan.com^
 ||staggeredquelldressed.com^
@@ -99243,6 +99264,7 @@
 ||feltd.viralspotlight.com^
 ||lcend.viralspotlight.com^
 ||virapulses.com^
+||virgalocust.shop^
 ||metrics.virginatlantic.com^
 ||nanalytics.virginaustralia.com^
 ||smetrics.virginaustralia.com^
@@ -103005,6 +103027,7 @@
 ||t.yojed.com^
 ||te.yomonda.de^
 ||yondleli.shop^
+||yonemoku.rdy.jp^
 ||adplus.yonhapnews.co.kr^
 ||yonmasqueraina.com^
 ||yonminuner.com^
