@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241101002319
-! Last modified: 2024/11/01 00:23:19
-! Blocked domains: 103929
+! Version: 20241101092655
+! Last modified: 2024/11/01 09:26:55
+! Blocked domains: 103947
 ! unBlocked domains: 7
 !
 ||0-0.fr^
@@ -19506,6 +19506,7 @@
 ||popcashjs.b-cdn.net^
 ||predataclient.b-cdn.net^
 ||propsid.b-cdn.net^
+||psh-static.b-cdn.net^
 ||pub-1kerwcwkwrmjg5ak9zyejlverqmsxjoyjh.b-cdn.net^
 ||pushlandings.b-cdn.net^
 ||sp-wukong-tracker.b-cdn.net^
@@ -30077,6 +30078,7 @@
 ||cf688.club^
 ||cf68club.com^
 ||cf68club.net^
+||7b53efdf4e.cf97134c89.com^
 ||smetrics.cfainstitute.org^
 ||cfds-trader.com^
 ||cfebliqui.com^
@@ -33376,6 +33378,7 @@
 ||z492.ctinsider.com^
 ||ctiotjobkfu.com^
 ||ctkyom.xyz^
+||ctlacnh.icu^
 ||ctlrarz.xyz^
 ||ctmrso.xyz^
 ||ctnetwork.hu^
@@ -39372,6 +39375,7 @@
 ||478789.everydayporn.co^
 ||61serve.everydayporn.co^
 ||s.everydayporn.co^
+||a.everymark.xyz^
 ||static.everyone.net^
 ||everyoneawokeparable.com^
 ||everyoneglamorous.com^
@@ -45687,6 +45691,7 @@
 ||g33tr4c3r.com^
 ||g371.info^
 ||g4news.biz^
+||g4y7uuk.com^
 ||g52bxi1v1w.com^
 ||cdn.g5e.com^
 ||ceg.g5e.com^
@@ -48024,6 +48029,7 @@
 ||goodstriangle.com^
 ||affiliates.goodvibes.com^
 ||goodvibesmatterforus.com^
+||a.goodweet.xyz^
 ||goody-gold.com^
 ||goodyearazrealtor.com^
 ||goodyhitherto.com^
@@ -48384,6 +48390,7 @@
 ||tracking.graduateschool.edu^
 ||www.training.graduateschool.edu^
 ||go.gradwell.com^
+||graesol.com^
 ||graettingerlaw.com^
 ||atgt.grafana.com^
 ||satgt.grafana.com^
@@ -49806,6 +49813,7 @@
 ||habukaiambics.com^
 ||habutaeirisate.com^
 ||hacdeg.com^
+||haceroberomaste.com^
 ||images.newsletter.hach.com.cn^
 ||asp.hachipp119.com^
 ||hack-download.com^
@@ -56497,6 +56505,7 @@
 ||aa.irvinecompanyoffice.com^
 ||irvingnovas.com^
 ||marketing.irvingtexas.com^
+||irxybq.com^
 ||kcvwuw.iryouworker.com^
 ||is-a-personaltrainer.com^
 ||faksowy.is-best.net^
@@ -60834,7 +60843,6 @@
 ||kjaerra.no^
 ||kjayru.com^
 ||kjbbc.net^
-||kjcafatfgwpggu.xyz^
 ||wws.atendimento-prime.com.br.kje.us^
 ||kjeqga.xyz^
 ||kjgb11.com^
@@ -69514,6 +69522,7 @@
 ||mischief.cfd^
 ||mischiefrealizationbraces.com^
 ||miscreantmoon.com^
+||a.misctool.xyz^
 ||vagolysis.misdoers.site^
 ||eniorcxcaqomm.misecure.com^
 ||traceparcel-dhlupdate-dh.misecure.com^
@@ -72822,11 +72831,15 @@
 ||kr-col-ext.nelo.navercorp.com^
 ||navi.limited^
 ||navi10.com^
+||navi11.ru^
+||navi15.ru^
+||navi20.com^
 ||navi24.com^
 ||navi30.ru^
 ||navi32.com^
 ||navi35.ru^
 ||navi38.ru^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -83910,6 +83923,7 @@
 ||qfoxgi.com^
 ||qgevavwyafjf.com^
 ||qgexkmi.com^
+||qgmwby.com^
 ||sdk.api.qgraph.io^
 ||qgxbluhsgad.com^
 ||qh217.com^
@@ -83936,6 +83950,7 @@
 ||vinted-polska-rr124.qikeut.top^
 ||virted-pl-fi551.qikeut.top^
 ||sdk.qikify.com^
+||black.qimo.ink^
 ||qinghua.cc^
 ||qingolor.com^
 ||adlaunch.qingting.fm^
@@ -84516,6 +84531,7 @@
 ||ragnolopi.net^
 ||ragwviw.com^
 ||raialivre.com.br^
+||raiffeisenmining.com^
 ||raikeurope.com^
 ||dc.railgun.works^
 ||railroadfatherenlargement.com^
@@ -102365,6 +102381,7 @@
 ||xfypower.com^
 ||xg-jbpmnru.online^
 ||analytics.xgate.com^
+||xggcyef.icu^
 ||xgogi.com^
 ||rtb-3.xgroovy.com^
 ||collector.xhamster.com^
@@ -102464,6 +102481,7 @@
 ||v.xjsytoy.com^
 ||ndyjs.xjtu.edu.cn^
 ||www.xjwrq.com^
+||xjwzbo.com^
 ||xkacs5av.xyz^
 ||xkejsns.com^
 ||xkobeimparatu.net^
