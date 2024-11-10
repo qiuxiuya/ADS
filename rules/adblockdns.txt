@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241110002009
-! Last modified: 2024/11/10 00:20:09
-! Blocked domains: 103716
+! Version: 20241110092418
+! Last modified: 2024/11/10 09:24:18
+! Blocked domains: 103725
 ! unBlocked domains: 13
 !
 ||assistancehelp-snapchat-account.000.pe^
@@ -6733,7 +6733,6 @@
 ||addonsmash.com^
 ||addoor.net^
 ||addotnet.com^
-||addr.cx^
 ||data-06d20d5dfa.addradio.de^
 ||data-3bf5bac5c5.addradio.de^
 ||data-4ce33a993b.addradio.de^
@@ -10616,6 +10615,7 @@
 ||get.aivatar.co^
 ||aivaylaco.com^
 ||a8cv.online.aivil.jp^
+||lcd.aivote.com^
 ||ro.aiwan4399.com^
 ||aiwanma99.com^
 ||aiwealthwizard.pro^
@@ -34388,6 +34388,7 @@
 ||correopista.com^
 ||correors.my^
 ||correos-app.help^
+||correos-app.link^
 ||correos-cr.art^
 ||correos-es.club^
 ||correos-es.my^
@@ -66344,6 +66345,7 @@
 ||jvz8.com^
 ||jvzoupeh.com^
 ||updates.jwhillcountryresort.com^
+||jwhjqjfl.icu^
 ||jwlabsolutions.com^
 ||jwmstats.com^
 ||download.jword.jp^
@@ -66944,6 +66946,7 @@
 ||kdropsusaoriginal.com^
 ||kdsahkln.xyz^
 ||axp.kdvr.com^
+||kdzgrvn.icu^
 ||keap.page^
 ||spider.kearneyjaycees.com^
 ||keasomz.shop^
@@ -77580,6 +77583,7 @@
 ||navi33.com^
 ||navi38.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi5.com^
 ||navi56.com^
 ||navi6.com^
@@ -88865,6 +88869,7 @@
 ||roness.cc^
 ||formspark.rongviet.com.vn^
 ||www.roninbridge.app^
+||ronnoble.com^
 ||ronslik.com^
 ||rontar.com^
 ||roobbet.com^
@@ -90902,6 +90907,7 @@
 ||vicodin-store.shengen.ru^
 ||gugmlj.sherrilltree.com^
 ||sheschemetraitor.com^
+||shestieh.com^
 ||shexawhy.net^
 ||shfsdvc.com^
 ||shgansheng.cn^
@@ -92909,6 +92915,7 @@
 ||stalerestaurant.com^
 ||staleshow.com^
 ||stalkerlagunes.shop^
+||stallioncredit.com^
 ||stallsmalnutrition.com^
 ||staltoumoaze.com^
 ||stammerail.com^
@@ -95626,6 +95633,7 @@
 ||stats.thoughtcatalog.com^
 ||thoughtgraphicshoarfrost.com^
 ||go.thoughtspot.com^
+||thouptoorg.com^
 ||uste.thozkq.top^
 ||thpsot.shop^
 ||thqgxvs.com^
@@ -98209,6 +98217,7 @@
 ||get.uniquegiftideas.co^
 ||lp.uniqueperformance.site^
 ||uniquepowerbd.com^
+||uniqueshirt.shop^
 ||images.contacto.unis.edu.gt^
 ||ads.unison.bg^
 ||images.learn.unisourceworldwide.com^
