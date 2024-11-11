@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241111001926
-! Last modified: 2024/11/11 00:19:26
-! Blocked domains: 118697
+! Version: 20241111092056
+! Last modified: 2024/11/11 09:20:56
+! Blocked domains: 118721
 ! unBlocked domains: 47
 !
 ||votebright.000.pe^
@@ -19179,6 +19179,7 @@
 ||avocadot.com^
 ||avocams.com^
 ||avocarrot.com^
+||avocetriches.com^
 ||avoda-mehabait.co.il^
 ||avoidaroid.com^
 ||avoihyfziwbn.com^
@@ -30103,6 +30104,7 @@
 ||cautiouscherries.com^
 ||cautiouscrate.com^
 ||cautiouscredit.com^
+||cautiouslyanalysecrystal.com^
 ||cautismsol.com^
 ||cauvousy.net^
 ||cauyuksehink.info^
@@ -30224,6 +30226,7 @@
 ||lists.ccmbg.com^
 ||ops.ccmbg.com^
 ||sts.ccmp.eu^
+||ccobksxz.icu^
 ||ccryxqgqf.com^
 ||ccypzigf.com^
 ||cd-ads.com^
@@ -36182,6 +36185,7 @@
 ||cshugen.com^
 ||cskcnipgkq.club^
 ||cskh-dienmay-xanh.com^
+||csldbxey.com^
 ||smetrics.csmonitor.com^
 ||tracking.cspire.com^
 ||cssuvtbfeap.com^
@@ -37888,6 +37892,7 @@
 ||71ccccb47f.dcefdf0e05.com^
 ||dcfnihzg81pa.com^
 ||portal.dcgone.com^
+||dchdmhf.cn^
 ||dchlabs.com^
 ||dchxxtrxhsjnr.com^
 ||dchyjb.xyz^
@@ -39499,6 +39504,7 @@
 ||dimfarlow.com^
 ||asp.dimileeh.com^
 ||dimnessinvokecorridor.com^
+||dimpledplan.pro^
 ||dimpoaghoorg.net^
 ||dinbilgaranti.se^
 ||info.dincloud.com^
@@ -47290,6 +47296,7 @@
 ||findyourcasino.com^
 ||findyourhack.com^
 ||findyourpussy.net^
+||fine-click.pro^
 ||finednothue.com^
 ||fineest-accession.life^
 ||fineg.xyz^
@@ -55365,6 +55372,7 @@
 ||haptostate.media^
 ||hapyak.com^
 ||haqable.com^
+||haqafzlur.com^
 ||banners.haqqin.az^
 ||haqybeesoa.org^
 ||har-beacon.har.com^
@@ -57007,6 +57015,7 @@
 ||highperformancecpmnetwork.com^
 ||highperformancedformats.com^
 ||highperformancedisplayformat.com^
+||highperformanceformat.com^
 ||highperformancegate.com^
 ||marketing.highpoint.com^
 ||highpro1.com^
@@ -60508,6 +60517,7 @@
 ||ideibiznesa2015.ru^
 ||ssc.idelreal.org^
 ||ideng.com^
+||identicalprofile.com^
 ||identifierssadlypreferred.com^
 ||identifyillustration.com^
 ||smetrics.identityguard.com^
@@ -67198,6 +67208,7 @@
 ||koataigalupo.net^
 ||koazowapsib.net^
 ||axjfkc.kobayashi.co.jp^
+||kobel.services^
 ||vqvuid.kobetsu.co.jp^
 ||koctstorm.info^
 ||link.admin.kodakmoments.com^
@@ -77787,6 +77798,7 @@
 ||navi-match.net^
 ||m.navi.com^
 ||navi.limited^
+||navi1.ru^
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
@@ -77802,6 +77814,7 @@
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
+||navi32.ru^
 ||navi33.com^
 ||navi35.com^
 ||navi35.ru^
@@ -77811,6 +77824,7 @@
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
+||navi5.ru^
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
@@ -78957,6 +78971,7 @@
 ||nip26.com^
 ||nip28.com^
 ||nip5.com^
+||nip76.com^
 ||nip8.com^
 ||nipcrater.com^
 ||secure.nipe4head.com^
@@ -90825,6 +90840,7 @@
 ||profitable-turkey-investments.info^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
+||profitablecpmrate.com^
 ||profitablecreativeformat.com^
 ||profitabledisplaycontent.com^
 ||profitabledisplayformat.com^
@@ -98396,6 +98412,7 @@
 ||all.rising.com.cn^
 ||risk.news^
 ||riskcontrolbase.xyz^
+||riskexcel.com^
 ||riskhector.com^
 ||risocui.com^
 ||a8clk.risou.com^
@@ -99772,6 +99789,7 @@
 ||satisfactionretirechatterbox.com^
 ||satisfactorilyfigured.com^
 ||satisfactoryhustlebands.com^
+||satisfactorymetalrub.com^
 ||satisfied-tour.pro^
 ||satisfycork.com^
 ||satlockspa.live^
@@ -100883,6 +100901,7 @@
 ||sev4ifmxa.com^
 ||matomo-dev.sevaio.xyz^
 ||sevalleytimes.com^
+||sevenbuzz.com^
 ||sevensmooon.com^
 ||sevensteel.com.tr^
 ||severelywrittenapex.com^
@@ -103074,6 +103093,7 @@
 ||sophomorelink.com^
 ||ts.sopornvideos.com^
 ||soportegira.net^
+||sopqvhe.cn^
 ||mail.sorbeadindias.com^
 ||sorceryfalda.life^
 ||sordimtaulee.com^
@@ -104013,6 +104033,7 @@
 ||stakingsmile.com^
 ||stalerestaurant.com^
 ||stalkforx.ru^
+||stallionshootimmigrant.com^
 ||stallionsmile.com^
 ||stallsmalnutrition.com^
 ||staltoumoaze.com^
@@ -104306,6 +104327,7 @@
 ||mailer243.steamerrecallsettlement.com^
 ||steamjaws.com^
 ||steamkeygiveaway.com^
+||steammcommunuty.ru^
 ||images.steamray.com^
 ||steamtestdeadlock.com^
 ||steamunlock.com^
@@ -105828,6 +105850,7 @@
 ||partner.tahnabranu.cz^
 ||tahoesup.com^
 ||tahoviecuy.org^
+||tahrsli.com^
 ||tahznx.xyz^
 ||tai-sumvip.city^
 ||tai567live.vip^
@@ -111607,6 +111630,7 @@
 ||r2r.utas.edu.au^
 ||tracking.utas.edu.au^
 ||utbusinessdaily.com^
+||utbyvyl.icu^
 ||utecsfi.com^
 ||utensils.pro^
 ||fpc.utexas.edu^
