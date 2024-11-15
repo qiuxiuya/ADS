@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241115002333
-! Last modified: 2024/11/15 00:23:33
-! Blocked domains: 184435
+! Version: 20241115092511
+! Last modified: 2024/11/15 09:25:11
+! Blocked domains: 184449
 ! unBlocked domains: 50
 !
 ||0-0.fr^
@@ -7027,6 +7027,7 @@
 ||adigi.icu^
 ||metrics.adiglobal.us^
 ||smetrics.adiglobal.us^
+||t.adii.se^
 ||adiiix.com^
 ||adiingsinspiri.org^
 ||adiingsinspiringt.com^
@@ -7806,6 +7807,7 @@
 ||adquota.com^
 ||adqva.com^
 ||region.adr-news.com^
+||fail.adr.ec^
 ||adraction.co.kr^
 ||adraftingdesk.com^
 ||adrange.net^
@@ -15871,6 +15873,7 @@
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||doh.dns.apple.com^
+||events-analytics.apple.com^
 ||iad.apple.com^
 ||iadcontent.apple.com^
 ||iadsdk.apple.com^
@@ -34389,6 +34392,7 @@
 ||championlog.com.br^
 ||trk.championpneumatic.com^
 ||marketing.championsales.com^
+||championshipcoma.com^
 ||www.championsverige.com.se^
 ||getstarted.championteamwear.com^
 ||ads.champs-elysees.com^
@@ -72559,6 +72563,7 @@
 ||gzdpae.cyou^
 ||share.gzdsw.com^
 ||gzefitkcep.com^
+||gzfsqrc.icu^
 ||gzglmoczfzf.com^
 ||gzhjjzkj.com^
 ||gzhying1.cn^
@@ -80823,6 +80828,7 @@
 ||imodel.autos^
 ||imodel360.com^
 ||go.imodules.com^
+||front-perf.imoim.net^
 ||imoneymarketingg.com^
 ||jp.imonitorsoft.com^
 ||imonomy.com^
@@ -94433,6 +94439,7 @@
 ||latamdcs.com^
 ||sanalytics.latamwbd.com^
 ||latchwaitress.com^
+||late-anxiety.com^
 ||secure.late6year.com^
 ||www.late6year.com^
 ||secure.late8chew.com^
@@ -94972,6 +94979,7 @@
 ||leancoursedesign.com^
 ||leangroupe.com^
 ||leanhtien.net^
+||plausible.leaningtech.com^
 ||c.leankun.com^
 ||invite.leanlab.co^
 ||track.leanlab.co^
@@ -97198,6 +97206,7 @@
 ||a8.liver-rhythm.jp^
 ||udr9.livera.nl^
 ||liverail.com^
+||atsod.launch.liveramp.com^
 ||livere.co.kr^
 ||livere.com^
 ||was.livere.me^
@@ -113471,6 +113480,7 @@
 ||smetrics.nexmo.com^
 ||nexo-community.com^
 ||nexoinmobiliario.pe^
+||analytics.nexon.com^
 ||nexonbet.website^
 ||nexotradex.com^
 ||images.engage.nexperia.com^
@@ -130899,6 +130909,7 @@
 ||pub-75a5f4aa70c34156a65ab11f6988b245.r2.dev^
 ||pub-76761043d7714c019b0d5b4a6d6779ff.r2.dev^
 ||pub-7a6b99614f4b41658cd677a620b18951.r2.dev^
+||pub-7a9aae2813a742e1b02d588e632e401b.r2.dev^
 ||pub-7b14dc27029b49ba92e8d0e129805add.r2.dev^
 ||pub-7b7459ddbf5441d78735b36b92441ab8.r2.dev^
 ||pub-7b7cecbb588a4e0c8282f5de2c2f39aa.r2.dev^
@@ -158960,6 +158971,7 @@
 ||thinrabbitsrape.com^
 ||tracking.thiomucase.es^
 ||thiraq.com^
+||bad.third-party.site^
 ||third-tracking.com^
 ||thirdads.me^
 ||thirdage.com^
@@ -165137,6 +165149,7 @@
 ||uaoaig.xyz^
 ||humanitiesstg.uap.asia^
 ||uapcsae.top^
+||uaqdgrfr.icu^
 ||uaqze.top^
 ||uaqzn.top^
 ||uaqzq.top^
@@ -178016,6 +178029,7 @@
 ||workon.ru^
 ||workona.com^
 ||workoperation.com^
+||analytics.workos.com^
 ||tpbankvn.workplace.com^
 ||workplacenotchperpetual.com^
 ||a8clk.www.workport.co.jp^
