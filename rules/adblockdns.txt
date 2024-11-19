@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241119162446
-! Last modified: 2024/11/19 16:24:46
-! Blocked domains: 123676
+! Version: 20241120002404
+! Last modified: 2024/11/20 00:24:04
+! Blocked domains: 123702
 ! unBlocked domains: 30
 !
 ||0-0.fr^
@@ -660,7 +660,7 @@
 ||130gelh8q.de^
 ||allegrolokalnie.13131414.shop^
 ||131377.com^
-||ca74179f92.132ffebe8c.com^
+||132ffebe8c.com^
 ||133014.cc^
 ||133u.com^
 ||133uu.com^
@@ -3772,6 +3772,7 @@
 ||9b9812f859.7a9eb57b9d.com^
 ||6fbb07e2de.7aa82805b9.com^
 ||7adpower.com^
+||7aey.icu^
 ||7airtrendy.xyz^
 ||7anfpatlo8lwmb.com^
 ||7app.top^
@@ -12385,6 +12386,7 @@
 ||alryyan.com^
 ||alsaqibgroup.com^
 ||alsawatgroups.com^
+||alsdebaticalfelixsto.org^
 ||marketing.alsearsmd.com^
 ||send1.alsearsmd.com^
 ||send2.alsearsmd.com^
@@ -13318,6 +13320,7 @@
 ||amung.us^
 ||olx.amuniokre.shop^
 ||amunx.de^
+||stats.amur.life^
 ||amused-condition.com^
 ||amused-ground.com^
 ||amusedbucket.com^
@@ -20790,6 +20793,7 @@
 ||bagelseven.com^
 ||bageltiptoe.com^
 ||baggageconservationcaught.com^
+||baghlachalked.com^
 ||baghoglitu.net^
 ||baghoorg.xyz^
 ||bagiijdjejjcficbaag.world^
@@ -31533,6 +31537,7 @@
 ||bulgaria-web-developers.com^
 ||bulgariabg.com^
 ||bulginglair.com^
+||bulgingquintet.top^
 ||bulisite.top^
 ||ads.buljobs.bg^
 ||a8cv.bulk.co.jp^
@@ -32230,6 +32235,7 @@
 ||bwvofgqhmab.com^
 ||bx-cloud.com^
 ||bxacmsvmxb.com^
+||bxbkh.love^
 ||vezsyr.bxblue.com.br^
 ||rtnl.bxcl.de^
 ||bxcreative.com^
@@ -37829,6 +37835,7 @@
 ||cmdbet.com^
 ||cmdshare.com^
 ||sync.cmedia.s3.amazonaws.com^
+||cmelr.com^
 ||cmensxx.top^
 ||metrics.cmfgroup.com^
 ||rapi.cmgadx.com^
@@ -41969,6 +41976,7 @@
 ||datawrkz.com^
 ||dataxchangeprofessional.com^
 ||dataxpand.com^
+||datazap.online^
 ||broker.datazoom.io^
 ||date-app.net^
 ||jobs.date-fns.org^
@@ -42216,6 +42224,7 @@
 ||ddlzlr.xyz^
 ||track.ddmanager.ru^
 ||ddmuiijrdvv0s.cloudfront.net^
+||ddndbjuseqi.com^
 ||epsores.ddns.cam^
 ||ddns.name^
 ||ddnslive.com^
@@ -45564,7 +45573,7 @@
 ||dressmakerdecisivesuburban.com^
 ||dressmakertumble.com^
 ||drev.biz^
-||hs.drewitecossic.com^
+||drewitecossic.com^
 ||drewtop.shop^
 ||dreyeli.info^
 ||dreylamba.wixsite.com^
@@ -48070,6 +48079,7 @@
 ||info.enduraproducts.com^
 ||enduresopens.com^
 ||endurosweekday.com^
+||endwaysdsname.com^
 ||endymehnth.info^
 ||privacy.ene.si^
 ||eneaduke.com^
@@ -53121,6 +53131,7 @@
 ||strack.f1store.formula1.com^
 ||formulamuseconnected.com^
 ||formulawire.com^
+||fornaxmetered.com^
 ||unsurlyn.fornication.website^
 ||cueohf.foroactivo.com^
 ||forooqso.tv^
@@ -54061,6 +54072,7 @@
 ||cgmbbp.fuertehoteles.com^
 ||fufrnl.xyz^
 ||fugcgfilma.com^
+||fugitiveautomaticallybottled.com^
 ||info.fuji-ki.co.jp^
 ||fujibikes.com^
 ||eoocpp.fujiidaimaru.co.jp^
@@ -57631,6 +57643,7 @@
 ||app.goccusports.com^
 ||gocheewimtie.xyz^
 ||gochnik.top^
+||goclicknext.com^
 ||filter.goclickz.net^
 ||filter-eu.goclickz.net^
 ||xml-v4.goclickz.net^
@@ -62066,6 +62079,7 @@
 ||honoursimmoderate.com^
 ||hontestmere.live^
 ||honwjjrzo.com^
+||honzoenjewel.shop^
 ||hoo1luha.com^
 ||hoodboth.com^
 ||hoodentangle.com^
@@ -62679,6 +62693,7 @@
 ||https-booking.com^
 ||httpsoldfartlifehacks.com^
 ||hturnshal.com^
+||htwjo.com^
 ||htxwzp.xyz^
 ||hty9m.cn^
 ||htyqiwzunj.com^
@@ -71545,6 +71560,7 @@
 ||jsing.net^
 ||tiz.jsite.top^
 ||ao.jsitel.com^
+||jsiygcyzrhg.club^
 ||jsks.biz^
 ||aff.jskyservices.com^
 ||analytics.jslib.win^
@@ -78749,6 +78765,7 @@
 ||smetrics.lloydslist.com^
 ||info.lloydslistintelligence.com^
 ||pages.lloydslistintelligence.com^
+||llozybovlozvk.top^
 ||llpgpro.com^
 ||a.lls.org^
 ||llyighaboveth.com^
@@ -100467,6 +100484,7 @@
 ||ryrmvd.xyz^
 ||rysheatlengthanl.xyz^
 ||ry0.rythmefm.com^
+||rytransionsco.org^
 ||jhzwle.ryuryumall.jp^
 ||ryushare.com^
 ||rywnvzd.cn^
@@ -101447,6 +101465,7 @@
 ||ads.scifi.com^
 ||adserver.sciflicks.com^
 ||go.sciforma.com^
+||scihuns.com^
 ||data-e807969afb.scinexx.de^
 ||scintillatingsilver.com^
 ||scissorsstatement.com^
@@ -103937,6 +103956,7 @@
 ||sketchinferiorunits.com^
 ||sketchyaggravation.com^
 ||sketchyrecycleimpose.com^
+||sketfarinha.shop^
 ||skidrowcrack.com^
 ||skidrowhacking.com^
 ||ads.skidspar.se^
@@ -105984,6 +106004,7 @@
 ||stronalogowania.square.site^
 ||squareforensicbones.com^
 ||marketing.squareonemea.com^
+||squarertubal.com^
 ||clanker-events.squarespace.com^
 ||events.squarespace.com^
 ||bnc.squaretrade.com^
@@ -107487,6 +107508,7 @@
 ||hfdcna.sunmountain.com^
 ||sunnestremit.com^
 ||sunnimiq.cf^
+||sunnudvelure.com^
 ||cv.sunny-store-cart.com^
 ||marketing.sunny.org^
 ||sunnysales.biz^
@@ -110667,6 +110689,7 @@
 ||jackal.thetie.io^
 ||ads.thetimes.co.uk^
 ||t.service.thetimes.co.uk^
+||pac.thetimes.com^
 ||app.thetimes.link^
 ||srepdata.thetimesherald.com^
 ||sp.thetowntalk.com^
@@ -113307,6 +113330,7 @@
 ||yiohzu.tsigs.com^
 ||smetric.tsite.jp^
 ||tsiwqtng8huauw30n.com^
+||tsjjbvbgrugs.com^
 ||tsk4.com^
 ||tsk5.com^
 ||track.tskellyclare.com^
@@ -114742,6 +114766,7 @@
 ||unleanmyrrhs.shop^
 ||unlikelymoscow.com^
 ||t.unlimitedapp.co^
+||www.unlinedmake.pro^
 ||unlitui.com^
 ||unlock-account-payp1.site^
 ||unlockads.com^
@@ -120589,6 +120614,7 @@
 ||go.worldwinner.com^
 ||wormdehydratedaeroplane.com^
 ||data-39822b659f.wormser-zeitung.de^
+||wormsunflame.com^
 ||wornshoppingenvironment.com^
 ||link.worqout.io^
 ||worriednumber.com^
