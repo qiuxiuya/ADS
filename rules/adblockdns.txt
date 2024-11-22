@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241122002359
-! Last modified: 2024/11/22 00:23:59
-! Blocked domains: 164226
+! Version: 20241122092513
+! Last modified: 2024/11/22 09:25:13
+! Blocked domains: 164233
 ! unBlocked domains: 22
 !
 ||informinfluencer.000.pe^
@@ -46269,6 +46269,7 @@
 ||cut-urls.com^
 ||cutant.date^
 ||cute-gossip.com^
+||cuteab.com^
 ||cutebaitsforum.cc^
 ||cutecams.space^
 ||cutecheapphonecases.com^
@@ -67129,7 +67130,6 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||services.freedomid.com^
 ||freedominfo.net^
@@ -88992,6 +88992,7 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||izumoukraumsew.net^
+||izuts.com^
 ||hcjpbc.j-14.com^
 ||j-a-net.jp^
 ||j-d-m.com^
@@ -98630,6 +98631,7 @@
 ||joda.leggo.it^
 ||leggymomme.top^
 ||leghairy.net^
+||legiblyosmols.top^
 ||nplden.legionathletics.com^
 ||legioncup-dev.com^
 ||egret.legislative.tech^
@@ -106208,6 +106210,7 @@
 ||marketing.medata.com^
 ||get.medbridge.com^
 ||enterprise.medbridgeed.com^
+||medbroadcast.com^
 ||medbrowse.info^
 ||marketing.medcallrx.com^
 ||medcasters.com^
@@ -122002,7 +122005,6 @@
 ||onlinehelpcenetre.com^
 ||hyfiic.onlinehirdavatci.com^
 ||cgicounter.onlinehome.de^
-||onlinehome.us^
 ||analytics.onlinehomeretail.co.uk^
 ||partneri.onlinejazyky.cz^
 ||onlinekey.biz^
@@ -122921,6 +122923,7 @@
 ||oqex.io^
 ||oqfoczdfyag.com^
 ||oqfpuzaltac.com^
+||oqipegjz.icu^
 ||oqllqea.top^
 ||oqnabsatfn.com^
 ||oqnjfotketk.com^
@@ -143999,6 +144002,7 @@
 ||sashimi.royli.dev^
 ||pixel.roymorgan.com^
 ||royrichie.com^
+||rozaholshouser.cfd^
 ||adaszymczak.rozaliaclaudia.com.pl^
 ||angelika610.rozaliaclaudia.com.pl^
 ||czesioland.rozaliaclaudia.com.pl^
@@ -156443,6 +156447,7 @@
 ||trustfolders.com^
 ||trustgauge.com^
 ||trusting-offer.com^
+||trusting-produce.com^
 ||trustleapp.com^
 ||digital.trustmark.com^
 ||trustmaxonline.com^
@@ -158580,6 +158585,7 @@
 ||data-8793ca6c7d.vereinsleben.de^
 ||data-cb62759f4c.vereinsleben.de^
 ||analytics.verfacto.com^
+||verfun.com^
 ||verggdcnjjoing.com^
 ||vergi-gwc.com^
 ||smetrics.vergoelst.de^
@@ -163755,6 +163761,7 @@
 ||link.zikto.com^
 ||zilchesmoated.com^
 ||zillafashion.com^
+||zillify.cfd^
 ||go.zillowgroup.com^
 ||zimafy.com^
 ||zimbabwecomputing.com^
