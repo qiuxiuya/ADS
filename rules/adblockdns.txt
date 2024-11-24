@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241124162143
-! Last modified: 2024/11/24 16:21:43
-! Blocked domains: 102887
+! Version: 20241125002100
+! Last modified: 2024/11/25 00:21:00
+! Blocked domains: 102891
 ! unBlocked domains: 27
 !
 ||04tips.com^
@@ -43469,6 +43469,7 @@
 ||fiestafeijoa.xyz^
 ||fiestagrandefm.com^
 ||fiestasalou.com^
+||fiezaits.com^
 ||metrics.fifa.com^
 ||fifa19.mobi^
 ||fifa19android.com^
@@ -47259,7 +47260,8 @@
 ||e.gettyimages.ae^
 ||e.gettyimages.co.nz^
 ||e.gettyimages.nl^
-||c-gtc.getui.net^
+||getui.cn^
+||getui.net^
 ||app.getvero.com^
 ||track.getvigorfix.com^
 ||getvoltbox.com^
@@ -79397,6 +79399,7 @@
 ||str.qwantumm.top^
 ||qweasd.vip^
 ||qweasdzxc142.wixsite.com^
+||qweizay.top^
 ||qwerggre.top^
 ||qwertize.com^
 ||qwesa.ru^
@@ -101483,6 +101486,7 @@
 ||yooyoos.com^
 ||yoozbit.com^
 ||yopard.com^
+||yoqqiev.top^
 ||yotafiles.com^
 ||yotefiles.com^
 ||p.yotpo.com^
