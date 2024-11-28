@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241128162543
-! Last modified: 2024/11/28 16:25:43
-! Blocked domains: 106007
+! Version: 20241129002324
+! Last modified: 2024/11/29 00:23:24
+! Blocked domains: 106019
 ! unBlocked domains: 26
 !
 ||00nf1c1ae.top^
@@ -19688,6 +19688,7 @@
 ||bmhept.xyz^
 ||bmjidc.xyz^
 ||bmlmedia.com^
+||bmmwa.info^
 ||bmougwx.icu^
 ||bmqulua.icu^
 ||smetrics.bms-io-academy.co.uk^
@@ -29275,6 +29276,10 @@
 ||cxbvnmyeruw.com^
 ||cxense.com^
 ||cxmolk.com^
+||cdn.cxpublic.com^
+||content.cxpublic.com^
+||content-thumbnail.cxpublic.com^
+||csm.cxpublic.com^
 ||cxqhh.com^
 ||cxsh.cn.com^
 ||track.msadcenter.cxtv.com^
@@ -46012,6 +46017,7 @@
 ||link.hd.io^
 ||hd2020vision.com^
 ||hd4uhub.com^
+||hdamcsu.top^
 ||hdapp1008-a.akamaihd.net^
 ||hdatssfpxrwbxs.com^
 ||hdbaichuan.cn^
@@ -54823,6 +54829,7 @@
 ||keemuhoagou.com^
 ||login.keenkale.com^
 ||rtb-uswest.keenkale.com^
+||keenmagwife.live^
 ||ad.keenspace.com^
 ||go.keenvibe.com^
 ||go.keenvibe.de^
@@ -73945,6 +73952,7 @@
 ||images.communications.plainscapital.com^
 ||plainwarrant.com^
 ||gfqvmn.plan-international.jp^
+||planad.net^
 ||marketing.planar.com^
 ||plancrastinator.com^
 ||lmbhdf.planeo.cz^
@@ -75862,6 +75870,7 @@
 ||privilegest.com^
 ||adalytics.prixacdn.net^
 ||prizee.com^
+||prizefrenzy.top^
 ||prizego.info^
 ||prizel.com^
 ||prizelava.com^
@@ -79146,6 +79155,7 @@
 ||qosesouxui.live^
 ||qotersanches.com^
 ||qotozuu.com^
+||qovith.com^
 ||qozveo.com^
 ||qpawkw.xyz^
 ||qppq166n.de^
@@ -104974,6 +104984,7 @@
 ||yuanprime.com^
 ||yuanprofit.com^
 ||yuanprofit.io^
+||yuanzunxs1.com^
 ||yuayku.xyz^
 ||daily.yubanet.com^
 ||yubasuttertimes.com^
@@ -105077,6 +105088,7 @@
 ||z4a.net^
 ||z5x.net^
 ||z68bet.com^
+||z9k7.icu^
 ||za10groszy.pl^
 ||zaangazowacsie.click^
 ||inpost-pl-xz5512.zaatar.eu^
