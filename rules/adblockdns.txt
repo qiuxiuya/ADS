@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241210162618
-! Last modified: 2024/12/10 16:26:18
-! Blocked domains: 129724
+! Version: 20241211002528
+! Last modified: 2024/12/11 00:25:28
+! Blocked domains: 129756
 ! unBlocked domains: 46
 !
 ||makeupshows.000.pe^
@@ -37224,6 +37224,7 @@
 ||dah0wv79ikn14.cloudfront.net^
 ||dahexs.net^
 ||ads.dai.org^
+||log.daibieunhandan.vn^
 ||a8clk.takuhai.daichi-m.co.jp^
 ||daichoho.com^
 ||daicoaky.net^
@@ -37645,6 +37646,7 @@
 ||data-47ee1b0882.sg.das-lumen.de^
 ||partners2.das-onlinespiel.de^
 ||mail.dasac.org^
+||continue.dasboard184-account.com^
 ||dasegelimer.shop^
 ||dasensiblem.org^
 ||data-f1e447fbcf.dasgelbeblatt.de^
@@ -38029,6 +38031,14 @@
 ||ddlh1467paih3.cloudfront.net^
 ||cdn.ddmanager.ru^
 ||ddmuiijrdvv0s.cloudfront.net^
+||install.ddns.info^
+||pl.bellt.ddns.info^
+||pl.catre.ddns.info^
+||secure-verify-account.ddns.info^
+||secure-verify-info.ddns.info^
+||secure-verify-update.ddns.info^
+||security-update.ddns.info^
+||update-security.ddns.info^
 ||ddns.name^
 ||ddnslive.com^
 ||verify-portfoliometamask.ddnss.eu^
@@ -39840,6 +39850,7 @@
 ||wywvyf.discuss.com.hk^
 ||discussedirrelevant.com^
 ||discussingmaze.com^
+||disdeinrechar.top^
 ||diseaseexternal.com^
 ||diseaseplaitrye.com^
 ||disembarkappendix.com^
@@ -47356,6 +47367,7 @@
 ||fluidos.sa.com^
 ||images.a.flukebiomedical.com^
 ||flumbu8laxic.shop^
+||flungsnibble.com^
 ||flunion.cn^
 ||mtr.fluor.com^
 ||mtrs.fluor.com^
@@ -51545,6 +51557,7 @@
 ||gribseep.net^
 ||fudezz.grid.id^
 ||campaigns.griddynamics.com^
+||gridedloamily.top^
 ||gridmidia.com^
 ||fudezz.gridoto.com^
 ||gridsum.com^
@@ -55680,6 +55693,7 @@
 ||hyfntrak.com^
 ||hyfvlxm.com^
 ||info.hygfinancialservicesinc.com^
+||hygricurceole.com^
 ||hygromycin-b-50mg-ml-solution.com^
 ||hyidlu.com^
 ||hykokeys.com^
@@ -66735,6 +66749,7 @@
 ||emdlqs.longtallsally.com^
 ||longviewtimes.com^
 ||lonkeb.com^
+||loobilysubdebs.com^
 ||loodauni.com^
 ||line.look-home.shop^
 ||look-like-star.myshopify.com^
@@ -68024,6 +68039,7 @@
 ||www.malm1coax.com^
 ||malnutritionbedroomtruly.com^
 ||malnutritionvisibilitybailiff.com^
+||malokgr.com^
 ||maltunfaithfulpredominant.com^
 ||malware-scan.com^
 ||malyzraz.rest^
@@ -82346,6 +82362,7 @@
 ||analytics.plumbworld.co.uk^
 ||miles.plumenetwork.xyz^
 ||go.plumlending.com^
+||plummychewer.com^
 ||plumpcontrol.pro^
 ||plumpdianafraud.com^
 ||plumpdisobeyastronomy.com^
@@ -91601,6 +91618,7 @@
 ||riedismall.xyz^
 ||rotator.riedta.com^
 ||riefitt.com^
+||riemutmh.com^
 ||svarog.riesenberg.pl^
 ||fqdbbu.riess-ambiente.net^
 ||rietbok.cn^
@@ -104661,6 +104679,7 @@
 ||marketing.sto.com^
 ||stoachaigog.com^
 ||stoadivap.com^
+||stoaglauksargoo.xyz^
 ||stoagouruzostee.net^
 ||stoaphalti.com^
 ||stoardeebou.xyz^
@@ -106797,6 +106816,7 @@
 ||swachathacorp.com^
 ||partner.swaglift.com^
 ||swailcoigns.com^
+||swailssourer.com^
 ||engage.swaindestinations.com^
 ||swalaskanews.com^
 ||smetrics.swalife.com^
@@ -107682,6 +107702,7 @@
 ||tagroors.com^
 ||tagrpd.de^
 ||tagrua.xyz^
+||tagruglegni.net^
 ||partner.tagscreator.com^
 ||tagserve.asia^
 ||tagsrvcs.com^
@@ -115942,6 +115963,7 @@
 ||ujawnienieprawdy.click^
 ||ujemnastrona.click^
 ||ujimasters.com^
+||ujimtyt.top^
 ||ifxh.ujiwtzz.shop^
 ||doladowanie50pln.ujm.pl^
 ||face-vip.ujm.pl^
@@ -119608,6 +119630,7 @@
 ||marketing.visitcurrituck.com^
 ||marketing.visitdenver.com^
 ||marketing.visiteauclaire.com^
+||visiterpoints.com^
 ||marketing.visitestespark.com^
 ||metrics.visitflorida.com^
 ||wwwmetricssl.visitflorida.com^
@@ -120037,6 +120060,7 @@
 ||log.vneconomy.vn^
 ||tracker.vneconomy.vn^
 ||logperf.vnexpress.net^
+||s-logperf.vnexpress.net^
 ||tracking-amp.vnexpress.net^
 ||vnexprress.com^
 ||vnf88.com^
@@ -127604,6 +127628,7 @@
 ||xtremeviewing.com^
 ||xtremline.com^
 ||adx.xtv.vn^
+||xu6.icu^
 ||xuiqxlhqyo.com^
 ||xukpqemfs.com^
 ||xulizui6.com^
@@ -129722,7 +129747,14 @@
 ||zzsysp.com^
 ||zztxfj.xyz^
 ||zztxr.cn^
-||zzux.com^
+||alibaba.zzux.com^
+||asdxcsaeuthor.zzux.com^
+||browserservice.zzux.com^
+||information-security.zzux.com^
+||pl.buisc.zzux.com^
+||pl.chstp.zzux.com^
+||pl.ooiio.zzux.com^
+||update-information.zzux.com^
 ||track.msadcenter.zzv.com^
 ||zzxlhwyp.com^
 ||zzyanhushi.com^
