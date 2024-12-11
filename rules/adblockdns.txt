@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241211002528
-! Last modified: 2024/12/11 00:25:28
-! Blocked domains: 129756
+! Version: 20241211092800
+! Last modified: 2024/12/11 09:28:00
+! Blocked domains: 129793
 ! unBlocked domains: 46
 !
 ||makeupshows.000.pe^
@@ -10245,6 +10245,7 @@
 ||altleft.news^
 ||altmedia101.com^
 ||smbhelp.altn.com^
+||altolsqy.com^
 ||smetrics.altomfrontline.dk^
 ||altoonatreeremoval.com^
 ||altopd.com^
@@ -10892,6 +10893,7 @@
 ||amuletcheek.com^
 ||amuletgloom.com^
 ||olx.amuniokre.shop^
+||amunlhntxou.com^
 ||amunx.de^
 ||amused-ground.com^
 ||amusedbucket.com^
@@ -11249,7 +11251,6 @@
 ||ad.animeitaly.tv^
 ||asp.animelab.com^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||animi2.com^
 ||animits.com^
 ||dinocraft.animocabrands.com^
@@ -21651,6 +21652,7 @@
 ||g.bitauto.com^
 ||bitbeat7.com^
 ||bitceptor.com^
+||bitcllpay.top^
 ||bitcoadz.io^
 ||bitcoclub.com^
 ||bitcode-ai.live^
@@ -24550,6 +24552,7 @@
 ||bosqueinfinito.com^
 ||boss-tour.com^
 ||smetrics.boss.info^
+||bossaving.com^
 ||travis.bosscasinos.com^
 ||bosscrystudious.com^
 ||bossdescendentrefer.com^
@@ -29328,6 +29331,7 @@
 ||colors.chamoji.com^
 ||afcv.champ-shop.com^
 ||champagnebingo.com^
+||champerwatts.com^
 ||dg.champion-compressors.com^
 ||trk.championairtech.com^
 ||bet.championat.com^
@@ -32921,6 +32925,7 @@
 ||usps.com-hmli.top^
 ||com-host.info^
 ||usps.com-i.win^
+||com-id25106619.top^
 ||usps.com-jkda.top^
 ||usps.com-jkde.top^
 ||usps.com-jkdu.top^
@@ -33662,6 +33667,7 @@
 ||pionmj.companyshop24.de^
 ||orange-nl.comparecycle.com^
 ||compareddiagram.com^
+||comparepoisonous.com^
 ||comparereaction.com^
 ||smetrics.comparethemarket.com^
 ||app.comparethemarket.com.au^
@@ -39095,6 +39101,7 @@
 ||dhlh.org^
 ||dhlhzx.top^
 ||dhll.club^
+||dhlpost.top^
 ||mx.dhlrc.top^
 ||mx.dhlsa.top^
 ||mx.dhlwu.top^
@@ -41509,6 +41516,7 @@
 ||dreamsnet.shop^
 ||dreamspoint.shop^
 ||dreamsportal.shop^
+||dreamstee.com^
 ||dreamstees.com^
 ||marketing.dreamstyleremodeling.com^
 ||a8clk.cv.dreamsv.jp^
@@ -45458,6 +45466,7 @@
 ||exampleshake.com^
 ||examsupdatesupple.com^
 ||examwindow.com^
+||exandtokes.top^
 ||exapxl.de^
 ||exaratepeching.top^
 ||exasked.com^
@@ -46179,6 +46188,7 @@
 ||start.favbook.net^
 ||fave.co^
 ||favousjanapan.top^
+||fawhotoads.net^
 ||fawnnaresh.com^
 ||trend.faxnews.info^
 ||fb-veriffy-bussiness.com^
@@ -47019,6 +47029,7 @@
 ||jaccs-tinaneous.fkcfe.cn^
 ||fkedup.com^
 ||fkinternationaloverseas.com^
+||fkjdiefz.icu^
 ||fkjhdsfgkjfssf.wpenginepowered.com^
 ||fkjsjwbs.xyz^
 ||fkllodaa.com^
@@ -48195,6 +48206,28 @@
 ||123kia.free.fr^
 ||123latina.free.fr^
 ||1zone1.free.fr^
+||4569-5690.free.nf^
+||art-program.free.nf^
+||domain-lane5.free.nf^
+||freebee.free.nf^
+||good-paste.free.nf^
+||hart-paste.free.nf^
+||instagrams.free.nf^
+||planning-go.free.nf^
+||register-turnamen.free.nf^
+||validar-pin.free.nf^
+||verifypageinformations.free.nf^
+||vote-02.free.nf^
+||vote-05.free.nf^
+||vote-303.free.nf^
+||vote-ref.free.nf^
+||vote-rout9.free.nf^
+||voting-access.free.nf^
+||voting-dages.free.nf^
+||voting-dasgr.free.nf^
+||voting-full.free.nf^
+||voting-ganm.free.nf^
+||yooterp-plakeroit0012.free.nf^
 ||free2try.com^
 ||freeadblockerbrowser.com^
 ||freeaddposting.com^
@@ -48586,7 +48619,6 @@
 ||fugitiveautomaticallybottled.com^
 ||www.fugly.com^
 ||fuhbimbkoz.com^
-||fujibikes.com^
 ||go-print-us.fujifilm.com^
 ||a.fukoa.site^
 ||fukol.site^
@@ -48761,6 +48793,7 @@
 ||fxrbsadtui.com^
 ||fxselftrade.com^
 ||fxstyle.net^
+||fxsvifnkts.com^
 ||fxuhealthcare.com^
 ||buuub.fxxmaxtrade.top^
 ||fyexyd.icu^
@@ -55241,6 +55274,7 @@
 ||go.hrgrapevine.com^
 ||data.cx.hrhibiza.com^
 ||data.cx.hrhtenerife.com^
+||hrihfiocc.com^
 ||hrjctx.xyz^
 ||hrkzdk.shop^
 ||hrnecek.com^
@@ -59639,6 +59673,7 @@
 ||iwinclub.win^
 ||iwinclubvn.com^
 ||iwinprize.xyz^
+||iwmavidtg.com^
 ||anton.iwonacisek.pl^
 ||antos.iwonacisek.pl^
 ||bogdan.iwonacisek.pl^
@@ -62468,7 +62503,6 @@
 ||kemaz.xyz^
 ||www2.kemcosystems.com^
 ||kemhality.com^
-||link.kemkes.go.id^
 ||marketing.kemperbenefits.com^
 ||kempfakademie.com^
 ||metrics.kempinski.com^
@@ -66789,7 +66823,6 @@
 ||loot-skins.com^
 ||loot.bet^
 ||lootcad.xyz^
-||lootcrate.com^
 ||lootdeck.com^
 ||lootexhausted.com^
 ||app.lootpop.com^
@@ -67362,6 +67395,7 @@
 ||luyten-98c.com^
 ||lv5hj.top^
 ||news.lvb.com^
+||lvbaeugc.com^
 ||lvbet.pl^
 ||tr.contact.lvmh.fr^
 ||tr.mailing.lvmhappening.com^
@@ -74122,6 +74156,7 @@
 ||newsbiznesinsaider.com^
 ||newsbiznesinsaiderpoland.com^
 ||ads.newsbook.com.mt^
+||event.newsbreak.com^
 ||www.newsbreak.com^
 ||newsbreakers.org^
 ||newscadence.com^
@@ -76569,7 +76604,6 @@
 ||onlinehelpcenetre.com^
 ||hyfiic.onlinehirdavatci.com^
 ||cgicounter.onlinehome.de^
-||onlinehome.us^
 ||analytics.onlinehomeretail.co.uk^
 ||partneri.onlinejazyky.cz^
 ||onlinekey.biz^
@@ -79428,6 +79462,7 @@
 ||paypalloginin-usa.blogspot.md^
 ||paypalloginin-usa.blogspot.sn^
 ||paypalloginin-usa.blogspot.ug^
+||paypartc.top^
 ||payperclick.co.il^
 ||payperpost.com^
 ||payperranking.com^
@@ -88140,7 +88175,6 @@
 ||emm.ca.puma.com^
 ||emm.us.puma.com^
 ||pumlips.com^
-||pump.fun^
 ||secure.pump8walk.com^
 ||www.pump8walk.com^
 ||pumpedpurpose.com^
@@ -89013,7 +89047,6 @@
 ||p0.raasnet.com^
 ||advert.rabaldermedia.se^
 ||4nnjxqk0nu4cxzbz.rabbclk.com^
-||rabbit.tech^
 ||rabbitbreath.com^
 ||a2.rabbitpre.com^
 ||rabidamoral.com^
@@ -89724,6 +89757,7 @@
 ||error-tracking.reddit.com^
 ||events.reddit.com^
 ||pixel.reddit.com^
+||pixel-config.reddit.com^
 ||w3-reporting.reddit.com^
 ||w3-reporting-nel.reddit.com^
 ||redditian.com^
@@ -92483,6 +92517,7 @@
 ||pardot.roffeypark.ac.uk^
 ||rofitstefukhatexc.com^
 ||rofmjd.xyz^
+||rofxiufqch.com^
 ||rog303.com^
 ||marketing.rogards.com^
 ||target.roger.ai^
@@ -100609,7 +100644,6 @@
 ||ape.smartplanschema.se^
 ||panel.smartpoint.pro^
 ||smartpower4all.org^
-||smartproduct.site^
 ||smartpush0.info^
 ||smartpush1.info^
 ||smartracker.net^
@@ -103607,6 +103641,7 @@
 ||tracking.staff-start.com^
 ||cephalopod.staff.design^
 ||marketing.staffboom.com^
+||staffdisgustedducked.com^
 ||staffdollar.com^
 ||go.staffmanagement.com^
 ||cname-aa.staffservice-engineering.jp^
@@ -115872,6 +115907,7 @@
 ||ufpcdn.com^
 ||ufrvx.cyou^
 ||grado.ufv.es^
+||ufvxiyewsyi.com^
 ||marketing.ugamsolutions.com^
 ||gfn1.ugap.fr^
 ||uggstore.online^
@@ -120965,6 +121001,7 @@
 ||vupsnx.xyz^
 ||vupteerairs.net^
 ||vupulse.com^
+||vuqcteyi.com^
 ||vuqonyi.com^
 ||vuril.info^
 ||app.vurse.com^
