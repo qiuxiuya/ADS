@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241212002526
-! Last modified: 2024/12/12 00:25:26
-! Blocked domains: 142869
+! Version: 20241212092738
+! Last modified: 2024/12/12 09:27:38
+! Blocked domains: 142897
 ! unBlocked domains: 41
 !
 ||028panpan.com^
@@ -2407,6 +2407,7 @@
 ||50b5b9c818.40194e19e6.com^
 ||smetric.401kaccess.com^
 ||401mopie.xyz^
+||v063.4029tv.com^
 ||402v.com^
 ||40451343.xyz^
 ||www.404errorpage.com^
@@ -3234,6 +3235,7 @@
 ||pl-olx.621456.xyz^
 ||51fdc70d17.622bcf2c86.com^
 ||623762.com^
+||62a77005fb.com^
 ||m.62mao.com^
 ||vlnted.63283.world^
 ||fca88bf71e.632c96af3c.com^
@@ -5554,6 +5556,7 @@
 ||go.accordantco.com^
 ||accordinglyair.com^
 ||account-center765.pages.dev^
+||account-cfe.mx^
 ||olx.account-customer.shop^
 ||account-flxregistre.com^
 ||account-infos-pl.com^
@@ -13091,6 +13094,7 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||animi2.com^
 ||animits.com^
@@ -25046,6 +25050,7 @@
 ||bigproai.fun^
 ||bigpulpit.com^
 ||bigpzone.com^
+||m700.bigrapidsnews.com^
 ||bigreal.org^
 ||m.bigroad.com^
 ||bigrocknutrition.com^
@@ -31695,6 +31700,8 @@
 ||capath.com^
 ||capawhile.com^
 ||log-va-us-looki.capcutapi.com^
+||mon-boot.capcutapi.com^
+||mon-va-us-looki.capcutapi.com^
 ||capecodledger.com^
 ||elqtracking.capella.edu^
 ||lp.capella.edu^
@@ -45779,6 +45786,7 @@
 ||s46849916.sc.origins.en25.com^
 ||s615419487.sc.origins.en25.com^
 ||s861531437.sc.origins.en25.com^
+||en407etr.com^
 ||en5wr67sag3.com^
 ||en8plusinf.com^
 ||data.enablementadobe.com^
@@ -73665,6 +73673,7 @@
 ||lajna.fr^
 ||activate.lajollalight.com^
 ||marketing.lakecountyfl.gov^
+||v812.lakecountystar.com^
 ||lakecountytimes.com^
 ||streaming.lakeflo.com^
 ||lakehartnews.com^
@@ -73735,6 +73744,7 @@
 ||lamppostharmoniousunaware.com^
 ||lampshademirror.com^
 ||luptbq.lampsplus.com^
+||lamrissmyol.com^
 ||stat.lamy-formation.fr^
 ||app.lamy-liaisons.fr^
 ||info.lamy-liaisons.fr^
@@ -78110,6 +78120,7 @@
 ||gama.manifestacaoriquezaarabe.com^
 ||manipulacjafaktami.click^
 ||manipulativegraphic.com^
+||z210.manisteenews.com^
 ||lp.manlywellness.site^
 ||manma-kobe.space^
 ||smetrics.mann-filter.com^
@@ -80099,6 +80110,7 @@
 ||michelcla.fr^
 ||michellekemmerich.com^
 ||srepdata.michigan.com^
+||m367.michigansthumb.com^
 ||micodigo.com^
 ||areadigital.miconta.com.mx^
 ||a.micorp.com^
@@ -83144,6 +83156,7 @@
 ||myital.com^
 ||myjawatankosong2024-pov.my.id^
 ||myjollyrudder.com^
+||t002.myjournalcourier.com^
 ||link.myjourneypickleball.com^
 ||myjtexpres.top^
 ||myjtexpresss.top^
@@ -84558,6 +84571,7 @@
 ||dl.nekropol-khv.ru^
 ||nektarbeachhotels.com^
 ||dormouse.nektarium.de^
+||neldatsy.com^
 ||www4.neles.com^
 ||cv.nell.life^
 ||nellads.com^
@@ -99477,6 +99491,7 @@
 ||protectyourdevices.com^
 ||marketing.protegic.com.au^
 ||proteinfrivolousfertilised.com^
+||proteininnovationpioneer.com^
 ||hrprwf.proteinocean.com^
 ||protesidenext.com^
 ||protestcopy.com^
@@ -102624,6 +102639,7 @@
 ||qutconest.com^
 ||ad.quwin.cn^
 ||quwkke.xyz^
+||quwsncrlcwjpj.com^
 ||quxsiraqxla.com^
 ||quzmtpxw.xyz^
 ||quzpvtt.xyz^
@@ -103391,6 +103407,7 @@
 ||rdrsec.com^
 ||rdrtrk.com^
 ||rdsa2012.com^
+||rdtlnutu.com^
 ||rdtracer.com^
 ||rdtrck2.com^
 ||littlelilistore.rdtrke.com^
@@ -103653,6 +103670,7 @@
 ||reconstructshutdown.com^
 ||recordercourseheavy.com^
 ||recorderstruggling.com^
+||l029.recordpatriot.com^
 ||recoupsamakebe.com^
 ||recovernj.com^
 ||olx.recovery-domain.shop^
@@ -112262,6 +112280,7 @@
 ||ape.smartplanschema.se^
 ||panel.smartpoint.pro^
 ||zzqyxd.smartpozyczka.pl^
+||smartproduct.site^
 ||smartpush0.info^
 ||smartpush3.info^
 ||smartracker.net^
@@ -113170,6 +113189,7 @@
 ||solution-store.com^
 ||mkt.solution-tree.com^
 ||mkt.solution.coupons^
+||solution7energieqc.com^
 ||solutionfun.info^
 ||solutiongroup24.com^
 ||solutionpromaker.com^
@@ -117321,6 +117341,7 @@
 ||sunnyscanner.com^
 ||redir.sunnyshore.xyz^
 ||sunnysunkari.blogspot.com^
+||metrics-prod.suno.com^
 ||sunovausa.blogspot.com^
 ||sunpasstollsbill.com^
 ||sunphotostock.com^
@@ -121378,6 +121399,7 @@
 ||track.thehealthbeauty.fun^
 ||trk.thehealthyadvantages.com^
 ||t.thehealthycouples.com^
+||u660.theheraldreview.com^
 ||seniorliving.theheritagelcs.com^
 ||axp.thehill.com^
 ||blue.thehill.com^
@@ -125160,6 +125182,7 @@
 ||l.traxmag.com^
 ||marketing.traxtech.com^
 ||pageviews.tray.com.br^
+||tiktok.tray.com.br^
 ||secure.tray0bury.com^
 ||www.tray0bury.com^
 ||traydungeongloss.com^
@@ -128452,6 +128475,7 @@
 ||tracking.univtec.com^
 ||uniway.cn.com^
 ||mxoqqu.uniwigs.com^
+||app.uniwspapp.com^
 ||go.uniwue.de^
 ||unixfuture.com^
 ||goonews.unixstorm.eu^
@@ -134964,6 +134988,7 @@
 ||smetrics.wdrake.com^
 ||wdripstore.com^
 ||wa.wdrmaus.de^
+||y494.wdsu.com^
 ||wdt9iaspfv3o.com^
 ||axp.wdtn.com^
 ||wdzalnst.shop^
@@ -135986,6 +136011,7 @@
 ||weeecool.com^
 ||weejaugest.net^
 ||ext.week.news^
+||u896.weekand.com^
 ||weekcustomer.com^
 ||weekdayjeans.pl^
 ||weekendchinholds.com^
@@ -136296,6 +136322,7 @@
 ||wesellac.com^
 ||data-ecd887c1d0.weser-kurier.de^
 ||jdgtgb.weser-kurier.de^
+||b932.wesh.com^
 ||scrooge.wesh.com^
 ||dl.weshineapp.com^
 ||weshooship.net^
@@ -141448,6 +141475,7 @@
 ||yqeuu.com^
 ||js412.yqjxzw.com^
 ||js74.yqjxzw.com^
+||yqlzccxn.icu^
 ||yqmxfz.com^
 ||yquqoj.com^
 ||yr9n47004g.com^
