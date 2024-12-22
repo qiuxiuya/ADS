@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20241222162104
-! Last modified: 2024/12/22 16:21:04
-! Blocked domains: 193791
+! Version: 20241223001950
+! Last modified: 2024/12/23 00:19:50
+! Blocked domains: 193835
 !
 0-0.fr
 0-02.net
@@ -2793,6 +2793,7 @@ www.4fluck.top
 4fonline.com
 www.4fonlinerr.top
 www.4fonlinestore.top
+4fr.icu
 affiliate.4fresh.cz
 4fsale.top
 4fstoreonline.top
@@ -5086,6 +5087,7 @@ abbloggingteach.com
 abbotinexperienced.com
 abbotpredicateemma.com
 info.abbotsfordcentre.ca
+abbotsgalen.com
 abbotships.info
 metrics.abbott.co.in
 smetrics.abbott.co.in
@@ -16998,6 +17000,7 @@ online.approach.best
 approachconducted.com
 approachresourceful.com
 approaster.com
+approbationoutwardconstrue.com
 cdn.apprope.com
 appropriateinaction.com
 appropriatepurse.com
@@ -22897,6 +22900,7 @@ barraplay.com
 adserver.barrapunto.com
 barrenhatrack.com
 barrenusers.com
+barricadecourse.com
 go.barriercompliance.com
 barriga-sarada.com
 barrigalabs.com
@@ -39927,6 +39931,7 @@ chirudeep.com
 chirui.net
 analytics.chita.ru
 event.chitai-gorod.ru
+chitchaudsoax.net
 chitika.com
 chitika.net
 chitins.sbs
@@ -45246,6 +45251,7 @@ log002.commutil.kr
 ecxtrkanet.comnfired.com
 como.com
 crt.comodoca.com
+comoideludes.shop
 hbfpvm.comolib.com
 lp.comosersaudavel.online
 comovamitolu.com
@@ -54623,6 +54629,7 @@ dilmapolypreen.com
 www.dilmil-jakarta.go.id
 dilowhang.com
 dilruwha.net
+diltqdxecyicf.com
 dilusso.com.pl
 diluteacerbity.com
 dilutegulpedshirt.com
@@ -55718,6 +55725,7 @@ dlem1deojpcg7.cloudfront.net
 dlframeit.com
 dlfuturistics.com
 dlfvgndsdfsn.com
+dlgeebfbcp.com
 dlgreenway.com
 dlh8c15zw7vfn.cloudfront.net
 dlhack.com
@@ -58643,6 +58651,7 @@ dzigzdbqkc.com
 dzijggsdx.com
 dzinerstudio.com
 dzinnikmaszynisty.rest
+dzinzafogdpog.com
 dzisiajswiat.rest
 dzisiejszadata.click
 dzisiejszakatastrofa.click
@@ -60085,6 +60094,7 @@ ee625e4b1d.com
 b.eeaach.com
 eeaczcf.icu
 eealv.info
+eebuksaicmirte.net
 eecd.xyz
 eecheweegru.com
 eechicha.com
@@ -66834,6 +66844,7 @@ srepdata.fdlreporter.com
 go-test.tamed.fdm.dk
 go.tamed.fdm.dk
 xhohnr.fdm.pl
+fdmmgwlcg.com
 fdnmail.com
 fdo-skorohod.ru
 fdoproperties.com
@@ -82374,6 +82385,7 @@ jdgtgb.hildesheimer-allgemeine.de
 hildrenasth.info
 hildrenastheyc.info
 hilerant.site
+hiletterismypers.com
 hilfe-check.com
 community.hill-murray.org
 hillaforklifts.com
@@ -84459,6 +84471,7 @@ hpregen.pl
 www.hproduction.ae
 hprofits.com
 analytics.hpscloud.se
+hpskiqiafxshdf.com
 hpsports.com
 www.hptennis.com.au
 hptransparts.com
@@ -87319,6 +87332,7 @@ imaybus.info
 imaycap.info
 imayincom.info
 imaypay.info
+imbarkfrailty.com
 imbasedsquidge.com
 ads.imbc.com
 adsmrapi.imbc.com
@@ -97839,6 +97853,7 @@ www.kcta.or.kr
 kctag.net
 app.kcutsgo.com
 kcx47162s.top
+kczu-ohhuf.site
 kdata.fr
 www.web3-js.kdbonlines.com
 kdbwhduisopkrmghye89dufik09diouwg3yt7e8rfud89uieyuwj7eyhw.pages.dev
@@ -97973,6 +97988,7 @@ keipagsh.info
 keisersoze.com
 keithprime.com
 keiunkan.com
+keiztimzdbjt.click
 kejasosy.com
 kejet.net
 kek-technik.com
@@ -100862,6 +100878,7 @@ kwestiastabilnosci.com
 kwgefe.com
 stat.kwikmotion.com
 target.kwiktripfleet.com
+kwilmid.top
 lxsway.kwiss.me
 kwistal.nl
 kwiydaw.com
@@ -103272,6 +103289,7 @@ lgepbups.xyz
 smetrics.lgim.com
 update.lgim.com
 promotion.lginnotek.com
+lgjtvyurnivf.com
 lgkocdi.icu
 appespacemanager.lgm-reinigung.de
 lgnru.wang
@@ -114235,6 +114253,7 @@ mobalyzer.net
 mobaviet.shop
 mobawaba.com
 mobbersinwalls.com
+mobcardel.top
 api.mobcells.com
 rtb-uswest.mobclixs.com
 rtb-useast.mobcomedia.com
@@ -121514,6 +121533,7 @@ ens.nidwaldnerzeitung.ch
 niebezpiecznepasy.click
 niebezpieczneprzejazdy.click
 niebezpiecznywypadek.click
+niecarsg.com
 niecesauthor.com
 niecesexhaustsilas.com
 niecesregisteredhorrid.com
@@ -122561,6 +122581,7 @@ link.staff.notab.com
 heron.notability.com
 notabilitytragic.com
 notabl8.com
+notablefaxfloss.com
 notaloneathome.com
 notarisnandasilvia.com
 email.everyonesocial.notarize.com
@@ -123060,6 +123081,7 @@ marketing.nsfocus.com
 marketing.nsfocusglobal.com
 marketing.nsford.com
 nsfsfn.xyz
+nsftrmxwehcsm.com
 nsfwadds.com
 nsfxaffiliates.com
 marketing.nsightful.com
@@ -123914,6 +123936,7 @@ data-7023b17a38.oberpfalz-pages.de
 data-7023b17a38.oberpfalznet.de
 data-7023b17a38.oberpfalznetz.de
 www.obesitycheck.com
+obesityvanmost.shop
 obeus.com
 obeyedortostr.cc
 obeyfreelanceloan.com
@@ -123979,6 +124002,7 @@ obovsemonline.ru
 obowiazekszukania.click
 oboxads.com
 obpofhtura.com
+obqaxzon.com
 obr-invest.com
 obr3.space
 obradjgifja.com
@@ -128237,6 +128261,7 @@ ads.oxymoronent.com
 oxynticarkab.com
 ads.oxyshop.cz
 trk.oxywise.com
+oyaoknzgoqkq.com
 oyasu-mi.tokyo
 oyen3zmvd.com
 oyescart.com
@@ -131939,6 +131964,7 @@ pictorialtraverse.com
 pictunoctette.com
 go.picturemarketing.com
 pictures-album.com
+picturescil.shop
 picturestash.mom
 pictureturn.com
 picxxxhub.com
@@ -134802,6 +134828,7 @@ info.positioninteractive.com
 positive-ads.com
 b.positive-technology.co.uk
 positivejudge.com
+positivelyassertappreciation.com
 positivelysunday.com
 positivesomoy.com
 tracking.positivesparks.com
@@ -139931,6 +139958,7 @@ pub2srv.com
 pubaka5.com
 pubdirecte.com
 pubdisturbance.com
+pubertybloatgrief.com
 pubexchange.com
 api.pubfinity.com
 logevt.pubfinity.com
@@ -141209,6 +141237,7 @@ qnesnufjs.com
 qnhuxyqjv.com
 qnmesegceogg.com
 advertisement.glb.qnniu.com
+qnowyhbtjqvyn.com
 qnp16tstw.com
 qnqtgyq.icu
 qnscoatednuts.com
@@ -142689,6 +142718,7 @@ railot.date
 railroadfatherenlargement.com
 railroadlineal.com
 railroadmanytwitch.com
+railroadunofficial.com
 d3-umami.up.railway.app
 kiwi.railway.app
 railwayboringnasal.com
@@ -143105,6 +143135,7 @@ adz.rashflash.com
 rashlyblowfly.com
 rashmimaheshwari.com
 rashmoyee.com
+rashseedlingexpenditure.com
 tracking.rasierteladies.de
 app.learn.rasmussen.edu
 application.rasmussen.edu
@@ -143348,6 +143379,7 @@ rbtfit.com
 rbthre.work
 rbtwo.bid
 rbvgaetqsk.love
+rbweljjeqvevy.top
 rbxfree.com
 rbxzt6.xyz
 rc.rc.hu
@@ -143780,6 +143812,7 @@ reasonable5786mi4n3srxq.jp
 reasonablexpectation.com
 reasoncharmsin.com
 reasoningarcherassuage.com
+reasoninstruct.com
 reassurehintholding.com
 reasulty.com
 reate.info
@@ -148798,6 +148831,7 @@ sswmetrics.sabresonicweb.com
 a8cv.sabusuta.jp
 install.xchange.sabx.com
 sacapt.com
+sacedoamte.net
 qrstu.sachacel.ru
 ptoxxd.sachaschuhe.de
 s.sachem.ca
@@ -152442,6 +152476,7 @@ gvl-dev.setupcmp.com
 setupdeliveredteapot.com
 setupstoreuy.com
 www.setupyouraccounts.com
+setworkgoloka.shop
 link.setyawan.dev
 track.seubemestaresaude.com
 ed7c95dc.seuestiloseucarater.com.br
@@ -154340,6 +154375,7 @@ t.signauxdeux.com
 signcalamity.com
 signicam.com
 hindsight.significanceapps.com
+significantdoubloons.com
 significantnuisance.com
 significantoperativeclearance.com
 acc.info.lumxpert.signify.com
@@ -160452,6 +160488,7 @@ stixeepou.com
 seniorliving.stjamesplace.org
 go.stjohnjobs.com
 stjosephsoswego.com
+stjpezyt.com
 re.stjude.org
 sm.stjude.org
 stkk.pl
@@ -173220,6 +173257,7 @@ trumpsurgery.com
 trumpthisaccepted.com
 trunblock.com
 trunc.ly
+trunchsubnect.com
 truneat.com
 teyourmarketing.trungaleegan.com
 trungtam-dienmayxanh.com
@@ -176132,6 +176170,7 @@ unloetiosal.com
 unlokd.net
 unltdentertainment.co
 unluckyflagtopmost.com
+unluredtawgi.shop
 unluxioer.com
 app.unlvrebels.com
 t.unlvrebels.com
@@ -184774,6 +184813,7 @@ logtake.weidian.com
 weidianyuedu.com
 weifengtianxia.com
 weighed.sbs
+weighssloughs.shop
 weightbelts.ru
 weightfeathersoffhand.com
 weightisover4u.com
@@ -186449,6 +186489,7 @@ withsecurify.com
 download.withu.fit
 app.withutraining.com
 withyotta.com
+withyouryret.com
 withyouryretye.info
 witlee-main.firebaseapp.com
 witmdlrwher.site
@@ -186600,6 +186641,7 @@ t733.wjcl.com
 wjct3s8at.com
 wjfodgmj.in
 axp.wjhl.com
+wjljwqbmmjaqz.top
 wjspl.top
 xggjgl.wjthinkbig.com
 axp.wjtv.com
@@ -191313,6 +191355,7 @@ ypruspostpost.ink
 ypwlctfk.xyz
 ypyjyhny.xyz
 yqeuu.com
+yqghjejqlhbsv.com
 yqlxwb.icu
 yqlzccxn.icu
 yqmxfz.com
@@ -192292,6 +192335,7 @@ zekhauukqrqwx.com
 zekiatagur.com
 inventory.zekisolutions.com
 trk.zeks.com
+zeksaugaunes.net
 zel-zel-fie.com
 zelatorpukka.com
 t-s.zelboraf.com
