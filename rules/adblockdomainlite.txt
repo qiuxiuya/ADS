@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20241223092225
-! Last modified: 2024/12/23 09:22:25
-! Blocked domains: 5630
+! Version: 20241223162406
+! Last modified: 2024/12/23 16:24:06
+! Blocked domains: 5611
 !
 00xvppy.cn
 img.0279.net
@@ -755,14 +755,12 @@ amerzbj.cn
 v.api.amgmedia.cn
 amgrpnb.cn
 analysys.cn
-dow.andylab.cn
 anfeng.com
 anpu119.com
 anquan.org
 antarctic.com
 api.antibanads.com
 anysdk.com
-aogk88.asia
 aoopj.top
 aoqinglv.cn
 app-analytics-services.com
@@ -770,7 +768,6 @@ app-measurement.com
 mobile.appchina.com
 appdriver.cn
 appgift.sinaapp.com
-apple-crt-portal-online.com
 iadsdk.apple.com
 xp.apple.com
 securemetrics.apple.com.cn
@@ -1014,7 +1011,6 @@ q.baminw.com.cn
 bangqidq.com
 active.baofeng.com
 midinfo.baofeng.com
-a.baomihua.com
 bartender.cc
 webpage.batianhu.cn
 cruiser.bayescom.cn
@@ -1139,6 +1135,7 @@ creative.bxsnews.com
 creative3-hs.bxsnews.com
 bxwccii.cn
 correosytelegrafos.bxze.cn
+monitor-frontend-collector.a.bybit-aws.com
 bydcxdy.cn
 byscy.cn
 dm.bytedance.com
@@ -1161,10 +1158,8 @@ dispatcher.c360dn.com
 dispatcher-bsy.c360dn.com
 c4d4.cn
 caduka.cn
-download.caihong.com
 stat.caijing.com.cn
-apollo.caixin.com
-gg.caixin.com
+pinggai5.caixin.com
 ad.caiyunapp.com
 api.callget.cn
 smetrics.calvinklein.cn
@@ -1391,7 +1386,6 @@ abyss.cyapi.cn
 ad.cyapi.cn
 cyhbrjf.cn
 c1.czcol.cn
-bd.czxuexi.com
 ggjs.d17.cc
 c.d3iz9md.com
 daawv.cn
@@ -1434,7 +1428,6 @@ dtm-dre.platform.dbankcloud.cn
 events-drcn.op.dbankcloud.cn
 grs.dbankcloud.cn
 httpdns-browser.platform.dbankcloud.cn
-httpdns.platform.dbankcloud.cn
 hwpub-s01-drcn.cloud.dbankcloud.cn
 logservice-dre.platform.dbankcloud.cn
 logservice1.dbankcloud.cn
@@ -1460,6 +1453,7 @@ msz3.destinia.cn
 api.dewmobile.net
 downloada.dewmobile.net
 dfhag.cn
+dfkd.xyz
 ptt-gov.dfkqt.cn
 newswifiapi.dfshurufa.com
 dg186.cn
@@ -1641,7 +1635,6 @@ ediuschina.com
 eeeqi.cn
 eexlgyn.cn
 ef9377.com
-canadapost-postescanada.efsi.cn
 metrics.egencia.cn
 eheb8.cn
 ehmhqcn.cn
@@ -1705,7 +1698,6 @@ clickn.fang.com
 countpvn.light.fang.com
 mshow.fang.com
 fangcunzhijian1.cn
-olx-pol-kxlsw2.fanhu.top
 fanqianbb.com
 fanyi100.com.cn
 fanzhuang.net.cn
@@ -1750,7 +1742,6 @@ flash.cn
 bd1.flfgw.cn
 flstudiochina.com
 flunion.cn
-pid.fly160.com
 api-flow.flyme.cn
 bro.flyme.cn
 madx.flyme.cn
@@ -1788,7 +1779,6 @@ stat.funshion.net
 love.furenkeji.com
 digital-global.furniture-china.cn
 trk.futureelectronics.cn
-fwbrlnpzqqci.top
 fwlrv.cn
 fwmbjrl.cn
 ad.fx168api.com
@@ -1818,7 +1808,6 @@ gayeah.cn
 gbitcoin.cn
 gcbflvx.cn
 gccnntq.cn
-gclick.cn
 gdicoou.com
 gdtimg.com
 canadapost-postescanada.gdwsw.cn
@@ -1980,7 +1969,6 @@ m.gutousoft.com
 a.guzhilin.com
 guzsjdl.cn
 gw2cddpt2hao.asia
-gw2cddpt2hao.cloud
 gwmrb.cn
 gwrpceo.cn
 fpb1.gxfin.com
@@ -2031,12 +2019,12 @@ g.haofan005.com
 js1.haoge500.com
 bd.haomagujia.com
 2.haory.cn
+by.haory.cn
 mbrowser.news.haosou.com
 haoweb.top
 haowei.me
 2.haoxue360.com
 haoyuexingchen.com
-download.haozip.com
 m1.hapi123.net
 hapying.com
 hashnest.com
@@ -2048,9 +2036,7 @@ hczzw.com
 hdbaichuan.cn
 jascce-coment.hdqtcy.cn
 jascce-class.hdqtdb.cn
-jascce-member.hdqtdy.cn
 jaccs-votair.hdqtnn.cn
-jaccs-skept.hdqtnw.cn
 stat.hebnews.cn
 hechaocheng.cn
 ad.hefei.cc
@@ -2332,7 +2318,6 @@ www.iiyout.cn
 ijgocb.cn
 ijinshan.com
 a3.ikafan.com
-ikmya.cn
 ili100.cn
 ilkwork.com
 smetrics.illumina.com.cn
@@ -2372,7 +2357,6 @@ gw.innotechx.com
 qfy.innotechx.com
 click.inplayable.com
 inpost-vip.shop
-inpostt.xin
 qlvzjmtg.inqku.cn
 insenz.com
 instreet.cn
@@ -3265,7 +3249,6 @@ srtb.msn.cn
 c.msn.com.cn
 advert.mting.info
 x.mtrend.cn
-mtxympc.cn
 www.mubiao-vpassz.top
 smart.789.image.mucang.cn
 mulanphone.cn
@@ -3287,7 +3270,6 @@ myakqmh.cn
 s.dd.myapp.com
 sqdd.myapp.com
 mycleanmymac.com
-mydati.com
 cdn.adm.myhayo.com
 ceshi127722.obs.cn-north-4.myhuaweicloud.com
 r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com
@@ -3369,7 +3351,6 @@ nq37f.cn
 nqlng.cn
 olx-pol-kxlsw2.nrjdjh.top
 nrjzkj.cn
-nrmjq.cn
 nryqr.cn
 c.ns8d.com
 marketing.nsfocus.com
@@ -3588,7 +3569,6 @@ purplefrog.cn
 ums.pushpia.cn
 ssp.putaojiu.com
 pv4b.com
-apple.pvxt.net
 dm.pw0.cn
 cdn.pyadx.com
 pypwxvo.cn
@@ -3680,6 +3660,7 @@ adrdir.qq.com
 ads.privacy.qq.com
 adsclick.qq.com
 adsense.html5.qq.com
+adsfile.qq.com
 adsgroup.qq.com
 adshmct.qq.com
 adshmmsg.qq.com
@@ -4030,7 +4011,6 @@ guang.sdsgwy.com
 p.sdu8cvc.com
 sdvfvgj.cn
 1640831964042.se-life.cn
-sea-nov-1.com
 seaholly.cn
 www.secede.cn
 sellfox.com
@@ -4042,7 +4022,6 @@ sg92.com
 sgbbc.cn
 track.sgdmobile.com
 sglyd.cn
-ini.sh-pp.com
 eywvko.shaddy.jp
 icloud.apple-seaier.shaltgs.cn
 shangtuke.cn
@@ -4074,7 +4053,6 @@ umini.shujupie.com
 js.shunqi.com
 www.shuqw.com
 shuzilm.cn
-icloud.apple-preter.shyligs.cn
 sigmob.com
 siguatv.cn
 sigulacuo.cn
@@ -4173,7 +4151,6 @@ sjdfuvz.cn
 sjezce.xyz
 www.sjheda.cn
 static.m.sjzhushou.com
-sljkj.com
 m.slshiye.cn
 sm-tc.cn
 c.sm.cn
@@ -4316,7 +4293,6 @@ trackmarketing.staubli.cn
 steamproxy.net
 stg8.com
 stgowan.com
-stnew.xyz
 info.stockstar.com
 same.stockstar.com
 studylabs.cn
@@ -4345,7 +4321,6 @@ lcs.dev.surepush.cn
 susapi.dev.surepush.cn
 test.surepush.cn
 bdunion1.suxiazai.com
-download.suxiazai.com
 mscs.svaeuzh.cn
 svdpgmt.cn
 svvbrkk.cn
@@ -4485,7 +4460,11 @@ teaserleads.com
 1.tecbbs.com
 tongji.techweb.com.cn
 inpost-pl-pacid273jks.tejiamai.top
+teleegarsm.cn
 teleeqrwm.cn
+telegcpqm.cn
+telegrpqm.cn
+telegzpqm.cn
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
@@ -4937,6 +4916,7 @@ api-z.weidian.com
 logtake.weidian.com
 weidianyuedu.com
 1.weiheshidai.com
+xingpai.weilay.com.cn
 ads.weilitoutiao.net
 weiluyan.cn
 mj.weimob.net
@@ -5171,6 +5151,7 @@ z1hihu.xmcimg.com
 zhihu.xmcimg.com
 adm.xmfish.com
 cmm.xmfish.com
+xmkbrfyu.cn
 xmlsxar.cn
 xmysmy.cn
 xmywlyh.cn
