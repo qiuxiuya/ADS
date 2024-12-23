@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20241223162406
-! Last modified: 2024/12/23 16:24:06
-! Blocked domains: 193402
+! Version: 20241224002154
+! Last modified: 2024/12/24 00:21:54
+! Blocked domains: 193421
 !
 0-0.fr
 0-02.net
@@ -49498,6 +49498,7 @@ d29dzo8owxlzou.cloudfront.net
 d29gqcij.com
 d29i6o40xcgdai.cloudfront.net
 d29lduyskr59p4.cloudfront.net
+d29mhxfd390ueb.cloudfront.net
 d29mxewlidfjg1.cloudfront.net
 d2a4qm4se0se0m.cloudfront.net
 d2a80scaiwzqau.cloudfront.net
@@ -64073,6 +64074,7 @@ ewflxysvydeg.top
 ewhafoup.com
 ewhareey.com
 marketing.ewi.org
+ewilmiw.top
 ewituhinlargeconsu.com
 ewiver.com
 ewjhic.cn
@@ -74307,6 +74309,7 @@ ghaziabadmarket.com
 hchlqx.ghbass.com
 info.ghd.com
 gheras.sa
+ghettosteal.shop
 ads.ghettotube.com
 ghgasdt963.shop
 ghiftshop.com
@@ -87628,6 +87631,7 @@ indianimmigration.org
 indianlinkexchange.com
 indianonlinevisas.org
 stats.indianpornempire.com
+stats2.indianpornempire.com
 ads.indians.com
 indiansgenerosity.com
 indiantravelvisa.com
@@ -91104,6 +91108,7 @@ metrics.ireport.com
 smetrics.ireport.com
 iresandal.info
 ssc.irfaasawtak.com
+irgidshiv.com
 irgxwk.xyz
 irha.jp
 irhpzbrnoyf.com
@@ -91991,6 +91996,7 @@ iwwmaq.xyz
 iwyrldaeiyv.com
 ix-orp.net
 linkx.ix.tc
+ix4.icu
 ixafr.com
 cvhefd.ixbt.com
 jitsu.ixbt.com
@@ -95329,6 +95335,7 @@ tracker.joongang.co.kr
 joopaish.com
 tracker.joost.com
 jootizud.net
+joozoowoak.net
 jopbvpsglwfm.com
 jopd.ru
 a8clk.joppy.jp
@@ -114686,6 +114693,7 @@ trdbu.more-t.top
 more427.net
 morechiropatients.com
 clk.moredazzle.org
+moredetaailsh.com
 morefreecamsecrets.com
 morefriendly.com
 moreget.net
@@ -140811,6 +140819,7 @@ oatdbtwdu.qnssl.com
 ohrgflbcm.qnssl.com
 trk.qntrk.com
 elqforms.qnx.com
+qnyysdideo.com
 qoaaa.com
 tk.qobuz.com
 qogearh.com
@@ -144381,6 +144390,7 @@ relmaxtop.com
 reloadcapsule.com
 reloadedhacks.com
 reloadphoto.com
+relockembarge.shop
 relogotd.com
 relojchic.com
 go.relpro.com
@@ -148093,6 +148103,7 @@ rvetreyu.net
 rvfrm2005.com
 rvgr.buzz
 rviqayltwu.love
+rvisofoseveralye.com
 ns.rvmkitt.com
 static.rvndigital.com
 ingest.make.rvohealth.com
@@ -154036,6 +154047,7 @@ voice-mail-message.silminiberica.eu
 reklama.silnet.pl
 silnyu.monster
 zcs.silomanagement.gr
+silpharapidly.com
 silphidbilati.com
 silpost.info
 silpost.life
@@ -170536,6 +170548,7 @@ totalwowblog.com
 totalwownews.com
 info.totango.com
 totemcash.com
+totemsplurgy.top
 totentacruelor.com
 bhmzab.totes.com
 totlnkbn.com
@@ -175775,6 +175788,7 @@ unmantyker.com
 unmasque.ru
 unmei-kaika.com
 unmei2023.com
+unmetlittle.shop
 unmillondeutilidades.com
 resources.unmind.com
 unmistdistune.guru
@@ -176240,6 +176254,7 @@ filter.uptowntraction.com
 xml.uptowntraction.com
 pj.uptraceforlore.com
 uptracs.com
+uptraindustmen.top
 uptrendsdata.com
 uptvmovies.uptv.com
 upupdate.ooguy.com
@@ -178300,6 +178315,7 @@ vba.ru
 vbanalytics.com
 vbciopasdfg.biz
 go.vbclk.com
+vbcyukwuj.com
 vbdpublications.com
 track.vbet.am
 track.vbet.co.uk
@@ -181835,6 +181851,7 @@ a.vtvdigital.vn
 st-a.vtvdigital.vn
 vtveyowwjvz.com
 vtvtelugu.com
+vtydavos.com
 vu-betredirect1.com
 vu-kgxwyxpr.online
 study.vu.edu.au
@@ -182117,6 +182134,7 @@ vytozou.com
 metrics.vyvansepro.com
 smetrics.vyvansepro.com
 trk.vyve.in
+vyxanrtgkrbsbl.com
 links.vyzivovetabulky.sk
 partneri.vyzvaproimunitu.cz
 adv.vz.ru
@@ -192662,6 +192680,7 @@ smetrics.zodiacshoes.com
 zodiakactive.com
 zodialand.com
 zodize.com
+zoeacaring.com
 zoeaegyral.com
 zoeaesthetic.com
 zoeaethenar.com
