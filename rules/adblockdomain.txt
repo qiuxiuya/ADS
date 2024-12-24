@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20241224162315
-! Last modified: 2024/12/24 16:23:15
-! Blocked domains: 193652
+! Version: 20241225002119
+! Last modified: 2024/12/25 00:21:19
+! Blocked domains: 193660
 !
 0-0.fr
 0-02.net
@@ -27294,7 +27294,6 @@ dataflow.biliapi.com
 grpc.biliapi.net
 cm.bilibili.com
 data.bilibili.com
-live-trace.bilibili.com
 miniapp.bilibili.com
 line1-log.biligame.net
 bilightonline.com
@@ -39619,7 +39618,6 @@ smetrics.chip1stop.com
 secure.chip2gift.com
 www.chip2gift.com
 chip35.ru
-chipcy.com
 ip.chipestimate.com
 chipheeshimseg.net
 chipilines.com
@@ -55888,6 +55886,7 @@ info.doigcorp.com
 doigtangles.click
 smetrics.doingbusiness.org
 doinntz6jwzoh.cloudfront.net
+doint.info
 delivery.doisongphapluat.com.vn
 ads.doit.com.cn
 data.marketing.doitbest.com
@@ -70712,6 +70711,7 @@ freedomdesignsonline.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
 freedomfromnostalgia.com
+freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -81678,6 +81678,7 @@ sstats.hfflp.com
 hffxc.com
 marketing.hfgagents.com
 hfhppxseee.com
+hfisngksng.com
 hfiwcuodr.com
 hfjmvr.xyz
 hfkncj-qalcg.top
@@ -102058,6 +102059,7 @@ ledger-wallet.us
 pages.ledger.com
 ledgerlivewallets.com
 ledgerliveweb.com
+ledgerslive.org
 ledgerweb.io
 marketing.ledgeviewpartners.com
 ledgtek.com
@@ -106465,6 +106467,7 @@ m4su.online
 m4thslot.com
 m4uhd.cc
 innovation.m5.net
+m51.icu
 m53frvehb.com
 m549z.site
 m5fgdz.lol
@@ -118853,7 +118856,6 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
-navi42.ru
 navi45.ru
 navi5.com
 navi50.com
@@ -125988,6 +125990,7 @@ openadserving.com
 openadsnetwork.com
 ounion.openadx.com
 openai-soratexts.com
+openai.parts
 data-47ee1b0882.openairkino-langen.de
 openaisoralabs.com
 aggelakia.openapp.link
@@ -142217,6 +142220,7 @@ qwex.ru
 qwfh39851jtfvkurf21hf.com
 qwiklnk.com
 qwilforcast.click
+qwilmiy.top
 qwivhkmuksjodtt.com
 qwkmiot.com
 qwoyfys.com
@@ -154118,6 +154122,7 @@ tracking.ps.shutterstock.com
 trk.info.shutterstock.com
 zrsetz.shutterstock.com
 shuttersurveyednaive.com
+shuucerz.com
 refer.shuuemuraartofhair-usa.com
 shuzilm.cn
 shuzugakutoo.com
@@ -154418,6 +154423,7 @@ sikkerplassnet.wpenginepowered.com
 sikkerportal-boks.com
 sikkertapotek.com
 spoluprace.sikland.cz
+sikncs.com
 sikrouxoopte.net
 sikshyabarta.com
 ktocpw.silabg.com
@@ -170987,6 +170993,7 @@ towerofbabble.net
 towersalighthybrids.com
 towerslady.com
 towersresent.com
+towmfs.com
 aiq-in.townandcountrymag.com
 td.townandcountrymag.com
 ads.townhall.com
@@ -192302,6 +192309,7 @@ zerospinstocks.com
 zerostear.world
 go.zerotothree.org
 zttemail.zerotothree.org
+zerowasteinitiative.com
 zesemen.cz
 zesep.com
 zeshanhaider.com
