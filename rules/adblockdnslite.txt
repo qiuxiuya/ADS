@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20241227002149
-! Last modified: 2024/12/27 00:21:49
-! Blocked domains: 5599
+! Version: 20241227092042
+! Last modified: 2024/12/27 09:20:42
+! Blocked domains: 5600
 ! unBlocked domains: 16
 !
 ||00xvppy.cn^
@@ -3449,6 +3449,7 @@
 ||palm-ad.cn^
 ||vip.panggugu.com^
 ||panyh123456.cn^
+||paonancs.cn^
 ||papayamobile.com^
 ||bt1.patexplorer.com^
 ||pbaiyho.cn^
@@ -3576,7 +3577,6 @@
 ||qawxpzm.cn^
 ||qbdgame.com^
 ||139520.aioc.qbgxl.com^
-||912648.aioc.qbgxl.com^
 ||qchannel04.cn^
 ||qcjslm.com^
 ||log.qvb.qcloud.com^
@@ -5448,6 +5448,7 @@
 ||adapi.yynetwk.com^
 ||yystzl.cn^
 ||yywridi.cn^
+||yzkzixun.com^
 ||yznwyng.cn^
 ||yktj.yzz.cn^
 ||zampda.net^
