@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20241228162107
-! Last modified: 2024/12/28 16:21:07
-! Blocked domains: 194083
+! Version: 20241229002023
+! Last modified: 2024/12/29 00:20:23
+! Blocked domains: 194093
 !
 0-0.fr
 0-02.net
@@ -3151,7 +3151,7 @@ jh0spt0d.6619462.com
 663008888.com
 665166e5a9.com
 6651tp.com
-de597327a9.6657e4f5c2.com
+6657e4f5c2.com
 6662a5efa0.com
 666579.xyz
 www.6666349.com
@@ -3890,6 +3890,7 @@ c150420df3.8c1204d49f.com
 8cnd.com
 8coins.net
 8coins.ru
+8cp.icu
 8345efe11f.8d742929b8.com
 8d96fe2f01.com
 8db4fde90b.com
@@ -23301,6 +23302,7 @@ be-sms.com
 be22.com
 ads.be2hand.com
 be30660063.com
+be51586160.com
 response.bea.com
 response.b2b.bea.com
 bea988787c.com
@@ -66803,6 +66805,7 @@ adtarget.fcbrookies.cat
 smetrics.fcbrookies.cat
 smeasurement.fcc-fac.ca
 n.fcd.su
+fceedf7652.com
 fcepahafyq.com
 fcfg.pl
 fcg114.com
@@ -80986,6 +80989,7 @@ hciaicdbiahibedhae.world
 go.marketing.hcibulletin.com
 hcilralhi.com
 hcliips.com
+hclimiu.top
 internal.hcltech.com
 response.hcltech.com
 tracking.hcltech.com
@@ -81658,6 +81662,7 @@ helltraffic.com
 data-c5740f79ff.hellwegeranzeiger.de
 data-e9439b5f81.hellwegeranzeiger.de
 helm-wind.sbs
+helmethomicidal.com
 helmetregent.com
 helmetstrap.click
 qonwdq.helmexpress.com
@@ -93525,6 +93530,7 @@ adserve.jbs.org
 go.jbtc.com
 jbtul.com
 jbvmix.link
+jbvoejzamqjzl.top
 jbwiujl.com
 jscode.jbzj.com
 jsjs.jbzj.com
@@ -116990,6 +116996,7 @@ muriheem.net
 murkybrashly.com
 murkymouse.online
 murlidharrope.com
+murolwsi.com
 murphydrying.com
 murqyi.com
 track.murray-income.co.uk
@@ -145083,6 +145090,7 @@ relevantknowledge.com
 relevanz10.de
 data.relevo.com
 sadbmetrics.relevo.com
+relgrads.com
 email.reliability.best
 reliable-track.com
 reliablebanners.com
@@ -169053,6 +169061,7 @@ ad.thsi.cn
 luisddargo.thsite.top
 data.crm-edm.thsrc.com.tw
 thudsurdardu.net
+thuekhachsan.com.vn
 data-1fbcf6d7f5.thueringen-gedenkt.de
 data-a6faa6efe2.thueringen-gedenkt.de
 xxfdcz.thueringer-jobanzeiger.de
@@ -180430,6 +180439,7 @@ viiadr.com
 viiatomicnumber.com
 viiavjpe.com
 viibest.com
+viibmmqc.com
 med.viibryd.com
 meds.viibryd.com
 med.viibrydhcp.com
