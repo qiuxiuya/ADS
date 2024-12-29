@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20241229002023
-! Last modified: 2024/12/29 00:20:23
-! Blocked domains: 194093
+! Version: 20241229092745
+! Last modified: 2024/12/29 09:27:45
+! Blocked domains: 194101
 !
 0-0.fr
 0-02.net
@@ -16142,6 +16142,7 @@ apcatcltoph.com
 communicate.apcerls.com
 apclass.com
 apcoi.com
+apconsultantgroup.com
 email.m.apcoworldwide.com
 apcpaxwfej.com
 fun.apcplay.com
@@ -84364,6 +84365,7 @@ hotstoriesnews.best
 smetrics.hotsy.com
 inpost.hottanet.shop
 hottdates.com
+hottedholster.com
 hottercensorbeaker.com
 hottest-girls-online.com
 hottestnumbers.xyz
@@ -86722,6 +86724,7 @@ info.ielts.com.au
 go.ieltsusa.org
 ieluqiqttdwv.com
 iemcan.com
+iemhotqk.com
 iemiq.com
 iemqualifiers.com
 iemwbu.cn
@@ -143352,6 +143355,7 @@ tracking.rapidape.com
 static.rapidbidhub.com
 rapideworks.com
 6165.rapidforum.com
+rapidfoxengine.com
 rapidgameshacks.com
 static.rapidglobalorbit.com
 rapidhits.net
@@ -148817,6 +148821,7 @@ rutrk.org
 rutskirming.com
 ruttwind.com
 log.rutube.ru
+ssp.rutube.ru
 yast.rutube.ru
 rutvind.com
 ruuaqkw.com
@@ -148864,6 +148869,7 @@ share.rvshare.com
 rvsmoda.com
 rvvmynjd.love
 rvwifitv.com
+rvxmlj.icu
 rvzlobj.cn
 rvzr-a.akamaihd.net
 yurobl.rw-co.com
@@ -159048,6 +159054,7 @@ spoilerpoint.com
 spoilmagicstandard.com
 spoilphysiqueteenagers.com
 spoilqueens.com
+spokanchap.com
 app.spokanepfd.org
 embed.spokenlayer.com
 spokeo.pl
@@ -181496,6 +181503,7 @@ usr.vjqiqow.top
 www.vjsoft.net
 vjugz.com
 vjybuykaxz4.com
+vjzvgvgz.icu
 vk-ads.ru
 prod.html5-ads.vk-apps.com
 stats.vk-portal.net
