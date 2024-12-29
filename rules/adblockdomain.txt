@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20241229162127
-! Last modified: 2024/12/29 16:21:27
-! Blocked domains: 194957
+! Version: 20241230002006
+! Last modified: 2024/12/30 00:20:06
+! Blocked domains: 194968
 !
 0-0.fr
 0-02.net
@@ -3591,6 +3591,7 @@ ss.6ib.ru
 6j296m8k.de
 6j9.cc
 6kk2a4t.com
+6ku.icu
 www.6kwan.com
 6l0bal5t0re.xyz
 6l0balc0re.xyz
@@ -59706,6 +59707,7 @@ eclkmpbn.com
 eclkmpsa.com
 eclkspbn.com
 eclkspsa.com
+eclqhkyjqpcv.com
 smetrics.ecmweb.com
 analytics.lasegunda.ecn.cl
 adverts.ecn.co.uk
@@ -93482,6 +93484,7 @@ hvac.solutions.jci.com
 jcidhakaelite.com
 a8clk.asp.jcity.co.jp
 uszm.jcizjumz.top
+jclimia.top
 jclrwjceymgec.com
 a8cv.jcom.co.jp
 sp.jconline.com
@@ -96419,6 +96422,7 @@ jsqygwl.top
 jsrdn.com
 jsretra.com
 jssearch.net
+jssejsnvdy.com
 jsshen.com
 analytics.jst.ai
 cdn.jst.ai
@@ -116630,6 +116634,7 @@ anna.mtprogram.xyz
 da.mtprogram.xyz
 max.mtprogram.xyz
 pas.mtprogram.xyz
+mtptaewihgbzcq.com
 f0.mtqys.com
 f1.mtqys.com
 f2.mtqys.com
@@ -124910,6 +124915,7 @@ ogeeztf.com
 ogefer.com
 ogercron.com
 ogeri.ru
+ogfaqwwux.com
 ogfba.net
 ogfbb.net
 ogfbc.net
@@ -145026,6 +145032,7 @@ recypes.com
 recznekatalogowanie.pl
 red-bees.com
 nrg.red-by-sfr.fr
+red-just-fit.click
 red-track.net
 red-track.xyz
 red12flyw2.site
@@ -151887,6 +151894,7 @@ app.scrpbx.co
 scruboutdoorsoffensive.com
 scrubsky.com
 scrubswim.com
+scrugokl.com
 mongoose.scrumgenius.com
 scrutinizeordealscrutinize.com
 scrynesgxher.life
@@ -159522,6 +159530,7 @@ sphostserver.com
 sphygmic.info
 www2.spi.com
 spicciolo.com
+spice-sugar.net
 spiceethnic.com
 spicenext.com
 spiceocean.co.uk
@@ -161300,6 +161309,7 @@ steinfqwe6782beck.com
 metrics.steinhafels.com
 stats.steirerjobs.at
 stel.site
+stella-nova.click
 anteater.stella-projects.de
 cv.stella-s.com
 blum.stellaplus.xyz
@@ -190526,6 +190536,7 @@ xq12.com
 xq5tf4nfccrb.info
 xqblnei.cn
 xqcjfcb.cn
+xqdbitceeeixnw.com
 xqeoitqw.site
 xqjqripb.xyz
 xqmvzmt.com
