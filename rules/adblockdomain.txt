@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20241230002006
-! Last modified: 2024/12/30 00:20:06
-! Blocked domains: 194968
+! Version: 20241230092300
+! Last modified: 2024/12/30 09:23:00
+! Blocked domains: 194972
 !
 0-0.fr
 0-02.net
@@ -43935,6 +43935,7 @@ usps.com-tracking-helpsanm.cc
 usps.com-tracking-helpsanu.cc
 usps.com-tracking-helpsco.cc
 usps.com-tracking-helpsdo.cc
+usps.com-tracking-helpsenf.xyz
 usps.com-tracking-helpseo.cc
 usps.com-tracking-helpsip.cc
 usps.com-tracking-helpsiu.cc
@@ -71194,7 +71195,6 @@ freedomdesignsonline.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
 freedomfromnostalgia.com
-freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -88983,6 +88983,7 @@ infotop.jp
 load.sst.appsfortableau.infotopics.com
 adserver.infotorg.se
 go.infotrack.com
+u.infotrackcd.top
 u.infotrackeqc.top
 infotrackhk.top
 infotrackiut.top
@@ -108992,6 +108993,7 @@ info.marshmsp.com
 marshnow.com
 info.marshpcs.com
 partner.marspom.cz
+cookie.marsus.digital
 martafatass.pro
 marteeletronica.com
 martenconstellation.com
@@ -119537,6 +119539,7 @@ navi56.com
 navi58.com
 navi59.ru
 navi6.com
+navi61.ru
 navi63.ru
 navi65.com
 navi66.ru
@@ -133626,7 +133629,6 @@ smetrics.plumbingtoday.biz
 smetrics.plumblineservices.com
 plumbsplash.com
 analytics.plumbworld.co.uk
-miles.plumenetwork.xyz
 go.plumlending.com
 plumpcontrol.pro
 plumpdianafraud.com
@@ -142008,6 +142010,7 @@ pysznepl.blogspot.com
 pytae.com
 pytamyozdanie.click
 ape.pytch.co.uk
+pytexb.icu
 pytgg.xyz
 pythclickair.com
 dcs.pyur.com
@@ -175313,7 +175316,6 @@ px.tvadsync.com
 tvadtracker.com
 id.tvanalytics.net
 ads.tvb.com
-ads.cdn.tvb.com
 koifrz.tvc-mall.com
 tr.emailing.tvcaraibes.tv
 logger.tvchosun.com
@@ -183962,6 +183964,7 @@ omniture.walmart.com
 omniture-ssl.walmart.com
 smetrics.walmart.com
 tracking01.walmart.com
+walmartchina.top
 walmartgiftcard.sbs
 metrics.walmartmoneycard.com
 share.walmartmoneycard.com
@@ -189538,6 +189541,7 @@ xalienstreamx.com
 xalzny.xyz
 xamar.org
 xameleonads.com
+xamniksq.com
 xamssp.icu
 bsodsm8r.xamzgjedu.com
 xanadu-du.com
