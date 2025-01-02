@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250102002114
-! Last modified: 2025/01/02 00:21:14
-! Blocked domains: 194654
+! Version: 20250102092019
+! Last modified: 2025/01/02 09:20:19
+! Blocked domains: 194666
 !
 0-0.fr
 0-02.net
@@ -9579,6 +9579,7 @@ afflight.biz
 afflnx.com
 affluenceseptember.com
 static.affluent.io
+affluentarmyequator.com
 login.affluentco.com
 affluentcompere.com
 affluentretinueelegance.com
@@ -14150,6 +14151,7 @@ animemeat.com
 animememehub.com
 animenime.ru
 animeplaynow.com
+animeshoppers.com
 api.animeshqip.icu
 animi2.com
 animits.com
@@ -66160,6 +66162,7 @@ faraweilyas.com
 farbankthy.live
 sst.farbenwaldfestival.de
 farceurincurve.com
+farcivinage.shop
 fardasub.xyz
 fardinhakimi.com
 farenetworks.com
@@ -78597,6 +78600,7 @@ groutsukooh.net
 grova.buzz
 grova.xyz
 grovam.com
+grovkuma.com
 secure.grow1maid.com
 www.grow1maid.com
 growadvertising.com
@@ -102752,6 +102756,7 @@ cdn.legistco.ru
 legiswoollen.shop
 test.legitcode.ws
 legitdrug.com
+legitfizzed.shop
 legitimatelubricant.com
 legitimatemess.pro
 legitimatepowers.com
@@ -106140,6 +106145,7 @@ lpuafmkidvm.com
 lqbzuny.com
 lqcaznzllnrfh.com
 lqcngjecijy.rocks
+lqlwjr.icu
 cdn.lqm.io
 h.lqm.io
 tracking.lqm.io
@@ -121894,6 +121900,7 @@ trdngm.nieza.site
 niezaklocony.click
 niezawodneinfo.click
 niezawodny-dzien.com
+niflpmfn.com
 nifracomtra.com
 a8cv.nifty.com
 bmzuyj.nifty.com
@@ -131390,6 +131397,7 @@ tr.news.perl.fr
 perlatoshoe.com
 perleroyal.com
 trk.perlicka.cz
+perlika.com
 perljs.com
 permalink-system.com
 permanentadvertisebytes.com
@@ -141612,6 +141620,7 @@ qguwoq.cn
 qgxbluhsgad.com
 www.qh521.com
 qhapoq.xyz
+qhatarsl.com
 qhdhtd.com
 qhdtlgthqqovcw.xyz
 qhdzljxsb.cn
@@ -144997,6 +145006,7 @@ regalteathe.com
 regardedcontentdigest.com
 regardsperformedgreens.com
 regardsshorternote.com
+regardviolas.shop
 acrotg.regatta.com
 regaveskeo.com
 regdefense.com
@@ -146957,6 +146967,7 @@ riomeridianhotels.com
 riontmed.pics
 go.riosalado.edu
 campaigns.rioseo.com
+riotedstuccos.top
 analytics.developer.riotgames.com
 riotgive.com
 riotjav11.fun
@@ -188291,6 +188302,7 @@ wortapolkes.com
 worteinstitute.com
 xiuksf.worten.es
 ygmpia.worten.pt
+worthas.shop
 worthathousandwords.com
 worthlesspattern.com
 worthlessstrings.com
