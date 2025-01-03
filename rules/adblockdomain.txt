@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250103002212
-! Last modified: 2025/01/03 00:22:12
-! Blocked domains: 191336
+! Version: 20250103092110
+! Last modified: 2025/01/03 09:21:10
+! Blocked domains: 191371
 !
 0-0.fr
 0-02.net
@@ -4944,6 +4944,7 @@ adbmetrics.abc.es
 data.abc.es
 rrss.abc.es
 sadbmetrics.abc.es
+collector.abc.net.au
 ywrcqa.abc10.com
 ewstv.abc15.com
 axp.abc27.com
@@ -23775,6 +23776,7 @@ zesgky.belambra.fr
 belamicash.com
 belaruspress.com
 adobe-analytics-dc.belastingdienst.nl
+belatedwricht.com
 belatrend.com
 belavoplay.com
 app.belbet.by
@@ -24359,7 +24361,6 @@ communication.bestbuy.com
 smetrics.bestbuy.com
 str2-bbyca-track.bestbuy.com
 str2-fsca-track.bestbuy.com
-tmx.bestbuy.com
 bestbuyereviews.com
 image.communications.bestbuypromotions.ca
 bestcandyever.com
@@ -35687,6 +35688,7 @@ caravancomplimentenabled.com
 caravanfried.com
 caravanremarried.com
 adbmetrics.caravantur.eus
+caravelvirent.com
 data-ede3421766.caraworld.de
 data-f10a591664.caraworld.de
 tr.newsletter.caray.fr
@@ -39115,6 +39117,7 @@ community.chpw.org
 info.chr-hansen.com
 best.chr0meqpyt.click
 chrantary-vocking.com
+chrgtdhpwf.com
 chris-jasnowidz.pl
 data.email.chriscarter.io
 dhiva-test.email.chriscarter.io
@@ -47640,6 +47643,7 @@ cuttit.com
 cuttlefly.com
 cutupslawnservice.com
 cuty.io
+cuvedyqs.com
 cuveley.com
 cuvtnzv.cn
 webtracking.cuwebinars.com
@@ -48428,6 +48432,7 @@ d2z0gqc8sv0l7p.cloudfront.net
 d2z51a9spn09cw.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d2zbpgxs57sg1k.cloudfront.net
+d2zbrsgwxpxcye.cloudfront.net
 d2zcblk8m9mzq5.cloudfront.net
 d2zf5gu5e5mp87.cloudfront.net
 d2zh7okxrw0ix.cloudfront.net
@@ -51716,7 +51721,7 @@ devcloudai.com
 devcolnack.com
 smetrics.devcommittee.org
 devconn.co
-uvac.devcre.site
+devcre.site
 events.devcycle.com
 assets.devdesenvolvimento.com.br
 deveinsembrues.shop
@@ -54453,6 +54458,7 @@ partner.doleo.cz
 doleyorpinc.website
 dolfinex.com
 dolicars.com
+dolils.click
 secure.doll8tune.com
 www.doll8tune.com
 secure.doll9jiva.com
@@ -62818,6 +62824,7 @@ ex-traffic.com
 a8clk.ex-wifi.jp
 cdn.ex.co
 cdn-channels-pixel.ex.co
+collector-1.ex.co
 embed.ex.co
 gpv.ex.co
 pixel.ex.co
@@ -67741,6 +67748,7 @@ banner-storage.fo.ru
 messagerlev0cal8883900.fo.team
 foagrucheedauza.net
 foakiwhazoja.com
+foaloocasho.net
 foalwoollenwolves.com
 foambench.com
 foamgaza.com
@@ -69227,6 +69235,7 @@ freedomdesignsonline.com
 tags.freedomfinancialnetwork.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
+freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -75433,6 +75442,7 @@ gooseme.com
 goosierappetit.com
 gooso.org
 goossb.com
+goothoozuptut.net
 gootop.top
 gootung.com
 goourl.me
@@ -84983,6 +84993,7 @@ emailhoteldevelopment.ihg.com
 target.ihg.com
 ihhqwaurke.com
 a8.ihinnoseiriyasan.com
+ihiptootchouds.xyz
 ihkybtde.com
 adsrv2.ihlassondakika.com
 m.communications.ihmvcu.org
@@ -91196,6 +91207,7 @@ ss.japebo.dk
 ss.japebo.no
 japfg-trending-content.uc.r.appspot.com
 qc.japo.vn
+japootchust.net
 japscat.org
 japtron.es
 jaqxaqoxwhce.com
@@ -93277,6 +93289,7 @@ jimmydelong.com
 acxajt.jimmykey.com
 jimrichardi.com
 jimscobra.com
+jimtighoafoorg.net
 smetrics.jimwilsonchevrolet.com
 ads.jimworld.com
 jinair.nsc.jinair.com
@@ -94461,6 +94474,7 @@ jtexprez.top
 www.jtexprsva.vip
 jtexspress.com
 jthomemakerandcompanionservices.com
+jthotb.icu
 xzx.jtiasfkkg.xyz
 jtj-law.com
 jtkjixnmj.org
@@ -106079,6 +106093,7 @@ mamidushop.xyz
 mamieastuce.com
 mamielournes.buzz
 dt-tracker.mamikos.com
+mamimp.click
 data-a6c3c2bffa.mamiweb.de
 mamiya-club.com
 mamjkg.xyz
@@ -115129,6 +115144,7 @@ fish.muted.io
 muteknife.com
 mutemailbox.com
 mutenessdollyheadlong.com
+muthaafoundation.org
 mutily.com
 mutinycdn.com
 mutinydisgraceeject.com
@@ -117398,6 +117414,7 @@ naupseko.com
 nauthait.com
 nauticalnirvana.xyz
 tr.email.nauticexpo.com
+nautijutheest.net
 nautikacorp.com
 app.nautilus.io
 nauwheer.net
@@ -117479,6 +117496,7 @@ navi5.com
 navi50.com
 navi53.com
 navi54.com
+navi55.ru
 navi56.com
 navi58.com
 navi59.ru
@@ -119959,6 +119977,7 @@ nip28.com
 nip29.com
 nip3.com
 nip4.com
+nip44.com
 nip5.com
 nip57.com
 nip69.com
@@ -123229,6 +123248,7 @@ okoshkah.com
 trk.okotechnik.hu
 okoyxx.com
 okpp01021.xyz
+okpp01030.xyz
 okrasbj6.de
 pcwkmq.okrentacar.es
 okropneczasy.click
@@ -125686,6 +125706,7 @@ ssads.osdn.com
 toads.osdn.com
 osecweb.ir
 osef.co.il
+oselamousey.com
 osementertainments.com
 ad.osen.co.kr
 osfkfaacqx.com
@@ -126109,6 +126130,7 @@ sfiycb.outerknown.com
 outervisionfilms.com
 outerwear.cfd
 outetparkss-fr.com
+outfeatjamshid.com
 apps.outfit7.com
 apps2.outfit7.com
 cdn.outfit7.com
@@ -133089,6 +133111,7 @@ mit.postbank.de
 www.postbede.info
 adserv.postbulletin.com
 canada.postcanadajwt.vip
+canada.postcanadakxcif.top
 canada.postcanadantwb.top
 canada.postcanadarhx.vip
 canada.postcanadassd.vip
@@ -139613,6 +139636,7 @@ qqc.co
 qqdwz.com
 down.qqfarmer.com.cn
 qqganna.icu
+qqgiopiwwuv.com
 qqguvmf.com
 qqhr2008.com
 qqhuhu.com
@@ -142615,6 +142639,7 @@ registrydefender.com
 registryfix.com
 registrysweeper.com
 regiveshollas.shop
+reglazepatriae.com
 reglement-2024-order.com
 metrics.regnodellegno.com
 regnow.com
@@ -144077,6 +144102,7 @@ rhinogo.cn
 rhinoseo.com
 mdtp.rhknt.ru
 rhkyufodw8ochdr3ogsite.com
+rhndvagz.icu
 wpc.32df9.rhocdn.net
 info.rhodeswilliams.com
 data-a91b4f801d.rhoenundsaalepost.de
@@ -144288,6 +144314,7 @@ lxspfv.ridersdeal.com
 info.ridewithvia.com
 link.ridewithvia.com
 ridgeline-motors.com
+ridgerkimono.com
 ridgewaykite.com
 ridiculousegoismaspirin.com
 ridikoptil.net
@@ -159349,6 +159376,7 @@ widget.subiz.xyz
 subjectamazement.com
 subjectedburglar.com
 subjectscooter.com
+subjectsfaintly.com
 subjectslisted.com
 subletyoke.com
 ads.sublimedirectory.com
@@ -164514,6 +164542,7 @@ tersonia.com
 tertiafrush.top
 tertracks.site
 reach.terumo-bct.com
+terverystaio.info
 gqqgsp.tervis.com
 innovation.terwolde.nl
 terytoriummiejskie.click
@@ -167158,6 +167187,7 @@ ugdcxl.timeout.jp
 ugdcxl.timeout.pt
 neobasnet.timeout.ru
 timepieces.com.sg
+timersbedbug.com
 bxumze.times-gazette.com
 z216.times-standard.com
 app.times.radio
@@ -176468,6 +176498,7 @@ vefbordi.is
 vega-vareza.com
 vegabet.net
 tracking.vegaid.vn
+vegamartz.com
 vegamusicdistribution.com
 vegandietary.com
 vgo.vegaoo.com
@@ -178279,6 +178310,7 @@ visatorrealty.com
 visatut.com
 ipkqcb.visby.pl
 viscountquality.com
+viscusumgang.shop
 analytics.data.visenze.com
 visfirst.com
 vishalpatwa.com
@@ -184433,6 +184465,7 @@ woaniphud.com
 woapheer.com
 woapimaugu.net
 woaq5l6.today
+woareejoaley.net
 quobblewhack.wobbleflib.store
 data-5c543e37c1.wochenblatt-dlv.de
 data-a59dd2af3b.wochenblatt-dlv.de
@@ -186917,6 +186950,7 @@ secureforms.xperthr.com
 elq.xperthr.nl
 secureforms.xperthr.nl
 xpffkbpq.xyz
+xpfxerjythj.com
 xphcrjth.xyz
 xphotos-album.com
 xphotos.net
@@ -187389,7 +187423,7 @@ stat.xywy.com
 stat-y.xywy.com
 stat-z.xywy.com
 xyxy01.com
-wz.xyxz.site
+xyxz.site
 xyy12.cc
 xyy13.cc
 xyy17.cc
@@ -187727,6 +187761,7 @@ yatrk.xyz
 ojmxro.yatsan.com
 yaudience.com
 yauperstote.top
+yauponbotone.com
 yautube.com
 yavli.com
 yavteam.com
