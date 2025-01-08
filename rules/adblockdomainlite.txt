@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250108092122
-! Last modified: 2025/01/08 09:21:22
-! Blocked domains: 5579
+! Version: 20250108162351
+! Last modified: 2025/01/08 16:23:51
+! Blocked domains: 5568
 !
 00xvppy.cn
 011.com
@@ -86,6 +86,7 @@ stat.ws.126.net
 webstat.ws.126.net
 yt-adp.ws.126.net
 iadmat.nosdn.127.net
+iadmatapk.nosdn.127.net
 iadmatvideo.nosdn.127.net
 pg-ad-b1.nosdn.127.net
 wanproxy.127.net
@@ -188,7 +189,6 @@ m.23txt.com
 2481e.com
 2607.cn
 js.263y.com
-a1.289.com
 2bj.cn
 2mdn-cn.net
 2pogg4c.cn
@@ -305,7 +305,6 @@ js.51ir.cn
 trace.51jingying.com
 51la.net
 51link.com
-a1.51shiti.cn
 51taifu.com
 ad.video.51togic.com
 ad.51wnl-cq.com
@@ -441,7 +440,6 @@ bcs.91.com
 www.91.com
 zs.91.com
 911.cc
-img.911787.com
 bdm.911cha.com
 new.915yzt.cn
 m.91heima.cn
@@ -463,8 +461,6 @@ www.95599.cn
 9800.com
 whfpbc.99.com.cn
 w18.9939.com
-a1.99933.cn
-a1.99966.cn
 999bb222ww.com
 99box.com
 p.99mssj.com
@@ -735,11 +731,13 @@ anysdk.com
 aoopj.top
 aoqinglv.cn
 spofpe.apatite.cn
+app-analytics-services.com
 app-measurement.com
 mobile.appchina.com
 appdriver.cn
 appgift.sinaapp.com
 apple-crt-portal-online.com
+iadcontent.apple.com
 iadsdk.apple.com
 xp.apple.com
 securemetrics.apple.com.cn
@@ -809,7 +807,6 @@ tracking.babytree.com
 game.baichuanhd.cn
 advertise.baicizhan.com
 advertise.baicizhan.org
-a.baidinet.com
 union.baidu.cn
 a.baidu.com
 ada.baidu.com
@@ -984,8 +981,6 @@ q.baminw.com.cn
 bangqidq.com
 active.baofeng.com
 midinfo.baofeng.com
-a.baomihua.com
-resource.baomihua.com
 bartender.cc
 etwvvde.baspk.cn
 webpage.batianhu.cn
@@ -1072,7 +1067,6 @@ img11.biyan8.com
 as.bjmama.net
 bjmcmj.cn
 bjvvqu.cn
-bkcsr.cn
 file.blackint3.com
 gg.blueidea.com
 license.bluesoleil.com
@@ -1106,6 +1100,7 @@ dlogs.bwton.com
 creative.bxsnews.com
 bxwccii.cn
 correosytelegrafos.bxze.cn
+monitor-frontend-collector.a.bybit-aws.com
 bydcxdy.cn
 byscy.cn
 dm.bytedance.com
@@ -1117,6 +1112,7 @@ tnc3-bjlgy.bytedance.com
 isub.snssdk.com.bytedns.net
 log.snssdk.com.bytedns.net
 open.snssdk.com.bytedns.net
+lf1-cdn-tos.bytegoofy.com
 p1-feedback.byteimg.com
 p3-tt.byteimg.com
 p6-ad-sign.byteimg.com
@@ -1129,7 +1125,6 @@ c4d4.cn
 caduka.cn
 download.caihong.com
 gg.caixin.com
-pinggai5.caixin.com
 ad.caiyunapp.com
 api.callget.cn
 smetrics.calvinklein.cn
@@ -1350,7 +1345,6 @@ cuxqy.com
 www.cvfww.cn
 z1.cwbaike.com
 cwc494e.cn
-cxgrjb.cn
 api.cxzudwk.com
 ding.cxzudwk.com
 vidfree.net.cy-isp.com
@@ -1358,7 +1352,6 @@ cy8w.com
 abyss.cyapi.cn
 ad.cyapi.cn
 cyhbrjf.cn
-a1.cyyangqiguan.com
 c1.czcol.cn
 bd.czxuexi.com
 ggjs.d17.cc
@@ -1403,6 +1396,7 @@ dtm-dre.platform.dbankcloud.cn
 events-drcn.op.dbankcloud.cn
 grs.dbankcloud.cn
 httpdns-browser.platform.dbankcloud.cn
+httpdns.platform.dbankcloud.cn
 hwpub-s01-drcn.cloud.dbankcloud.cn
 logservice-dre.platform.dbankcloud.cn
 logservice1.dbankcloud.cn
@@ -1608,7 +1602,6 @@ easytomessage.com
 eatafeta.cc
 ebjvu.cn
 eblnzoq.cn
-ebqf.cn
 jb.ecar168.cn
 msg.eclicks.cn
 ecudsc.cn
@@ -1673,6 +1666,7 @@ g.f11w.com
 c1313.f28014.cn
 sccdn.f2zd.com
 g.f5gh.com
+fabu333.top
 fakjkwp.cn
 z2.fakutownee.cn
 falal.cn
@@ -1695,6 +1689,7 @@ fcqztan.cn
 fdhvczd.cn
 1.feihua.com
 wmeng.feihuadns.com
+icloud.apple.pisfic.feikp.cn
 feitian001.com
 feitianma.com
 fenbo.cn
@@ -1778,6 +1773,7 @@ xyoss.g.com.cn
 r01.g1c5.com
 galeden.cn
 tg.game2.cn
+gameanalytics.com
 ng-vn-notice.gameitop.com
 click.gamersky.com
 ja.gamersky.com
@@ -2148,7 +2144,7 @@ hpvwdkn.cn
 hqnpwzu.cn
 hqsjd.cn
 saisancard.customer-support.netanswer.hrrbwmqgd.cn
-hseda.com
+www.hseda.com
 hsrgnac.cn
 g.hsw.cn
 hsych.com
@@ -2157,11 +2153,9 @@ httpdns.pro
 www.huabian.com
 huafangzhou.com
 ad.huajiao.com
-api-analytics.huami.com
 api-analytics-cn.huami.com
 api-analytics-in.huami.com
 api-analytics-sg.huami.com
-app-analytics.huami.com
 app-analytics-in.huami.com
 app-analytics-ru.huami.com
 app-analytics-sg.huami.com
@@ -2388,12 +2382,10 @@ subscription.iqiyi.com
 tracker.sns.iqiyi.com
 yuedu.iqiyi.com
 am.g.ireader.com
-irs01.com
 irs03.com
 irulws.xyz
 iscrv.com
 m.ishangtong.com
-israelpost-cc-il.top
 168.it168.com
 adshow.it168.com
 adshownew.it168.com
@@ -2495,6 +2487,7 @@ jhwap.cn
 jhzfwl.cn
 api.jialiangad.com
 8961.jianbihua.com
+wj.jiancai365.cn
 ads.jianchiapp.com
 xomk.jiangjunmh.top
 1.jiangzheba.com
@@ -2840,6 +2833,7 @@ glores2.lanzoui.com
 sanme2.lanzoui.com
 wap1.laogu.wang
 wap2.laogu.wang
+sensors.larkplayerapp.com
 images.newsletter.larksuite.com
 c.lattebank.com
 un1.lawyernet.cn
@@ -2926,7 +2920,6 @@ litchiads.com
 v88.live800.com
 mkadsearch.lizhifm.com
 ljrtb.cn
-a.llysc.cn
 lm665.com
 bffbdo.lmsae.cn
 lmwmm.com
@@ -2939,8 +2932,6 @@ webtarget.logitech.com.cn
 webanalytics.logitechg.com.cn
 webtarget.logitechg.com.cn
 lomark.cn
-crfhdqqy.loneway.cn
-lzuelpak.loneway.cn
 www.loprr.cn
 lostheaven.com.cn
 lotuseed.com
@@ -3259,8 +3250,6 @@ mibook-10006092.cos.myqcloud.com
 projecta-common-1258344701.file.myqcloud.com
 redpaper-10006092.cos.myqcloud.com
 sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com
-saadsfds7.myshoplaza.com
-zeemlight.myshoplaza.com
 analytics.myshoptago.com
 mytanwan.com
 myv8qz8ei.top
@@ -3323,7 +3312,6 @@ z.nowscore.com
 util.nphoto.net
 nphqw.cn
 nq37f.cn
-nqlng.cn
 olx-pol-kxlsw2.nrjdjh.top
 nrjzkj.cn
 nryqr.cn
@@ -3377,7 +3365,6 @@ online.sh.cn
 fpbcode.onlinedown.net
 olpv.onlylady.com
 www.ooniu.com
-ooogrhuyyls.cn
 ounion.openadx.com
 openinstall.io
 scs.openspeech.cn
@@ -3412,6 +3399,7 @@ ad.ourgame.com
 revive.outin.cn
 ovnrmvg.cn
 ads.oway.mobi
+jascce-pitant.owvett.cn
 oyfnkle.cn
 ozogame.com
 p04qzl.cn
@@ -3445,7 +3433,6 @@ ashow.pcpop.com
 count.pcpop.com
 video-dsp.pddpic.com
 pdfexpert.cc
-pdhhmf.cn
 pdiabbi.cn
 pdweoyw.cn
 eloqua.pearsonvue.com.cn
@@ -3477,7 +3464,6 @@ api.pingstart.com
 pinkomtag.com
 res.pinpai8.cn
 bd1.pipaw.com
-s1.pipishu.com
 pkjl00l.cn
 pkoplink.com
 pkyjuc.cn
@@ -3491,6 +3477,7 @@ pmiskc.cn
 pmvlwjy.cn
 pn36.cn
 100.pncdn.cn
+icloud.apple.hispid.pngonv.cn
 jenfky.pnqdr.cn
 cdn.pocoiq.cn
 poisedreel.cn
@@ -3547,6 +3534,7 @@ puqer.cn
 ums.pushpia.cn
 ssp.putaojiu.com
 pv4b.com
+apple.pvxt.net
 dm.pw0.cn
 cdn.pyadx.com
 pypwxvo.cn
@@ -3830,7 +3818,6 @@ ysdk.qq.com
 yun-hl.3g.qq.com
 zxcv.3g.qq.com
 qq937.com
-a1.qqan.com
 down.qqfarmer.com.cn
 qqhuhu.com
 www.qqqmy.com
@@ -3883,6 +3870,7 @@ qzorwe.xyz
 r75tia.cn
 a2.rabbitpre.com
 event.raise3d.cn
+rayjump.com
 rbioclv.cn
 rbrbr88p.cn
 rcaig.cn
@@ -3937,6 +3925,7 @@ ds.ruanwengfa.com
 rui61.cn
 rumt-sg.com
 rumt-zh.com
+abc.ruodian360.com
 rvbztg.cn
 rvzlobj.cn
 rwpt.top
@@ -3973,6 +3962,7 @@ dm.sanwen8.com
 saxysec.com
 sbird.xyz
 sc126.com
+script302.top
 irrichca.scslrxt.cn
 jzkpslew.scslrxt.cn
 vyayw.scslrxt.cn
@@ -3989,6 +3979,7 @@ p.sdu8cvc.com
 sdvfvgj.cn
 sdzhongke.cn
 1640831964042.se-life.cn
+ylvmeolvig.seaegg.cn
 sellfox.com
 senbiaojita.com
 sensorsdata.cn
@@ -4115,6 +4106,7 @@ newspush.sinajs.cn
 rs.sinajs.cn
 simg.sinajs.cn
 sinawap.com
+sinotrade.com.cn
 mail.siom.ac.cn
 sitebot.cn
 sitesite.cn
@@ -4300,7 +4292,6 @@ svdpgmt.cn
 svvbrkk.cn
 fr.swissquote.cn
 cgrvtlhz.swkxh.cn
-opohpmcdz.swkxh.cn
 sxk9m8x.cn
 sxundrh.cn
 sanalytics.sydneyuniversity.cn
@@ -4442,6 +4433,7 @@ telegvpqm.cn
 telegzpqm.cn
 telepcvne.cn
 telepczne.cn
+teleqrezm.cn
 televpqm.cn
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
@@ -4500,7 +4492,6 @@ jascce-literan.tiocapital.cn
 tisszhb.cn
 img2.titan007.com
 a.tiyuxiu.com
-tjnwfjy.cn
 tjq.com
 tlsgq.cn
 jx.tmall.com
@@ -4558,6 +4549,7 @@ cnzz.trafficmanager.net
 analysis.tratao.com
 ta.trs.cn
 trustutn.org
+analytics.trustyou.com
 ts166.net
 ttyyuuoo.com
 tudou.com
@@ -4574,7 +4566,6 @@ analy.tuniu.cn
 tusdk.com
 asdkd.tutuapp.com
 log.tutuapp.com
-smetrics.tuvsud.cn
 tuvtpxp.cn
 appwall.tv2phone.cn
 tvdpebx.cn
@@ -4736,6 +4727,7 @@ vinsgcs.com
 n-st.vip.com
 ads.vipbaihe.com
 in.vipliangmei.com
+ckg.vipyl.com
 smetrics.visitsingapore.com.cn
 visvn.cn
 bhwkju.vivo.com
@@ -4988,7 +4980,6 @@ pv.xcar.com.cn
 pvx.xcar.com.cn
 zio.xcar.com.cn
 xcdf.cn
-xci7g.cn
 52m.xde6.net
 bqzsmvlnav.xdiheu.cn
 xdrig.com
@@ -5144,7 +5135,6 @@ bchina-1.xsfaya.com
 xshellcn.com
 rdbd.xsread.com
 xt918.com
-a.xue126.com
 xueaaaw.cn
 t1.xuefen.com.cn
 js.xuexila.com
@@ -5187,7 +5177,6 @@ stat-y.xywy.com
 stat-z.xywy.com
 xyxy01.com
 vinted-pl-gj32d.xz5.xyz
-cp.xz6.com
 un.xz6.com
 xz618.com
 bmjjs.xzw.com
