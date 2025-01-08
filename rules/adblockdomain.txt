@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250108003523
-! Last modified: 2025/01/08 00:35:23
-! Blocked domains: 194593
+! Version: 20250108092121
+! Last modified: 2025/01/08 09:21:21
+! Blocked domains: 194606
 !
 0-0.fr
 0-02.net
@@ -14722,6 +14722,7 @@ aoqinglv.cn
 aoredi.com
 aortismbutyric.com
 aos01070ss.xyz
+aos01080ss.xyz
 aosafrica.co.za
 compaid.aosag.net
 mail1.aosag.net
@@ -20886,6 +20887,7 @@ tracker.awr.im
 sinfo.awrostamani.com
 aws-itcloud.net
 aws-official.live
+csp-report.marketing.aws.dev
 awsberkahutama.com
 awsdataguru.com
 analytics2.awsli.com.br
@@ -28330,6 +28332,7 @@ bjhmt.com
 bjiuck.com
 bjjcshygw.com
 ejejip.bjjfanatics.com
+bjjky.cfd
 www.bjjxsb.net
 bjkicksmusic.com
 business-poland.bjlmedia.com
@@ -35346,6 +35349,7 @@ isub.snssdk.com.bytedns.net
 log.snssdk.com.bytedns.net
 open.snssdk.com.bytedns.net
 analytics.bytegiftia.top
+lf1-cdn-tos.bytegoofy.com
 gpm-mon-sg.bytegsdk.com
 log-sg.bytegsdk.com
 p1-feedback.byteimg.com
@@ -42025,6 +42029,7 @@ clp-mms.cloudpro.co.uk
 cloudpsh.top
 analytics.cloudron.io
 e.cloudsecurityalliance.org
+ads.cloudsight.ai
 simple.cloudsmith.com
 cloudsofnews.com
 cloudsonicwave.com
@@ -46776,6 +46781,7 @@ caterpillarsigns.coversandall.com.au
 caterpillarsigns.coversandall.eu
 coverstripe.world
 qjxizo.covertcommunication.com
+covertcourse.com
 covertina.com
 covertstuff.com
 coverty.it
@@ -58143,6 +58149,7 @@ dzbkl37t8az8q.cloudfront.net
 dzcx04lyk9hjp.cloudfront.net
 dzdgfp673c1p0.cloudfront.net
 dzdnffs.xyz
+dzeaqmeuaql.com
 proxy.dzeio.com
 clck.dzen.ru
 log.dzen.ru
@@ -115893,6 +115900,7 @@ mqdownload.com
 usdg.mqfcwtnr.top
 www.mqhzdl.com
 content.mql5.com
+mqprzapns.com
 mqwcuesny6.ru
 mqwmgs.xyz
 mqwtgq.xyz
@@ -117584,6 +117592,7 @@ data-bb21a2f11b.myhomebook.de
 data-d1cd281a03.myhomebook.de
 myhomescreen.tv
 myhotdates.com
+myhst2024.com
 ceshi127722.obs.cn-north-4.myhuaweicloud.com
 r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com
 teslaamg.obs.cn-east-3.myhuaweicloud.com
@@ -132157,6 +132166,7 @@ pinjamanelit.top
 pinjamanplus.com
 pinjamteman.top
 pinjamuang.top
+pinjzp.icu
 ebgagg.pink.rs
 partner.pinkasistent.sk
 pinkberrytube.com
@@ -158323,6 +158333,7 @@ solution-solutions.com
 solution-store.com
 mkt.solution-tree.com
 mkt.solution.coupons
+solution7energieqc.com
 solution911.com
 solutionanalyzer.com
 solutionfun.info
@@ -184176,6 +184187,7 @@ wazneinfo.pl
 waznydzien.click
 waznyelement.click
 wazoceckoo.net
+wazofurniture.com
 wazsfiawqca.com
 stat.ad.wazzapps.org
 wazzeyzlobbj.top
@@ -194307,6 +194319,7 @@ ztcadx.com
 ztdog.com
 images.mkt.zte.com.cn
 ztgame.com
+ztlkngyj.icu
 ztomy.com
 ztqdkzn.cn
 ztrack.net
