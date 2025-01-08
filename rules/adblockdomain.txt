@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250108162351
-! Last modified: 2025/01/08 16:23:51
-! Blocked domains: 192611
+! Version: 20250109002238
+! Last modified: 2025/01/09 00:22:38
+! Blocked domains: 192624
 !
 0-0.fr
 0-02.net
@@ -4296,7 +4296,7 @@ allegrolokalnie.923471.biz
 smetrics.925thechuck.ca
 927084.cc
 92790388.xyz
-5466dee3d9.92888e5ff3.com
+92888e5ff3.com
 2841137bfa.92afa3840a.com
 js.92aliyun.com
 92c04d81dd.com
@@ -4591,6 +4591,7 @@ a013.com
 a038.info
 a058916bc0.com
 a06bbd98194c252.com
+a08387be3d.com
 a0905c77de.com
 4311007186.a098a4ad81.com
 a0b22.com
@@ -12476,6 +12477,7 @@ www.alskd34.com
 alsmdb.com
 webanalytics.also.com
 alsoexplain.com
+alsolrocktor.com
 alsowhirl.com
 alswings.com
 alt.com
@@ -21239,6 +21241,7 @@ b21379380e.com
 b21be0a0c8.com
 b225.org
 b23.ru
+b23010ff32.com
 c90ada5508.b234e11bb6.com
 5adc526c5e.b273a3d41b.com
 f9d3dca725.b291310c77.com
@@ -56452,6 +56455,7 @@ drownbossy.com
 drowsiestudner.life
 drozdovskis.com
 drp.su
+drpggagxsz.com
 saa.drphil.com
 drquitpain.com
 tracking.drreddys.com
@@ -78265,6 +78269,7 @@ gytlingpaint.top
 nudlin395.gytstor.website
 gyulaisuli.hu
 gyunce.xyz
+gyvwigvwqkm.com
 gywugie.com
 gyxkmpf.com
 gz-data.com
@@ -103875,6 +103880,7 @@ loaptaijuw.com
 loastees.net
 loathecurvedrepress.com
 loatheskeletonethic.com
+loavolougloatom.net
 loavouduleem.net
 loazoapagour.com
 loazuptaice.net
@@ -132305,6 +132311,7 @@ mob2.plchat.xyz
 sad2.plchat.xyz
 sub285.plchat.xyz
 plchldr.co
+plcubmiinxa.com
 plczy.com
 adserver.pld.dk
 pleadsbox.com
@@ -144857,6 +144864,7 @@ metrics.rewe-reisen.de
 metrics.rewe.de
 net.rewe.de
 pvn.rewe.de
+rewearoutwale.shop
 quiz.rewifu.com
 rewindgills.com
 rewindgranulatedspatter.com
@@ -147563,6 +147571,7 @@ biminibliss.rwbimini.com
 rwdjrn.icu
 rwhxz.space
 b.rwjf.org
+rwoscaonf.com
 olx.rwpay.ru
 rwpoh.top
 rwpt.top
@@ -157751,6 +157760,7 @@ spoilqueens.com
 app.spokanepfd.org
 embed.spokenlayer.com
 spokeo.pl
+spokeoaffiliates.com
 spokesperson254.fun
 partner.spokojenypes.cz
 spokojmiejski.click
@@ -164524,6 +164534,7 @@ temksrtd.net
 app-jacobs.r5vc5wpxjy-zng4pj08o4dp.p.temp-site.link
 tempatwisata.net
 tempcitytv.com
+temperansar.top
 temperaturemarvelcounter.com
 temperaturetips.com
 tempergleefulvariability.com
@@ -172789,6 +172800,7 @@ trk.tu-auto.com
 data-102d2d1a41.tu-clausthal.de
 data-5cc6bee9f2.tu-dortmund.de
 tu-tu.jp
+tu6.icu
 pyrwic.tuango.ca
 ad-mediation.tuanguwen.com
 cross-promos.tuanguwen.com
@@ -175390,6 +175402,7 @@ unsigilyphor.com
 unskilfulwalkerpolitician.com
 unskilledexamples.com
 unsnareparroty.com
+unsoothippi.top
 unsowedcornrow.com
 unspeakablefreezing.com
 unspeakablepurebeings.com
