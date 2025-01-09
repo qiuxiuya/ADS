@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250109002238
-! Last modified: 2025/01/09 00:22:38
-! Blocked domains: 192624
+! Version: 20250109092048
+! Last modified: 2025/01/09 09:20:48
+! Blocked domains: 192636
 !
 0-0.fr
 0-02.net
@@ -10900,7 +10900,6 @@ akashy.com
 akaslot777.com
 akavita.com
 matomo.akbal.dev
-akbartravels.com
 akcapitalone.com
 www.akcesorhot.com
 akcjalokalna.rest
@@ -13995,7 +13994,6 @@ animemeat.com
 animememehub.com
 animenime.ru
 animeplaynow.com
-animeshoppers.com
 api.animeshqip.icu
 animi2.com
 animits.com
@@ -28092,6 +28090,7 @@ blazetag.com
 blazinevo35.blogspot.com
 blazonstowel.com
 blazt.com
+blbtibqk.icu
 gtm.blckthemall.com
 blcnder.org
 blcoder.com
@@ -33644,7 +33643,6 @@ btvhdscr.com
 www.btvm.ne.jp
 btvuiqgio.xyz
 events.btw.so
-btwvisas.com
 btwwzqdx.xyz
 www.btxglobal.com
 btxxxnav.com
@@ -39303,6 +39301,7 @@ smetrics.chip1stop.com
 secure.chip2gift.com
 www.chip2gift.com
 chip35.ru
+chipcy.com
 ip.chipestimate.com
 chipheeshimseg.net
 chipilines.com
@@ -49893,6 +49892,7 @@ link.dana.id
 dana123.com
 secure.dana8herb.com
 www.dana8herb.com
+danaaman.xyz
 danaburkart.com
 danainstan.xyz
 www.danair.es
@@ -57247,6 +57247,7 @@ dxouwbn7o.com
 info.dxpe.com
 dxpmedia.com
 dxprljqoay4rt.cloudfront.net
+dxraceroutlet.com
 dxrnksm.xyz
 2021.dxsbb.com
 ak.dxsvr.com
@@ -65445,6 +65446,7 @@ fauphesh.com
 fauphoaglu.net
 tr.made.faure-u.com
 fausamoawhisi.net
+fauseepetoozuk.xyz
 fausgaitan.com
 fausothaur.com
 hipoterapialublin.faustynaolimpia.pl
@@ -69991,7 +69993,6 @@ freedomdesignsonline.com
 tags.freedomfinancialnetwork.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
-freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -70407,6 +70408,7 @@ frictionterritoryvacancy.com
 friday89.com
 fridayaffectionately.com
 fridayarched.com
+fridaylocalmanager.duckdns.org
 fridaypatnod.com
 fridaywake.com
 fridgejakepreposition.com
@@ -98854,6 +98856,7 @@ koun-wa.com
 koun-yogen.com
 koundayori.com
 kounnomichishirube.net
+koupuchoust.net
 kouryuu.net
 kousenkan.com
 kousjcignye.com
@@ -116947,6 +116950,7 @@ dev-link.myoptimity.com
 link.myoptimity.com
 myornamenti.com
 smetrics.myorp.ca
+myosoteruins.com
 adserver.myownemail.com
 amo.myoyster.mx
 branch.myoyster.mx
@@ -118361,7 +118365,6 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
-navi42.ru
 navi45.ru
 navi5.com
 navi50.com
@@ -118374,6 +118377,7 @@ navi6.com
 navi63.ru
 navi66.ru
 navi7.com
+navi71.ru
 navi72.com
 navi72.ru
 navi77.com
@@ -121712,6 +121716,7 @@ notifpushnext.net
 notifstation.com
 notify-master.net
 notify-service.com
+notify-user-adjustments.vercel.app
 notify.solutions
 notify6.com
 notifyday.com
@@ -122654,6 +122659,7 @@ marketing.nyi.net
 nyihcpzdloe.com
 nyirsportse.hu
 nyittc.com
+nyjelh.icu
 nyjfgbvrgyjmgb.de
 prod-events.nykaa.com
 smetrics.nykaa.com
@@ -152126,6 +152132,7 @@ shatterconceal.com
 shattuckkids.org
 gsyegj.shatura.com
 shaugacakro.net
+shaughixefooz.net
 shauhaik.xyz
 shaulauhuck.com
 shaumtol.com
@@ -160617,6 +160624,7 @@ suckfaintlybooking.com
 ads.suckhoegiadinh.com.vn
 suckhoetainha.site
 suckoutlet.xyz
+sucreexpos.com
 suctionautomobile.com
 suctionpoker.com
 suczki-mlode.blogspot.com
@@ -163272,6 +163280,7 @@ tutbc1.www.tapmyback.com
 tapnative.com
 tapnetwork.ru
 tapone.jp
+taposalett.top
 moni.taposheebd.com
 a8.tapp-co.jp
 z3617cz9ep.fitness.tappbrothers.com
@@ -164325,6 +164334,7 @@ telegramm.site
 www.telegramni.org
 www.telegramsp.com
 telegramspun.com
+telegramweb.vercel.app
 www.telegramyes.cc
 analytics.eip.telegraph.co.uk
 metrics.telegraph.co.uk
@@ -172080,6 +172090,7 @@ api.triver.jp
 panel.trivia-neuroventas.com
 triviasms.com
 a.trivita.com
+trivo.uk
 trix.net
 www2.trizettoprovider.com
 trjana.com
@@ -179453,7 +179464,6 @@ visafirst.com
 free-pl-hairstim.visage-shops.com
 pl-trichomist-forte-lotion.visage-shops.com
 visagov.com
-visahq.com
 marketing.visailing.com
 sp.visaliatimesdelta.com
 sxjfhh.visaliatimesdelta.com
@@ -188367,6 +188377,7 @@ dms.xuexxing.com
 a.xuezizhai.com
 xuhabkmwro.com
 xuiqxlhqyo.com
+xukanvyl.com
 xukpqemfs.com
 xulizui6.com
 xumamropnox.com
@@ -190135,6 +190146,7 @@ youzu.com
 yovoads.com
 yovqnwnmpzz.com
 teams.yovu.ca
+yowdenfalcial.com
 yowlnibble.shop
 yoyadsdom.com
 yoyausones.com
