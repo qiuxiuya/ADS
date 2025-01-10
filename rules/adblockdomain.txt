@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250110162338
-! Last modified: 2025/01/10 16:23:38
-! Blocked domains: 192972
+! Version: 20250111002322
+! Last modified: 2025/01/11 00:23:22
+! Blocked domains: 192977
 !
 0-0.fr
 0-02.net
@@ -20935,6 +20935,7 @@ ayensexilic.com
 marketing.ayesa.com
 ayeslot.com
 aygpavimentos.cl
+ayiztaefkfzs.com
 aykqyjzbkkkra.top
 ayler-records.com
 a.aylix.xyz
@@ -26860,6 +26861,7 @@ bhclicks.com
 bhcont.com
 bhcumsc.com
 bhealthyeats.com
+bhegilut.com
 www.bhekr.top
 metrics.bhf.org.uk
 bhf.vc
@@ -49415,6 +49417,7 @@ d3dpet1g0ty5ed.cloudfront.net
 d3dq1nh1l1pzqy.cloudfront.net
 d3e8xvf8dyclkj.cloudfront.net
 d3ec0pbimicc4r.cloudfront.net
+d3edbb478c.com
 d3edizycpjjo07.cloudfront.net
 d3efeah7vk80fy.cloudfront.net
 d3ej838ds58re9.cloudfront.net
@@ -57721,6 +57724,7 @@ dzpu6za66svjl.cloudfront.net
 dzr4v2ld8fze2.cloudfront.net
 dzs55b7slwyx.cloudfront.net
 sdd.dzsc.com
+dzsopgxm.com
 dzsorpf.com
 dzt3uyxd69um2.cloudfront.net
 dzu5p9pd5q24b.cloudfront.net
@@ -76915,6 +76919,7 @@ graivampouth.net
 graizoah.com
 tags.grajteraz.pl
 grakorte.com
+grallichalvas.com
 gralneurooly.com
 marketing.gramener.com
 graminmart.com
@@ -80047,7 +80052,7 @@ hdhpf.com
 hdhuojia.top
 reg.hdiconference.com
 hdietmail.com
-aba.hdjthzg.cn
+hdjthzg.cn
 marketing.hdmoneyinc.com
 hdmovies.pl
 hdmtools.com
@@ -94142,6 +94147,7 @@ jiayiqun.com
 www.jiayuan.com
 daima.jiazhao.com
 jiazhua.com
+jibbahazara.top
 stats.jibber.social
 jibdara.com
 collector.analytics.jibe.com
@@ -94650,6 +94656,7 @@ share.jobeo.net
 joberopolicycr.com
 jobeyeball.com
 jobfilletfortitude.com
+jobfukectivetr.com
 gtm-ss.jobfunders.com
 jobgirl24.ru
 eylnhf.jobhouse.jp
@@ -95007,6 +95014,7 @@ joozoowoak.net
 jopbvpsglwfm.com
 jopd.ru
 a8clk.joppy.jp
+joptodsougegauw.com
 marten.joqr.co.jp
 jorbfstarn.com
 trk.jorc.com
@@ -104154,6 +104162,7 @@ t.locasun.nl
 locateapp.info
 locatedstructure.com
 locatejav182.fun
+locatejest.com
 location.cyou
 marketing.location3.com
 locationaircondition.com
@@ -105930,6 +105939,7 @@ lzjzyjh.com
 lznfuab.xyz
 lzoasvofvzw.com
 lzogdlorkfssui.net
+lzqmjakwlllvk.top
 lzrikate.com
 lzthjd.cn
 lzukrobrykk.com
@@ -124575,6 +124585,7 @@ bal.omudin.site
 oni.omudin.site
 pros.omudin.site
 omvenusaurchan.com
+omwovzodgck.com
 omxstakuvh.com
 metrics.omya.com
 omynews.net
@@ -126630,6 +126641,7 @@ lnads.osdn.com
 sfads.osdn.com
 ssads.osdn.com
 toads.osdn.com
+osdxx.com
 osecweb.ir
 osef.co.il
 osementertainments.com
@@ -139973,6 +139985,7 @@ pxaction.com
 collector-pxk3bezzfo.pxchk.net
 collector-pxrf8vapwa.pxchk.net
 a8cv.pxdt-store.com
+pxhuiben.com
 pxi.pub
 pxl-mailtracker.com
 pxl.fm
@@ -147733,6 +147746,7 @@ rv-syzfedv.rocks
 rvadomain.com
 ingest.make.rvapps.io
 referral.rvappstudio.com
+rvardsusyseinp.org
 qg.rvartions.ru
 rorj.rvartions.ru
 system.rvartions.ru
@@ -147987,6 +148001,7 @@ s6emmc.com
 s75oq.asia
 s7feh.top
 s7tak.net
+s83.fun
 s8bet.com
 g.s8dj.com
 s8garr7sh.quest
@@ -151889,6 +151904,7 @@ opus.sexyxxx.biz
 sexzavod.com
 seyarate.com
 ferthu.seyffer.shop
+seymourlamboy.com
 seyoungyeo.com
 sez-pr.com
 sez.jp
@@ -185259,6 +185275,7 @@ smetrics.wimbledon.com
 wimblenik.shop
 wimblesmurgavi.top
 wimpthirtyarrears.com
+wimsa.top
 wimswuppoxan.com
 win-bidding.com
 win-gadgets.com
@@ -186409,19 +186426,7 @@ worehumbug.com
 worersie.com
 work-offer.com
 olx.work-record.shop
-allegro-logowanie.work.gd
-arubaitmerlo69pmqo8712y4ne9398zeh48r4.work.gd
-continue-app-go-auth.work.gd
-id389213.work.gd
-lamver.work.gd
-manage-renewbill-information.work.gd
-quality-check2501.work.gd
-revise-payment-prime.work.gd
-revise-paymentbilling-prime.work.gd
-streamserviceone.work.gd
-team-x.work.gd
-update-billingmembership-prime.work.gd
-usps-com-client-updates-com.work.gd
+work.gd
 work4aliving.org
 workable1x.xyz
 workableachiever.com
