@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250112002036
-! Last modified: 2025/01/12 00:20:36
-! Blocked domains: 194830
+! Version: 20250112092822
+! Last modified: 2025/01/12 09:28:22
+! Blocked domains: 194860
 !
 0-0.fr
 0-02.net
@@ -627,6 +627,7 @@ ss.123provisionsfrei.de
 123w0w.com
 123webguru.com
 123webwinkel.com
+1244746616.rsc.cdn77.org
 124ldvip.com
 www.12515a.top
 125194-coinbase.com
@@ -854,6 +855,7 @@ s.17173cdn.com
 www.17388.com
 polska-lnpost.17523.pw
 img.175532.com
+1758664454.rsc.cdn77.org
 1772y.com
 177o.com
 178gg.com
@@ -14200,6 +14202,7 @@ animememehub.com
 animenewsmagazine.com
 animenime.ru
 animeplaynow.com
+animeshoppers.com
 api.animeshqip.icu
 animi2.com
 animits.com
@@ -22361,6 +22364,7 @@ forum.bakaers.com
 slep.bakaers.com
 word.bakaers.com
 tyjspv.bakalavr-magistr.ru
+bakareiswap.xyz
 bakaroexpress.com
 bakaron.com
 bakatvackzat.com
@@ -37505,6 +37509,7 @@ cashpartners.eu
 cashprom.ru
 banners.cashring.com
 stats.cashring.com
+cashspacex.org
 cashstaging.me
 go.cashstar.com
 ads.cashsurfers.com
@@ -43724,6 +43729,7 @@ sellercentral.amazon.com-f5r.nl
 icloud.com-findmy.id
 com-host.info
 booking.com-hotel-extrnet.com
+com-id15421.info
 com-interfaceteam.com
 thetollroads.com-jhgx.top
 usps.com-lhpr.top
@@ -46343,6 +46349,7 @@ corrientesenelaire.com
 c.corriere.it
 joda.corriereadriatico.it
 marketing.corrigan.com
+corroercl.xyz
 osoygi.corroshop.com
 corruptsolitaryaudibly.com
 takin.cors.digital
@@ -60185,6 +60192,7 @@ lp.care.eisenhowerhealthcares.org
 web.eisenhowerhealthnews.org
 eisenstein.dk
 data-d8a16b307b.eishockeynews.de
+eisnaisv.com
 plx.eispop.com
 eiteribesshaints.com
 eitfromtheothe.org
@@ -61620,6 +61628,7 @@ data-583ff8cf8b.energate-messenger.de
 energeticdryeyebrows.com
 energeticexample.com
 energeticladybug.com
+energeticprovocation.com
 energeticrecognisepostcard.com
 smetrics.energia.ie
 energiaeprosperum.top
@@ -65291,6 +65300,7 @@ mktg.aa.f5.com
 mktg.collect.f5.com
 mktg.tags.f5.com
 f5063966e5.com
+f53d954cc5.com
 f54cd504.xyz
 f551001.cc
 f58x48lpn.com
@@ -82604,6 +82614,7 @@ info.hjinvest.com
 hjjshv.xyz
 hjklq.com
 hjm-estrategialegal.com
+hjmawbrxzq.space
 hjnsb.com
 hjpqgxrt.ru
 hjpqt.cn
@@ -95012,6 +95023,7 @@ jicamasosteal.shop
 jicjames.com
 jickajogxkwer.life
 jiclzori.com
+jicmivojvsa.com
 jicypigra.com
 jidfdaxi.com
 affiliate.jidlojevasen.cz
@@ -96612,6 +96624,7 @@ track.justcloud.com
 justdakota.top
 justdca.com
 justdeckshamilton.ca
+justdy.shop
 justearn.it
 events.justeat.it
 analytics.api.justeattakeaway.com
@@ -98582,6 +98595,7 @@ kindly-face.pro
 kindnessmarshalping.com
 pqlcpm.kindoh.co.kr
 kindoutreach.com
+spark.kindpickle.info
 link.kindred.co
 kindredplc.com
 kineckekyu.com
@@ -100105,6 +100119,7 @@ krediteksklusif.com
 kreditesms.com
 kreditifire.com
 kreditkunden-service.de
+kreditmudah.shop
 kredutu.com.ua
 kredyt24plus.com
 kredytybank.pl
@@ -104737,6 +104752,7 @@ track.livredaconstipacao.online
 livreral.fr
 livrfufzios.com
 mosvnx.livup.com.br
+livvbkx-vejj.xyz
 livxlilsq.click
 liwanting0305.com
 collect.liweestate.se
@@ -108338,6 +108354,7 @@ mansfieldspurtvan.com
 mansfieldtigers.com
 share.mansi.io
 twkbui.mansion-review.jp
+mansion-xenarthran.info
 oms.mansionglobal.com
 a8cv.mansiontech.com
 manslaughterhallucinateenjoyment.com
@@ -119586,6 +119603,7 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
+navi42.ru
 navi45.ru
 navi5.com
 navi50.com
@@ -119598,12 +119616,14 @@ navi6.com
 navi63.ru
 navi66.ru
 navi7.com
+navi7.ru
 navi72.com
 navi72.ru
 navi77.com
 navi78.ru
 navi8.com
 navi88.com
+navi93.ru
 navi99.com
 naviblue-team.com
 routes.navibration.com
@@ -127141,6 +127161,7 @@ go.opmantek.com
 opmnstr.com
 opmxizgcacc.com
 opnbwg.com
+opnbylag.com
 mycreo.opnlibreu.com
 myeucreo.opnlibreu.com
 ncreomain.opnlibreu.com
@@ -131255,6 +131276,7 @@ smetrics.peoplesjewellers.com
 uat1-dc.peoplesjewellers.com
 ads.peoplespharmacy.com
 go.peoplestretch.com
+pepatees.com
 metric.pepboys.com
 metrics.pepboys.com
 pepburst.com
@@ -135943,6 +135965,7 @@ s.ppjol.net
 ppjqgbz.com
 t.pplcenter.com
 ppleood.com
+pplhfhuwyv.com
 asimgs.pplive.cn
 ads.data.pplive.com
 gas.data.pplive.com
@@ -137103,6 +137126,7 @@ app.producttube.com
 www.productzoneoffer.com
 produktretter.at
 produktretter.com
+produktretter.org
 produkttest-anmeldung.com
 produkttester-anmeldung.com
 produkttester-werden.org
@@ -140678,6 +140702,7 @@ pugmarktagua.com
 pugsgivehugs.com
 charms.pugster.com
 puhlu.com
+puhmtt.icu
 puhtml.com
 admin.puhuizixun.cn
 puitaexb.com
@@ -170271,6 +170296,7 @@ privacy.tigerbeer.com
 khiurx.tigerdirect.com
 affiliate.tigerfitness.com
 link.tigerhall.com
+tigerkash.com
 tigerking.world
 tigerlilyindia.com
 go.tigertool.com
@@ -171099,6 +171125,7 @@ tncred.com
 tncrun.net
 tnctrx.com
 tnctufo.com
+tndbnriz.icu
 tnebsupport.in
 tneca.com
 tneduf.com
@@ -178642,6 +178669,7 @@ usherervmege.info
 usherhaze.click
 load.ss.ushi.dk
 om.uship.com
+ushiro.org
 ushoofop.com
 ushoppyworld.com
 ushubemeet.net
@@ -187675,6 +187703,7 @@ axp.wjbf.com
 t733.wjcl.com
 wjct3s8at.com
 axp.wjhl.com
+wjqssnujrbyu.com
 xggjgl.wjthinkbig.com
 axp.wjtv.com
 wdig.wjulindex.info
@@ -189328,6 +189357,7 @@ x-yzn6.com
 x-zjxfhysb.love
 t.x.co
 ads.x.com
+ads-api.x.com
 t.e.x.com
 x0.nl
 x011bt.com
