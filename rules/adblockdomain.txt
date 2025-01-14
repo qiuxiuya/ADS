@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250114002419
-! Last modified: 2025/01/14 00:24:19
-! Blocked domains: 194211
+! Version: 20250114091745
+! Last modified: 2025/01/14 09:17:45
+! Blocked domains: 194196
 !
 0-0.fr
 0-02.net
@@ -10331,6 +10331,7 @@ aijurivihebo.com
 aikat-vim.com
 finishingschool.aikatechnology.com
 aikatuz.jp
+aikidosaimable.com
 ct2.aikotoba.jp
 aikotoba2020.com
 aikraith.net
@@ -11196,6 +11197,7 @@ c.albss.com
 albumdownloadfree.com
 albumobligationmorally.com
 albumshrugnotoriety.com
+albumsomer.com
 albusworks.com
 albuteroli.com
 storea8tracking.alc.co.jp
@@ -11800,7 +11802,6 @@ all-internet-security.com
 api.all-internet.jp
 all-news.kz
 a8cv.all-plan.co.jp
-all-prizes2024.com
 communications.all-risks.com
 all-tube.pl
 makumva.all-usanomination.com
@@ -13456,7 +13457,6 @@ web.communications.amouage.com
 wibberwump.amouciin.store
 amountdonutproxy.com
 amourethenwife.top
-amouronllne.com
 amourplace.jp
 amoutjsvp-u.club
 t.t.amovibe.com
@@ -16741,7 +16741,6 @@ sp.app.com
 srepdata.app.com
 sxjfhh.app.com
 jhqvy.app.link
-app123456.xyz
 cloud-olx.app24.shop
 app2up.info
 app431617.com
@@ -21827,6 +21826,7 @@ backseatmarmaladeconsiderate.com
 backspacecomprisedgoliath.com
 backssensorunreal.com
 backstagemerch.shop
+backsweka.com
 go.backtest.io
 backtrace.io
 olx.backup-domain.shop
@@ -23681,6 +23681,7 @@ beaglemanipulate.com
 beakercompatibilitypity.com
 beakerweedjazz.com
 beakexcursion.com
+beakpee.com
 bealafulup.com
 bealgo.com
 beamedshipwreck.com
@@ -31958,7 +31959,6 @@ wljxga.bogsfootwear.ca
 vahlnd.bogsfootwear.com
 bogurapost.com
 bogus-disk.com
-bogus-town.com
 so.boh.com
 bohanhengtian.cn
 partner.bohemiaclean.eu
@@ -32471,6 +32471,7 @@ track.borderlessfill9.org
 axp.borderreport.com
 bordmifr.site
 bordsnewsjule.com
+boreaszolaism.com
 facewatch.borec.cz
 boredborder.com
 boredcrown.com
@@ -33333,6 +33334,7 @@ braze.eu
 brazenwholly.com
 brazilcubensis.com
 brazilianpaversinc.com
+brazilprocyon.com
 ads2.brazzers.com
 static.brazzers.com
 tour.brazzers.com
@@ -33646,7 +33648,6 @@ track.brightzy.com
 data-01fb540c41.brigitte.de
 data-a7a0d7a6db.brigitte.de
 briiiiantsdates.com
-briiilantsdates.com
 brikee.com
 brikinhpaxk.com
 provize.brilas.cz
@@ -33731,7 +33732,6 @@ brizzdirging.top
 cab0f9248b.brjsa.com.pl
 brk-rti.ru
 brlivros.com
-brllllantsdates.net
 track.brmngr.com
 brn-post-go.top
 brndrm.com
@@ -35317,6 +35317,7 @@ qzzusj.bygghjemme.no
 tracking.byggindustrin.se
 bygliscortor.com
 bygoingawning.shop
+bygonearabin.top
 bygoneskalpas.shop
 bygoneudderpension.com
 bygsworlowe.info
@@ -42194,6 +42195,7 @@ clumsycar.com
 clumsyshare.com
 clunder.net
 clunen.com
+clunkedisolex.com
 clunkyentirelinked.com
 link.cluno.com
 cluodlfare.com
@@ -46393,6 +46395,7 @@ metrics.cottages.com
 smetrics.cottages.com
 cottagewoodcampgrounds.com
 go.cottinghambutler.com
+cottoidearldom.com
 cottoncabbage.com
 cottondivorcefootprint.com
 cottontailcottage.com
@@ -48156,7 +48159,6 @@ cucinasostenibile.com
 fvnnxo.cuckooland.com
 cuckooretire.com
 a8.cucua.fun
-cuculesectary.com
 cucymua.com
 cudaminer.com
 cuddlethehyena.com
@@ -51037,7 +51039,6 @@ datexurlove.com
 datfi.com
 datherap.xyz
 datifyny.com
-datiinghereapps.com
 dating-banners.com
 dating-cart.com
 dating-exchange.com
@@ -51088,7 +51089,6 @@ api.datingxperten.de
 ads.datingyes.com
 info.datiphy.com
 go.datis.com
-datlngllfes.net
 datoporn.com
 app.datorama.com
 oauth.datorama.com
@@ -53580,6 +53580,7 @@ diazoestmark.guru
 dibaiweiai.com
 dibarbado.com
 dibbuksnoonlit.shop
+dibrachndoderm.com
 dibri.org
 dibsemey.com
 bydhemo.dibyter.uno
@@ -54824,7 +54825,6 @@ divisionprogeny.com
 divisionstandingaluminumas.pro
 divithemepark.com
 gg.divj.site
-divlnedates.com
 divolution.com
 divorcebelievable.com
 divorcecures.com
@@ -55122,7 +55122,6 @@ dlpixmedia.com
 dlplayfun.com
 dlproductzone.com
 dlprogressnet.com
-dlrectdates.net
 dlrioxg1637dk.cloudfront.net
 dlrootnet.com
 dlrtz.com
@@ -57644,6 +57643,7 @@ a8clk.www.duskin-hozumi.co.jp
 a8clk.www.duskin-hozumi.com
 a8clk.www.duskin-hozumi.jp
 nkothz.duskin.jp
+duskinglocus.com
 duskishmusgu.com
 duskkindle.hair
 dustbinn.com
@@ -59758,7 +59758,6 @@ efljiccdztabg.com
 eforhedidnota.com
 gtm.eforma.it
 eforsa.pl
-efortiessdate.net
 eforu.com
 reklama.eforum.lt
 hycpyd.efpfanfic.net
@@ -61623,6 +61622,7 @@ tr.news.enkiapp.io
 load.stape.enklarelaan.se
 enkolayyol.com
 beetle.enlacepermanente.es
+enlardlunatum.com
 enlargementerroronerous.com
 enlargementwolf.com
 act.enli.net
@@ -63526,6 +63526,7 @@ eunow4u.com
 eunpprzdlkf.online
 euonlinethenorthface.shop
 eupharmacist.com
+euphemyhogton.com
 eupornstar.info
 eupply.com
 euqhn.top
@@ -64283,7 +64284,6 @@ a8clk.excellence-aoyama.com
 excellenceads.com
 excellenceenergygroup.com
 excellenceros.com
-excellent-challenge.com
 excellent-pineapple-scale.glitch.me
 excellentafternoon.com
 excellingvista.com
@@ -66562,7 +66562,6 @@ warrjy.feiler.jp
 go.feim.com
 feintelbowsburglar.com
 feistyhelicopter.com
-feistymountain.com
 feitian001.com
 feitianma.com
 feixin2.com
@@ -73410,6 +73409,7 @@ adobeanalytics.geico.com
 sadobeanalytics.geico.com
 trk.geico.com
 marketing.geigerwealth.com
+geinkroll.com
 geinl.top
 media.geinoschool-hikaku.com
 media.geinoschool-hikaku.net
@@ -73641,7 +73641,6 @@ lp.gentlemanvigor.site
 gentlemenius.com
 gentlemind.coffee
 best.gentlestretching.com
-gentlledream.net
 gentrekelen.com
 gggtux.gents.nl
 kamuci.gents.se
@@ -75002,6 +75001,7 @@ glaickoxaksy.com
 glaidalr.net
 glaidekeemp.net
 glaidipt.net
+glaignatsensah.xyz
 glaikrolsoa.com
 glaimpie.xyz
 glaisseexoar.net
@@ -76976,7 +76976,6 @@ gorod72.pro
 sur.gorodkirov.ru
 t.sur.new.gorodkirov.ru
 gorodvlesu.ru
-gorrio.ru
 gorselcdn.com
 gorselpanel.com
 goruli.com
@@ -81415,7 +81414,6 @@ herebybrotherinlawlibrarian.com
 herebyintentionally.com
 tr.news.heredis.com
 hereisthemoment.com
-hereloveinair.net
 heremployeesihi.info
 heresanothernicemess.com
 herestheparty.com
@@ -90158,7 +90156,6 @@ tqvacq.intrend.it
 intricateinscription.com
 intriguingsuede.com
 intrionic.com
-intrlgulngdate.com
 intro4ads.com
 introducer.info
 app.intros.com
@@ -95784,6 +95781,7 @@ jddkntsakp.jtdfsq.cn
 nrrtprnys.jtdfsq.cn
 olvvi.jtdfsq.cn
 jteeofficial.com
+jtegqwmjfxu.site
 couriernote-001-site1.jtempurl.com
 jtepreyscmy.top
 jtexpnress.ink
@@ -96381,6 +96379,7 @@ kaascypher.com
 kaatoozb.info
 log.kaayun.com
 kabakamarbles.top
+kabardmarrot.com
 www.kabarin.co
 kabbalah-red-bracelets.com
 get.kabbee.com
@@ -99400,7 +99399,6 @@ ff69283e.kortfilmfestivalen.no
 korzystne-cechy.com
 korzystnyportal.click
 korzystnywynik.click
-koscheilushed.shop
 al.kosei.com
 kosherpalace.com
 koshiyo.com
@@ -101570,6 +101568,7 @@ lazyrelentless.com
 lazysuwbcm.site
 lazyweekends.xyz
 mugapi.lazzarionline.com
+lazzrv.icu
 data-e2b70f0c07.lb-oldenburg.de
 lb7-5.cfd
 go.lbb.in
@@ -105269,12 +105268,10 @@ bgtaeb.loveandpop.kr
 lovebrids.com
 lovecam.com.br
 lovecrafteddesigns.com
-lovedatee.com
 lovedintothelight.com
 lovedonesproducts.com
 lovedoubts.com
 loveehub.com
-loveeonline.com
 sst.lovefamilypark.com
 metrics.lovefilm.com
 metrics.lovefilm.se
@@ -105310,7 +105307,6 @@ lovemelo.net
 sanalytics.lovemoney.com
 affiliate.loveo.cz
 loveofffer.com
-loveonlinee.com
 loveorganic.ch
 49453k0l.vr.loveota.com
 49453k0l.vs.loveota.com
@@ -105496,6 +105492,7 @@ lpuafmkidvm.com
 lqbzuny.com
 lqcaznzllnrfh.com
 lqcngjecijy.rocks
+lqgenuq-j.life
 lqlwjr.icu
 cdn.lqm.io
 h.lqm.io
@@ -107953,6 +107950,7 @@ marathimic.com
 contact.marathon-sports-ec.com
 servcliente.marathon-sports-ec.com
 smetrics.marathonthegame.com
+maraywreath.com
 marazma.com
 data-1fbcf6d7f5.marbacher-zeitung.de
 marbleandgraniteinteriors.com
@@ -110204,7 +110202,6 @@ analytics-tracking.meetup.com
 meetupon.com
 click.meetwo.de
 ad.meetyouintl.com
-meetyuorllove.net
 meewireg.com
 meewiwechoopty.net
 login.meexy.com
@@ -112042,6 +112039,7 @@ ea.millet.fr
 hwvqka.millets.co.uk
 www.millexpomojet.com
 www2.medinsight.milliman.com
+millingderv.com
 million-vita128.com
 link.million.one
 millionaireconsulting.com
@@ -118835,6 +118833,7 @@ natsdk.com
 metrics.natsinsider.com
 nattepush.com
 www2.natterbox.com
+nattierpegwood.com
 partneri.natu.cz
 partner.natubea.cz
 natublack.com
@@ -123628,6 +123627,7 @@ oakwoodmontessorischool.com
 oalreepsob.com
 oalsauwy.net
 oalselry.com
+oamoacirdaures.net
 oamoameevee.net
 oamoatch.com
 oamtorsa.net
@@ -127832,6 +127832,7 @@ outshroomishan.com
 meta-events.outside.io
 accounts-meta-events.outsideonline.com
 meta-events.outsideonline.com
+outsidesubtree.com
 outsimiseara.com
 links.outskill.app
 outsliggooa.com
@@ -135565,7 +135566,6 @@ prayercertificatecompletion.com
 prayexplodesyndrome.com
 prazpost.vip
 prb-progres.com
-prbcdn.ru
 prbcposti.cc
 prbhpost.cc
 prbn.ru
@@ -136300,7 +136300,6 @@ prizesforyou.com
 prizesk.com
 prizma.kz
 prizrn.site
-prizzemagic.net
 prjcq.com
 l.prk.bz
 prkepost.vip
@@ -143603,7 +143602,6 @@ rborbaimoveis.com.br
 sc.rbos.com
 rboyqkyrwrvkq.top
 edeals.rbp.com
-rbpark2.ru
 rbptt.com
 rbqcg6g.de
 rbrbr88p.cn
@@ -147524,8 +147522,6 @@ romacsystems.com
 romanc-e.com
 romance-net.com
 romance-time.net
-romanceaffalr.com
-romancedattes.net
 romancepotsexists.com
 romancerealm.xyz
 romancetime.jp
@@ -147536,13 +147532,10 @@ ass.romanhubert.pl
 celestyna.romanhubert.pl
 load.ss.romanian-entrepreneurs.com
 views.romaniatv.net
-romanticafair.net
 love.romanticcollection.ru
 romantichookups.com
 www.romanticmaui.net
 romanticwait.com
-romantiicaffair.com
-romantiicaffair.net
 romarine-couture.com
 romashk9arfk10.com
 romaslotcreditfree.com
@@ -153902,7 +153895,6 @@ engage.shl.com
 event.shl.com
 tracking.shl.com
 shlnderland.com
-shlnlngdate.com
 shlushki.com
 shlyakh.com
 shlyapapodplesk.site
@@ -156284,7 +156276,6 @@ slotspreadingbrandy.com
 slotv.com
 slotwap.com
 a2.slotxbros.com
-slova-accordy.ru
 www.slovago.sk
 slowaprawdy.click
 slowclick.top
@@ -159049,9 +159040,7 @@ splayermosque.shop
 go.splc.org
 eulerian.splendia.com
 splendidatmospheric.com
-splendiddates.net
 splendidsugar.com
-splendlddate.com
 splicky.com
 splief.com
 buy-cialis.splinder.com
@@ -160925,6 +160914,7 @@ stoadivap.com
 stoaglauksargoo.xyz
 stoagouruzostee.net
 stoaltoa.top
+stoampaliy.net
 stoaphalti.com
 stoashou.net
 go.stobuildinggroup.com
@@ -169062,7 +169052,6 @@ theyattenuate.com
 theyeiedmadeh.info
 theyellownewtab.com
 print.theyeshivaworld.info
-theyeyilou.top
 theyog.com
 livecounter.theyosh.nl
 jpgqfl.thezaol.com
@@ -175746,7 +175735,6 @@ ughtanothin.info
 ughzfjx.com
 login.ugihub.com
 uginekologa.com
-ugirllove.com
 ugloopie.com
 ugly-routine.pro
 mediamgr.ugo.com
@@ -176457,12 +176445,6 @@ go.unexplored-revelation.com
 in.unext.jp
 unfairgenelullaby.com
 unfaithfulgoddess.com
-unfamiiilardates.net
-unfamiillardate.com
-unfamiliiardates.com
-unfamiliiardates.net
-unfamliliardates.com
-unfamlliiardates.net
 go.unfi.com
 unfiledbunkum.shop
 unfinisheddolphin.com
@@ -179435,6 +179417,7 @@ ventivmedia.com
 load.server.ventoclothing.com
 ventopt.by
 t.ventralife.com
+ventralwries.com
 v1.ventreprivefrance.site
 ventrequmus.com
 nikestore.ventriaquiz.com
@@ -181089,6 +181072,7 @@ visibleevil.com
 visiblegains.com
 visiblejoseph.com
 visiblemeasures.com
+visiblyhiemal.shop
 qpc4.visilab.ch
 visilabs.com
 visilabs.net
@@ -182046,6 +182030,7 @@ voiceoa.shop
 voiceoverwisdom.com
 voicepainlessdonut.com
 voicepeaches.com
+voicepythons.shop
 voicerdefeats.com
 email.voices.com
 go.voices.com
@@ -191222,6 +191207,7 @@ pages.yokogawa.com
 pr.yokohama-chokin.com
 info.yokowoconnector.com
 a8cv.yokoyamakaban.com
+yoksamhain.com
 lowgxl.yokumoku.jp
 metrics.yola.com
 pixel.yola.com
@@ -191428,7 +191414,6 @@ rlogs.youdao.com
 sdk-log-inter.youdao.com
 union.youdao.com
 ydpushserver.youdao.com
-youdatlng.com
 youday.cn
 youdebrid.com
 youdguide.com
