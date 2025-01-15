@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250115002203
-! Last modified: 2025/01/15 00:22:03
-! Blocked domains: 194025
+! Version: 20250115091933
+! Last modified: 2025/01/15 09:19:33
+! Blocked domains: 194046
 !
 0-0.fr
 0-02.net
@@ -3299,6 +3299,7 @@ bcec266926.5d22c28634.com
 5ds48fc.cc
 5e1b8e9d68.com
 7f1aefd20d.5e1d98ec8c.com
+5e49fd4c08.com
 a5bdd2e40a.5e782aa4c4.com
 5ea36e0eb5.com
 5ed55e7208.com
@@ -3616,6 +3617,7 @@ ad-interceptor.6cloud.fr
 6cyfvvs.com
 ba31f372b1.6d0ce9a973.com
 6dad.com
+6dc2699b37.com
 6de72955d8.com
 6df7601o1.top
 6dknu.loan
@@ -20680,7 +20682,7 @@ aweyqalylqqr.top
 ckniey.aweys.net
 fin8rood.aweys.net
 awfonts.com
-www.awfulmorning.pro
+awfulmorning.pro
 awfulresolvedraised.com
 awgbrojzdpesxx.com
 marketing.awh.net
@@ -24652,6 +24654,7 @@ rtrck.best5goldira.com
 bestadbid.com
 bestadload.com
 bestadsforyou.com
+bestadsrv.com
 lanxiang.bestaffwajueji.com
 marketing.bestagency.com
 metrics.bestandless.com.au
@@ -33553,6 +33556,7 @@ bsjusnip.com
 events.bsky.app
 bsnl-tower.com
 bsnl5gtower.com
+bsnltower5g.com
 bsnltowerinstallations.com
 bsnltowersite.in
 bsourceimpex.com
@@ -37616,7 +37620,7 @@ ce26c78a4e.com
 c38b9acfcd.ce37b5fff3.com
 10b00e9529.ce3ff5f2d4.com
 ce56df44.xyz
-3f9cb42517.ce82020873.com
+ce82020873.com
 ceaankluwuov.today
 ceaccountants.org
 ceadit.top
@@ -49734,6 +49738,7 @@ dahabmedias.com
 dahexs.net
 dahkexes.com
 dahlstr0m.com
+dahmnrmhyhsjxx.com
 orlen.dahod.shop
 vz18719.dahost.pl
 ads.dai.org
@@ -62506,6 +62511,7 @@ data-75526e35eb.etailment.de
 etaindia.org
 etaindiaonline.com
 etairikavideo.gr
+etallkiq.com
 tk.etam.com
 etancheite-du-nord.top
 info.etap.com
@@ -64010,6 +64016,7 @@ existenceprinterfrog.com
 existencethrough.com
 r.existenz.se
 existingcraziness.com
+ws.existingcustomer.live
 headline.existltd.com
 interview.existltd.com
 news.existltd.com
@@ -78095,6 +78102,7 @@ splashqqlive.gtimg.com
 wa.gtimg.com
 gtir5die6sutngr.jpn.com
 gtlpaj.com
+gtltowerinfratel.in
 a8.gtm.co.jp
 gtmjs.com
 gtmtigoe.cc
@@ -137715,6 +137723,7 @@ psserviceonline.com
 storage.psstgccint.com
 psstt.com
 pssy.xyz
+ad-creative.pstatic.net
 naverpa-phinf.pstatic.net
 naverwebtoon-phinf.pstatic.net
 searchad-phinf.pstatic.net
@@ -141046,6 +141055,7 @@ qfgtepw.com
 qfhpkqjz.org
 qfiofvovgapc.com
 qfjherc.com
+qfnzyhwtyarskp.com
 qfoxgi.com
 1s6.qfxa4n8.ru
 3868.qg2626.com
@@ -142048,6 +142058,7 @@ wvzddr.quirumed.com
 quisma.com
 to.quit.guru
 quit9to5solutions.com
+quitasueno.com
 quitepoet.com
 quitesousefulhe.info
 quitjav11.fun
@@ -147157,6 +147168,7 @@ go.roguehire.com
 rogueleader.org
 rogueschedule.com
 rogunix.com
+rogxwgqovb.com
 a.rohde-schwarz.com
 b.rohde-schwarz.com
 a.rohde-schwarz.com.cn
@@ -147755,6 +147767,7 @@ www.rqq.co
 track.rqqft.com
 rqr97sfd.xyz
 rqsaxxdbt.com
+rqvrbf.icu
 rqwel.com
 tr.rr.com
 tr-ssl.rr.com
@@ -158743,6 +158756,7 @@ spiceethnic.com
 spiceocean.co.uk
 spicesjustright.blogspot.com
 gurgle.spiceworks.com
+spicy-development.pro
 spicy-effect.com
 spicygirlshere.life
 spicypromo10.sbs
@@ -164849,6 +164863,7 @@ www.tbvip19.com
 gc.tbx.at
 tbxyuwctmt.com
 tbydnpeykunahn.com
+tbyfz.xyz
 tc-bic.appspot.com
 tc-clicks.com
 acesse.tc.com.br
@@ -171622,6 +171637,7 @@ touweptouceeru.xyz
 touzoaty.net
 tovar-promo.com
 resources.tovarsnow.com
+tovbus.cn
 tovery.net
 tovespiquener.com
 tovisitindia.com
@@ -171640,6 +171656,7 @@ towerecords.com
 marketing.towerfcu.org
 toweringrun.com
 towerinstallation5g.com
+towerinstalltion5g.in
 towerofbabble.net
 towersalighthybrids.com
 towerslady.com
@@ -187965,6 +187982,7 @@ ad.wrtn.ai
 wrufer.com
 wryqahbilc.com
 load.data.ws-autoteile.com
+account.ws-reward.com
 ws5ujgqkp.com
 ws67eqwwp.pro
 wsafeguardpush.com
@@ -188956,6 +188974,7 @@ xhsdwjes.xyz
 cluster.xhspot.com
 collector.xhtotal.com
 xhubsxmg.xyz
+xhulafpup.com
 xhunion.com
 xhvaqgs.com
 collector.xhwebsite5.com
@@ -189853,6 +189872,7 @@ xwqvytuiko.com
 cc.xwscg.com
 xwuad.com
 xwvduxeiuv.com
+xwymrixpkwq.com
 xwzbpkku-i.site
 xx-umomfzqik.today
 ad.xxam.org
@@ -193926,6 +193946,7 @@ zxfdbr.xyz
 5mm.zxfw5.cn
 yty.zxkzy.cn
 zxmojgj.com
+zxpaa.xyz
 zxpqwwt.com
 zxqiwe.cn
 zxrcfw.com
