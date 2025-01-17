@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250117002145
-! Last modified: 2025/01/17 00:21:45
-! Blocked domains: 194536
+! Version: 20250117091826
+! Last modified: 2025/01/17 09:18:26
+! Blocked domains: 194553
 !
 0-0.fr
 0-02.net
@@ -5813,6 +5813,7 @@ www.account-appletejapan.am.in
 www.account-appletejapan.business.in
 www.account-appletejapan.cn.in
 account-center765.pages.dev
+account-cfe.mx
 olx.account-customer.shop
 account-euro.top
 account-flxregistre.com
@@ -28896,6 +28897,7 @@ link.news.bleacherreport.com
 bleachimpartialtrusted.com
 bleachinjectionuncommon.com
 bleachscarecrow.com
+blearspellaea.shop
 blednekolo.click
 bleedingofficecontagion.com
 bleedlight.com
@@ -51792,6 +51794,7 @@ deligrassdull.com
 deliman.net
 delimano.online
 deliquencydeliquencyeyesight.com
+deliriamorula.shop
 deliriousglowing.com
 deliriumalbumretreat.com
 a8cv.delis.co.jp
@@ -70379,7 +70382,6 @@ tags.freedomdebtrelief.com
 tags.freedomfinancialnetwork.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
-freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -71549,6 +71551,7 @@ community.fusesource.com
 form.fusesource.com
 www.fusespot.com
 fusestats.com
+crazyads.fusetracking.com
 leanmobi.fusetracking.com
 fusibepizo.com
 fusilpiglike.com
@@ -78797,6 +78800,7 @@ gzcl999.cn
 gzcl999.com
 share.gzdsw.com
 gzefitkcep.com
+gzegwior.com
 gzevd.asia
 gzevd.wang
 5.gzfenda.com
@@ -82299,6 +82303,7 @@ geoip.hmageo.com
 hmai.jp
 email.everyonesocial.hmausa.com
 adbsmetrics.ep.hmc.co.kr
+hmccommerce.com
 hmcvs.cn
 mdws.hmecu.com
 hmepalobfn.com
@@ -92145,6 +92150,7 @@ kysrwh.izlato24.cz
 partner.izlato24.cz
 istat.izlesene.com
 rek.izlesene.com
+izleskulked.shop
 izleyicibotu.com
 izli.fr
 izlok.xyz
@@ -94685,6 +94691,7 @@ app.engage.jio.com
 collect.media.jio.com
 jioads.akamaized.net
 znlgke.jiobit.com
+hikari.jiocinema.com
 jiofun.com
 jiordgxkpglzm.com
 jipabee4.pro
@@ -94752,6 +94759,7 @@ jjbabskoe.ru
 jjbmukufwu.com
 jjcboe.org
 jjcwq.site
+jjczoufb.com
 jjfnz.top
 digital-global.jjgle.com
 hruk.jjikk.top
@@ -96550,6 +96558,7 @@ kairaliproperty.com
 kaircm.shop
 kairosgestionintegral.com
 kairosnpcs.com
+kaisauwoure.net
 kaiseki-website.com
 eloqua-tracking.kaiserpermanente.org
 smetrics.kaiserpermanente.org
@@ -100806,6 +100815,7 @@ lagrange.capital
 lagrys.xyz
 lagusher.skin
 lagxsntduepv.online
+lagzoids.com
 lahanukiegeneng.blogspot.com
 lahar.com.br
 mdws.lahaverivercreditunion.ca
@@ -109678,6 +109688,7 @@ images.mdtpatient.com
 mdujbmqz.com
 tortoise.mdx.one
 analytics.ie.mdxprod.io
+me-fb.site
 acv.me-hikari.net
 me-ru.jp
 ngghll.me.co.kr
@@ -121941,6 +121952,7 @@ njmhklddv.xyz
 talwgam.njmolada.com
 sponsors.njmonthly.com
 go.njmpackaging.com
+njnhzh.icu
 sgtm.njordec.com
 smetrics.njoy.com
 target.njoy.com
@@ -124741,6 +124753,7 @@ oftrau54.com
 go.message.ofx.com
 ofzate.live
 ofzzuqlfuof.com
+og-shopee9.com
 ogads-pa.googleapis.com
 a8cv.ogaland.com
 ogclick.com
@@ -132403,6 +132416,7 @@ pincersnap.com
 pincheat.com
 pinchingoverridemargin.com
 pinchsquirrel.com
+pinco225.win
 pindiz.com
 go.pindrop.com
 adim.pinduoduo.com
@@ -134768,11 +134782,7 @@ poprof.com
 poprtb.com
 filter.poprtb.pro
 xml.poprtb.pro
-filter.pops.gg
-filter-eu.pops.gg
-login.pops.gg
-xml.pops.gg
-xml-v4.pops.gg
+pops.gg
 app.popsa.com
 link.mail.popsa.com
 test-app.popsa.com
@@ -143708,6 +143718,7 @@ littlelilistore.rdtrke.com
 meryjanechile.rdtrke.com
 cm.trk.rdtrkr.com
 rdtuijian.com
+rduaagcwsw.com
 rdvinfidele.club
 tel.rdwardptes.info
 rdwmct.com
@@ -147558,6 +147569,7 @@ romperspardesi.com
 romput.com
 romtheoth.work
 load.gtm.romutrechtregion.nl
+ronagoupil.ca
 marketing.ronbarretire.com
 gjdjij.roncato.com
 ronchezfitness.com
@@ -169828,6 +169840,7 @@ addlog.thuvienphapluat.vn
 adv.thuvienphapluat.vn
 repdata.thv11.com
 ywrcqa.thv11.com
+thvhjgxmyjnoqvq.com
 thvisualdesigns.com
 ads.thvli.vn
 one.thx-birthday.com
@@ -177118,6 +177131,7 @@ m.univision.com
 tracking.univtec.com
 uniway.cn.com
 mxoqqu.uniwigs.com
+app.uniwspapp.com
 go.uniwue.de
 unixfuture.com
 goonews.unixstorm.eu
@@ -188268,6 +188282,7 @@ wouldmakefea.com
 wouldmakefeagre.info
 wouldmeukeuk.com
 wouldtalkbust.com
+wounofoarausooy.net
 woupsucheerar.net
 woushucaug.com
 wovensur.com
@@ -189524,6 +189539,7 @@ xiaodongrui.com
 adx.xiaodutv.com
 xiaoe.com
 xiaohei.com
+spider-tracker.xiaohongshu.com
 xiaohuangshu.me
 www.xiaohui2.cn
 api.xiaohuxi.cn
@@ -193188,6 +193204,7 @@ zerospinstocks.com
 zerostear.world
 zerotelegram.pl
 zttemail.zerotothree.org
+zerowasteinitiative.com
 zesemen.cz
 zesep.com
 zeshanhaider.com
