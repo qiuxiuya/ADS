@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250118002120
-! Last modified: 2025/01/18 00:21:20
-! Blocked domains: 195353
+! Version: 20250118091635
+! Last modified: 2025/01/18 09:16:35
+! Blocked domains: 195371
 !
 0-0.fr
 0-02.net
@@ -9594,6 +9594,7 @@ affility.com
 affiliwelt.net
 affilixxl.de
 affilizr.com
+affilizz.com
 www.affilo.cz
 affimigo.com
 go.affinda.com
@@ -16841,6 +16842,7 @@ go.apostabrasileira.org
 go.apostaronline.org
 go.apostasdobrasil.org
 go.apostaspt.net
+apostilprinks.com
 clkn.apostle.onl
 clkn2.apostle.onl
 clkn3.apostle.onl
@@ -51054,6 +51056,7 @@ go.daxko.com
 qbermy.daxon.fr
 day13vh1xl0gh.cloudfront.net
 www.dayartgallery.com
+daybookclags.com
 daybreakarchitecture.com
 track.daycomics.com
 jc1.dayfund.com.cn
@@ -78966,6 +78969,7 @@ gypsiedjilt.com
 gypsitenevi.com
 gypsouspatron.com
 gypsumservice.org
+gypsumsnocks.com
 gypsyrysmarter.com
 gyqifa.com
 gyro-n.com
@@ -83174,6 +83178,7 @@ hoo1luha.com
 hoodboth.com
 hoodentangle.com
 hoodiefactory.com
+hoodingluster.com
 hoodoosdonsky.com
 hoofexcessively.com
 hoofsduke.com
@@ -91820,6 +91825,7 @@ italianlottery.com
 italianout.com
 web.redazione.italiaoggi.it
 partner.italier.cz
+italitecasbah.com
 a8clk.www.italki.com
 italyworldbaseballclassic.com
 tr.news.itancia.com
@@ -95705,6 +95711,7 @@ quokka.joshuawood.net
 joshyville.blogspot.com
 josiebrown.shop
 josiehopeless.com
+josiepigroot.com
 josieunethical.com
 josip-stadler.org
 t.jossandmain.com
@@ -119468,7 +119475,6 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
-navi42.ru
 navi45.ru
 navi5.com
 navi50.com
@@ -128556,6 +128562,7 @@ oxidy.com
 smetrics.oxigeno.fm
 oxkqeu.xyz
 oxkyaq.xyz
+oxlipbegan.com
 oxmoonlint.com
 oxmopobypviuy.com
 oxmqzeszyo.com
@@ -134099,6 +134106,7 @@ pmxyzqm.com
 pmzer.com
 pmzlnt.xyz
 pn.ac.th
+pn10.xyz
 pn36.cn
 pnads.com
 pnambc.com
@@ -147650,6 +147658,7 @@ riskymuzzlebiopsy.com
 risocui.com
 a8clk.risou.com
 tr.preventivo.risparmiazienda.it
+rissoidkyaung.com
 risthain.web.app
 gtm.ristorantefiorfiore.com
 www.ristoromontebasso.it
@@ -152979,6 +152988,7 @@ sellingmombookstore.com
 mt.sellingrealestatemalta.com
 sellings-global.com
 amd.sellingsimplified.net
+sellisteatin.com
 selllikecrazybook.com
 sellmyhomesearch.com
 holders.sellpass.io
@@ -154176,6 +154186,7 @@ shaiksuk.net
 shailjasharma.com
 shaimsaijels.com
 shaimsoo.net
+shaissugritit.net
 shaitakroaks.net
 shaitchergu.net
 shaiwourtijogno.net
@@ -157159,6 +157170,7 @@ slippersphoto.com
 slipperydeliverance.com
 slipsafetystore.com
 portal.slipstreaminc.org
+slitingfears.com
 share.sliver.tv
 slivmux.com
 slk594.com
@@ -171613,6 +171625,7 @@ tmh09.info
 tmh4pshu0f3n.com
 tmioowtnobr.com
 a8cv.tmix.jp
+tmjzlr.icu
 obhxvb.tmktools.ru
 attribution.tmlewinshirts.eu
 info.tmlt.org
@@ -172916,6 +172929,7 @@ towersresent.com
 towmfs.com
 aiq-in.townandcountrymag.com
 td.townandcountrymag.com
+townaptdesk.info
 townerheaten.top
 ads.townhall.com
 www.townhallmail.com
@@ -180188,6 +180202,7 @@ vbtrst.info
 vbtrst.pro
 vbucksepic.com
 track.msadcenter.vbug.com
+vc-login.com
 vc-mvt-pixel-80.vc-networks.com
 vcanduit.org
 vcardonline.com
@@ -183187,6 +183202,7 @@ update.volam2005pk.com
 lsks.volamngayxua.net
 volanosier.com
 pwmesp.volanty.com
+volapiepalped.com
 www.volareconsultoria.com.br
 app.response.volarisgroup.com
 volate.top
@@ -184688,6 +184704,7 @@ devwrapi.washrocks.com
 wasirmon.space
 waskiegrono.click
 wasm.stream
+wasoolekretche.xyz
 wasortg.com
 wasp-182b.com
 waspdiana.com
@@ -189165,6 +189182,7 @@ reklama.wp.pl
 ssp.wp.pl
 wp.services
 pixel.wp.tv
+wp3.xyz
 wp3advesting.com
 wpad.engineer
 wpad.exchange
