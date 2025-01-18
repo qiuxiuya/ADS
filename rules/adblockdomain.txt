@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250118162010
-! Last modified: 2025/01/18 16:20:10
-! Blocked domains: 195833
+! Version: 20250119001930
+! Last modified: 2025/01/19 00:19:30
+! Blocked domains: 195847
 !
 0-0.fr
 0-02.net
@@ -2380,6 +2380,7 @@ www2.3dsystems.com
 3dwalldecore.com
 3dwwwgame.com
 ads.3e-news.net
+3e1898dbbe.com
 3e2a26326d.com
 3e6072834f.com
 afd034cccc.3e722283f7.com
@@ -50159,6 +50160,7 @@ da327va27j0hh.cloudfront.net
 e2a85b803d.da3432b97e.com
 da3uf5ucdz00u.cloudfront.net
 bk.da520.top
+da52d550a0.com
 da5h676k6d22w.cloudfront.net
 da6555.com
 da8975.com
@@ -65190,6 +65192,7 @@ f092680893.com
 993ed443d6.f0c9ef4ecb.com
 f0ggyfi3lds.xyz
 f0rn0one.com
+f10f9df901.com
 aa682509b0.f11631d24c.com
 g.f11w.com
 f145794b22.com
@@ -84309,6 +84312,7 @@ met1.hp.com
 met2.hp.com
 hp1mufjhk.com
 loc.hp250820.com
+hp7.fun
 hp73monitor.com
 out-lok.hpage.com
 us-west-2.kinesis.hpanalytics.net
@@ -127680,6 +127684,7 @@ oqdtuqat.com
 oqejupqb.xyz
 oqex.io
 oqfoczdfyag.com
+oqidsgkq.com
 oqnjfotketk.com
 oqpahlskaqal.com
 oqpgq.top
@@ -144048,6 +144053,7 @@ app.ragincajuns.com
 t.ragincajuns.com
 raglassofrum.cc
 ragnolopi.net
+ragofkanc.com
 ragogps.com
 ragsbxhchr.xyz
 smetrics.ragsdaleair.com
@@ -158646,6 +158652,7 @@ soacoujusoopsoo.xyz
 soadaupaila.net
 soadicithaiy.net
 soaheeme.net
+soajaihebu.net
 web.e.soakaways.com
 soakcompassplatoon.com
 soalonie.com
@@ -164689,6 +164696,7 @@ qwebirc.swiftirc.net
 snippetdata.api.swiftkey.com
 telemetry.api.swiftkey.com
 path.swiftloanway.com
+swiftlybloodlesseconomic.com
 events.swiftlycontent.net
 swiftmining.win
 ads.swiftnews.com
@@ -164872,6 +164880,7 @@ link.syfy-channel.com
 tr.n.info.sygmabanque.fr
 tr.gestion.sygmabnpparibas-pf.com
 sygmtz.com
+sygrip.info
 syh34w.com
 syiae.com
 syinga.com
@@ -165329,6 +165338,7 @@ taaqhr6axacd2um.com
 taartstore.xyz
 taavdm.shop
 go.tab.com
+content.tab.com.au
 go.tab.com.au
 smetrics.tab.com.au
 stt.tab.com.au
@@ -167669,6 +167679,7 @@ teophila.com
 xo7k.teousickl.ru
 tepcoljp.top
 tephroitesjoage.life
+tepirhdbauahk.com
 teplokomplex.ru
 load.gtm.teppichscheune.de
 tepusi888.cn
@@ -177170,6 +177181,7 @@ uerbgnkas.com
 uerzyr.cn
 ueuodgnrhb.com
 uevmp.com
+uewzjy.xyz
 ueykjfltxqsb.space
 uezbshzpdcbb.info
 ufabetsmile.com
@@ -177197,6 +177209,7 @@ ufpcdn.com
 ufphkyw.com
 jxiwdw.ufret.jp
 grado.ufv.es
+ufykspupgxgzz.com
 ufzanvc.com
 t.pac.uga.edu
 www2.terry.uga.edu
@@ -194197,6 +194210,7 @@ stats.zdf.de
 tracksrv.zdf.de
 a.zdg.de
 a3.zdg.de
+zdgeoqvzo.com
 zdi.ru
 zdjeciarozpoznawanie.click
 zdjecieod.lol
