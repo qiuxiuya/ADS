@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250119001930
-! Last modified: 2025/01/19 00:19:30
-! Blocked domains: 195847
+! Version: 20250119092430
+! Last modified: 2025/01/19 09:24:30
+! Blocked domains: 195854
 !
 0-0.fr
 0-02.net
@@ -14048,7 +14048,6 @@ animemeat.com
 animenewsmagazine.com
 animenime.ru
 animeplaynow.com
-animeshoppers.com
 api.animeshqip.icu
 animi2.com
 animits.com
@@ -27671,6 +27670,7 @@ binomo.in
 binomo.info
 binomo.vip
 binomo1.com
+binomo2022.net
 binomocadastro.com
 binomoentrar.com
 binomoidr.com
@@ -43684,6 +43684,7 @@ metacareer.com-case37169314276.com
 usps.com-cdtfkj.com
 booking.com-checkin.info
 com-cloud.co
+ezdrivema.com-customerhnz.top
 com-dapptrust.com
 com-dk.com
 com-etswap.com
@@ -55973,6 +55974,7 @@ ad.domquigleyphotography.com
 data-38a6e3d7f2.domradio.de
 domsadiogorod.ru
 domsearch.net
+domself.de
 domslc.com
 domuipan.com
 ctd.domusweb.it
@@ -66265,6 +66267,7 @@ faze4.com
 faze40.com
 faze47.com
 faze5.com
+faze8.com
 fazebet.com
 fazegift.top
 fazika.ru
@@ -118654,6 +118657,7 @@ super8-link.mysuki.io
 mysumo.de
 qsdr.mysunnylawn.com
 ok.mysupercoffee.org
+mysuperdatingforyou.life
 felidae.mysuperportal.com
 corutu.mysurveyfollow.com
 kaci.mysurveyfollow.com
@@ -119834,6 +119838,7 @@ navi38.ru
 navi39.ru
 navi45.ru
 navi5.com
+navi5.ru
 navi50.com
 navi53.com
 navi54.com
@@ -119850,6 +119855,7 @@ navi77.com
 navi78.ru
 navi8.com
 navi88.com
+navi94.ru
 navi99.com
 vinted-polska-rr124.navia.top
 naviblue-team.com
@@ -148764,7 +148770,6 @@ romperspardesi.com
 romput.com
 romtheoth.work
 load.gtm.romutrechtregion.nl
-ronagoupil.ca
 marketing.ronbarretire.com
 gjdjij.roncato.com
 ronchezfitness.com
@@ -162009,6 +162014,7 @@ tfomk.steamingmugcafe.com
 steamjaws.com
 steamkeygiveaway.com
 steamkeysfree.com
+steammcommunuty.ru
 amz.steamprices.com
 steamproxy.net
 load.server.steampunk-boutique.com
@@ -176316,6 +176322,7 @@ stat.tuv.com
 statistics.tuv.com
 tuvanbaohiemaia.com
 tuvedui.com
+tuvrutsnf.com
 smetrics.tuvsud.cn
 smetrics.tuvsud.com
 tuvtpxp.cn
@@ -185756,6 +185763,7 @@ web-trackers.com
 web-url.net
 auth.web-waltconect.com
 pm.web.com
+absys.web.de
 ads.web.de
 epimetheus.navigator.web.de
 info.web.de
@@ -190315,7 +190323,6 @@ wywiadyifakty.rest
 wywiadyswiadkowie.rest
 www.wyxcb6.top
 www2.wyylde.com
-wyzia-orderdeposits.com
 a.wyzmob.com
 data-9f426096e1.wz-net.de
 wz-werbewelt.de
