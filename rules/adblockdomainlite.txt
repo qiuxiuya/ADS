@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250120092008
-! Last modified: 2025/01/20 09:20:08
-! Blocked domains: 5584
+! Version: 20250120162355
+! Last modified: 2025/01/20 16:23:55
+! Blocked domains: 5589
 !
 00xvppy.cn
 011.com
@@ -140,6 +140,8 @@ js.1688988.com
 tz.1688988.com
 168ad.cc
 cvda.17173.com
+log1.17173.com
+stat.v.17173.com
 vda.17173.com
 s.17173cdn.com
 178gg.com
@@ -186,6 +188,7 @@ jifen.2345.com
 wan.2345.com
 zhushou.2345.com
 www.2345at.com
+m.23txt.com
 2481e.com
 2607.cn
 js.263y.com
@@ -459,6 +462,7 @@ www.95599.cn
 11.96131.com.cn
 96138.net
 9800.com
+42gixk.98kk89.com
 whfpbc.99.com.cn
 w18.9939.com
 a1.99933.cn
@@ -479,6 +483,7 @@ abbyychina.com
 smetrics.abercrombie.cn
 abjalrq.cn
 discover.absciex.com.cn
+disk.accord1key.cn
 apilog-web.acfun.cn
 apilog.app.acfun.cn
 jscode.acg68.com
@@ -735,6 +740,7 @@ anysdk.com
 aogk88.asia
 aoopj.top
 aoqinglv.cn
+app-analytics-services.com
 app-measurement.com
 mobile.appchina.com
 appdriver.cn
@@ -763,7 +769,6 @@ ac.art456.com
 arts-cloud.net
 f5w.as12df.top
 aspwg.cn
-rtb.astrodsp.com
 asycxtz.cn
 aiseet.aa.atianqi.com
 dsp.atomhike.com
@@ -978,12 +983,11 @@ balldollars.com
 changan.bama555.com
 h.baminw.cn
 j.baminw.cn
-n.baminw.com.cn
 q.baminw.com.cn
 bangqidq.com
 active.baofeng.com
 midinfo.baofeng.com
-resource.baomihua.com
+a.baomihua.com
 bartender.cc
 etwvvde.baspk.cn
 ydwhinh.baspk.cn
@@ -1126,6 +1130,7 @@ dispatcher.c360dn.com
 dispatcher-bsy.c360dn.com
 caduka.cn
 download.caihong.com
+apollo.caixin.com
 gg.caixin.com
 pinggai5.caixin.com
 ad.caiyunapp.com
@@ -1200,6 +1205,7 @@ dvser.china.com
 rankhit.china.com
 sssvd.china.com
 union.china.com.cn
+chinaapper.com
 adpic.chinadaily.com.cn
 same.chinadaily.com.cn
 usercollection.chinadaily.com.cn
@@ -1400,7 +1406,6 @@ dtm-dre.platform.dbankcloud.cn
 events-drcn.op.dbankcloud.cn
 grs.dbankcloud.cn
 httpdns-browser.platform.dbankcloud.cn
-httpdns.platform.dbankcloud.cn
 hwpub-s01-drcn.cloud.dbankcloud.cn
 logservice-dre.platform.dbankcloud.cn
 logservice1.dbankcloud.cn
@@ -1445,7 +1450,6 @@ app.fota.digitimetech.com
 bea-s.dinghuoche.com
 dinglixuan.cn
 linktrace.diningcity.cn
-stdown.dinju.com
 dipan.com
 code.ditiezu.net
 olx-pol-kxlsw2.diyang.top
@@ -1734,6 +1738,7 @@ bro.flyme.cn
 madx.flyme.cn
 t-e.flyme.cn
 t-flow.flyme.cn
+aeon.co.jp.playeri.fmkw2w.cn
 data.fnexpress.cn
 check.fnos.net
 adv-sv-show.focus.cn
@@ -1823,6 +1828,7 @@ nochange.ggsafe.com
 zxcs.ggwan.com
 jy.ggweb.net
 shqdown.ggzuhao.com
+gh-hr.cn
 stats.dmp.ghac.cn
 ad.partner.gifshow.com
 gdfp.gifshow.com
@@ -1891,9 +1897,7 @@ ads.google.cn
 adsense.google.cn
 adservice.google.com
 pagead-googlehosted.l.google.com
-s0-2mdn-net.l.google.com
 ssl-google-analytics.l.google.com
-static-doubleclick-net.l.google.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 clickserver.googleads.com
@@ -2169,11 +2173,9 @@ httpdns.pro
 www.huabian.com
 huafangzhou.com
 ad.huajiao.com
-api-analytics.huami.com
 api-analytics-cn.huami.com
 api-analytics-in.huami.com
 api-analytics-sg.huami.com
-app-analytics.huami.com
 app-analytics-in.huami.com
 app-analytics-ru.huami.com
 app-analytics-sg.huami.com
@@ -2303,6 +2305,7 @@ seeder.igetget.com
 ignslkgs.com
 ihclam.cn
 ihtqqws.cn
+ad.iii.co.uk
 iimedia.cn
 www.iiyout.cn
 ijinshan.com
@@ -2350,6 +2353,7 @@ inpost-vip.shop
 ixvdfqi.inqku.cn
 qlvzjmtg.inqku.cn
 qvesjkub.inqku.cn
+insagfasvpass.com
 insenz.com
 instreet.cn
 ainu.intel.cn
@@ -2411,6 +2415,7 @@ stat.it168.com
 itaoxiaoshuo.com
 a1.itc.cn
 cee1.iteye.com
+mpb1.iteye.com
 rabc1.iteye.com
 stat.iteye.com
 v1.ard.update.itlily.com
@@ -2440,7 +2445,6 @@ ixstng.cn
 dev.iyuba.cn
 iyuedu.cn.com
 log.iyunmai.com
-tg.iyutong.cn
 izalflh.cn
 adapi.izuiyou.com
 adstat.izuiyou.com
@@ -2634,7 +2638,6 @@ tjjs.km.com
 kmgfjc.cn
 ykkvnoxal.kmhul.cn
 kmpxq.cn
-kmwclt.xyz
 kmzayrt.cn
 kxlogo.knet.cn
 rr.knet.cn
@@ -2813,7 +2816,6 @@ tracker.kugou.com
 trackercdnbj.kugou.com
 update.mobile.kugou.com
 webcollects.kugou.com
-kuk8.com
 h1.kukuw.com
 img.adnyg.com.w.kunlungr.com
 kuqi.com
@@ -2877,6 +2879,7 @@ adm.leju.com
 src.leju.com
 tongji.leju.com
 lejuliang.com
+lelexing.cn
 analyze.lemurbrowser.com
 app.update.lenovo.com
 click.lenovo.com
@@ -2936,6 +2939,8 @@ litchiads.com
 v88.live800.com
 mkadsearch.lizhifm.com
 ljrtb.cn
+aeon.co.jp.ultimac.lkvya.cn
+a.llysc.cn
 lm665.com
 bffbdo.lmsae.cn
 lmwmm.com
@@ -2949,7 +2954,6 @@ webanalytics.logitechg.com.cn
 webtarget.logitechg.com.cn
 lomark.cn
 www.loprr.cn
-lostheaven.com.cn
 lotuseed.com
 49453k0l.vr.loveota.com
 49453k0l.vs.loveota.com
@@ -3058,7 +3062,6 @@ game.res.meizu.com
 infocenter.meizu.com
 norma-external-collect.meizu.com
 openapi-news.meizu.com
-push.res.meizu.com
 reader.meizu.com
 reader.res.meizu.com
 servicecut.meizu.com
@@ -3266,10 +3269,6 @@ mibook-10006092.cos.myqcloud.com
 projecta-common-1258344701.file.myqcloud.com
 redpaper-10006092.cos.myqcloud.com
 sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com
-saadsfds7.myshoplaza.com
-salewashop-pl.myshoplaza.com
-salewashopiing.myshoplaza.com
-salewashopping.myshoplaza.com
 analytics.myshoptago.com
 mytanwan.com
 ggs.myzaker.com
@@ -3281,6 +3280,7 @@ ytapi1.nagezan.net
 logs.nandu.com
 1.nanrenwo.net
 m.nanyangqiaoxiang.cn
+dl.natgo.cn
 nbfieef.cn
 nbilaser.com
 ncfws.cn
@@ -3311,6 +3311,7 @@ t.home.news.cn
 webd.home.news.cn
 al.newxue.com
 ggdm1.nhaidu.net
+nhjsw.cn
 nimaxrv.cn
 down.nishuoa.com
 nithisp.cn
@@ -3353,7 +3354,6 @@ anews7.nvwu.com
 nzydzsw.com
 oadz.com
 analytics.oceanengine.com
-app1.oceantg.com
 oewtuho.cn
 vinted.offer2584.shop
 offerstrack.net
@@ -3525,7 +3525,6 @@ app.aplus.pptv.com
 as.aplus.pptv.com
 de.as.pptv.com
 jp.as.pptv.com
-pp2.pptv.com
 static.g.pptv.com
 tj.g.pptv.com
 pqzjki.cn
@@ -3549,7 +3548,9 @@ pig.pupuapi.com
 puqer.cn
 ums.pushpia.cn
 ssp.putaojiu.com
+apple.pvxt.net
 dm.pw0.cn
+pw2ct1.asia
 pxhuiben.com
 cdn.pyadx.com
 pypwxvo.cn
@@ -3836,6 +3837,7 @@ zxcv.3g.qq.com
 wxaintpcos.wxqcloud.qq.com.cn
 qq937.com
 a1.qqan.com
+down.qqfarmer.com.cn
 www.qqqmy.com
 tweb.qqtax.cn
 sdk-ab-config.qquanquan.com
@@ -3946,6 +3948,7 @@ rvzlobj.cn
 rwpt.top
 wwwv.smbc-card.tomyment.rxvecn.cn
 rxys.cn
+rydfinance.com
 ryre.cn
 vinted-pl-gj32d.ryuji.top
 rz261.cn
@@ -3972,6 +3975,7 @@ mcfg.sandai.net
 active.sangfor.com
 tech.sangfor.com
 sanghuangvip.com
+ta.sanook.com
 dm.sanwen.net
 dm.sanwen8.com
 saxysec.com
@@ -3991,6 +3995,7 @@ sdvfvgj.cn
 sdzhongke.cn
 1640831964042.se-life.cn
 sellfox.com
+senbiaojita.com
 sensorsdata.cn
 logstat.t.sfht.com
 wwwv.smbc-card.harmonize.sfhzl.cn
@@ -4562,10 +4567,10 @@ tradplus.cn
 tradplus.com
 tradplusad.com
 cnzz.trafficmanager.net
-javascript.trafficmanager.net
 analysis.tratao.com
 ta.trs.cn
 trustutn.org
+analytics.trustyou.com
 ts166.net
 ttyyuuoo.com
 tudou.com
@@ -4719,7 +4724,6 @@ vamaker.com
 collect.vans.com.cn
 app-ad.variflight.com
 vaycaptoc-vn.com
-vinted-pl-gj32d.vaytienmat.top
 log.vcgame.cn
 m.vcsoat.cn
 wwwv.smbc-card.gadzooks.vcvos.cn
@@ -5492,6 +5496,7 @@ zgsdk.zhugeio.com
 zhuozhongfangshui.cn
 fdfda.zhuzhai.com
 zhzzx.com
+znrq.zifwxq.cn
 ad.zijieapi.com
 ads3-normal.zijieapi.com
 ads3-normal-hl.zijieapi.com
