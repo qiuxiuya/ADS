@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250122002230
-! Last modified: 2025/01/22 00:22:30
-! Blocked domains: 5591
+! Version: 20250122092036
+! Last modified: 2025/01/22 09:20:36
+! Blocked domains: 5586
 !
 00xvppy.cn
 011.com
@@ -1826,7 +1826,6 @@ ggmm777.com
 nochange.ggsafe.com
 zxcs.ggwan.com
 jy.ggweb.net
-shqdown.ggzuhao.com
 gh-hr.cn
 stats.dmp.ghac.cn
 ad.partner.gifshow.com
@@ -2014,7 +2013,6 @@ bdcode1.haodou.com
 g.haofan005.com
 js1.haoge500.com
 bd.haomagujia.com
-2.haory.cn
 mbrowser.news.haosou.com
 haoweb.top
 haowei.me
@@ -3138,7 +3136,6 @@ gg.miinaa.com
 mimeihui.com
 mindmanager.cc
 a1.mingyihui.net
-src1.minibai.com
 minisplat.cn
 wm.mipcdn.com
 track.mituo.cn
@@ -3558,8 +3555,6 @@ pzkrgcp.cn
 www.q4ee.top
 q9y39.cn
 qbdgame.com
-139520.aioc.qbgxl.com
-912648.aioc.qbgxl.com
 qchannel04.cn
 qcjslm.com
 log.qvb.qcloud.com
