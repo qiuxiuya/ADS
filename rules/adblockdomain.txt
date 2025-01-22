@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250122162347
-! Last modified: 2025/01/22 16:23:47
-! Blocked domains: 197018
+! Version: 20250123002248
+! Last modified: 2025/01/23 00:22:48
+! Blocked domains: 197041
 !
 0-0.fr
 0-02.net
@@ -53,6 +53,7 @@ bd100.010lm.com
 a8clk.011330.jp
 383e3851cf.0115b2b799.com
 012024jhvjhkozekl.space
+01221sop.xyz
 inpost.012452.xyz
 0127c96640.com
 a8.wizrecruitment.012grp.co.jp
@@ -3269,6 +3270,7 @@ abdf9edb4b.5b8dba1dee.com
 182e8ffa40.5b9c4c545d.com
 vinted-pl-gj32d.5bahisalon.top
 5bdd71381c.com
+5be7319a8b.com
 5bf6d94b92.com
 5btekl14.de
 5buddies.com
@@ -13019,6 +13021,7 @@ aax-eu.amazon.com.tr
 unagi.amazon.com.tr
 advertising.amazon.de
 go.freight.amazon.de
+events.app-performance.music.amazon.dev
 events.watchtower.imdbtv.amazon.dev
 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
 trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
@@ -21819,6 +21822,7 @@ b5e75c56.com
 b5h7.com
 log.b612kaji.com
 b6522.com
+b6b2d31f7e.com
 b6cb78mf.cfd
 2e8c13c9c8.b6ccb3f833.com
 f61c404e56.b6eeaf2d00.com
@@ -52802,6 +52806,7 @@ ads.depositfiles.com
 ads1a.depositfiles.com
 adsbb.depositfiles.com
 ads.depositfiles.org
+adsbb.depositfiles.org
 depositpastel.com
 deposxts.com
 depot-colis-2025.com
@@ -55908,6 +55913,7 @@ dogeconnect.com
 dogehype.com
 dogfactory.biz
 dogfoodfinder.com
+doggessasbolin.com
 doggiedooit.com
 doggingmission.com
 doggingnights.com
@@ -59781,6 +59787,7 @@ m.edo5.com
 engine.edocbuilder.com
 engine.century.edocbuilder.com
 edococounter.de
+edokouksuk.net
 go.edology.com
 edomainpoint.cz
 xkgtxj.edomator.pl
@@ -59949,6 +59956,7 @@ eekreeng.com
 eekrogrameety.net
 eeksoabo.com
 eeleekso.com
+eelerzambo.com
 eelhoe.us
 eelsoup.net
 eemgl.com
@@ -65550,7 +65558,7 @@ f58x48lpn.com
 f59408d48d.com
 f5biz.com
 75357f7aec.f5ea66a9f7.com
-31fa866365.f5ff45b3d4.com
+f5ff45b3d4.com
 g.f5gh.com
 add.f5haber.com
 f5sapi.com.br
@@ -70290,6 +70298,7 @@ formdesigner.pro
 formedwrapped.com
 data-048578045a.formel1.de
 data-c2cfe04d43.formel1.de
+formerdisagreepectoral.com
 formerdrearybiopsy.com
 formerlyhorribly.com
 formerlyparsleysuccess.com
@@ -79325,6 +79334,7 @@ gujior.top
 gujkj.cn
 gujranwalaliving.com
 gukmodukuleqasfo.com
+gukrathokeewhi.net
 ad-server.gulasidorna.se
 gulbaagpublicschool.com
 load.sgtm.guldsmedlind.dk
@@ -80779,6 +80789,7 @@ content.harrisproductsgroup.com
 sstats.harrods.com
 stats.harrods.com
 harrowden-latymer.com
+harrowliquid.com
 iqyioj.harryanddavid.com
 harrydough.com
 harrymercurydynasty.com
@@ -97588,6 +97599,7 @@ kalimbu.xyz
 kalinia.pl
 alkwxn.kalkifashion.com
 load.sgtm.kalkmaster.ch
+kalkvisrecit.shop
 jtfxes.kallysleep.com
 go.kalmarglobal.com
 tracking.kalmarposten.se
@@ -107666,6 +107678,7 @@ m3i0v745b.com
 m3lmtk.com
 m3mflashsale.com
 m4n.nl
+m4r.fun
 m4rkt.com
 m4su.online
 innovation.m5.net
@@ -116435,6 +116448,7 @@ afac.mopo.jp
 afte.mopo.jp
 static.mopo.jp
 mopub.com
+moqbfkfuex.com
 moqdy.icu
 moquanad.com
 sstats.mora.jp
@@ -124631,6 +124645,7 @@ numa-design.com
 inpost.numaine.shop
 numarabiz.com
 numarapaneli.com
+numb-price.pro
 numberia.com
 hbxiol.numberingwebsite.com
 numberium.com
@@ -126624,7 +126639,7 @@ official.olymptrade-my.com
 olymptrade-qid.com
 go.scientific-solutions.olympus-ap.com
 info.olympusamericamarketing.com
-xu.olympuscracowe.shop
+olympuscracowe.shop
 tvguru-lp.olympuswaymarketing.com
 olymtrad.com
 olzlmemumcwe.com
@@ -127342,6 +127357,7 @@ xmh57jrzrnw6insl.onion.pet
 zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion.pet
 zzz.onion.pet
 qlqd5zqefmkcr34a.onion.sh
+onionetmabela.top
 onionfive.net
 onionhydra.net
 onionlogo.com
@@ -128914,6 +128930,7 @@ osfkfaacqx.com
 osfrjut.com
 osfultrbriolenai.info
 osg-work-up.com
+osgabcqk.com
 go.osgconnect.com
 osgsijvkoap.com
 solutions.oshaeducationcenter.com
@@ -143395,6 +143412,7 @@ ohrgflbcm.qnssl.com
 trk.qntrk.com
 elqforms.qnx.com
 qnyysdideo.com
+qo2.fun
 qoaaa.com
 evri.qoastge.click
 tk.qobuz.com
@@ -144922,6 +144940,7 @@ raisegame.com
 raisemygram.com
 go.raiserecruiting.com
 rarnational.raisingareader.org
+raisoglaini.net
 raistiwije.net
 go.raistone.com
 raivoabu.com
@@ -151824,6 +151843,7 @@ samafg.com
 samage-bility.icu
 samahin.com
 samajewels.com
+samalcuratic.shop
 nzozdrozd.samantaliwia.pl
 samanthablog.online
 samantonalno.xyz
@@ -161266,6 +161286,7 @@ insights.spherasolutions.com
 www.sphere.com
 spheredkapas.com
 spherexx.com
+spheryexcise.shop
 collector.sphgfgx.com
 cdn.sphinxtube.com
 y.sphinxtube.com
@@ -170270,6 +170291,7 @@ thamkebiofuels.com
 thampolsi.com
 thanbza.top
 thangetsoam.com
+thangrurs.com
 ai.thanhnien.vn
 fzip.thanhnien.vn
 thanhthieunhibaoloc.com
@@ -176934,6 +176956,7 @@ ttdbj.com
 ttdpxh.xyz
 www2.ttec.com
 www.ttecancun.com
+tteojtlqlxrev.com
 www2.ttgasia.com
 ttgmjfgldgv9ed10.com
 tthathehadstop.info
