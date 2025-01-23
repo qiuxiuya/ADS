@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250123162310
-! Last modified: 2025/01/23 16:23:10
-! Blocked domains: 196488
+! Version: 20250124002225
+! Last modified: 2025/01/24 00:22:25
+! Blocked domains: 196515
 !
 0-0.fr
 0-02.net
@@ -3644,6 +3644,7 @@ www.6kwan.com
 6ldu6qa.com
 6leaofqkh9.ru
 6likosy.com
+6lx.fun
 6mh8.com
 6ms.biz
 6o9.com
@@ -9739,6 +9740,7 @@ go.afinialabel.com
 stats.afirmacijas.lv
 analytics.afirstsoft.cn
 afisha-exhibition.com
+egg.afisha.ru
 afishamedia.net
 afitfld.xyz
 ads.afixi.com
@@ -13741,6 +13743,7 @@ omni.amsurg.com
 somni.amsurg.com
 amt-k.ru
 amtap61ys.top
+amtmenlana.com
 m.amtmobi.com
 amtracking01.com
 amtropiusr.com
@@ -17960,6 +17963,7 @@ pruebascol.arin-innovation.com
 arinsingh.com
 arioiundated.com
 top777.ariom.ru
+ariotgribble.com
 ariqye.xyz
 banners.aris.ge
 arisatore.pw
@@ -22109,6 +22113,7 @@ bacsiphuong.com
 bacskateszov.hu
 bactatank17.com
 bacteriaroar.info
+baculeprudery.com
 trk.bad-tool-tell-doubt.xyz
 badadownload.com
 badagaweds.com
@@ -36964,6 +36969,7 @@ tracking.capterra.com
 captify.co.uk
 captifymedia.com
 captinads.com
+captionconjecture.com
 link.captionwriter.app
 mail.captiv8axosinfluencer.com
 captivate.ai
@@ -37908,6 +37914,7 @@ metrics.cathflo.com
 smetrics.cathflo.com
 t.cathflo.com
 t-s.cathflo.com
+cathodeoutwood.com
 wvw.catholic.com
 catholicprevalent.com
 cathrynslues.com
@@ -42628,6 +42635,7 @@ go.cmitfranchise.com
 www1.cmitsolutions.com
 cmix.org
 cmjfitrk.com
+cmjvuwtgfzl.com
 cmmeglobal.com
 go.cmmsdatagroup.com
 analytics.cmn.com
@@ -48205,6 +48213,7 @@ baton.cuetv.online
 cuevastrck.com
 cufcw.com
 cufultahaur.com
+cugaksoogleptix.xyz
 cugraghorty.com
 blog.cuidadocaseiro.com
 adobe-ep.cuidadodesalud.gov
@@ -48213,6 +48222,7 @@ rtk.af.cuidadosyasesoramiento.com
 cuidamiperrito.com
 track.cuidandotusalud.fun
 cuidatueconomia.com
+cuinageaquilid.com
 go.cuinsight.com
 cuirboy.com
 cuiron.de
@@ -51168,6 +51178,7 @@ data.dats24.be
 securedata.dats24.be
 datsavunma.com
 z89yxner8h.datsumou-beauty-times.com
+datsunepizzoa.com
 data-c5740f79ff.dattelner-morgenpost.de
 data-e9439b5f81.dattelner-morgenpost.de
 dattter.shop
@@ -53911,6 +53922,7 @@ diginebank.com
 mktg.digineer.com
 piwik.digineo.de
 tracking.diginetica.net
+tracking-app.diginetica.net
 diginews365.com
 digiowner.com
 digipathmedia.com
@@ -55606,6 +55618,7 @@ info.meihua.docer.com
 dochase.com
 dochmiiresidue.com
 dochodzenie24.click
+dociblessed.com
 healthsprings.docis.io
 dockboulevardshoes.com
 dockdeity.com
@@ -81393,6 +81406,7 @@ healwellness.com
 healy.shop
 healy.world
 healyworld.net
+c.us.heap-api.com
 heap.com
 heapanalytics.com
 heapbonestee.com
@@ -98022,6 +98036,7 @@ kauleeci.com
 ad.kaupangkrypto.no
 kauraishojy.com
 kaurieseluxate.com
+kauriessizzler.shop
 kaushichie.net
 kaushooptawo.net
 kauzishy.com
@@ -100619,6 +100634,7 @@ efsqwi.krueger-dirndl.de
 smetrics.krugerseed.com
 kruiz-sochi.ru
 wtzxwz.kruiz.online
+kruraits.com
 krut.link
 krutilka.net
 ad.krutilka.ru
@@ -130135,6 +130151,7 @@ sle.pagesjaunes.fr
 metering.pagesuite.com
 go.pageuppeople.com
 pageview.click
+paginaltreitre.shop
 central-servicos.paginas.email
 paginas.site
 portaldocliente.terra.paginas.store
@@ -147855,6 +147872,7 @@ info.rfgen.com
 rfgrdefgrdefgsd.blogspot.sn
 wvvw.rfi.fr
 rficarolnak.com
+rfidpytri.com
 rfihub.com
 rfihub.net
 rfinidtirz.com
@@ -150293,6 +150311,7 @@ rugcrucial.com
 rugfdl.com
 fglrgt.ruggable.com
 ruggownpolacca.com
+ruggyscallop.top
 rugiomyh2vmr.com
 ruglhiahxam.com
 hqxbuy.rugs-direct.com
@@ -152179,6 +152198,7 @@ sauroajy.net
 sausagefaithfemales.com
 sausagegirlieheartburn.com
 sausterem.com
+sauthooptoo.net
 sauwoaptain.com
 savableee.com
 savagereplies.com
@@ -160951,6 +160971,7 @@ spiendidates.com
 vgavzy.spierandmackay.com
 spiffymachine.com
 marketing.spigit.com
+spijdawmqvs.com
 promo1.spik.ru
 spikearsonembroider.com
 spikeballforher.com
@@ -162884,6 +162905,7 @@ data-ae81bed93b.stimme.de
 data-b8587f1b76.stimme.de
 data-ae81bed93b.stimmt.de
 stimtavy.net
+stimtoughougnax.net
 stimulateartificial.com
 stimulatingsneeze.com
 stingcomputing.com
@@ -176646,6 +176668,7 @@ web.tummytox.it
 web.tummytox.pt
 web.tummytox.sk
 tumordied.com
+tumpsmolla.com
 tumulo.top
 get.tunableapp.com
 tunatastesentertained.com
@@ -177299,6 +177322,7 @@ txtrek.net
 txtrk.com
 txtrophyhunts.com
 android.txtsmarter.com
+txtspjaorddrjqq.com
 txtspy.org
 txtx.jp
 txumirk.com
@@ -187833,6 +187857,7 @@ westartart.com
 westblvdrealestategroup.com
 westbridges.net
 ads2.westca.com
+westcoa.com
 smetrics.westcoastuniversity.edu
 rtb-useast.westcom.tv
 static.westcom.tv
@@ -189555,6 +189580,7 @@ woaq5l6.today
 woareejoaley.net
 woasry.com
 quobblewhack.wobbleflib.store
+wobbly-birth.com
 data-5c543e37c1.wochenblatt-dlv.de
 data-a59dd2af3b.wochenblatt-dlv.de
 data-f1c47705fc.wochenblatt.com
@@ -194696,6 +194722,7 @@ fglopb.zapaka.com
 zapakapl.com
 zapalmyswieczki.click
 zaparena.com
+zapasizzard.com
 zapaterio.com
 pjmryh.zapatos.es
 zapatrywanie.click
