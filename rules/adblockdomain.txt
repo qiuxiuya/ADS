@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250124002225
-! Last modified: 2025/01/24 00:22:25
-! Blocked domains: 196515
+! Version: 20250124091916
+! Last modified: 2025/01/24 09:19:16
+! Blocked domains: 196528
 !
 0-0.fr
 0-02.net
@@ -55,6 +55,7 @@ a8clk.011330.jp
 383e3851cf.0115b2b799.com
 012024jhvjhkozekl.space
 01231sop.xyz
+01240sop.xyz
 inpost.012452.xyz
 0127c96640.com
 a8.wizrecruitment.012grp.co.jp
@@ -14302,6 +14303,7 @@ animemeat.com
 animenewsmagazine.com
 animenime.ru
 animeplaynow.com
+animeshoppers.com
 api.animeshqip.icu
 animi2.com
 animits.com
@@ -17916,6 +17918,7 @@ gcirm.argusleader.com
 sp.argusleader.com
 srepdata.argusleader.com
 sxjfhh.argusleader.com
+pixels.argusplatform.com
 argylabs.com
 info.argyleforum.com
 wyzdlu.arhaus.com
@@ -19518,6 +19521,7 @@ atticprosusa.com
 atticshepherd.com
 attictop.com
 xtdre3o5g7pqufx67290e310ca1c.attillayacht.com
+attingepicrate.com
 attiora.uk.com
 attire.com.pl
 attiredresses.com
@@ -23126,6 +23130,7 @@ trk.barcoproducts.ca
 trk.barcoproducts.com
 bardatm.ru
 barddfvgkhctch11.ru
+bardeearmsize.com
 load.ss.barderi.it
 bardicjazzed.com
 bardogazed.shop
@@ -24982,6 +24987,7 @@ besamstudio.com
 besandileer.com
 besandileom.com
 go.besavvyseniors.com
+besaylecran.com
 cdn.bescore.com
 beseechpill.com
 beshucklean.com
@@ -33696,6 +33702,7 @@ load.sst.brepen.es
 load.sst.brepen.fr
 load.sst.brepen.it
 load.sst.brepen.pt
+brerkols.com
 bresko.pl
 a8clk.bresmile.jp
 a8cv.bresmile.jp
@@ -55412,6 +55419,7 @@ private.dmscookie.com
 pisi1488228gmailcom.dmses.ru
 dmsocialspy.com
 dmtag.jp
+cdn.dmtgvn.com
 dmtracker.com
 dmtrck.com
 dmtrk.net
@@ -69417,6 +69425,7 @@ fmm4rpdh6.top
 fmoezqerkepc.com
 fmproductionscr.com
 fmpub.net
+fms88.shop
 fmsads.com
 ghnwss.fmsstores.gr
 fmstigat.online
@@ -85559,6 +85568,7 @@ t.huskers.com
 huskinessimminentstylus.com
 huskypartydance.com
 na-pages.husqvarna.com
+husqvarnaoutlet.shop
 go.hustle.com
 hustleandmusclesport.com
 hustlerplugz.com
@@ -129615,6 +129625,7 @@ owneriq.net
 a8clk.owners-age.com
 smetrics.ownertoownercommunication.com
 owngal.com
+ownhoodmucro.shop
 ownhouseindia.com
 ownip.net
 ownlocal.com
@@ -145022,6 +145033,7 @@ ratz-laff.com
 rauceesh.com
 raudoufoay.com
 raufajoo.net
+rauheestuma.xyz
 raujouca.com
 go.rauland.com
 prism.raumgleiter.com
@@ -153351,6 +153363,7 @@ smetrics.seattlepi.com
 seattlepottarysupply.com
 seaviews.xyz
 seawantocelots.click
+seawantyroma.com
 metrics.seawheeze.com
 smetrics.seawheeze.com
 seawood.org
@@ -160336,6 +160349,7 @@ southcolts.com
 metrics.southeastfarmpress.com
 smetrics.southeastfarmpress.com
 marketing.southeastmortgage.com
+southeestais.net
 smetrics.southerncomfort.com
 southerngeographic.com
 smetrics.southernglazers.com
@@ -195179,7 +195193,6 @@ a8cv.zerorenovation.com
 zerospinstocks.com
 zerostear.world
 zttemail.zerotothree.org
-zerowasteinitiative.com
 zesemen.cz
 zesep.com
 zeshanhaider.com
