@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250124162247
-! Last modified: 2025/01/24 16:22:47
-! Blocked domains: 196383
+! Version: 20250125002146
+! Last modified: 2025/01/25 00:21:46
+! Blocked domains: 196417
 !
 0-0.fr
 0-02.net
@@ -1056,6 +1056,7 @@ counter.1i.kz
 1igare0jn.de
 1inposts.top
 1itot7tm.de
+1iuh5l.com
 1j02claf9p.pro
 1j771bhgi.de
 1jok.icu
@@ -4876,6 +4877,7 @@ www.aadvantagepanelsandfence.com
 aadwa.com
 aaenv48847h.com
 aafdcq.com
+aafns.xyz
 nossl.aafp.org
 ssl.aafp.org
 nossl.aafpfoundation.org
@@ -9365,6 +9367,7 @@ complianceupdates.aem.org
 tradeshows.aem.org
 updates.aem.org
 aemediatraffic.com
+aemghfxq.com
 aemxbkfele.xyz
 smetrics.aena.es
 aenoprsouth.com
@@ -21365,6 +21368,7 @@ ayv.ayvens.com
 info.carmarket.ayvens.com
 aywgucxmh.com
 aywivflptwd.com
+aywnaoliigc.com
 ayybzhd.cn
 data.information.ayyildiz.de
 data.umfrage.ayyildiz.de
@@ -24022,6 +24026,7 @@ beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 beaconstreetservices.com
 tracking.go.beacontrust.com
+beaconyirred.com
 bead-n-things.com
 beadingintherain.com
 affiliates.beaffiliates.com
@@ -34995,6 +35000,7 @@ burkina-emploi.com
 burklabs.com
 burlapretorted.com
 burledvitamin.shop
+microsoft-teams-download.burleson-appliance.net
 burliesere.com
 mzxhkx.burlington.de
 fcizcj.burlingtonfreepress.com
@@ -35145,6 +35151,7 @@ gxxoop.bussgeld-info.de
 bussinesssupportsaccounts-page.com
 33serve.bussyhunter.com
 s.bussyhunter.com
+bustaumtatelt.net
 busterry.com
 bustlefungus.com
 bustlemiszone.com
@@ -52308,6 +52315,7 @@ deluxepapers.com
 sst.deluxepartyware.com
 deluxesave.com
 go.delve.com
+delveactivity.com
 my.delvinwellness.com
 promotions.eq.delwebb.com
 realtors.eq.delwebb.com
@@ -57275,6 +57283,7 @@ dscwala.com
 cikvwv.dsdamat.com
 fam.dsdemo.jp
 info.dsei.co.uk
+dseveralmefarketi.com
 dsfh2.icu
 dsfvmx.click
 dsghhbqey6ytg.cloudfront.net
@@ -59558,6 +59567,7 @@ rum.edgio.net
 rum.ingress.edgio.net
 edgrmtracking.com
 edgyinspirationalromance.com
+edgypollnormandy.com
 piwik.edh.tw
 edhumteknik.com
 edialog24.com
@@ -74802,6 +74812,7 @@ gforanythingam.com
 access.gfpornmovies.com
 watchmygirlfriend.gfpornmovies.com
 gfpvvwf.xyz
+gfrekjhrlc.com
 gfrzzzx.cn
 adebis.gfs-official.com
 adebis.gfs.tokyo
@@ -74903,6 +74914,7 @@ ghaytqakj.xyz
 ghazel.ru
 ghaziabadmarket.com
 hchlqx.ghbass.com
+ghcaoaefmj.com
 info.ghd.com
 gherkinr.info
 ghettosteal.shop
@@ -106261,6 +106273,7 @@ bgtaeb.loveandpop.kr
 lovebrids.com
 lovecam.com.br
 lovecrafteddesigns.com
+lovedenimori.com
 lovedintothelight.com
 lovedonesproducts.com
 lovedoubts.com
@@ -120355,6 +120368,7 @@ navi100.com
 navi11.com
 navi12.com
 navi18.com
+navi18.ru
 navi2.com
 navi20.ru
 navi21.com
@@ -120372,7 +120386,9 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
+navi42.ru
 navi45.ru
+navi48.ru
 navi5.com
 navi50.com
 navi53.com
@@ -129728,6 +129744,7 @@ p2cdn.com
 p2l.info
 adv.p2pbg.com
 p2poolmining.com
+p2v.fun
 p30rank.ir
 www.p36599.com
 adfree-stat.p3g.hu
@@ -133495,6 +133512,7 @@ pigyzei.com
 pihmvhv.com
 pihzhhn.com
 clicks.piie.com
+piiqrmvymwue.world
 pijmahktoan.com
 pijngids.com
 a.pikabu.ru
@@ -135525,6 +135543,7 @@ polandprzykro.rest
 polandrylko.com
 polandtoday.click
 smdgll.polar.com
+polaranalytics.com
 polarbearyulia.com
 polarbyte.com
 polarcdn-pentos.com
@@ -139007,6 +139026,7 @@ proyectaventures.com
 prozazycia.click
 prozorro.online
 ww25.prp.com.pl
+prpages.com
 prpcp.org
 prpgqrk.com
 kelocote.prpl.co.il
@@ -141708,6 +141728,7 @@ assets.purch.com
 ramp.purch.com
 order.purchase-confiirm.com
 order.purchase-request.com
+purchase-shop.com
 tracking.purchasely.io
 purchasepillsnorx.com
 purchaserdisgustingwrestle.com
@@ -149017,6 +149038,8 @@ rosemarriagegarden.com
 data-f1e447fbcf.rosenheim24.de
 data-f59db3288b.rosenheim24.de
 roseradiance.cam
+rosettahome.cn
+rosettahome.top
 rosettanews.com
 hrjdmo.rosettastone.co.uk
 s.rosettastone.co.uk
@@ -155759,6 +155782,7 @@ a8.shopserve.jp
 adebis.shopserve.jp
 shopshopping.online
 shopsieupham.com
+shopsonnies.top
 shopsplumbing.com
 gtm.shopstartups.de
 uerzfm.shopstyle.ca
@@ -172741,6 +172765,7 @@ toddwithrow.com
 jibrain.com.todeschinialdeota.com.br
 todfen.com
 todigroup.com
+todlht-xnm.rocks
 data.todoalicante.es
 sadbmetrics.todoalicante.es
 todoapk.net
@@ -173531,6 +173556,7 @@ torchtrifling.com
 svmarketing.torcvb.com
 torebki-kazimiery.pl
 toreddorize.com
+torekareau.com
 tores.xyz
 a8clk.toretoku.jp
 o1x-pln.torf.site
@@ -177965,6 +177991,7 @@ uktradestairlifts.com
 fjuccm.uktsc.com
 uktutorhelp.com
 smetrics.uktv.co.uk
+ukuleqasforsale.com
 www.ukultimate-planner.com
 ukvmy.wang
 tracking.ukwm.co.uk
@@ -180884,6 +180911,7 @@ vanmaymomo.me
 bbnzww.vanmonster.com
 gtm.vanmoof.com
 pc3.vanmoof.com
+vannaxacqpm.com
 vanolabs.com
 vanolabs.net
 metrics.vanquis.co.uk
@@ -181818,6 +181846,7 @@ vestigeencumber.com
 fewptsgg.vestlyd.com
 links.vestoapp.com
 vestomix.top
+vestrydual.top
 go.vestwell.com
 vesuvinaqueity.top
 horse.vesuvius-publishing.com
@@ -182555,6 +182584,7 @@ api.vigo.ru
 marketing.vigon.com
 vigorloop.com
 track.vigormasculine.com
+vigorneptune.com
 lp.vigornest.com
 track.vigorouslivingtips.online
 lr.vigorouslyman.com
@@ -190865,6 +190895,7 @@ data-9e4ff1c91f.wz.de
 data-ea7d084cda.wz.de
 r.wz.de
 wzcuinglezyz.one
+wzijtuxzut.com
 wzk5ndpc3x05.com
 wzlbhfldl.com
 wzmiankaprasowa.click
@@ -192151,6 +192182,7 @@ xuhabkmwro.com
 xuiqxlhqyo.com
 xukpqemfs.com
 xulizui6.com
+xulkervf.com
 xumamropnox.com
 xuminasa.com
 xunchn.com
@@ -192824,6 +192856,7 @@ ydttxdqe.xyz
 ydwlkj.com
 ydworld.com
 www.ydwsjt-2.com
+ydxdg.xyz
 bdm.ye-su.cn
 ye185hcamw.com
 yeabble.com
@@ -195047,6 +195080,7 @@ a8cv.zerorenovation.com
 zerospinstocks.com
 zerostear.world
 zttemail.zerotothree.org
+zerowasteinitiative.com
 zesemen.cz
 zesep.com
 zeshanhaider.com
