@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250125002146
-! Last modified: 2025/01/25 00:21:46
-! Blocked domains: 196417
+! Version: 20250125091537
+! Last modified: 2025/01/25 09:15:37
+! Blocked domains: 196445
 !
 0-0.fr
 0-02.net
@@ -857,6 +857,11 @@ stat.v.17173.com
 vda.17173.com
 s.17173cdn.com
 1717gs.com
+172.240.108.68
+172.240.108.76
+172.240.108.84
+172.240.127.234
+172.240.253.132
 172.255.103.118
 172856-coinbase.com
 1736253261.rsc.cdn77.org
@@ -934,6 +939,11 @@ approved.1910genetics.com
 generic.1910genetics.com
 sl.1910genetics.com
 19199675.xyz
+192.243.59.12
+192.243.59.13
+192.243.59.20
+192.243.61.225
+192.243.61.227
 193.200.64.24
 193.200.64.30
 193.200.65.61
@@ -3963,6 +3973,7 @@ facebook-com-pl-profile.7m.pl
 7metasearch.com
 7milliondollars.com
 7minuteworkout.com
+7mk.fun
 gif.7mmtv.sx
 user-analysis.7moor.com
 7nkbwdf1uq.ru
@@ -20993,6 +21004,7 @@ envelope.aw.ca
 aw357.com
 awadephotography.com
 awagbbxlyqoys.com
+awaitingdate.com
 awaitingutilize.com
 awakebird.com
 awakeclauseunskilled.com
@@ -31870,6 +31882,7 @@ correosprepago.bnext.es
 link.email.bnext.es
 link.team.bnext.es
 link.team.bnext.io
+bnfectkp.icu
 bngdin.com
 bngdyn.com
 bngmadjd.de
@@ -43512,6 +43525,7 @@ link.cofyz.com
 marketing.cogentco.com
 network.cogentco.com
 cogentpatientmama.com
+coggancoherecomedia.shop
 jascce-igress.cogie.co
 cogiraven.store
 cogitatetrailsplendid.com
@@ -44522,6 +44536,7 @@ comicplanet.net
 comicpool.com
 comicreplicas.com
 anun.comicsarmy.com
+comicshouse.shop
 comicsscripttrack.com
 comihon.com
 comilar-efferiff.icu
@@ -50151,6 +50166,7 @@ d9fb2cc166.com
 d9jj3mjthpub.cloudfront.net
 d9leupuz17y6i.cloudfront.net
 d9qjkk0othy76.cloudfront.net
+d9r4lqt28t1fm.cloudfront.net
 d9tnvwv7i2n85.cloudfront.net
 d9v72urx9pbbc.cloudfront.net
 d9yk47of1efyy.cloudfront.net
@@ -59360,6 +59376,7 @@ ecolumy.com
 ecomadserver.com
 partner.ecomail.cz
 mozofe.ecomclickmonitor.com
+ecomedtorg.ru
 t.ecomfort.com
 ecomhulk.com
 ecomhustlers.com
@@ -62344,6 +62361,7 @@ eppmedia.si
 partner.epravo.cz
 cattle.eprc.tools
 tracking.epredia.com
+epreswsentativ.com
 afizah.eprice.it
 smetrics.eprice.it
 web.news.eprice.it
@@ -65385,9 +65403,7 @@ f-counter.jp
 f-counter.net
 f-hgwmesh.buzz
 affiliate.f-p-g.cz
-asset.f-tra.com
-conf.f-tra.com
-log.f-tra.com
+f-tra.com
 log12.f-tra.jp
 f-upinsurance.top
 12e701d669.f016d57403.com
@@ -87713,6 +87729,7 @@ imew.info
 swebstats.imf.org
 webstats.imf.org
 imfethyvcnqt.com
+imftrk1.net
 img-ad-nex.com
 st.img-bahn.de
 img-c.net
@@ -104996,6 +105013,7 @@ liveheroes.com
 liveinstantnews.shop
 liveintent.com
 liveinternet.ru
+liveislive.bid
 smetrics.liveitup.com
 livejasmin-hack.com
 livejasmin.academy
@@ -111443,6 +111461,7 @@ meguri-eye.net
 meguri-y.net
 ea.megustaescribir.com
 ea.megustaleer.com.pe
+meheartlove.net
 meherdewogoud.com
 mehmeta.com
 mehmetmetinmutlu.com
@@ -114885,6 +114904,7 @@ mkto-ab410147.com
 mkto-b0067.com
 mkto-k0029.com
 mktoresp.com
+mktp-base.mktplatforms.com
 www.mktrack.com
 mktrades.xyz
 mktrpg.com
@@ -120878,6 +120898,7 @@ neigh11.xyz
 neighborhood268.fun
 marketing.neighborhoodloans.com
 neighborhoodsluts.com
+neighboringoatmeal.com
 smetrics.neighborly.com
 smetrics.neighborlybrands.com
 neighborlywatch.com
@@ -122404,6 +122425,7 @@ ngmco.net
 ngocdung.net
 ngoctu.click
 ngosomon.com
+ngplansforourco.com
 meta-helpcentercopyright.ngrok.app
 analytics.ngs.ru
 gmufag.ngs.ru
@@ -142380,6 +142402,7 @@ qa24ljic4i.com
 qadabra.com
 qadserve.com
 qadservice.com
+qaemphaels.com
 qaensksii.com
 qaghoz.com
 qagywio.com
@@ -145505,6 +145528,7 @@ widgets.recruitology.com
 recruitstart.net
 rectangledownloads.com
 rectangletrkr.co
+rectangular-diet.com
 rectificationchurchill.com
 rectipetality.info
 med.rectiv.com
@@ -151712,6 +151736,7 @@ sarcasticnotarycontrived.com
 sarcinedewlike.com
 sarcodrix.com
 sardineforgiven.com
+sardonic-track.com
 sareeshopnearme.com
 srz2.sarenza.be
 srz3.sarenza.ch
@@ -161544,6 +161569,7 @@ i.ssix.io
 ssjiancai.com
 vinted-pl-gj32d.ssjiasu.xyz
 ssjpx.com
+sskarta.ru
 goggle-security.ssl-api.net
 ssl-app.com
 ssl-cert.pl
@@ -161644,6 +161670,7 @@ olx.stable-local.shop
 stabledkindler.com
 stableion.top
 stableish.xyz
+stablesunflower.com
 stabx.net
 staceydodge.com
 staceyrachelle.com
@@ -181973,6 +182000,7 @@ vhills.net
 vhngny-cfwm.life
 bi.vhost.vn
 vhowland.co.uk
+vhrhnh.icu
 hb.vhsrv.com
 vhsutpgui.xyz
 singpost.com.vhuzrj.shop
