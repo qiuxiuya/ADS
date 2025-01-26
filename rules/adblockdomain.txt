@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250126161952
-! Last modified: 2025/01/26 16:19:52
-! Blocked domains: 196523
+! Version: 20250127001936
+! Last modified: 2025/01/27 00:19:36
+! Blocked domains: 196528
 !
 0-0.fr
 0-02.net
@@ -3464,6 +3464,7 @@ fca88bf71e.632c96af3c.com
 633c66f0dc.com
 634189.com
 booking.63785-confirm.com
+63801782.xyz
 25f3eded03.6390becedf.com
 63912b9175.com
 639c909d45.com
@@ -4301,6 +4302,7 @@ water-bed.8p.org.uk
 8rf.com
 8s32e590un.com
 8senjya.jp
+8sh.fun
 8shop.me
 8si.ru
 8stream-ai.com
@@ -119211,6 +119213,7 @@ ulhyys.naehwelt.de
 naemowse.com
 partneri.naenergie.cz
 marketing.naes.com
+naettarq.com
 naewynn.com
 images.medlem.naf.no
 marketing.naf.no
@@ -141530,6 +141533,7 @@ pub-fff62924edb04f42a569cf6898c2fc3b.r2.dev
 pub.network
 pub2srv.com
 pubaka5.com
+pubcircle.ai
 pubdirecte.com
 pubdisturbance.com
 pubertybloatgrief.com
@@ -192403,6 +192407,7 @@ xxsmad1.com
 xxsmad2.com
 xxsmad3.com
 xxsmad4.com
+xxsmad5.com
 xxss6677.com
 tuiooss.xxuz.com
 xxx-babes.org
