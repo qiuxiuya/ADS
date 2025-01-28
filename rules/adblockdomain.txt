@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250128162302
-! Last modified: 2025/01/28 16:23:02
-! Blocked domains: 198463
+! Version: 20250129002219
+! Last modified: 2025/01/29 00:22:19
+! Blocked domains: 198468
 !
 0-0.fr
 0-02.net
@@ -3689,6 +3689,7 @@ adm.6park.com
 6ped2nd3yp.com
 amethyst.6pm.com
 6pznpz.com
+6qo.fun
 6quspne.com
 6r9ahe6qb.com
 6rn05mmbct.ru
@@ -6958,6 +6959,7 @@ exchange.add-solution.de
 add.in.ua
 add4.de
 smetrics.addabilify.com
+addalzq.com
 addapptr.com
 adddumbestbarrow.com
 addealsnetwork.com
@@ -69151,6 +69153,7 @@ flamedance.xyz
 flamefile.com
 flamefolder.com
 flamefolders.com
+plausible.flamekiller.org
 flamesgovernance.net
 flameuncle.com
 flaminglamesuitable.com
@@ -145355,6 +145358,7 @@ a.quizif.com
 go.quizifu.com
 www.quizilla.com
 track.quizinsurance.com
+fnl.quizizz.com
 share.quizizz.com
 e.quizlet.com
 el.quizlet.com
@@ -161120,6 +161124,7 @@ pv.hd.sohu.com
 qpb.sohu.com
 qpb0.sohu.com
 qpb1.sohu.com
+reke.at.sohu.com
 track.sohu.com
 vstat.my.tv.sohu.com
 vstat.v.blog.sohu.com
