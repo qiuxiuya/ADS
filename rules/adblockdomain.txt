@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250130002251
-! Last modified: 2025/01/30 00:22:51
-! Blocked domains: 197599
+! Version: 20250130091756
+! Last modified: 2025/01/30 09:17:56
+! Blocked domains: 197617
 !
 0-0.fr
 0-02.net
@@ -9695,6 +9695,7 @@ agatarainpro.com
 agategemstone.com
 go.agathalife.com
 marketing.agathonforministries.com
+agatineorder.com
 affiliate.agatinsvet.cz
 yylqlk.agatinsvet.cz
 agaue-vyz.com
@@ -10189,6 +10190,7 @@ brc.aigrammar.net
 brc2.aigrammar.net
 aiguardians.org
 aihaoduo.cn
+aiharsoreersu.net
 www.aihuishou.com
 aiiegro-lokalnie.pl
 aiifo.com
@@ -22155,6 +22157,7 @@ baloneyunraked.com
 balook.com
 balor-ghn.com
 balphyra.com
+balsamoscious.com
 balsiger.link
 baltic-pipe-finansowy.blogspot.com
 baltic-pipe-online.com
@@ -27819,6 +27822,7 @@ degnsn.birebin.com
 stats.birgun.net
 birkin30.com
 rldhlj.birkitapcim.com
+birlingtriced.top
 links.emails.birminghammidshires.co.uk
 birqmiowxfh.com
 privacy.birramoretti.com
@@ -31877,6 +31881,7 @@ share.bodendirect.de
 da.bodenhaus.de
 sadobemarketing.bodenusa.com
 stats.bodenverkauf.de
+bodhalqg.com
 bodieshomicidal.com
 bodiesloadedgymsupply.com
 bodilypotatoesappear.com
@@ -38550,6 +38555,7 @@ cemiocw.com
 a.cemir.site
 cemjot.com
 cempebse.com
+cemtackedrolr.xyz
 cemukiu.com
 cenaclesuccoth.com
 go.cendyn.com
@@ -39889,6 +39895,7 @@ chetchen.net
 chetchoa.com
 chethgentman.live
 chetier.com
+chetsingoptans.net
 chevalierpropmgt.com.hk
 load.gtm.cheventi.it
 tdjvod.chevignon.com.co
@@ -52058,6 +52065,7 @@ deepintent.com
 deepirresistible.com
 deepkriti.com
 s.deepl.com
+deeplygumssandwich.com
 deepmetrix.com
 deepnewsjuly.com
 t.deepnote.com
@@ -54523,6 +54531,7 @@ directrix.ru
 multi-cluster.directservices.it
 tracking.directservices.it
 xpig-dev.directservices.it
+directsnap.click
 directstuff.com
 directtaafwr.com
 dtbot.directtalk.com.br
@@ -66935,6 +66944,7 @@ fdsd22.com
 fdspharmacy.com
 fdsur.com
 fdtlfl.xyz
+fdubsbonier.top
 fdxglobal.net
 web.fe-vrier.com
 fe433129dc.com
@@ -92492,6 +92502,7 @@ tnc16-useast1a.isnssdk.com
 notification.iso-ne.com
 my.iso.com
 iso100.ru
+isoamidtrusion.com
 isobaresoffit.com
 isobeldrug.com
 isobelheartburntips.com
@@ -110976,6 +110987,7 @@ smetrics.medclass.nl
 ccdakv.medcline.com
 marketing.medcomms-experts.com
 meddleplant.com
+meddlespeckers.top
 meddlingwager.com
 go.medeanalytics.com
 mededvirturio.com
@@ -123825,6 +123837,7 @@ norgeshoes.com
 email.norgren.com
 emails.norgren.com
 noriasiankitchen.com
+noricjun.com
 hfvura.noriel.ro
 ads.norindex.no
 aa.norisbank.de
@@ -153042,6 +153055,7 @@ buoypinger-app.sapsailing.com
 racemanager-app.sapsailing.com
 sailinsight-app.sapsailing.com
 sailinsight20-app.sapsailing.com
+sapsobughoatch.net
 saptiledispatch.com
 saptorge.com
 sar-zajel.top
@@ -155659,6 +155673,7 @@ servingcdn.net
 servingserved.com
 servingsurroundworldwide.com
 www.servitemequipos.cl
+serviusbourre.com
 serviziopagata.dynserv.org
 serviziosicuro.es
 hitcounter.servmetric.com
@@ -157779,6 +157794,7 @@ sikkertapotek.com
 spoluprace.sikland.cz
 sikncs.com
 affiliate.siko.cz
+sikoip.cfd
 sikrouxoopte.net
 sikshyabarta.com
 iiaquj.siksilk.com
@@ -165954,6 +165970,7 @@ suprion.ru
 suprogen.top
 suprotems.top
 server.sups.care
+supsucireeglip.net
 supteam.top
 suptraf.com
 a.suptube.com
@@ -182451,6 +182468,7 @@ partneri.vashop.cz
 vasia-weddings.com
 vasook.com
 solutions.vasque.com
+vassalsmfd.com
 vasslium.com
 vasstycom.com
 vasteeds.net
