@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250131162222
-! Last modified: 2025/01/31 16:22:22
-! Blocked domains: 195114
+! Version: 20250201002120
+! Last modified: 2025/02/01 00:21:20
+! Blocked domains: 195142
 !
 0-0.fr
 0-02.net
@@ -1027,6 +1027,7 @@ company.1ps.ru
 1qgxtxd2n.com
 1qi.info
 1qingdao.com
+1qv.fun
 uimg.1qwe3r.com
 1r4g65b63.de
 1r8435gsqldr.com
@@ -9465,6 +9466,7 @@ afterclick.co
 afterdownload.com
 afterdownloads.com
 www.marketing.aftermath.com
+t.aftermath.site
 afternoongusdark.com
 afternoonpregnantgetting.com
 afternoonreeds.com
@@ -11102,6 +11104,7 @@ www.alga9frog.com
 imagens.conteudo.algartelecom.com.br
 algelumina.com
 algerianembassy.co.in
+algicgauzes.com
 stats2.algo.at
 logs.chatboost-cv.algoage.co.jp
 www.algocashmaster.com
@@ -17198,6 +17201,7 @@ tracking.arbor.edu
 redditstream.arborapps.io
 fpc.arborcrowd.com
 images.learn.arborcrowd.com
+arboreaisidae.com
 arborealadventure.xyz
 arborealwhisper.com
 arbourrenewal.com
@@ -17237,6 +17241,7 @@ openx.archerytalk.com
 archeurs.com
 archi-facile.fr
 archidomegame.com
+archiedujan.com
 archiesbuilders.com
 archiewinningsneaking.com
 tr.email.archiexpo.com
@@ -20360,6 +20365,7 @@ ckniey.aweys.net
 fin8rood.aweys.net
 awfonts.com
 awfulresolvedraised.com
+awfurawer.com
 marketing.awh.net
 awhauchoa.net
 awheecethe.net
@@ -23685,6 +23691,7 @@ beglobalinc.com
 begracetindery.com
 load.tracking.begravelsesguiden.dk
 beguessbents.com
+begumsbandi.com
 begun.ru
 begwhistlinggem.com
 tracking.behaarteladies.de
@@ -52636,6 +52643,7 @@ att.trk.dianasdiary.com
 dianavasile.org
 j.diangon.com
 dianhanjiw.com
+dianilinfant.top
 dianjoy.com
 dianomi.com
 dianomioffers.co.uk
@@ -56223,6 +56231,7 @@ drunkenstepfather.com
 drunkindigenouswaitress.com
 drupa.com
 drupalcontrib.org
+drustren.com
 wurq5hzgcixkzmc8tlmqag.on.drv.tw
 tr.news.drveto.com
 drvineetsurana.com
@@ -58808,6 +58817,7 @@ eegheecog.net
 eeghooptauy.net
 eegnacou.com
 eegookiz.com
+eehassoosostoa.com
 connect.care.eehealth.org
 web.care.eehealth.org
 eehhabacgieacfjeaacg.world
@@ -71795,6 +71805,7 @@ biyagi.galacticcjourney.com
 zicedo.galacticcjourney.com
 galacticgeckoos.com
 galacticsmonitor.com
+galagosalmon.top
 galaksion.com
 galala.ru
 galas3xy.com
@@ -74644,6 +74655,7 @@ track.gleeph.net
 gleetresis.com
 glegendspro.com
 377gopalpur.glemhyts.website
+glempirteechacm.com
 beta.glenbowcollege.ca
 glendaleazbeeremoval.com
 cy98g9wuwn0n.angularjs.poc.glenigan.com
@@ -95722,6 +95734,7 @@ jupiterroyal.com
 jura-outlet.com
 applink.jurafuchs.de
 applink.test.jurafuchs.de
+jurantsepinine.shop
 ss.juratrad.es
 jurensis.com
 jurgeeph.net
@@ -113832,6 +113845,7 @@ mo7orcity.xyz
 moad.cn
 moadworld.com
 moaglail.xyz
+moagrejinubiko.xyz
 moakaumo.com
 moan88kh.com
 moanhaul.com
@@ -126411,6 +126425,7 @@ opcharizardon.com
 opchikoritar.com
 opclauncheran.com
 opclck.com
+opclumbcuqze.com
 opcnflku.com
 tr.newsletter.opcoep.fr
 opdhoxor.com
@@ -127070,6 +127085,7 @@ ccexperimentsstatic.oracleoutsourcing.com
 oraclewon.com
 oracularnesslmker.info
 oradeacomedyfestival.com
+oraefleers.top
 orafresh.pl
 oraheadyguinner.org
 orakul.spb.ru
@@ -133499,6 +133515,7 @@ plirkep.com
 kazanlak.plisser.space
 plista.com
 pljannk.com
+pljhaiftxr.com
 cdn.pljs.ru
 affil.plkshop.cz
 pll-goulr.top
@@ -134536,6 +134553,7 @@ marketing.pooleaudi.co.uk
 poolfeecop.live
 poolgmsd.com
 poolin.fr
+poolirido.com
 download.poolking.in
 app.poolkingmobile.com
 poolresurfacinginsandiego.com
@@ -134757,6 +134775,7 @@ ra.poringa.net
 a.pork.org
 porkolt.com
 porkpielepidin.com
+porktuliac.shop
 porkycoin.com
 porn-upload.com
 porn-video-chat.ru
@@ -147765,6 +147784,7 @@ roadtriprovers.com
 roadwide.net
 ts.roagarden.ro
 roagreed.com
+roagrofoogrobo.com
 roajaiwoul.com
 stats.roalgo.ro
 roamapheejub.com
@@ -152262,6 +152282,7 @@ searchwithme.net
 perch.searchwp.com
 om.sears.com
 som.sears.com
+searswalers.com
 searuntunacharters.com
 seasavvy.com
 smetrics.seasearcher.com
@@ -155200,6 +155221,7 @@ showedprovisional.com
 showercurtainblind.com
 load.sub.showerlabs.dk
 showheroes.com
+showierberetta.com
 showilycola.shop
 my.showin.gs
 txt.showings.com
@@ -163822,6 +163844,7 @@ suscotrk.com
 suscripcion-netflix2025.com
 app.suse.com
 images.suse.com
+sushainsihogner.net
 sushi-idea.com
 sushilprajapati.com
 sushipool.com
@@ -165656,6 +165679,7 @@ tauronenergiaseyogodna.live
 tauronenergiaseyogodna.pro
 tauronenergya.org
 tauronhub.pro
+tautedmasonry.com
 tauvoojo.net
 tavanovincent.com
 info.tavant.com
@@ -179858,6 +179882,7 @@ vamosche.shop
 vamosesagonic.com
 vamosmiverde.com
 vampedcortine.com
+vamqt.vip
 vamsoupowoa.com
 qblkeu.vamvelosiped.ru
 blo.vamza.top
@@ -180235,6 +180260,7 @@ ad-img.ve.vc
 b128.ve.vc
 ve0ke.icu
 ve6k5.top
+vealedincite.com
 vebadu.com
 data-1842699cc4.vebidoo.de
 vebo-vast.pages.dev
@@ -183090,6 +183116,7 @@ vodobyve.pro
 main.vodonet.net
 vodoustoichivshperplat.com
 vodplay.pl
+vodsoamsoun.net
 vodster.pl
 vodstrefa.pl
 vodus-api-serverless.azurewebsites.net
@@ -190949,6 +190976,7 @@ vinushka.xsrv.jp
 xs525890.xsrv.jp
 xstalkx.ru
 xstreamsoftwar3x.com
+xszjh.tech
 xszpuvwr7.com
 xszw0.icu
 xszysc.com
