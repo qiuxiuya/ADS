@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250202162015
-! Last modified: 2025/02/02 16:20:15
-! Blocked domains: 194678
+! Version: 20250203002013
+! Last modified: 2025/02/03 00:20:13
+! Blocked domains: 194703
 !
 0-0.fr
 0-02.net
@@ -4620,6 +4620,7 @@ aaa45e90eb.com
 aaa85877ba.com
 aaaaabbbbbb.com
 aaaaaco.com
+aaaacdn.com
 aaacompany.net
 aaaf.jp
 marketing.aaaflag.com
@@ -6461,6 +6462,7 @@ squid.adart.cc
 inpost-pl-mynid2ihxa.adarun.xyz
 vinted-pl-gj32d.adarun.xyz
 adarutoad.com
+adasgmp.cc
 adasgsts.cc
 adasiaholdings.com
 adasiatagmanager.appspot.com
@@ -10849,6 +10851,7 @@ alaeshire.com
 alagaodealing.com
 alahairs.com
 smetrics.alainmikli.com
+alalos.com
 alalu.pl
 www.alamcahaya.com
 alamdarhussain.com
@@ -18560,6 +18563,7 @@ assignmentlonesome.com
 assignmentprojecthelp.com
 assimilatecigarettes.com
 mdws.assiniboine.mb.ca
+assisantornus.top
 go.assist-tokyo.asia
 assistance-find.info
 assistance-malivraison.com
@@ -19071,6 +19075,7 @@ atonementimmersedlacerate.com
 atonementwisely.com
 connect.atonix.com
 atooqi.com
+atoqkcpvmru.com
 atordeg.com.br
 atorks.xyz
 engage.atos.net
@@ -25115,6 +25120,7 @@ bfshan.cn
 data-09affd727b.bft-international.com
 marketing.bftwealth.com
 bfuj-57v.cfd
+bfvadionchrecq.com
 f.bfvideo1.com
 bfw87-43.sbs
 bfwer.com
@@ -33298,6 +33304,7 @@ bsnltowersite.in
 bsourceimpex.com
 l.bspace.io
 ads.bsplayer.com
+bssaly.com
 bssus.com
 aff.bstatic.com
 bstats.org
@@ -44517,6 +44524,7 @@ conversionlabs.net.pl
 conversionlogic.net
 conversionly.com
 conversionruler.com
+gw.conversionsapigateway.com
 conversiontrac.com
 data.conversiontracking.io
 conversitymir.org
@@ -46531,6 +46539,7 @@ choose.cruiseweb.com
 xtpmpp.cruisewinkel.nl
 docusign.cruisingodyssey.org
 stats.cruisingpower.com
+crumberstoa.com
 link.crumbl.com
 crumblerefunddiana.com
 crumbrationally.com
@@ -55211,6 +55220,7 @@ doxysexy.com
 doyenssudsier.click
 ad.doyouad.com
 cdn.doyouad.com
+doyoudi.com
 doyouevencyber.com
 dozerise.com
 dozimay.xyz
@@ -69367,6 +69377,7 @@ fpctraffic3.com
 fpfbbn.xyz
 fpgedsewst.com
 mail.fpi-mail.com
+fpialotwhquuw.com
 fpjjjh.xyz
 fpjs.io
 fpjscdn.net
@@ -77996,6 +78007,7 @@ gumluxe.hair
 gummi.vn
 gummierhedera.life
 track.gummiesinfo.com
+gumnus.com
 gumon.site
 gumroade.com
 uicjnk.gumtree.co.za
@@ -83282,6 +83294,7 @@ hoyaga.xyz
 sadbmetrics.hoycinema.com
 hoyesyn.info
 activate.hoylosangeles.com
+log-upload-os.hoyolab.com
 ad-log-upload-os.hoyoverse.com
 apm-log-upload-os.hoyoverse.com
 devlog-upload-os.hoyoverse.com
@@ -91964,7 +91977,7 @@ thescript.javfinder.xyz
 javgenetic11.fun
 xs213.javgg.club
 javgg.eu
-dance.javgle.tokyo
+javgle.tokyo
 javgulf.fun
 javhd.com
 javhdporn.com
@@ -102207,6 +102220,7 @@ i.lf360.co
 lf8q.online
 lfa388.co
 lfb.ink
+lfbfkkkqiza.com
 lfcchile.com
 lincoln-financial.lfd.com
 lfeaqcozlbki.com
@@ -124407,6 +124421,7 @@ oi8ytfzxa.appspot.com
 oianz.xyz
 oiavdib.com
 oijkse.com
+oijsncvhg.com
 oil-edge.com
 oil-loophole.com
 oil-mastery.com
@@ -131730,6 +131745,7 @@ piano.io
 thegreatesthits.pianoo.com
 thegreatesthits.pianoo.de
 pianopowerhouse.com
+pianwela.xyz
 j1.piaobing.com
 piar-m.ru
 piarecdn.com
@@ -141477,6 +141493,7 @@ wwwv.smbc-card.doctrar.qmbbm.cn
 qmbdta.cn
 trk.qmed.com
 upq.qmfawitk.top
+qmrmcqnktmhn.com
 qmxbqwbprwavac.xyz
 qn-5.com
 qnajplxtvz-a.akamaihd.net
@@ -146464,6 +146481,7 @@ ricalsbuildfordg.info
 ricambifuoribordo.com
 ricanylimited.com
 t9h2.ricardocuisine.com
+ricarvort.com
 data.ricaud.com
 gtmss.riccardobinaco.it
 www.riccardochinnici.it
@@ -155902,6 +155920,7 @@ tt.sj.se
 1.sj33.net
 sj88.com
 sjdfuvz.cn
+sjdgkfhwkrkmi.com
 sjetnf-oizyo.buzz
 sjevsolutions.com
 sjezce.xyz
@@ -165604,6 +165623,7 @@ hp1.tcbnet.ne.jp
 pardot.tcbs.com.vn
 tccbanner.com
 s.tccc-comms.com
+tccnqgnmeveay.com
 tccp.xyz
 uilogging.tcdevops.com
 go.tcdi.com
@@ -173243,6 +173263,7 @@ info.transcontinental-printing.com
 marketing.transcore.com
 transcriptcompassionacute.com
 transcriptjeanne.com
+transcriptswarm.com
 transcriptweaver-rnaforger.blogspot.gr
 transfer-kampani.website
 transfer-nagrody.online
@@ -175011,6 +175032,7 @@ tubetitties.com
 tubetob.com
 gpt.tubetruck.com
 q.tubetruck.com
+th.tubetruck.com
 tubevay.com
 tubevideos.biz
 tubewalk.com
@@ -180151,6 +180173,7 @@ go.venturewell.org
 venturexchange.hr
 now.ventyx.com
 linking.venueapp-system.com
+venueartisticdisinterested.com
 venueitemmagic.com
 updates.venuekings.com
 venuemode.com
@@ -181439,6 +181462,7 @@ vindictivegrabnautical.com
 vindudiable.com
 vine-energy.com
 vinegardaring.com
+vinelethoner.com
 cvkiis.vinello.de
 vinesea.rest
 a8.vinew.jp
@@ -191669,6 +191693,7 @@ ykwykw.xyz
 yl-0-wf.com
 yl-sooippd.vip
 yl04z4v.cn
+ylcziaipyztvv.com
 yldbt.com
 yldmgrimg.net
 yldxphtg.xyz
