@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250206162317
-! Last modified: 2025/02/06 16:23:17
-! Blocked domains: 197939
+! Version: 20250207002139
+! Last modified: 2025/02/07 00:21:39
+! Blocked domains: 197976
 !
 0-0.fr
 0-02.net
@@ -16736,6 +16736,7 @@ stats.apitman.com
 go.apiture.com
 apk-trend.com
 junior.apk.net
+apk02061oo.xyz
 apkalok-przeklad.today
 apkbooth.com
 apkcake.com
@@ -22293,6 +22294,7 @@ bailbondscheckin.com
 bailbondslongisland.com
 baileybenedictionphony.com
 tb.baimgfroggd.site
+bainitesurge.com
 bainushe.com
 baipahanoop.net
 baiphefim.com
@@ -24169,6 +24171,7 @@ stat.beetfreunde.de
 beetlebouncer.com
 beetraf.ru
 beetrootshady.com
+beetsswimmer.com
 beevakum.net
 beevalt.com
 beevibehq.com
@@ -24507,6 +24510,7 @@ bemobtrk.com
 bemocksmunched.com
 eetzod.bemol.com.br
 bemolintrans.shop
+bemoultmodder.com
 bemsongy.com
 network.bemyapp.com
 bemyhole.cam
@@ -35219,6 +35223,7 @@ ccrdms.butopea.com
 wgvyey.butor1.hu
 apfbrk.butorline.hu
 soelui.butosklep.pl
+butoxylhewhall.com
 butsmism.co.in
 buttcandy.com
 buttcsmanoury.com
@@ -36487,6 +36492,7 @@ camerarollspy.com
 camerasey.com
 cameraunfit.com
 cameronserver.com
+camerotica.cfd
 invite.camfrog.com
 camghosts.com
 kuaifr.camicado.com.br
@@ -50043,6 +50049,7 @@ d2zrhnhjlfcuhf.cloudfront.net
 d2zur9cc2gf1tx.cloudfront.net
 d2zzazjvlpgmgi.cloudfront.net
 blablacar.d3.ru
+d300jm499woj5o.cloudfront.net
 d301cxwfymy227.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d30sxnvlkawtwa.cloudfront.net
@@ -50327,6 +50334,7 @@ d3rxqouo2bn71j.cloudfront.net
 d3s40ry602uhj1.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
 d3sbxpiag177w8.cloudfront.net
+d3sdfpysdncs72.cloudfront.net
 d3sdg6egu48sqx.cloudfront.net
 d3skqyr7uryv9z.cloudfront.net
 d3sof4x9nlmbgy.cloudfront.net
@@ -53990,6 +53998,7 @@ diamondelevators.co.in
 info.diamondhealthjobs.com
 egjcio.diamondmansion.com
 diamondmediainc.com
+diamondmorris.com
 diamondnailsvictoria.com
 mdws.diamondnorthcu.com
 diamondores.com
@@ -57535,6 +57544,7 @@ counter.drom.ru
 dromoicassida.com
 dronediscussed.com
 droneenergy360.com
+dronelsweeter.com
 droneteam-evc.com
 dronetmango.com
 droneuse.com
@@ -62567,6 +62577,7 @@ invite.entrylevel.net
 join.entrylevel.net
 entterto.com
 app.entwickler.de
+entwisttajik.com
 enueduringhere.info
 enuksg.xyz
 log.enuri.com
@@ -67401,6 +67412,7 @@ go.feedingsandiego.org
 feedisbeliefheadmaster.com
 ads.feedly.com
 engagement.feedly.com
+feedmanecole.com
 feedmob.com
 metrics.feednavigator.com
 widget.feedot-lawyer.ru
@@ -71730,6 +71742,7 @@ freedomdesignsonline.com
 tags.freedomfinancialnetwork.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
+freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -72193,6 +72206,7 @@ fridasmexrestaurant.com
 friday89.com
 fridayaffectionately.com
 fridayarched.com
+fridaylocalmanager.duckdns.org
 fridaypatnod.com
 fridaywake.com
 friedretrieve.com
@@ -79530,6 +79544,7 @@ growthrx.in
 activate.growthspotter.com
 lp.growthtools.com
 growthtransport.com
+growthwewenoc.com
 www2.growwithimg.com
 growwtips.com
 stapegtm.growwwdigital.com
@@ -88067,6 +88082,7 @@ ikoee.com
 ikohs.com
 ikonartistgroup.com
 ikonikals.com
+ikonmeros.com
 ss.ikono.global
 ikoo.com
 l.ikora.tv
@@ -88323,6 +88339,7 @@ info.imagotechmedia.com
 ads.imailo.nl
 imaindranipharma.com
 imainews.com
+imamateunbain.com
 imamictra.com
 imamsahib.com
 mail.imamu.edu.sa
@@ -102346,6 +102363,7 @@ lachee.com
 lachenes.com
 lacheriecakery.com
 sta.lachym.cz
+laciestsculped.shop
 a8.lacitashop.com
 secure.lack4skip.com
 www.lack4skip.com
@@ -103950,6 +103968,7 @@ leggymomme.top
 leghairy.net
 legiblyosmols.top
 nplden.legionathletics.com
+legischarca.com
 egret.legislative.tech
 cdn.legistco.ru
 legiswoollen.shop
@@ -113433,6 +113452,7 @@ logs.mezmo.com
 geo.mezr.com
 mezzobit.com
 mezzosol.com
+mezzounmerge.shop
 mf-ghost.com
 measure.mf.cz
 snipe.mfaber.at
@@ -118364,6 +118384,7 @@ mtburn.jp
 marketing.mtcperformance.com
 mtejadostvovn.com
 mtexindia.com
+mtfc8.com
 a8.petfood.mtflat.co.jp
 collect.mtgec.jp
 visitor-service.mtgec.jp
@@ -133037,6 +133058,7 @@ pehuguo.com
 peiceline.com
 www2.peikko.com
 ldqtdd.peing.net
+peiningkasm.com
 peipungozo.com
 peiq.services
 peisantcorneas.com
@@ -145638,6 +145660,7 @@ ragazzeinvendita.com
 ss.ragbagstudio.dk
 server.rageaxe.de
 rageoffshore.com
+rageryscarfer.com
 raggedbijou.com
 raggedstriking.com
 raggerdough.com
@@ -161675,6 +161698,7 @@ marketing.soundtrackyourbrand.com
 soundtracts.com
 soundventureswon.com
 analytics.soup.io
+soupilique.xyz
 souptightswarfare.com
 souqizel.com
 secure.sour1bare.com
@@ -165599,6 +165623,7 @@ data-f1e447fbcf.suedwest24.de
 data-f59db3288b.suedwest24.de
 sueivypeg.com
 sadbmetrics.suenasur.com
+suersstaun.com
 sueseajewelry.com
 suesuspiciousin.com
 sueviansmuper.life
@@ -167879,6 +167904,7 @@ takwyjazdze.lol
 talabsorbs.shop
 go.talan.com
 talaobsf.shop
+talarigaonic.com
 talaropa.com
 talbadani.com
 marketing.talbot-promo.com
@@ -175597,6 +175623,7 @@ towersresent.com
 towmfs.com
 aiq-in.townandcountrymag.com
 td.townandcountrymag.com
+townaptdesk.info
 ads.townhall.com
 www.townhallmail.com
 townhousefilms.com
@@ -177391,6 +177418,7 @@ trombocrack.com
 trombonkursu.com
 trompalkduy452.wpenginepowered.com
 tromselementbygg.no
+tronascodrus.com
 activate.tronc.com
 activate.troncads.com
 tronlink-wallet-app.com
@@ -180194,6 +180222,7 @@ unfortunatelydestroyedfuse.com
 unfortunatelydroopinglying.com
 unfortunatelyprayers.com
 unfriendlysalivasummoned.com
+unfulltoag.com
 l.unfy.ai
 ads.ungdomar.se
 analytics.ungdungtructuyen.vn
@@ -180830,6 +180859,7 @@ untackreviler.com
 untd.com
 untenaciousnesseyker.info
 a8cv.untenmenkyo-yi.com
+untenseleopold.com
 unthem.com
 untho.de
 untidyquestion.com
@@ -188204,6 +188234,7 @@ photos.webcamclub.com
 webcampromo.com
 banners.webcams.com
 webcamsex.nl
+webcamsfans.cfd
 webcash.nl
 webcashmaker.com
 ws.webcaster.pro
@@ -192011,13 +192042,17 @@ ssp.wp.pl
 wp.services
 pixel.wp.tv
 wp3advesting.com
+wpad.casa
 wpad.engineer
 wpad.exchange
 wpad.exposed
 wpad.net.ru
 wpad.online
+wpad.ru
 wpad.software
+wpad.top
 wpad.trade
+wpad.xyz
 wpadkowo.pl
 wpadmngr.com
 matomo.wpbeaches.com
@@ -193653,6 +193688,7 @@ xoor.ru
 o.xoporn.com
 xoqeque.com
 wool.xoqihea7.xyz
+xoqod.sbs
 xoryruo.com
 log.xoso.com.vn
 cmcyne.xoticpc.com
@@ -197023,6 +197059,7 @@ zisepeo.com
 partner.ziskamdobroupraci.cz
 zisu.cn.com
 a8cv.zita.life
+zitbulled.com
 tracker.au.zitcha.app
 zitternborana.shop
 zituhiy.com
