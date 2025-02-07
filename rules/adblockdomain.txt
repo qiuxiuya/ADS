@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250207162238
-! Last modified: 2025/02/07 16:22:38
-! Blocked domains: 197617
+! Version: 20250208002204
+! Last modified: 2025/02/08 00:22:04
+! Blocked domains: 197646
 !
 0-0.fr
 0-02.net
@@ -3811,6 +3811,7 @@ zywjpypco.7hujk.de
 7kjiiu.cn
 7knifes.com
 7kop.ru
+7kprtners.com
 7li0ohd.com
 7lyonline.com
 count.7m.com.cn
@@ -9604,6 +9605,7 @@ afternoongusdark.com
 afternoonpregnantgetting.com
 afternoonreeds.com
 connect.afterpay.com
+iq.afterpay.com
 link.afterpay.com
 links-anz.afterpay.com
 links-na.afterpay.com
@@ -10752,6 +10754,7 @@ aj2615.bid
 aj2627.bid
 aj2629.bid
 aj2634.bid
+aj2635.bid
 aj3007.bid
 aj3017.bid
 aj3018.bid
@@ -27110,6 +27113,7 @@ bichosdamiana.com
 sgtm.biciemonopattini.it
 sponsors.bicmagazine.com
 bico-usa.com
+bicoaqqpbdvsku.com
 bicoinsprofit.com
 smetrics.biconnect.fr
 go.bicyclecoalition.org
@@ -32996,6 +33000,7 @@ track.brafiliados.com.br
 braflipperstense.com
 atlantisjs.brafton.com
 bragspiritualstay.com
+brahmiturgid.com
 braiditapp.com
 braidprosecution.com
 braidrainhypocrite.com
@@ -34493,6 +34498,7 @@ marketing.buffalojeans.com
 smetrics.buffalotrace.com
 smetrics.buffalotracedistillery.com
 buffalotracesociety.com
+buffatopmost.com
 buffcenturythreshold.com
 data-5d621ddc78.buffed.de
 data-c5925d7d99.buffed.de
@@ -41806,6 +41812,7 @@ clickfuse.com
 clickgate.biz
 clickgate07.biz
 clickgate09.biz
+clickguard.com
 clickguardian.app
 clickguardian.co.uk
 clickhelmet.com
@@ -48118,6 +48125,7 @@ ctmrso.xyz
 ctn-ctn.com
 ctnetwork.hu
 gemtun.ctnewsjunkie.com
+ctnniveau.shop
 activate.ctnow.com
 ctnqbyvpkzxhw.link
 ctnsnet.com
@@ -49725,6 +49733,7 @@ d2t47qpr8mdhkz.cloudfront.net
 d2t72ftdissnrr.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
 d2taktuuo4oqx.cloudfront.net
+d2tbszkvx1p56e.cloudfront.net
 d2tc1zttji8e3a.cloudfront.net
 d2tf0.icu
 d2tgfbvjf3q6hn.cloudfront.net
@@ -50152,6 +50161,7 @@ d5db478dde.com
 d5em5plenp2k5.cloudfront.net
 d5onopbfw009h.cloudfront.net
 d5wxfe8ietrpg.cloudfront.net
+d5yoctgpv4cpx.cloudfront.net
 d5z42oph1suk.cloudfront.net
 d62mrph0xm5hi.cloudfront.net
 d63a3au5lqmtu.cloudfront.net
@@ -50776,6 +50786,7 @@ brgrwd.dansko.com
 mole.dansksejlunion.dk
 load.sgtm.dansktagisolering.dk
 dansportsnewsandfriends.com
+dantaradiohd.net
 dantasg.com
 dantbritingd.club
 marketing.dantecdynamics.com
@@ -55291,6 +55302,7 @@ dkupaw9ae63a8.cloudfront.net
 dkvapitest.com
 dkvhqgnyrnbxsi.com
 dkvtbjavjme96.cloudfront.net
+dkweuy.com
 dkyp75kj7ldlr.cloudfront.net
 dl-it.net
 dl-protect.net
@@ -59515,6 +59527,7 @@ webstats.eco.de
 ecoastandhei.org
 sgtm.ecobioboutique.it
 ss.ecobiomanager.com
+evts.ecocart.io
 load.ss.ecocomfort.pl
 ecocupshop.com
 nitmarkes-oilx138.ecod.site
@@ -65730,6 +65743,7 @@ f58x48lpn.com
 f59408d48d.com
 f5biz.com
 75357f7aec.f5ea66a9f7.com
+f5fb2e203c.com
 f5ff45b3d4.com
 g.f5gh.com
 add.f5haber.com
@@ -70136,6 +70150,7 @@ follripup.com
 follyeffacegrieve.com
 folsecartitleloans.com
 folseghvethecit.com
+e.fomo.com
 load.fomo.com
 stats.fomo.com
 fomqazsier.com
@@ -76749,6 +76764,7 @@ webstats.gnome.org
 gnomic.tv
 gnomicbook.com
 gnsdigital.co.il
+gnsnpaw.com
 gnthemeparks.com
 web.news.gnv.it
 gnwe-ylt.top
@@ -81480,6 +81496,7 @@ ad.hbv.de
 ads.hbv.de
 waatch.hbvl.be
 hbwmdl.com
+hbwozuyhbonf.com
 hbwrapper.com
 hbxzlf.xyz
 hbyilin.com
@@ -84323,6 +84340,7 @@ hopewithavizion.com
 hopghpfa.com
 hopimimeoed.com
 tqoebc.hopkinsmedicalproducts.com
+hoplekhornnist.space
 hopleqor.space
 wayfbq.hoppa.com
 load.data.hoppenbrouwerstechniek.nl
@@ -86699,6 +86717,7 @@ icarus-digital-marketing.com
 icarusnail.store
 i18.icast-ad.com
 info.icat.com
+icatethebenefits.com
 marketing.icatsoftware.com
 icbtits.com
 marketing.iccaworld.org
@@ -115703,6 +115722,7 @@ get.mndbdy.ly
 mndsrv.com
 mndvjhg.com
 ads.mnemosoft.com
+mnemtracery.shop
 mnet-ad.net
 mnetads.com
 mnetads.net
@@ -117121,6 +117141,7 @@ www2.morrisseygoodale.com
 morroinane.com
 global.morrowsodali.com
 mors22.com
+morsalurluch.com
 analytics.morsecode.world
 morsecodecompany.com
 morselmongoe.shop
@@ -117259,6 +117280,7 @@ marketing.motista.com
 motivaeg.com
 motivatedentrepreneurship.com
 images.response.motivatedigital.com
+motivatingother.com
 marketing.motivation.se
 go.motivcx.com
 trk.cx.motivcx.com
@@ -123212,6 +123234,7 @@ app.nhrmcmychart.com
 nhs1967.com
 nhvic.com
 www.nhyund4.com
+nhz6q.cn
 ni-online.org
 adi.ni.com
 app.demand.ni.com
@@ -133603,6 +133626,7 @@ ea.peugeot-assurance.fr
 tr1.peugeot-ipsos.com
 facebok-desktop.pev.pl
 pevpbx.icu
+peweedroulrogh.net
 pewnekonta.pl
 pewnyzabieg.pl
 pewterclub.com
@@ -142765,6 +142789,7 @@ punosend.com
 punosy.best
 punosy.com
 puntakanatransfer.com
+puntistbitless.shop
 puntocanela.mx
 puntodeencuentroarte.com
 trk.info.puntonet.ec
@@ -143530,6 +143555,7 @@ qdb6gd3nth.ru
 qdfscelxyyem.club
 qdfxeqhnjuknyy.com
 qdhrbget.click
+qdinmay.top
 qdjsiyt.icu
 qdjxfs.com
 qdmil.com
@@ -164671,6 +164697,7 @@ smetrics.strokeawareness.com
 t.strokeawareness.com
 t-s.strokeawareness.com
 strokesystem.com
+stroldcorkish.com
 strollfondnesssurround.com
 dt.strollme.com
 go2.stromasys.com
@@ -195924,6 +195951,7 @@ zaradnedane.click
 zaralandclub.com
 zaraturkiye.org
 zarderm.com
+zargonsoogloars.xyz
 vhasqd.zarina.ru
 zariumhb.com
 zarpasivinvpl.com
@@ -196707,6 +196735,7 @@ endljp.ziuaconstanta.ro
 zivainterior.com
 zivtux.com
 ziwelatum.com
+ziweuu.com
 zixu.de
 ziyafa.com
 ziyhd.fun
