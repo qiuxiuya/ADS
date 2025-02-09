@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250209162027
-! Last modified: 2025/02/09 16:20:27
-! Blocked domains: 198608
+! Version: 20250210001934
+! Last modified: 2025/02/10 00:19:34
+! Blocked domains: 198620
 !
 0-0.fr
 0-02.net
@@ -2633,6 +2633,7 @@ veyrkf.4510arte.jp
 45f2a90583.com
 stats.45rpm.ch
 4602306b.xyz
+460e19ebd6.com
 46276192.xyz
 www.4630001.com
 4632c60a96.com
@@ -33935,6 +33936,7 @@ metrics.brooksrunning.com
 brookswestinc.com
 trk.broomwade.com
 broredir1s.site
+brornaeq.com
 broseph.net
 brosmailing.com
 brosno.com
@@ -48645,7 +48647,6 @@ cshbglcfcmirnm.xyz
 metric.cshgreenwich.org
 cshield.io
 partner.cshop.sk
-cshrewards.net
 csht.ru
 pardot.csis.org
 csjplatform.com
@@ -63792,6 +63793,7 @@ adobe.esign.cn.com
 metrics.esignal.com
 smetrics.esignal.com
 geoip.esignonsecure.com
+esihighlyrecomemu.com
 esim4tour.com
 cjwtfp.esimsar.com
 esimshub.com
@@ -72877,6 +72879,7 @@ analytics.fs-bdash.com
 fs-client-logger.herokuapp.com
 www.fs-curtis.fs-elliott.com
 www2.fs-elliott.com
+fs-loader.com
 fs42-67.cfd
 fsalfrwdr.com
 rffsds.fsastore.com
@@ -97182,6 +97185,7 @@ jmwsgroups.com
 jmxgwesrte.com
 load.sgtm.jna.dk
 jnachb.com
+jncdvibhdaddmu.com
 jncojeans.pl
 jne-express.my.id
 jnhjpdayvpzj.com
@@ -104027,6 +104031,7 @@ lddt.de
 ldedallover.info
 ldgnrtn.com
 ldimnveryldgitwe.xyz
+ldinmal.top
 ldjcteyoq.com
 ldjfsdku.icu
 ldjudcpc-qxm.icu
@@ -104730,11 +104735,7 @@ lensalmes.shop
 smetrics.lenscrafters.ca
 refer.lenscrafters.com
 smetrics.lenscrafters.com
-tq.lensgard-2.online
-tq-eu.lensgard-2.online
-xml.lensgard-2.online
-xml-eu-v4.lensgard-2.online
-xml-v4.lensgard-2.online
+lensgard-2.online
 pljuin.lensmode.com
 sp.lenspk.com
 wzcnha.lenspure.com
@@ -121943,15 +121944,16 @@ navi23.com
 navi23.ru
 navi24.com
 navi24.ru
+navi29.ru
 navi3.com
 navi30.ru
 navi32.com
 navi35.com
 navi35.ru
 navi36.ru
+navi37.ru
 navi38.ru
 navi39.ru
-navi42.ru
 navi45.ru
 navi5.com
 navi53.com
@@ -121963,11 +121965,15 @@ navi63.ru
 navi66.ru
 navi69.com
 navi7.com
+navi71.ru
 navi72.com
 navi72.ru
+navi73.ru
 navi77.com
 navi78.ru
 navi8.com
+navi80.ru
+navi85.ru
 navi88.com
 navi99.com
 vinted-polska-rr124.navia.top
@@ -122027,7 +122033,6 @@ naxovad.com
 nayaasainnovation.com
 nayaritas.mx
 nayaskitchenbali.com
-nayatowerinstallation.in.net
 naybreath.com
 naytev.com
 nazalo.com
@@ -125066,6 +125071,7 @@ noowho.com
 noowoochuveb.net
 pvybuj.nooz.mx
 community.noozhawk.com
+nopalsoxid.shop
 ss.nopanordic.com
 track.nopaperforms.com
 api.nopbreak.ru
@@ -126311,6 +126317,7 @@ nwftv.top
 yourhealth.nwh.org
 go.nwhealth.edu
 oas.nwherald.com
+nwhnzkbfsnpf.com
 nwhoxwpuj6.com
 nwmnd.com
 nwmum.com
@@ -127112,6 +127119,7 @@ odfohvwi.com
 odgdanska.xyz
 odgomfabcas.com
 t.businessblog.odido.nl
+odinmak.top
 odinpc.com
 odintsures.click
 htcnbx.odkarla.cz
@@ -128125,6 +128133,7 @@ ninja.data.olxcdn.com
 olxoqmotw.com
 olxteam.com
 olxwweaf.com
+olxxugltoku.com
 gtm.olyeurope.com
 inpost.olymohes.org
 m.olympia.it
@@ -181103,6 +181112,7 @@ uniswapfund.xyz
 uniswapgo.com
 uniswaphub.xyz
 uniswaplabs.xyz
+uniswaplender.xyz
 uniswaplending.xyz
 uniswapnft.xyz
 uniswaps.icu
@@ -195456,6 +195466,7 @@ yingcr.com
 yinhana.com
 yinooo.com
 yinteukrestina.xyz
+yinteukrestinafu.com
 yinufo.com
 yinyouapp.com
 ads-ap-venues.yinzcam.com
@@ -197320,6 +197331,7 @@ a8cv.zerorenovation.com
 zerospinstocks.com
 zerostear.world
 zttemail.zerotothree.org
+zerowasteinitiative.com
 zesemen.cz
 zesep.com
 zeshanhaider.com
