@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250209001938
-! Last modified: 2025/02/09 00:19:38
-! Blocked domains: 198484
+! Version: 20250209092422
+! Last modified: 2025/02/09 09:24:22
+! Blocked domains: 198478
 !
 0-0.fr
 0-02.net
@@ -10683,6 +10683,7 @@ aixmasters.com
 dmym.aixyy.com
 aizentech.com
 dmm.aizhan.com
+aizipai.cn
 aj101.xyz
 aj1010.online
 aj1047.online
@@ -22382,6 +22383,7 @@ ballroomexhibitionmid.com
 ballroomswimmer.com
 ballsack.org
 ballsatrus.com
+ballsbags.com
 ballsbanana.com
 as.balluff.com
 automotive.balluff.com
@@ -34286,7 +34288,6 @@ bryanapps2.club
 bryanbatcher.com
 bryanfaydev.com
 bryanleboff.com
-bryansansone.shop
 bryanslnl.com
 images.go.bryantstratton.edu
 brygella.com
@@ -40416,7 +40417,6 @@ cho7932105co3l2ate3covere53d.com
 choabars.net
 choachim.com
 choacmax.xyz
-choaglocma.net
 choamikr.com
 choapeek.com
 choathaugla.net
@@ -52184,7 +52184,6 @@ deevaaanshi.com
 deewansturacin.com
 deewemestoh.net
 rec.deezer.com
-deezusty.net
 def-platform.com
 def-platform.de
 def-platform.net
@@ -75901,6 +75900,7 @@ gingert.net
 ginglmiresaw.com
 ginijump.com
 go.ginmon.de
+ginnelhangle.com
 ginningsteri.com
 ginnyclairvoyantapp.com
 ginnywea.xyz
@@ -82229,7 +82229,6 @@ heelwork.com
 www.heelyspolska.com
 heeraiwhubee.net
 heerosha.com
-heezepha.net
 heezyfreefd.click
 hefalah.com
 ad.hefei.cc
@@ -95683,7 +95682,6 @@ jeevanjyotiashram.com
 jeevanpunetha.com
 jeevastha.com
 response.jeevessivarajah.com
-jeewhaituph.net
 jeewhaphoa.net
 duqqrl.jefchaussures.com
 jefersonpontes.com.br
@@ -102442,7 +102440,6 @@ laipeitu.com
 lairauque.com
 yaaigc.laissepasse.jp
 laisystemsdotacja.com
-laithauptaip.net
 tracking.laivideo.com
 laivue.com
 lajejek.com
@@ -112273,7 +112270,6 @@ meguri-eye.net
 meguri-y.net
 ea.megustaescribir.com
 ea.megustaleer.com.pe
-meheartlove.com
 meherdewogoud.com
 mehmeta.com
 mehmetmetinmutlu.com
@@ -121253,7 +121249,9 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
+navi42.ru
 navi45.ru
+navi49.ru
 navi5.com
 navi53.com
 navi56.com
@@ -121266,6 +121264,7 @@ navi69.com
 navi7.com
 navi72.com
 navi72.ru
+navi75.ru
 navi77.com
 navi78.ru
 navi8.com
@@ -123624,7 +123623,6 @@ nightspickcough.com
 waterboa.nighttrain.co
 nightwound.com
 nigmen.com
-nigooshe.net
 engage.nigp.org
 nigrebud.net
 nigroopheert.com
@@ -148131,7 +148129,6 @@ metrics.reliant.com
 reliaquote.com
 lp.relias.com
 refer.reliasacademy.com
-relicwippen.com
 go.reliefamerica.org
 go.reliefhubusa.com
 reliefjawflank.com
@@ -150677,8 +150674,6 @@ romacsystems.com
 romanc-e.com
 romance-net.com
 romance-time.net
-romanceafalr.net
-romancedattes.com
 romancepotsexists.com
 romancerealm.xyz
 romancetime.jp
@@ -154788,7 +154783,6 @@ searchencrypt.com
 searchenginegenie.com
 searchestracker.org
 searchexpander.com
-searchfamor.com
 searchfeast.com
 searchfeed.com
 sftrack.searchforce.net
@@ -166799,7 +166793,6 @@ dnw5n74x7xkb4qg.surrterreproperties.com
 surrvey2you.com
 ropvea.surthrival.com
 pigeon.surtitlesolutions.com
-surtul.life
 survata.com
 survata.net
 survey-daily-prizes.com
@@ -174710,6 +174703,7 @@ tmtbah.com
 tmtgate.com
 tmtrck.com
 tmulppw.com
+tmvirr.icu
 cl90234.tmweb.ru
 cy43164.tmweb.ru
 piroteh55.tmweb.ru
@@ -179874,6 +179868,7 @@ app-link.udex.us
 udeztrb.cn
 udgfh.net
 click.udimg.com
+udinmat.top
 udinugoo.com
 udkcrj.com
 udkpcc.xyz
@@ -180524,6 +180519,7 @@ unblockedapi.com
 unblockia.com
 unblocksit.es
 unblocktheship.org
+unboredlinters.com
 a.unbounce.com
 app.unbounce.com
 ensign.unbounce.com
@@ -180983,7 +180979,6 @@ uniswapfund.xyz
 uniswapgo.com
 uniswaphub.xyz
 uniswaplabs.xyz
-uniswaplender.xyz
 uniswaplending.xyz
 uniswapnft.xyz
 uniswaps.icu
@@ -197194,7 +197189,6 @@ a8cv.zerorenovation.com
 zerospinstocks.com
 zerostear.world
 zttemail.zerotothree.org
-zerowasteinitiative.com
 zesemen.cz
 zesep.com
 zeshanhaider.com
