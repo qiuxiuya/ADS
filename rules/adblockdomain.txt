@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250210001934
-! Last modified: 2025/02/10 00:19:34
-! Blocked domains: 198620
+! Version: 20250210092124
+! Last modified: 2025/02/10 09:21:24
+! Blocked domains: 198630
 !
 0-0.fr
 0-02.net
@@ -29062,6 +29062,7 @@ sgtm.blezi.com
 blfeiywbthjom.com
 blg-1216lb.com
 swa.blgwonen.nl
+blibberon.xyz
 imhwzc.blibli.com
 data-13d258638d.blick.de
 data-1b32532ce1.blick.de
@@ -29269,6 +29270,7 @@ bloggerads.net
 bloggeramt.de
 bloggerei.de
 bloggerex.com
+bloggiamgia.info
 bloggingdollars.com
 x.bloggurat.net
 blogherads.com
@@ -33913,6 +33915,7 @@ bronewlook.com
 bronks.xyz
 uampxb.bronnitsy.com
 bronto.com
+bronzecedarleaf.com
 bronzeinside.com
 bronzeon.online
 bronzerkevil.com
@@ -55700,6 +55703,7 @@ ditchbillionrosebud.com
 ditcherstorify.guru
 ditdotsol.com
 diteringion.com
+dithodackee.com
 code.ditiezu.net
 ditilou.com
 ditiri.com
@@ -66580,6 +66584,7 @@ facebookpolicy4.ddnsking.com
 facebookprofile.info
 facebooksecurity.blogspot.gr
 facebooksocial.com
+facebookvideo87.blogspot.com
 facebooq.com
 facebypass.com
 forms.faceconference.com
@@ -66634,6 +66639,7 @@ affiliate.faceyogainstitute.eu
 fachadasalaire.com
 facialhairremovalcream.com
 facialwaxmaxfaxlax3.com
+faciendtabour.shop
 facil-iti.com
 faciledegree.com
 facileravagebased.com
@@ -106945,6 +106951,7 @@ loadpartners.com
 loadsource.org
 loadsurprise.com
 loadtime.org
+loafoushuho.com
 loafsmash.com
 loagoshy.net
 loaiza.xyz
@@ -129046,6 +129053,7 @@ info.onlinetech.com
 onlinetherapytoolbox.com
 onlinetipsdaily.com
 onlinetipstoday.com
+onlinetopchoice.com
 ss.onlinetours.es
 ss.onlinetours.it
 widget.onlinetv.ru
@@ -165176,6 +165184,7 @@ strainprimar.com
 straitchangeless.com
 straitmeasures.com
 link.straitstimes.com
+strakuty.com
 straletmitvoth.com
 b.stranamam.ru
 stranddecidedlydemeanour.com
@@ -197030,6 +197039,7 @@ zcode11.me
 zcolorful.com
 zcoptry.com
 zcoup.com
+zcrddj.icu
 zcswet.com
 zcuen.com
 zcy.web.id
