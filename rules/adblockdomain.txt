@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250212002432
-! Last modified: 2025/02/12 00:24:32
-! Blocked domains: 198077
+! Version: 20250212092021
+! Last modified: 2025/02/12 09:20:21
+! Blocked domains: 198120
 !
 0-0.fr
 0-02.net
@@ -1249,6 +1249,7 @@ pr.20min.es
 a.20minutes.fr
 20trackdomain.com
 20tracks.com
+20wx.com
 21026.cn
 210kj.com
 ads.211.ru
@@ -2649,6 +2650,7 @@ ab5da04718.47a4a36b13.com
 unpsyg.47club.jp
 go.47co.jp
 9ad4356ab3.47ff1d5b15.com
+47n78xprrvp1.top
 48-sf92.cfd
 48-we2k.cfd
 metrics.48.ie
@@ -13689,7 +13691,6 @@ ane102.net
 aneathbatt.top
 deligoo-pl.anebukit.shop
 aneducationwelllived.com
-aneegroned.net
 anekakomputer.com
 anekbook.ru
 anekke-polska.com
@@ -16680,6 +16681,7 @@ appearednecessarily.com
 appearedon.com
 appearedsuspendedcommands.com
 appearsloin.com
+appearswhetporter.com
 appearzillionnowadays.com
 appeasehermione.com
 appeaseprovocation.com
@@ -35847,6 +35849,7 @@ collector.cakeresume.com
 cakesdenyconventional.com
 cakesdrum.com
 cakesinventory.com
+cakgsijbt.xyz
 cakingo.com
 info.calabrio.com
 callert3px.calagalac.ru
@@ -36999,6 +37002,7 @@ carladieguez.com
 carlaferrey.com
 carlaguetta.com
 carlbets.com
+carlebarkeep.com
 carlightcleaners.com
 carlilecontracting.com
 gazavw.carlili.fr
@@ -44583,6 +44587,7 @@ comfortclick.co.uk
 smetrics.comfortwave.com
 comfortykive.xyz
 comfreeads.com
+comfreymind.shop
 comfybaby.pl
 comfyloops.com
 comfyunhealthy.com
@@ -45974,6 +45979,7 @@ metrics.coolibar.com
 xlvvy4msxr.coolinastore.com
 coolinc.info
 coolingvaluer.com
+cooliwoudol.net
 cooljony.com
 coolkaba.com
 coolkevinxu.com
@@ -48701,6 +48707,7 @@ mobile-event.cvent.me
 mobile-event-alternative.cvent.me
 mobile-event-development.cvent.me
 mobile-event-staging.cvent.me
+cvfuyogxbcweq.tech
 www.cvfww.cn
 r.cvglobal.co
 cvgrszkg.xyz
@@ -51345,6 +51352,7 @@ datingkoen.site
 vampirebat.datingmedellin.com
 datingmeetnet.com
 media.datingpartner.com
+datingprudethimble.com
 bear.datingrelationshipsadvice.com
 datingshall.life
 start.datingsitesinfo.com
@@ -54492,6 +54500,7 @@ marketing.directmedimaging.com
 directmedsfrance.com
 directnavbt.com
 directofferspro.com
+directone.xyz
 contacts.directories.digital
 directoriodeliteratura.com
 directormix.com
@@ -56968,6 +56977,7 @@ dramasbaby.com
 dramatic-ad.com
 dramaticcondition.com
 dramaticdirection.com
+dramaticsalad.com
 dramatycznedni.click
 dramatycznewiesci.click
 drangeloteo.es
@@ -61435,6 +61445,7 @@ embeddedanalytics.com
 embedx.name
 embellishedmeadow.com
 woodpecker.ember.ly
+emberio.com
 embermosaic.com
 emberwhisper.com
 embezzlementthemselves.com
@@ -71999,6 +72010,7 @@ fridasmexrestaurant.com
 friday89.com
 fridayaffectionately.com
 fridayarched.com
+fridaylocalmanager.duckdns.org
 fridaywake.com
 friedretrieve.com
 www.friend-greetings.com
@@ -84616,6 +84628,7 @@ funeral.hospitalsituationoycq.com
 son.hospitalsituationoycq.com
 hospitalsky.online
 smetrics.hossintropia.com
+ads22.host-cdn.net
 host-host-file8.com
 host-it.co.uk
 hmw42.host-my-website.com
@@ -99201,6 +99214,7 @@ kevinschartner.com
 kevinsmithson.com
 kevinsnow.online
 rusekgrzegorz.kewinkamil.nieruchomosci.pl
+kewodruzeezu.xyz
 kewynh.top
 kexarvamr.com
 kexihao.xyz
@@ -104020,7 +104034,11 @@ lensalmes.shop
 smetrics.lenscrafters.ca
 refer.lenscrafters.com
 smetrics.lenscrafters.com
-lensgard-2.online
+tq.lensgard-2.online
+tq-eu.lensgard-2.online
+xml.lensgard-2.online
+xml-eu-v4.lensgard-2.online
+xml-v4.lensgard-2.online
 pljuin.lensmode.com
 sp.lenspk.com
 wzcnha.lenspure.com
@@ -110466,6 +110484,7 @@ www.re.masoinmobiliaria.com
 qlvxcj.masongarments.com
 crm.masonmac.com
 masonopen.com
+masonrycruor.shop
 newt.masonwear.co
 www.masoudakbarnia.de
 masowemediowe.click
@@ -111147,6 +111166,8 @@ khbd.mbtuan.com
 mbuyu.nl
 mbvlmx.com
 mbvlmz.com
+mbvndisplay.site
+mbvndspl1.pro
 mbway-support.online
 mbww.com
 mbxsku.cn
@@ -114668,10 +114689,10 @@ hd.browser.miui.com
 hot.browser.miui.com
 hot.browser.intl.miui.com
 httpdns.browser.miui.com
+inf.miui.com
 log-abroad.avlyun.sec.miui.com
 logupdate.avlyun.sec.miui.com
 mazu.sec.miui.com
-mcc.intl.inf.miui.com
 metok.sys.miui.com
 nav.browser.miui.com
 protect.dev.sec.intl.miui.com
@@ -119777,6 +119798,7 @@ myprivatephotoalbum.top
 albatross.mypromo.co
 mypropertymanagementcompany.com
 sgtm.myprotein.jp
+eurostreaming.myproxy.help
 mypsncodes.com
 zlvdcc.mypulsera.de
 marketing.mypureradiance.com
@@ -121161,7 +121183,6 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
-navi42.ru
 navi45.ru
 navi5.com
 navi53.com
@@ -128458,6 +128479,7 @@ ookresit.net
 ookroush.com
 ooloptou.net
 oolsutsougri.net
+oomaugnaps.net
 social.oomi.co.uk
 link.oomph.app
 oomsoapt.net
@@ -129804,6 +129826,7 @@ a8cv.otakudathough.com
 otakunomnom.com
 otakuplay.jp
 otakurabu.jp
+otakutee.com
 otamerch.com
 otaserve.net
 www.otazka.shop
@@ -136375,6 +136398,7 @@ load.a.podconsultsbutik.dk
 poddon-moskva.ru
 stats.poddtoppen.se
 podefr.net
+podefr2.net
 podemnik.pro
 link.podercard.com
 track.poderemagrecedor.com
@@ -147961,6 +147985,7 @@ reopensnews.com
 reople.co.kr
 reorderhis.com
 go.reorg-research.com
+reorganizeache.com
 reorganizeglaze.com
 reotreies.com
 rep0pkgr.com
@@ -148582,6 +148607,7 @@ revaminacne.pl
 revaminstretchmark.pl
 revanced-extended.com
 revancedapk.com
+revancedmusic.com
 revandrewangel.com
 revbid.net
 revbigo.com
@@ -152277,6 +152303,7 @@ saintflowfeed.com
 saintkilledit.com
 go.saintleo.edu
 web.contact.saintlukeskc.org
+saintlyyaupons.top
 tteikk.saintmaniero.com
 saintselfish.com
 saipeevit.net
@@ -162158,6 +162185,7 @@ spelar.org
 load.gtm.spelklubben.se
 spellads.com
 gtm.spellbrite.com
+spelldeterrent.com
 go.spellingcity.com
 spellmist.com
 spellpop.ir
@@ -166026,6 +166054,7 @@ superphotos.com
 0bt.superpitmachinery.com
 superpromo24.de
 superpromokody.com
+eurostreaming.superproxy.lol
 superqualitylink.com
 sadb.superrtl-licensing.de
 adb.superrtl.de
@@ -166784,6 +166813,7 @@ ads.swiftnews.com
 track.swiftnewstime.com
 click.swiftpage.marketing
 marketing.swiftprepaid.com
+swiftstreamhub.com
 swifttechco.com
 swiftway.biz
 cc.swiftype.com
@@ -168181,6 +168211,7 @@ taqpa.com
 taqueriajalapenos.com
 tar-nama.com
 www.tara-medium.com
+taramatikarou.com
 tarandka.com
 tarashbypriyanka.com
 track.tarastyle.ch
@@ -168649,6 +168680,7 @@ tdlyfz.xyz
 tdmrfw.com
 go.tdmspecialists.com
 metrics.tdn.com
+tdniigxiuvyaafv.com
 tdoqiajej.xyz
 cvv.tdp-like.xyz
 qw.tdp-like.xyz
@@ -173503,6 +173535,7 @@ tiki666.com
 tiki777.com
 tiki886.vip
 tiki888.com
+tikinew.club
 tikishop.shop
 tikishop.vip
 tikishop.ws
@@ -176598,6 +176631,7 @@ data-1fbcf6d7f5.trauerforum-altkreis.de
 ens.trauerportal-ostschweiz.ch
 data-b8587f1b76.trauerundgedenken.de
 data-a7deba18e8.trauervers.de
+traukvan.com
 traumamanifest.com
 traumavirus.com
 data-80d2d17df3.traunsteiner-tagblatt.de
@@ -179875,6 +179909,7 @@ ultimate-healthy.com
 ultimate-tech-products.myshopify.com
 stats.ultimate-webservices.com
 grouse.ultimateballistics.com
+log.ultimatecleaner.pro
 ultimateclixx.com
 ultimatecomp.com.sg
 ultimatecounter.com
@@ -182722,6 +182757,7 @@ vanbenthem.org
 vanberkumsittard.nl
 load.sst.vanbuuren.nl
 analytics-api.vanceai.com
+vanced-official.com
 mdws.vancity.com
 vancouverbalconycleaners.com
 vandalismundermineshock.com
@@ -183869,6 +183905,7 @@ vhsutpgui.xyz
 vhvwlb.xyz
 collector.vhx.tv
 vhzivz.xyz
+vi-improved.org
 vi-serve.com
 vi-tag.net
 sorxyx.vi.nl
@@ -185426,6 +185463,7 @@ vitolabella4nyc.com
 vitop7eg5sqwgbk.jpn.com
 vitor304apt.com
 vitoriaregia-ambientais.com.br
+vitqzd.icu
 vitri-icloud.com
 cms-stats-view.vitrinabox.com
 vitrinler3.com
@@ -185433,6 +185471,7 @@ vitrisev.com
 app.vitruvian.me
 rtk.vittaflora-ofc.com
 edavbu.vittz.co.kr
+analytics.viture.dev
 viu.viubyhub.com
 tools.viva.pl
 vivaahost.com
@@ -195642,6 +195681,7 @@ see.yousoon.com
 youspacko.com
 yousweeps.net
 youthfire.com
+youthfy.shop
 youthministryexchange.net
 whatswithweed.youthrex.com
 marketing.youththink.net
@@ -195787,6 +195827,7 @@ yttompthree.com
 ytuy45fxs.appspot.com
 metrics.ytv.com
 smetrics.ytv.com
+ytvancedpro.com
 ytvrtrya.xyz
 ytxetoll.top
 ytzihf.com
@@ -196792,6 +196833,7 @@ a8cv.zerorenovation.com
 zerospinstocks.com
 zerostear.world
 zttemail.zerotothree.org
+zerowasteinitiative.com
 zesemen.cz
 zesep.com
 zeshanhaider.com
@@ -197066,6 +197108,7 @@ zads.me.zing.vn
 zt.me.zing.vn
 zt1.me.zing.vn
 bavvgo.zingat.com
+zingerszapota.com
 log.zingmp3.vn
 za.zingmp3.vn
 log.zingnews.vn
