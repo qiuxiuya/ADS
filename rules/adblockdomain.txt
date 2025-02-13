@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250213162320
-! Last modified: 2025/02/13 16:23:20
-! Blocked domains: 198638
+! Version: 20250214002343
+! Last modified: 2025/02/14 00:23:43
+! Blocked domains: 198662
 !
 0-0.fr
 0-02.net
@@ -11043,6 +11043,7 @@ akusherok.ru
 pl.facebook.akut24.fi
 akutapro.com
 load.sgtm.akutbolig.dk
+akutyforemploej.com
 akvatech.hu
 akvqulocj.com
 akvvkmrqovmaj.top
@@ -14304,6 +14305,7 @@ anormal-tracker.de
 anothermemory.pro
 anotherrifle.com
 anothertuesdaypattern.com
+anourereblue.com
 pd.anovafurnishings.com
 anpicker.com
 anpost-rescheduledelivery.com
@@ -16880,6 +16882,7 @@ appbravebeaten.com
 appbrazil.com
 rtb-useast-v4.appbroda.com
 static.appbroda.com
+ads.appbundledownload.com
 log.appbundledownload.com
 appcanaldigital.com
 appcaptcha.com
@@ -40710,6 +40713,7 @@ chitika.net
 chitsnooked.com
 clc.chiuhua.com.cn
 chivalrouscord.com
+chivoagrie.net
 www.chiyih.com
 a8.chiyo-moni.com
 chizhik-2.ru
@@ -50714,6 +50718,7 @@ d3ddidv77grh0f.cloudfront.net
 d3dpet1g0ty5ed.cloudfront.net
 d3dq1nh1l1pzqy.cloudfront.net
 d3e8xvf8dyclkj.cloudfront.net
+d3ea0dyj1ehgcr.cloudfront.net
 d3ec0pbimicc4r.cloudfront.net
 d3edbb478c.com
 d3edizycpjjo07.cloudfront.net
@@ -55892,6 +55897,7 @@ divorcecures.com
 divorceglossary.com
 divorceradio.com
 metrics.divosta.com
+divotmassage.top
 divscripty.net
 info.divurgent.com
 divvanews.com
@@ -59424,6 +59430,7 @@ e5yx.com
 e6.pages.dev
 e67repidwnfu7gcha.com
 e68a481d7d.com
+a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com
 776a7605bc.e6a30711b5.com
 d4a998a9aa.e6c1ff5d1e.com
 mail.apapa.e6hdx.my.id
@@ -67765,7 +67772,7 @@ fc29334d79.com
 analyzer5.fc2cn.com
 fc3ppv.xyz
 08fdca8d30.fc5701c3b2.com
-1bef6d70a4.fc5d7c4624.com
+fc5d7c4624.com
 fc67x.com
 fc861ba414.com
 92934e7e2b.fc9d8824d4.com
@@ -71242,6 +71249,7 @@ xolebe.footway.se
 footwearstore.pl
 adcycle.footymad.net
 ads.footymad.net
+foowauboup.net
 ads.fooyoh.com
 foozoujeewhy.net
 ngufjw.foppapedretti.it
@@ -78179,6 +78187,7 @@ goldgamehacks.com
 load.sst.goldgas.at
 goldgrape.xyz
 goldin-minds.com
+goldinnips.top
 goldiptv.us
 info.goldmine.com
 goldoffer.online
@@ -80119,6 +80128,7 @@ grourouksoop.net
 groutoazikr.net
 groutoozy.com
 groutsukooh.net
+grouxauksu.xyz
 grova.buzz
 grova.xyz
 grovam.com
@@ -87160,6 +87170,7 @@ hymetalproduct.com
 a.hymin.xyz
 sxxllz.hyn-t.com
 hyndtren25.pages.dev
+hynea.site
 hynyjuy.com
 hypaag-mcdiouds-scroiaz.yolasite.com
 hypapa.com
@@ -96773,6 +96784,7 @@ forms.flexmba.carey.jhu.edu
 jhu8u9.pro
 jhukfaosdjfa.com
 jhulubwidas.com
+jhxakdmdlz.com
 jhzfwl.cn
 api.jialiangad.com
 js.jianbaimei.com
@@ -102614,6 +102626,7 @@ spolu.kuskakaa.cz
 tk.kusmitea.com
 a8cv.kusmitea.jp
 tracking.kussladies.de
+kusumpisachi.top
 kusuriyasan.org
 kutaloo.com
 kuthoost.net
@@ -107522,6 +107535,7 @@ info.lonebeacon.com
 info.lonebeaconmedia.com
 loneday.com
 loneextreme.pro
+loneinner.com
 lonelyfix.com
 lonelyflavor.com
 dpd-pl.lonelymju.shop
@@ -124797,6 +124811,7 @@ noaling.xyz
 noapeveety.top
 noapsovochu.net
 piwik.noaveragerobot.de
+noaviphesh.net
 nobeta.com.br
 ads.nobid.com
 qa-ads.nobid.com
@@ -131124,6 +131139,7 @@ sgtm.owcollection.com
 owdj0.com
 owebsearch.com
 urqu.owellittickative.info
+oweltyagruif.com
 owenexposure.com
 om.owens-minor.com
 om.owenscorning.com
@@ -136829,6 +136845,7 @@ dinsey.plus-bill.com
 3ad71877eb.plus-d.eu
 587292e613.plus-dis.eu
 a7e568cdc9.plus-dis.eu
+new.plus-eromanga.com
 40b2a6d282.plus-my.eu
 marketing.plus-projects.com
 www.aandgwright.plus.com
@@ -152708,6 +152725,7 @@ invite.sadapay.pk
 invite-test.sadapay.pk
 sadartd.com
 sadbasindinner.com
+saddarue.com
 saddlecooperation.com
 saddleiemp.xyz
 sadeqoa.com
@@ -154575,6 +154593,7 @@ event.scimo.io
 data-4754325bf6.scinexx.de
 data-e807969afb.scinexx.de
 iqmetrics.scinexx.de
+scinmab.top
 data.product-analytics.scinote.net
 scintillatingscissors.com
 scintillatingsilver.com
@@ -155416,6 +155435,7 @@ seedtag.com
 seedtoshawl.com
 link.farm.seedz.ag
 smetrics.seeeliquisevidence.com
+seefaurerowizoa.net
 seeforgebuild.com
 seegamezpicks.info
 go.seegeneus.com
@@ -165631,6 +165651,7 @@ shop.strongviking.com
 v.strosin.biz
 strossle.com
 strossle.it
+stroveiks.com
 stroy-matrix.ru
 track.stroy-still.shop
 stroyalp.ru
@@ -178123,6 +178144,7 @@ analytics.trovit.com
 metrics.trovix.com
 aegis.trovo.live
 trowanesteeler.com
+trowelsbastant.shop
 sitecat.troweprice.com
 sitecats.troweprice.com
 target.troweprice.com
@@ -180346,6 +180368,7 @@ uksportspodiatry.com
 ukstmalls.xyz
 fjuccm.uktsc.com
 smetrics.uktv.co.uk
+uktwvhfezyvxn.com
 ukuleqasforsale.com
 ukuniadmissions.com
 tracking.ukwm.co.uk
@@ -182766,6 +182789,7 @@ gyqpyr.utsource.net
 uttambuildcon.com
 uttarayanharmony.com
 utterdevice.com
+utteredadisappo.com
 utterlysever.com
 vinted-pl-gj32d.uttu.top
 utua.com.br
