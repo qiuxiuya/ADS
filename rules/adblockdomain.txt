@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250214002343
-! Last modified: 2025/02/14 00:23:43
-! Blocked domains: 198662
+! Version: 20250214092041
+! Last modified: 2025/02/14 09:20:41
+! Blocked domains: 198683
 !
 0-0.fr
 0-02.net
@@ -3397,7 +3397,7 @@ a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 1npost.656577.xyz
 3.656602.com
 656f1ba3.xyz
-0feaa29e9a.6570131a3f.com
+6570131a3f.com
 65894140.xyz
 657376d1f1.65a95a9d2b.com
 65baywin.com
@@ -4188,6 +4188,7 @@ allegrolokalnie.902184.shop
 909designs.com
 909x1.com
 90air.pl
+90b8ae1064.com
 90betorspin.com
 90bongda.com
 go.90daypipeline.com
@@ -10841,6 +10842,7 @@ ajestigie.com
 ajfnee.com
 track.msadcenter.ajfy.com
 ajggirci.com
+ajghtafutjt.com
 ajglirsuk.com
 ajgzylr.com
 ajijcy.xyz
@@ -11526,6 +11528,7 @@ activities.alibaba.com
 activity.alibaba.com
 ads.alibaba.com
 click.alibaba.com
+fourier.alibaba.com
 hydra.alibaba.com
 img.alibaba.com
 marketing.alibaba.com
@@ -18266,6 +18269,7 @@ www.artiusdesigns.co.uk
 artjewelrymag.com
 artkinsrealis.com
 metricus.artlebedev.ru
+artlesscontagionseated.com
 artlessdeprivationunfriendly.com
 pafpro.artlist.io
 artmarctorrecilla.com
@@ -21308,6 +21312,7 @@ azrqytyz.xyz
 azrwwodreta.com
 azskk.com
 azsoftoman.com
+azsolver.com
 azsqkrc.icu
 li.azstarnet.com
 sdc.azt-automotive.com
@@ -49147,6 +49152,7 @@ tracker.curama.jp
 curamenaturalhealth.com
 bl-test.curatedplanet.com
 curatenieoradea.com
+curbminers.com
 quokka.curbnumberpro.com
 stats.curds.io
 curecreative.com
@@ -53061,6 +53067,7 @@ delicatesesgloriasgourmet.com
 delicatessenofspain.com
 delicious-slip.pro
 metrics.delicious.com.au
+deliciousdaredowen.com
 deliciousducks.com
 delicioushack.com
 delictimids.com
@@ -54449,6 +54456,7 @@ vinted-polska-rr124.dhtseek.top
 virted-pl-fi551.dhtseek.top
 dhufgpp.com
 dhuimjkivb.com
+dhuquxqy.com
 dhux7ijh.click
 dhzws7l31cq8p.cloudfront.net
 di-ana.jp
@@ -59430,7 +59438,6 @@ e5yx.com
 e6.pages.dev
 e67repidwnfu7gcha.com
 e68a481d7d.com
-a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com
 776a7605bc.e6a30711b5.com
 d4a998a9aa.e6c1ff5d1e.com
 mail.apapa.e6hdx.my.id
@@ -72365,6 +72372,7 @@ freedomdesignsonline.com
 tags.freedomfinancialnetwork.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
+freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -74151,6 +74159,7 @@ galerijajava.ba
 e.galeton.com
 galewinds.xyz
 parcel.k7uz6lobkb7jhmu.galexar.com
+galffguslcxvk.com
 galhelpfur.live
 tr.info.galian.fr
 metrics.galicia.ar
@@ -80834,6 +80843,7 @@ xbumgi.gwbands.com
 gwbone-cpw.today
 marketing.gwcontainers.com
 www.gwenet.org
+gwfqxkelp.com
 gwggiroo.com
 cpm.gwmexchange.com
 gwmmanagement.com
@@ -84556,6 +84566,7 @@ hntezhi.com
 hnuniversal.com
 hnxxt.net
 hnyishidengbao.com
+hnzdkdcwdgs.com
 qvlcdw.ho-br.com
 scsmetrics.ho-mobile.it
 hoa44trk.com
@@ -93141,6 +93152,7 @@ ipqolj.com
 ipredictive.com
 a.iprima.cz
 kliesn.iprimo.jp
+cosi.iprive.net
 web.iprive.net
 ipro.com
 access.ipro.net
@@ -93518,6 +93530,7 @@ ss.isabella.net
 isabellacattleya.com
 isabellagodpointy.com
 isabellahopepancake.com
+isabsaikraighoo.net
 isacostarica.com
 isafe.pro
 isagokhanduysak.com
@@ -104140,6 +104153,7 @@ lcxxwxo.com
 ld-apple.info
 tr.mp.ld-man.fr
 anicobin.ldblog.jp
+ldbnhd.icu
 ldcbenefitsonline.com
 mdws.ldcu.ca
 lddt.de
@@ -105139,7 +105153,6 @@ build.level5.com
 alpha.go.levelbank.com
 dev.go.levelbank.com
 prealpha.go.levelbank.com
-levelbash.com
 tracking.levelblue.com
 get.leveleleven.com
 levelobranche.com
@@ -112630,6 +112643,7 @@ mediavine.com
 stat-analytics.mediavitrina.ru
 mediavoice.com
 mediavyasa.com
+mediawach.com
 mwwebassets.mediawallahscript.com
 partner.mediawallahscript.com
 mediawayss.com
@@ -152945,6 +152959,7 @@ saileepsigeh.com
 www.sailesi.cn
 pages.sailgp.com
 tracking.sailgp.com
+sailiabot.com
 sailif.com
 saillevity.com
 sailorjav128.fun
@@ -168918,6 +168933,7 @@ tarsiusbaconic.com
 tartannewzealand.myshopify.com
 tartarsharped.com
 tartator.com
+tartconvert.com
 tarteeshrecords.com
 tarto.net
 tarttendency.com
@@ -191994,6 +192010,7 @@ wo1990.com
 ss.woa.dk
 woadoodles.com
 woafoame.net
+woamoogloow.net
 woapheer.com
 woaq5l6.today
 woareejoaley.net
@@ -193567,6 +193584,7 @@ xawab.com
 xawlop.com
 xaxis.com
 xaxoro.com
+xazoglawq.com
 xazojei-z.top
 xbbhwggj.icu
 xbc8fsvo5w75wwx8.pro
@@ -194317,6 +194335,7 @@ xnfmbejucgoldi.com
 a.xnimg.cn
 xnqwuwlq.org
 xnrowzw.com
+xnszbmnxuzfvr.com
 xnxsp.net
 img.xnxx.com
 multi.xnxx.com
@@ -194892,6 +194911,7 @@ yahekby.cn
 yahhhoo.com
 listing.yahoo-net.jp
 am.yahoo.co.jp
+apm.yahoo.co.jp
 ard.yahoo.co.jp
 b0.yahoo.co.jp
 b90.yahoo.co.jp
@@ -197048,6 +197068,7 @@ go.zbigniewlenard.com
 zbiorfaktow.rest
 zbiornik.com
 zbiorwydarzen.rest
+zbldxf.icu
 zblz.me
 zboac.com
 zbona.com
