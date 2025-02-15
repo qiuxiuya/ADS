@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250215002056
-! Last modified: 2025/02/15 00:20:56
-! Blocked domains: 198752
+! Version: 20250215091939
+! Last modified: 2025/02/15 09:19:39
+! Blocked domains: 198764
 !
 0-0.fr
 0-02.net
@@ -3466,6 +3466,7 @@ account-secuirty-check.66ai6.com
 66av.cc
 66baywin.com
 www.66fu2d.com
+66hao.cc
 www.66infra-strat.com
 1.66law.cn
 track.66mobi.com
@@ -11070,6 +11071,7 @@ akashy.com
 akaslot777.com
 akavita.com
 matomo.akbal.dev
+chatbot.akbank.com
 akbharat.com
 akcapitalone.com
 www.akcesorhot.com
@@ -14313,6 +14315,7 @@ animemeat.com
 animenewsmagazine.com
 animenime.ru
 animeplaynow.com
+animeshoppers.com
 api.animeshqip.icu
 animi2.com
 animits.com
@@ -61413,6 +61416,7 @@ ekvolegal.com
 ekwa-clientbackup.info
 ekwzxay.com
 ekxyrwvoegb.xyz
+ekyfoa.shop
 ekykse.xyz
 ekzark.com
 ekzmk.icu
@@ -72500,7 +72504,6 @@ freedomdesignsonline.com
 tags.freedomfinancialnetwork.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
-freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -96919,6 +96922,7 @@ jgrjldc.com
 jgsajfggv.xyz
 jgstny.com
 jgvkxp.xyz
+jgxirv.icu
 metrics.jh-online.pl
 metrics.jh-profishop.at
 tmwkya.jh-profishop.at
@@ -105338,6 +105342,7 @@ build.level5.com
 alpha.go.levelbank.com
 dev.go.levelbank.com
 prealpha.go.levelbank.com
+levelbash.com
 tracking.levelblue.com
 get.leveleleven.com
 levelobranche.com
@@ -122219,9 +122224,11 @@ navi23.com
 navi23.ru
 navi24.com
 navi24.ru
+navi26.ru
 navi3.com
 navi30.ru
 navi32.com
+navi33.ru
 navi35.com
 navi35.ru
 navi36.ru
@@ -122230,7 +122237,9 @@ navi39.ru
 navi42.ru
 navi45.ru
 navi5.com
+navi5.ru
 navi53.com
+navi53.ru
 navi56.com
 navi58.com
 navi59.ru
@@ -136819,6 +136828,7 @@ playgirl.com
 install.playgpl.com
 playgril.com
 ad.playground.ru
+event.playground.ru
 ads.playground.xyz
 playgroundordinarilymess.com
 demo3.playgrounds.cloud
@@ -141181,6 +141191,7 @@ dostawa-poczta-polska-pl.proverkanalinya.icu
 cmflinks.provesio.com
 cdn.provesrc.com
 provexia.com
+providedexcitingcritical.pro
 providedovernight.com
 upsecure.providee.shop
 appointments.providence.org
@@ -157925,6 +157936,7 @@ a8cv.shokunosoyokaze.com
 a8clk.shokutakubin.com
 sholke.com
 sholraidsoalro.net
+sholxorw.com
 shonetransmittedfaces.com
 shonevegetable.com
 shonretimus.com
@@ -160147,7 +160159,6 @@ slandersntsntdr.net
 slanginsolentthus.com
 slantdecline.com
 slantlandr-2024.info
-slantlyvivda.shop
 slaqandsan.xyz
 images-aud.slashdot.org
 a.slashdotmedia.com
@@ -193802,6 +193813,7 @@ xedpzh.xyz
 bdl.xefyr.com
 xegluwate.com
 xehodv.xyz
+xehyjx.icu
 xel-xel-fie.com
 xelariss.com
 ad.xelements.cn
