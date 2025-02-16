@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250216002010
-! Last modified: 2025/02/16 00:20:10
-! Blocked domains: 197682
+! Version: 20250216092643
+! Last modified: 2025/02/16 09:26:43
+! Blocked domains: 197738
 !
 0-0.fr
 0-02.net
@@ -1106,6 +1106,7 @@ mdws.1stchoicesavings.ca
 1stclassresidency.com
 sgtm.1stdayskillsacademy.com
 jzprtb.1stdibs.com
+1stfinancefirm.wixsite.com
 1stgameclub.com
 1sthandfoundation.org
 go.1sthcc.com
@@ -1657,6 +1658,7 @@ ecdoib.26p.jp
 26q4nn691.de
 26vulkanvegas.com
 27-nr61.cfd
+270278609-2020004278-462904544-440202503325--570202500372x-usps.com
 0lxx.27049894.xyz
 271395.com
 2750allegr0.info
@@ -2682,6 +2684,7 @@ e9313b99fb.49f411f93f.com
 watch-online.49n7wqynho5u.top
 c1a6a94262.4a1c2f215f.com
 4a4a9db4ab.com
+4a4c8a3bdd.com
 362e373497.4a5936c82e.com
 4a9517991d.com
 4ad6.com
@@ -4152,6 +4155,7 @@ app.8tracks.com
 sgtm.8ttomarket.com
 8vulkanvegas.com
 8wtkfxiss1o2.com
+8xly.cn
 8xv8.com
 allegro.8y31842.shop
 allegrolokalnie.8y31842.shop
@@ -13339,6 +13343,7 @@ amusementmorning.com
 amusementrehearseevil.com
 amusementstepfatherpretence.com
 amuseulteriorpair.com
+amusing-location.pro
 amusingdates.net
 amusinghump.com
 www.amusingporn.com
@@ -35499,6 +35504,7 @@ buzinessfinancenooz.com
 buzinessidea.com
 buziol.pl
 buztak.com
+buzvl.com
 buzylist.com
 buzz-gric.com
 buzzadexchange.com
@@ -44862,6 +44868,7 @@ commercialmortgagebroker.net
 metrics.commercialtrucktrader.com
 commercialvalue.org
 commercialwindowgroup.com
+commerz-phototans.com
 commiecatboy.com
 commindo-media-ressourcen.de
 commiserateeffects.com
@@ -50420,6 +50427,7 @@ d3p27nzp3rc51k.cloudfront.net
 d3p2b5qewrnsyv.cloudfront.net
 d3p8w7to4066sy.cloudfront.net
 d3p8zr0ffa9t17.cloudfront.net
+d3p9nm1ictat1y.cloudfront.net
 d3pe8wzpurrzss.cloudfront.net
 d3pel2vlstnlu9.cloudfront.net
 d3phzb7fk3uhin.cloudfront.net
@@ -51816,6 +51824,7 @@ aa.db-finanzberatung.de
 at.db-finanzberatung.de
 t.db-gruppen.de
 db-phototan.app
+db-phototans.com
 db-sicherheitsportal.com
 db-tan-erneuerung.app
 mit.db.com
@@ -52073,6 +52082,7 @@ ddzswov1e84sp.cloudfront.net
 dhl.de-a.cc
 a8.de-limmo.jp
 meine-deutsche-bank.de-login-db.net
+de-phototanapp.com
 teams.de-php.info
 server.de0a100k.es
 de17a.com
@@ -52311,6 +52321,7 @@ decoratedmulesanta.com
 decoraterepaired.com
 load.gtm.decoratiunicreative.ro
 decoravento.com
+decordingholog.com
 decordive.com
 join.decorex.com
 show.decorex.com
@@ -53618,6 +53629,7 @@ dev2seo.com
 dev4enki.com
 devallapps.com
 devarajtemplearchitect.org
+devastatedseparategourmet.com
 devastatedshorthandpleasantly.com
 devatics.com
 devbhavishyadarpan.com
@@ -59999,6 +60011,7 @@ www3.ecovadis.com
 ecowastetovalue.com
 ecpms.net
 ecraftcentral.com
+ecrasepetre.shop
 ecrllc.net
 ads.ecrush.com
 ecrwqu.com
@@ -60335,6 +60348,7 @@ www.edv-waldherr.at
 edvfwlacluo.com
 tracking.edvisors.com
 go2.edwardian.com
+edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 anetix.edwardrobert.pl
 capablanca.edwardrobert.pl
 chrystof.edwardrobert.pl
@@ -63200,6 +63214,7 @@ erdfkhxrnanm.top
 erdreamsofcryin.info
 erebux.com
 hiuplq.eredmenyek.com
+eredrubygsworlo.com
 static.eredthechild-bid.com
 eredthechildre.info
 ereflewoverthecit.info
@@ -68109,6 +68124,7 @@ fibberpuddingstature.com
 fibdistrust.com
 lighterthinnerstronger.fiber-line.com
 fiberandthoughts.com
+fiberatabek.com
 images.novedades.fibercorp.com.ar
 fiberthread.info
 go.send.fibia.dk
@@ -69310,6 +69326,7 @@ marketing.fitzwilliamsfinancial.com
 go.business.fiu.edu
 csboab.fiufiu.co
 fiund-58.cfd
+fiusps.com
 five-star.pro
 marketing.five-startech.com
 marketing.five19creative.com
@@ -71062,6 +71079,7 @@ hf.forevernetworks.com
 miexgq.forevernew.co.nz
 epcdko.forevernew.com.au
 foreverstopper.com
+foreveusps.com
 forex-advice.net
 forex-affiliate.com
 forex-affiliate.net
@@ -79070,6 +79088,7 @@ grapseex.com
 grapsnextsocial.com
 graptolitesudner.life
 ff-member.grarena.vn
+grarnuns.com
 grashaksoudry.net
 graspgovernment.com
 graspinginfinity.org
@@ -79667,6 +79686,7 @@ groomseezo.net
 groopsie.net
 groorsoa.net
 grooseem.net
+groostaupy.net
 grootcho.com
 grootsouque.net
 groovado.com
@@ -82852,6 +82872,7 @@ helpcenter-bussinesspages.pages.dev
 helpcenters-bussinesspolicy.pages.dev
 helpcollar.com
 helpdesk-dupport-services-all.vercel.app
+helpdesk-usps.online
 helpdesk-youth.com
 helpdesksupportads.web.app
 helpdisneyplus.co
@@ -82903,6 +82924,7 @@ drippler.helpshift.com
 ferret.helpspace.com
 share.helpthyneighbour.com
 analytics.helpukrainewinwidget.org
+helpuspsnow.ru
 helpyourselfdigital.com
 collect.helsana-preprod.ch
 collect.helsana.ch
@@ -83259,6 +83281,7 @@ connect.hexagon.com
 go.mi.hexagon.com
 connect.hexagongeosystems.com
 connect.hexagonppm.com
+hexagynjewing.top
 go2.hexarmor.com
 hexasart.com
 hexasoft.com.my
@@ -86736,6 +86759,7 @@ hwosl.cloud
 hwpnocpctu.com
 hwqloan.com
 pool.hws.ru
+hwtadf.icu
 adserver.hwupgrade.it
 adv.hwupgrade.it
 hwydapkmi.com
@@ -96492,6 +96516,7 @@ jihehuaban.com.cn
 jihudumie.com
 a8.jiiawater.com
 analysis.prod.joyfru.jiji.com
+jijqzypmeqi.com
 jikalobat.com
 jikbwoozvci.com
 jikem.com
@@ -98247,6 +98272,7 @@ jwia0.top
 jwilliambaxter.com
 jwjk.net
 jwllogic.com
+jwmdjeyfpffiyve.xyz
 jwmstats.com
 www2.jwnenergy.com
 download.jword.jp
@@ -102011,6 +102037,7 @@ ktgpgoa.top
 isu.kthlw.com
 ktien.vn
 ktikpuruxasq.com
+ktilahosxv.com
 ktkjmp.com
 axp.ktla.com
 blue.ktla.com
@@ -106938,6 +106965,7 @@ lodgedynamitebook.com
 lodgesweet.com
 lodgevinasdelsol.com
 lodolive.com
+lodrat.org
 lody24.com
 hrwgsq.loesdau.de
 gtm.loewebaer.com
@@ -107065,6 +107093,7 @@ logowanieodzyskiwaniekonta25724.com
 logowaniie-alegrropll.com
 go.logpoint.com
 a8.logrenove.jp
+logriancesenius.com
 cdn.logrocket.com
 e.logrocket.com
 logrocket.io
@@ -121612,6 +121641,7 @@ navi18.com
 navi2.com
 navi20.ru
 navi21.com
+navi21.ru
 navi22.com
 navi22.ru
 navi23.com
@@ -121619,6 +121649,7 @@ navi23.ru
 navi24.com
 navi24.ru
 navi26.ru
+navi28.ru
 navi3.com
 navi30.ru
 navi32.com
@@ -129991,6 +130022,7 @@ orionsistem.com.br
 marketing.orionti.ca
 t.orionvet.no
 oriori.com
+orisonaunties.top
 oritaln.com
 oritooep.win
 lrehgz.orix.co.jp
@@ -132666,6 +132698,7 @@ info.paulsontraining.com
 ladybug.paulstovell.com
 a.paulswomen.com
 paussidsipage.com
+pavedmawks.top
 pavefor.com
 pavelcaruntu.com
 paverguide.com
@@ -134408,6 +134441,7 @@ r.phhhoto.com
 go.phhlending.com
 mailer.phhlending.com
 phialedamende.com
+phickirouph.xyz
 phicmune.net
 phidianowlet.com
 phiduvuka.pro
@@ -134665,6 +134699,10 @@ photospace.life
 ss.photospecialist.at
 ss.photospecialist.co.uk
 ss.photospecialist.de
+phototan-cdirect.info
+phototan-unterstutzung.win
+phototan.net
+phototanzertifikat.net
 photovault.pics
 photovault.store
 data-8dffad7d98.photovoltaik.eu
@@ -134852,6 +134890,7 @@ picsti.com
 smetrics.pictet.com
 telemetry.am.pictet.com
 pictorialtraverse.com
+pictunoctette.com
 pictures-album.com
 picturesmania.com
 picturestash.mom
@@ -138373,6 +138412,7 @@ pplkrh.xyz
 track.pplnk.com
 www2.pplprs.co.uk
 go.ppmglobalservices.com
+ppmwgfcl.com
 ppnuncamas.org
 ppoi.org
 sfgysl.ppomppu.co.kr
@@ -143652,6 +143692,7 @@ jepeov.pyrex.fr
 pyrincelewasgild.info
 pyro0.github.io
 www2.pyroguard.eu
+pyroidscarphs.top
 pyropo.com
 click.pyrrhicmechntech.com
 filter.pyrrhicmechntech.com
@@ -143834,6 +143875,7 @@ qeepee.com
 za.qeeq.com
 qeiiamall.com
 check.qejym.icu
+qekbmjyvbevvo.top
 qekisaa.com
 qel-qel-fie.com
 qelapio.com
@@ -145054,6 +145096,7 @@ data.r.pl
 qjapso.r.pl
 r023m83skv5v.com
 r06.net
+r0ckeet.com
 r0wa9z6t8t.ru
 i.r1-cdn.net
 md.r114.co.kr
@@ -151298,6 +151341,7 @@ hfgxrk.rumundco.de
 stats.rumundco.de
 run-germany.com
 olx.run-home.shop
+run-px.com
 run-syndicate.com
 xanax-online.run.to
 run2022-invest.com
@@ -159083,6 +159127,7 @@ sleepytracks.com
 sleeveturbulent.com
 olazo.slepcolchagua.cl
 sleptbereave.com
+sleptfearseal.com
 doporuc.slevomat.cz
 vfmahn.slevomat.cz
 slfpu.com
@@ -169122,6 +169167,7 @@ telusplanet.net
 smetrics.telustvplus.com
 pixelcounter.telva.com
 telwrite.com
+telyninuloid.com
 ads.temadaily.bg
 temahs.com
 teman.com.ua
@@ -185292,6 +185338,7 @@ vmmpxl.com
 vmn.net
 nieuwsbrief.vmnmedia.nl
 service.vmos.cn
+vmposuwpetum.com
 avemariaas.vmrcommunications.com
 vmring.cc
 forms.vmtechpro.com
@@ -185842,6 +185889,7 @@ vsauce-api.voodoo-tech.io
 crosspromo.voodoo.io
 v2-publidash-api.voodoo.io
 www.voodoo.io
+voodopseewhekuw.net
 voohostokipy.com
 voolklen4.shop
 vooney.com
@@ -186266,6 +186314,7 @@ t.vucommodores.com
 xml-v4.vudhartb.com
 vudinicrypto.com
 vudoutch.com
+vudqth.icu
 os.vudu.com
 target.vudu.com
 cdn.vue-js.cyou
@@ -187605,6 +187654,7 @@ wctrk.com
 wcuamsmakq.com
 wcuolmojkzir.com
 u999.wcvb.com
+wcwijbtqgajxf.global
 lol.wcy2.com
 wczesniej.pl
 wda.com
@@ -189135,6 +189185,7 @@ wemoackaik.com
 get.wemoms.com
 a8.wemotion.co.jp
 wemoustacherook.com
+wempoargaukobe.net
 wemtagoowhoohiz.net
 wemtras.com
 c.wen.ru
@@ -193777,6 +193828,7 @@ xyl.lat
 xylemgyroplane.com
 xyloxaks.com
 xymhdmqrjxwl.com
+xynfextpw.com
 xyooepktyy.xyz
 xypoluy.com
 xypthe.com
@@ -194439,6 +194491,7 @@ yhuspstfn.com
 yhutou.xyz
 data.yhydl.com
 yhz18.com
+yhzbnmvith.com
 yhzjidgc.xyz
 yi34-8s.cfd
 yibam.net
@@ -195314,6 +195367,7 @@ ypersonalrecome.com
 ypffkbpq.xyz
 ypflx.com
 ypgjkk.xyz
+ypgmjlcgrp.com
 ypkljvp.com
 ypkxahje.xyz
 ypkxka.xyz
@@ -195325,8 +195379,10 @@ ypsican.com
 ypwlctfk.xyz
 ypyjyhny.xyz
 yqeuu.com
+yqjfvjqijnuwd.com
 yqlzccxn.icu
 yqmxfz.com
+yqp-oxzxjecq.world
 yquqoj.com
 yr9n47004g.com
 smetrics.yrcw.com
