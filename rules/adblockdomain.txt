@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250217002007
-! Last modified: 2025/02/17 00:20:07
-! Blocked domains: 198399
+! Version: 20250217092320
+! Last modified: 2025/02/17 09:23:20
+! Blocked domains: 198450
 !
 0-0.fr
 0-02.net
@@ -9263,6 +9263,7 @@ www2.aegonam.com
 tracking.aegpresents.com
 mat.aegps.com
 www.aegtecnoservice.it
+aegzoils.com
 aeinpost.me
 aeioufilms.com
 rshqmo.aekki.com
@@ -14079,6 +14080,7 @@ androidsbestgames.com
 androidsecurityplus.com
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
+androidupdate.download
 androidyoutubetomp3.com
 andromedawallet.com
 a8cv.androsophybaby.com
@@ -17234,6 +17236,7 @@ iadcontent.apple.com
 iadsdk.apple.com
 iadworkbench.apple.com
 notes-analytics-events.apple.com
+proxy-skadnetwork.apple.com
 proxy.advp.apple.com
 searchads.apple.com
 securemetrics.apple.com
@@ -18202,6 +18205,7 @@ info.aronsonllc.com
 aroseexploit.com
 arosefairfaxadditional.com
 arosegeorgianaglued.com
+aroselibrarian.com
 arosepageant.com
 aroundairports.com
 aroundmanila.com
@@ -22571,6 +22575,7 @@ balifon.store
 baligrewal.com
 balili2024.top
 trk-branch.balinea.com
+qdssy.balistrera.sbs
 analytics.baliusuperapp.xyz
 baliwebdesain.com
 baliyogastudio.com
@@ -34372,6 +34377,7 @@ caderonline.bu.edu
 questrominfo.bu.edu
 380.bu2z.com
 bualivetrade.com
+bubaleratero.com
 plnpoczta.bubbleapps.io
 pocztpoland.bubbleapps.io
 bubbledevotion.com
@@ -35474,6 +35480,7 @@ bxvlyrw.com
 bxwccii.cn
 bxxibvjt.com
 correosytelegrafos.bxze.cn
+bxzlfr.icu
 olx.by-cart.shop
 by-emmamuller.de
 analytics.contents.by-fw.jp
@@ -47361,6 +47368,7 @@ metric.crateandbarrel.com
 metrics.crateandbarrel.com
 cratecamera.com
 crateralbumcarlos.com
+craterpermission.com
 craterwhsle.com
 track.craudia.com
 craveandlamb.com
@@ -49474,6 +49482,7 @@ d1get58iwmjrxx.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1gpi088t70qaf.cloudfront.net
 d1gwclp1pmzk26.cloudfront.net
+d1h2plpxnhapt.cloudfront.net
 d1ha41wacubcnb.cloudfront.net
 d1hfbz0n5yb6ym.cloudfront.net
 d1hgdmbgioknig.cloudfront.net
@@ -50562,6 +50571,7 @@ dabiaozhi.com
 saa.dabl.com
 dable.io
 daboovip.xyz
+daboshique.net
 goat.dabric.xyz
 dabyiyaeldljvfu.pages.dev
 d7d5184132.dacb7ae0f7.com
@@ -55491,6 +55501,7 @@ ssa.diynetwork.com
 diyonestop.com
 diypowertoolsquest.com
 diyscripts.com
+diytsi.shop
 diz4z73aymwyp.cloudfront.net
 dizain-proekt.com
 dizbirmwavic.com
@@ -67442,6 +67453,7 @@ ovpwvioj.fdbmobler.dk
 fdcuk.net
 d514187948.fde8de16e0.com
 fdelphaswcealifornica.com
+fdftutxn.com
 fdgeen.com
 fdhnsr56.shop
 fdhvczd.cn
@@ -69448,6 +69460,7 @@ marketing.flaire.com
 flairssmartclass.com
 flakefanwort.shop
 flakeschopped.com
+flakierdzeren.shop
 flakoforriors.com
 flakyfeast.com
 flambeaucanoe.com
@@ -71977,6 +71990,7 @@ freedomdesignsonline.com
 tags.freedomfinancialnetwork.com
 smetrics.freedomfordsales.ca
 freedomforpoles.com
+freedomgift50.com
 go.freedomhouse.org
 services.freedomid.com
 freedominfo.net
@@ -74603,6 +74617,7 @@ gb386.com
 gb72southmiami.com
 clk.gbabytrack.com
 gbbo.news
+gbbqyadej.com
 www.gbcash.com
 gbdavies.com
 gbf77po03m.com
@@ -79559,6 +79574,7 @@ grippedownloads.co
 gripping-bread.com
 gripspigyard.com
 gripwheels.com
+gripysemitae.top
 grirault.net
 a8clk.grirose.jp
 grirtouy.com
@@ -86662,6 +86678,7 @@ huynhtrunguykha.com
 huyrnie.xyz
 huysoftzfile.shop
 huzzahscurl.top
+huzzasbakula.shop
 stkuwc.hvacdirect.com
 www2.hvacinvestigators.com
 hvacpairstafford.com
@@ -89807,6 +89824,7 @@ ineskliwe.sbs
 inesmanila.com
 inessense.shop
 inestimableloiteringextortion.com
+inestimablereddencloset.com
 inet-shop.su
 metrics.inet.fi
 sgtm.inet.se
@@ -96620,6 +96638,7 @@ jitofoundationinfo.org
 link.jitta.co
 link.jittawealth.co
 jittromney.com
+jiugxochux.xyz
 edu.jiukang.org
 main.jiukang.org
 news.jiukang.org
@@ -99747,6 +99766,7 @@ www.keyofhealth.com
 keyonelabs.com
 www.keyoptimize.com
 keypalsboard.world
+keypiifutwlhoc.com
 keyrolan.com
 keyser-api.eu
 keyshot.cc
@@ -101233,6 +101253,7 @@ konta-sms.com
 facebook.konta.top
 deutsche-bank.kontakt-tanapp.link
 pm.kontakt-vermittler.de
+kontakt-vszp.com
 fudezz.kontan.co.id
 tracker.kontent.ai
 adserver.kontent.com
@@ -104947,6 +104968,7 @@ kyyfsy.lexdo.it
 lexec.ru
 tag.lexer.io
 stat.lexhub.tech
+lexicaleris.com
 track.lexico.com
 lexicoggeegaw.website
 ma.lexicon.se
@@ -116322,6 +116344,7 @@ mmmdn.net
 info.mmmlaw.com
 mmmqqqfff.shop
 mmmrich.com
+mmnajttjehrhx.today
 mmnav.jp
 mmnc87.shop
 mmnn.jp
@@ -118616,6 +118639,7 @@ bimg.msk.bg
 bms.msk.bg
 msk.su
 analytics.msk1.ru
+msl-cf.id
 mslfgl434.pages.dev
 smetrics.mslifelines.com
 msmcoa.xyz
@@ -119376,6 +119400,7 @@ mdws.mvcu.ca
 datadog-service.mvfglobal.com
 mvfmdfsvoq.com
 panda.mvhphotoproject.org
+mvijuifysyjrz.rocks
 down.mvip8.ru
 mvirkw.xyz
 mviyacare.com
@@ -121747,7 +121772,9 @@ navi10.ru
 navi100.com
 navi11.com
 navi12.com
+navi14.ru
 navi18.com
+navi19.ru
 navi2.com
 navi20.ru
 navi21.com
@@ -121759,6 +121786,7 @@ navi24.com
 navi24.ru
 navi26.ru
 navi3.com
+navi3.ru
 navi30.ru
 navi32.com
 navi35.com
@@ -121815,6 +121843,7 @@ go.navmanwirelessinfo.com
 bannery.navratdoreality.cz
 navrcholu.cz
 navteq.com
+navvitstucuz.com
 l.navx.co
 secure.navy9gear.com
 www.navy9gear.com
@@ -122437,6 +122466,7 @@ nerqwetesk.shop
 nertsmold.world
 nervegus.com
 nerveheels.com
+nerverwrytail.top
 nervessharehardness.com
 nervoussummer.com
 nervoustolsel.com
@@ -124475,6 +124505,7 @@ marketing.nixercomp.com
 nizamschool.com
 nizare.com
 nizarstream.xyz
+nizationservanta.com
 nizvimq.com
 a8cname.nj-e.jp
 geoip.nj.com
@@ -126129,6 +126160,7 @@ nwq-frjbumf.today
 nwrcz.com
 metric.nwsource.com
 nwwais.com
+nwwbyxlnpgaxi.today
 nwwrtbbit.com
 nwxaxx.xyz
 data-6345746ba5.nwz-glueckwunsch.de
@@ -126289,6 +126321,7 @@ az.nzn.io
 nzop.pl
 protection.nzpolice.com
 nzpost-ttr.shop
+nzpvpp.icu
 usiz.nztjoeof.top
 nzu66938s.com
 nzurlmq.com
@@ -127971,6 +128004,7 @@ ombfunkajont.com
 ombrewa.space
 d.ombriere.com
 ombwzonwupu.com
+omcgqahejstuo.global
 omciecoa37tw4.com
 omclacrv.com
 omcrobata.com
@@ -129464,6 +129498,7 @@ opltai-bultov.world
 go.opmantek.com
 opmnstr.com
 opmxizgcacc.com
+opnachhihhp.com
 opnbwg.com
 smetrics.opnme.com
 opntwymri.com
@@ -137095,6 +137130,7 @@ poiskzakona.ru
 poison-idea.com
 poisonforpayment.wixsite.com
 poisonousamazing.com
+poistenie-sk.com
 www.poiuy12.com
 poixtre.click
 pojazdsmierci.click
@@ -138195,6 +138231,7 @@ metrics.postoffice.co.uk
 postofficeg.top
 acir.postofficeweb.com
 postofflce.top
+postova-uzivatel.com
 postpagodescuentos.com
 postperurs.cc
 vidamsag.postr.hu
@@ -144044,6 +144081,7 @@ pzkrgcp.cn
 pzmeblamivop.world
 uszi.pzmowclu.top
 pznlpp.xyz
+pzocxjzcitiuaq.com
 pzphmkf.xyz
 pzpivx.xyz
 pzqfmhy.com
@@ -148061,6 +148099,7 @@ releasepath.com
 services.releasepoint.com
 releasewhen.com
 releinemaoff.pro
+releknhftovyjt.com
 relentlo.com
 releshop.ru
 relestar.com
@@ -148153,6 +148192,7 @@ remainsuggested.com
 remanants.com
 remarkable-assistant.pro
 remarkableflashseptember.com
+remarkablycommunity.com
 remarkedoneof.info
 remarketstats.com
 remarksnicermasterpiece.com
@@ -154971,6 +155011,7 @@ secretturtle.com
 secretwish.pl
 secrity2redline.com
 secssnetplan.jp
+sectarytimeout.shop
 secthatlead.com
 sst.sector-event.de
 bannersector.sector.sk
@@ -155332,6 +155373,7 @@ seizeshoot.com
 seizuretraumatize.com
 sejamagro.com
 go.sejuku.net
+sekgbfjyudgsbo.com
 sekhemonline.net
 sekindo.com
 oydhgg.sekokan-navi.jp
@@ -156916,6 +156958,7 @@ shatterconceal.com
 shattuckkids.org
 gsyegj.shatura.com
 shaugacakro.net
+shaughaupoo.net
 shaughixefooz.net
 shauhaik.xyz
 shaumtol.com
@@ -157020,6 +157063,7 @@ shemarketsai.com
 bnrs.shemrec.cc
 proll.shemrec.cc
 pundr.shemrec.cc
+shemsoalto.net
 shenajou.com
 shenema.org
 shenfagg.com
@@ -157911,6 +157955,7 @@ shudderconnecting.com
 shudderloverparties.com
 asg.shudhdesiporn.com
 c4n.shudhdesiporn.com
+shudi8.com
 shuffele.com
 link.shuffoe.com
 log.shufoo.net
@@ -161765,6 +161810,7 @@ vod-mplayer.sooplive.co.kr
 soorbka.cn
 soorkylarixin.com
 soosooka.com
+soostewiphy.net
 sootconform.com
 click.em.soothe.com
 emb.soothe.com
@@ -161987,6 +162033,7 @@ soundtracts.com
 analytics.soup.io
 soupilique.xyz
 souptightswarfare.com
+soupytry.pro
 souqizel.com
 secure.sour1bare.com
 www.sour1bare.com
@@ -165941,6 +165988,7 @@ sukultingecauy.info
 sulapbuzzin.com
 sulbah.com
 applets.sulekha.com
+sulfinepaveed.com
 sulideshalfman.click
 sulinabioprodutos.com.br
 sulingacestes.click
@@ -174174,6 +174222,7 @@ timum.shop
 gambero3.cs.tin.it
 tin247.website
 tinaborg.com
+tinaheinheri.org
 vampirebat.tinamrak.com
 trk.tinatransforms.com
 tinbuadserv.com
@@ -194631,6 +194680,7 @@ yadro.ru
 yads.tech
 yaelsaffron.com
 smetrics.yaencontre.com
+yaervrqwtu.com
 yafayna.com
 yagizk.shop
 st.yagla.ru
@@ -198328,6 +198378,7 @@ go.zygo.com
 zyiis.net
 zyjemyfaktami.click
 zykevya.com
+zykkjyaokkjlo.top
 zykwnj.cn
 zylizz.xyz
 go.zylo.com
