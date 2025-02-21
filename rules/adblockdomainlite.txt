@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250221162354
-! Last modified: 2025/02/21 16:23:54
-! Blocked domains: 4920
+! Version: 20250222002256
+! Last modified: 2025/02/22 00:22:56
+! Blocked domains: 4899
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -131,7 +131,6 @@ trk1.17admob.com
 17kxgame.com
 17u.cn
 1999019.com
-st.19mi.net
 1kanz.cn
 ad.1kxun.com
 ssp.1nmob.com
@@ -433,7 +432,6 @@ adsage.com
 api.adsdk.adsaide.cn
 adsame.com
 adsmogo.com
-chn-track.adsrvr.cn
 adreport.adtianmai.com
 adtx2.cn
 debug.mssp.adunite.com
@@ -508,7 +506,6 @@ offer.alibaba.com
 p4psearch.china.alibaba.com
 survey.china.alibaba.com
 images.info.alibabacloud.com
-v.aplus.aliyun.com.gds.alibabadns.com
 aecpm.alicdn.com
 afp.alicdn.com
 afpmm.alicdn.com
@@ -857,7 +854,6 @@ bd-js.baixing.net
 bd-s.baixing.net
 script-bd.baixing.net
 a1.bajiu.cn
-bakbitionb.com
 changan.bama555.com
 h.baminw.cn
 j.baminw.cn
@@ -955,7 +951,6 @@ flare.bokecc.com
 p.bokecc.com
 bootcss.com
 vstat.borderlessbd.com
-fx.bossgoo.com
 bsbaswq.cn
 bsdev.cn
 a.bshu.com
@@ -1180,7 +1175,6 @@ z1.cwbaike.com
 cwc494e.cn
 api.cxzudwk.com
 ding.cxzudwk.com
-n-res.al-hiwar.com.cy-isp.com
 cy8w.com
 ad.cyapi.cn
 cyhbrjf.cn
@@ -1536,7 +1530,6 @@ smetrics.ford.com
 smetrics.sandbox.ford.com
 forestseasons.com.cn
 fotao9.com
-file.foxitreader.cn
 frontier100-toutiao-lf.fqnovel.com
 fqxkj.cn
 fsijngnfsfk.com
@@ -1553,7 +1546,6 @@ stat.funshion.com
 vs.funshion.com
 rt.funshion.net
 stat.funshion.net
-collect.futufin.com
 trk.futureelectronics.cn
 fwlrv.cn
 fwmbjrl.cn
@@ -1882,7 +1874,6 @@ sentry.eks.hoyoverse.com
 sg-public-data-api.hoyoverse.com
 ys-log-upload-os.hoyoverse.com
 hpplay.cn
-cdn.hpplay.com.cn
 h5.hpplay.com.cn
 hpvwdkn.cn
 hqnpwzu.cn
@@ -2369,7 +2360,6 @@ sf2018.ksapisrv.com
 sf2018-api.ksapisrv.com
 sf2020-api.ksapisrv.com
 sf2020-nebula.ksapisrv.com
-sfaf.ksapisrv.com
 sfaf-api1.ksapisrv.com
 sfaf1.ksapisrv.com
 sfaf2.ksapisrv.com
@@ -2873,7 +2863,6 @@ salewashop-pl.myshoplaza.com
 salewashopiing.myshoplaza.com
 salewashopping.myshoplaza.com
 analytics.myshoptago.com
-stats.mysteel.com
 gafxa.code.mytanwan.com
 ldpgl.code.mytanwan.com
 pop.code.mytanwan.com
@@ -3315,7 +3304,6 @@ rs2.qq.com
 safebrowsing.urlsec.qq.com
 scdown.qq.com
 sdkconfig.video.qq.com
-sdksp.video.qq.com
 show-msgch.qq.com
 sngapm.qq.com
 sngmta.qq.com
@@ -3622,7 +3610,6 @@ sj88.com
 sjdfuvz.cn
 static.m.sjzhushou.com
 m.slshiye.cn
-sluban.com.cn
 sm-tc.cn
 c.sm.cn
 dns.m.sm.cn
@@ -3716,7 +3703,6 @@ wl.hd.sohu.com
 yule.sohu.com
 click.hd.sohu.com.cn
 pb.hd.sohu.com.cn
-643108e7617ef.cdn.sohucs.com
 smetrics.solidigmtech.com.cn
 smetrics.solidigmtechnology.cn
 gg.sonhoo.com
@@ -4269,7 +4255,6 @@ ds.waimaofuzhuang.cn
 analytics.wanmei.com
 analytics-gw.games.wanmei.com
 m.wantemachine.com.cn
-data-ads-test.wanyol.com
 a.wanzhuang.com
 data.waptime.cn
 wastn.cn
@@ -4314,7 +4299,6 @@ widget.weibo.com
 api-z.weidian.com
 logtake.weidian.com
 1.weiheshidai.com
-tracking.weikayun.com
 xingpai.weilay.com.cn
 ads.weilitoutiao.net
 weiluyan.cn
@@ -4735,7 +4719,6 @@ iuou.ysw365.com
 www.yuanchengxiezuo.com
 overseauspider.yuanshen.com
 ads.reader.yueyouxs.com
-www.yugukj.com
 report.yumobi.cn
 yunliunet.com
 netstat.yunnan.cn
@@ -4786,7 +4769,6 @@ zcfhi.cn.com
 m.zdjgj.cn
 s2.zdmimg.com
 zegarkirepliki.pl
-api-analytics.zepp.com
 zerolcp.cn
 yin1.zgpingshu.com
 sp.zhabite.com
@@ -4910,10 +4892,7 @@ hw.zuimeitianqi.com
 stat.zuimeitianqi.com
 zukddms.cn
 1.zuowenjun.com
-n1.zuoyebang.cc
 n2.zuoyebang.cc
-n3.zuoyebang.cc
-n4.zuoyebang.cc
 n5.zuoyebang.cc
 zwjaoni.cn
 zwlikv.cn
