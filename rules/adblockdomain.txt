@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250222002256
-! Last modified: 2025/02/22 00:22:56
-! Blocked domains: 197647
+! Version: 20250222091911
+! Last modified: 2025/02/22 09:19:11
+! Blocked domains: 197726
 !
 0-0.fr
 0-02.net
@@ -8316,6 +8316,7 @@ adsvert.com
 adsvids.com
 adsvolum.com
 adsvolume.com
+adswag.nl
 adswam.com
 adsweb.vn
 adswip.com
@@ -9828,6 +9829,7 @@ info.agilysys.com
 aging3.co
 agingcrawledarose.com
 aginghomehealthcare.com
+agingschikee.com
 dl.aginjector.com
 smartconnection.aginode.net
 trackingssl.aginsurance.be
@@ -20609,6 +20611,7 @@ tr.entreprise.axa.fr
 tr.e-mail.axabanque.fr
 axalgyof.xyz
 communication.axalta.com
+axaskafs.com
 axbdlox.cn
 axbofpnri.com
 axcdy.cn
@@ -35526,6 +35529,7 @@ video.bzfd.it
 data-8abe5cc617.bzflirt.de
 bzgmcqqfxd.com
 bzidp.com
+bzjxpfuuqpkzs.club
 bzlwe.com
 bzniungh.com
 bzoodfalqge.online
@@ -36620,6 +36624,7 @@ capath.com
 capawhile.com
 admin.capctha.world
 log-va-us-looki.capcutapi.com
+mcs-va.capcutapi.com
 mon-boot.capcutapi.com
 mon-va.capcutapi.com
 mon-va-us-looki.capcutapi.com
@@ -48135,6 +48140,7 @@ csp-registration.com
 campaigns.cspire.com
 refer.cspire.com
 tracking.cspire.com
+csqdjsesjbvav.rocks
 csqtechnologies.com
 csqtsjm.com
 csrnoney.com
@@ -67069,6 +67075,7 @@ link.favorited.com
 favoritehardware.com
 favoritki-msk.ru
 a8cv.favorric.com
+favorsbch.com
 favourablerecenthazardous.com
 favousjanapan.top
 creative.favy.cam
@@ -72744,6 +72751,7 @@ fullzinfo.com
 fulptube.org
 fulrrlddcjqlk.fun
 fultonandassociates.com
+fulupatinkle.com
 fulvideozrt.click
 fulylydevelopeds.com
 fum7zlcm8.top
@@ -82283,6 +82291,7 @@ heavyplayground.com
 partneri.heavytamper.com
 partneri.heavytamper.cz
 heavyuniversecandy.com
+hebaidu.cc
 smetrics.hebdebit.com
 hebdotop.com
 hebeejebeehaunts.com
@@ -95980,6 +95989,7 @@ link.jig.space
 pro.jig.space
 jigavlogs.com
 jighucme.com
+jiglikediglot.com
 jigsawbanana.com
 jigsawchristianlive.com
 jigsawthirsty.com
@@ -100696,6 +100706,7 @@ inpost.koola.live
 kooleststyle.com
 kooltrend.com
 koomanodobelouy.net
+koomoaboatapoa.xyz
 kooolboomin.com
 koophaip.net
 koophoogloophie.net
@@ -105949,6 +105960,7 @@ tracking.etidning.ljusdalsposten.se
 tracking.ljusnan.se
 tracking.etidning.ljusnan.se
 ljvc0.icu
+ljvmokwyroajm.top
 lk-gosuslugi.ru
 lk-lk-rt.ru
 donasi.lk21.de
@@ -106324,6 +106336,7 @@ gtm.loewebaer.com
 smetrics.loewshotels.com
 lofbomm.com
 lofimind.com
+lofqvl.icu
 activate.loft.com
 smetrics.loft.com
 wcujyh.loftdesigne.ru
@@ -108664,6 +108677,7 @@ maidr.pro
 da.maif.fr
 maiglair.net
 maigralr.site
+maigrouchy.net
 delivery.maihehd.com
 maihigre.net
 maihikuh.com
@@ -113432,6 +113446,7 @@ feedback.search.microsoft.com
 fpt.microsoft.com
 ic3.events.data.microsoft.com
 ieonline.microsoft.com
+logs.appsource.microsoft.com
 mobile.pipe.aria.microsoft.com
 oca.microsoft.com
 redir.metaservices.microsoft.com
@@ -113932,6 +113947,7 @@ a8cv.minana-jp.com
 minasati.com
 minbrugerpost.com
 mincure-ad.com
+mincytripack.com
 mindaventures.com
 stape.mindawakenacademy.com
 matomo.mindbite.cloud
@@ -116423,6 +116439,7 @@ monarchstraightforwardfurnish.com
 monarchy.nl
 tiq.monash.edu
 monasiums.info
+monassumph.shop
 data-8fc521096f.monat.at
 qpjhko.moncanape.com
 eniobs.moncler.com
@@ -123532,7 +123549,54 @@ stun3.nimiq-network.com
 stun4.nimiq-network.com
 nimiq.com
 seed.nimiq.jp
-nimiq.network
+can-bhs-c1-p1.inf.nimiq.network
+can-bhs-c1-s1.inf.nimiq.network
+can-bhs-c1-s2.inf.nimiq.network
+deu-lim-c1-s1.inf.nimiq.network
+deu-lim-c1-s2.inf.nimiq.network
+deu-lim-c2-s1.inf.nimiq.network
+deu-lim-c2-s2.inf.nimiq.network
+dev-deu-1.inf.nimiq.network
+dev-deu-2.inf.nimiq.network
+fra-gra-c1-s1.inf.nimiq.network
+fra-gra-c1-s2.inf.nimiq.network
+mon-deu-1.inf.nimiq.network
+mon-deu-2.inf.nimiq.network
+mon-deu-3.inf.nimiq.network
+mon-fra-1.inf.nimiq.network
+mon-fra-2.inf.nimiq.network
+mon-gbr-1.inf.nimiq.network
+pol-waw-c1-s1.inf.nimiq.network
+pol-waw-c1-s2.inf.nimiq.network
+pol-waw-c2-s1.inf.nimiq.network
+pol-waw-c2-s2.inf.nimiq.network
+proxy-can-1.inf.nimiq.network
+proxy-deu-1.inf.nimiq.network
+proxy-deu-2.inf.nimiq.network
+proxy-fra-3.inf.nimiq.network
+proxy-pol-1.inf.nimiq.network
+proxy-pol-2.inf.nimiq.network
+seed-10.nimiq.network
+seed-11.nimiq.network
+seed-12.nimiq.network
+seed-7.nimiq.network
+seed-8.nimiq.network
+seed-9.nimiq.network
+seed-can-1.inf.nimiq.network
+seed-can-2.inf.nimiq.network
+seed-deu-1.inf.nimiq.network
+seed-deu-2.inf.nimiq.network
+seed-deu-3.inf.nimiq.network
+seed-deu-4.inf.nimiq.network
+seed-fra-1.inf.nimiq.network
+seed-fra-3.inf.nimiq.network
+seed-pol-1.inf.nimiq.network
+seed-pol-2.inf.nimiq.network
+seed-pol-3.inf.nimiq.network
+seed-pol-4.inf.nimiq.network
+web-can-1.inf.nimiq.network
+web-deu-1.inf.nimiq.network
+web-pol-1.inf.nimiq.network
 nimiq.watch
 nimiqpool.com
 metric.nimo.tv
@@ -125622,6 +125686,7 @@ finead.o00.kr
 z.o00.kr
 o000oo.com
 o0031.com
+o02220aokk.com
 o0499.com
 o054.info
 o0bc.com
@@ -129894,6 +129959,7 @@ oushaury.com
 ouslayer.co
 oussaute.net
 ousseghu.net
+oussockobs.com
 oustely.pro
 ousterroad.info
 bnc.oustme.com
@@ -135524,6 +135590,7 @@ trk.planta.pt
 trk.plantafin.fr
 load.gtm.plantagen-kaffee.de
 jay.plantainguy.com
+plantalwauk.top
 plantationexhaust.com
 plantationthrillednoncommittal.com
 seniorliving.plantationvillagerc.com
@@ -136255,6 +136322,7 @@ data.pnet.co.za
 data-ssl.pnet.co.za
 wyzqiy.pnet.co.za
 pneudecarro.com
+pneumahameil.com
 trk.pneumaticproducts.com
 pneumoniaelderlysceptical.com
 log.pngindir.com
@@ -140531,6 +140599,7 @@ ptooftouss.net
 ptookaih.net
 ptoorauptoud.net
 ptootsailrou.net
+ptootseegle.net
 qtxxnx.ptotst-worker.com
 ptouchibsee.com
 ptouckop.xyz
@@ -146656,6 +146725,7 @@ realytics.net
 realzeit.io
 ream.top
 push.reamaze.com
+reamsofcryingfor.org
 reamsswered.com
 reanpublications.com
 go.reapit.com
@@ -148515,6 +148585,7 @@ cfspart-impots-france-fr.revenuimpot.com
 analytics.rever.vn
 event-api.reverb.com
 planarian.reverberate.org
+reverbpiert.shop
 go.reveriesocial.com
 reverita-t.jp
 t.reverse.health
@@ -171043,6 +171114,7 @@ xsrzqh.the-star.co.ke
 connect.the-stockmarket.com
 cmp.the-sun.com
 hvrhgt.the-sun.com
+pac.the-sun.com
 the-tatacrypto.com
 acton.the-tma.org
 the-walt-company-account.com
@@ -173082,6 +173154,7 @@ log.tienphong.vn
 tientraotay.com
 tienve.pro
 tienvenhanhvtb.com
+tiepinshazings.com
 go.tier1inc.com
 shgefd.tierce-magazine.com
 tierceglobal.net
@@ -174954,6 +175027,7 @@ torjackan.info
 stats.tork.com.ee
 stats.tork.cz
 stats.tork.fi
+torkeauwu.com
 upsecure.torlieying.shop
 tormentadanceacademy.com
 tormentarecords.com
@@ -182968,6 +183042,7 @@ vengeancerepulseclassified.com
 vengeancewaterproof.com
 vengeful-egg.com
 vengefulgrass.com
+veningspondingco.org
 veninslata.com
 venkrana.com
 get.venmo.com
@@ -185981,6 +186056,7 @@ signup.vovici.com
 ads.vovlive.vn
 log.vovworld.vn
 vowelparttimegraceless.com
+vowingsirees.top
 vowolaa.info
 vfmjyl.vowood.com
 concertads-configs.vox-cdn.com
@@ -189868,11 +189944,13 @@ whomsoeverinvest.com
 whomsudsikaxu.com
 whoodiksaglels.net
 whookroo.com
+whoomoapaurd.com
 whoopblew.com
 partner.whoopdedoo.cz
 partner.whoopdedoo.love
 partner.whoopdedoo.me
 load.tr.whoopsee.it
+whoopseelratiy.net
 whoostoo.net
 whootitoukrol.net
 link.kingsnews.whopper.co.za
@@ -196894,6 +196972,7 @@ zmniejszenie24h.click
 zmonei.com
 zmowamilczenia.click
 zmpeotrk.com
+zmpgln.icu
 gdl.zmqdez.ru
 zmtradinginc.com
 usupst.zmvehthc.top
