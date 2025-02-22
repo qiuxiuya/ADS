@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250222162040
-! Last modified: 2025/02/22 16:20:40
-! Blocked domains: 198567
+! Version: 20250223001948
+! Last modified: 2025/02/23 00:19:48
+! Blocked domains: 198571
 !
 0-0.fr
 0-02.net
@@ -82231,6 +82231,7 @@ heelslingeriemodel.com
 heelsmerger.com
 heelwork.com
 www.heelyspolska.com
+heemphaers.com
 heeraiwhubee.net
 heerosha.com
 heethout.xyz
@@ -83756,6 +83757,7 @@ hlstlyy.com
 geo.hltv.org
 hlviet84.com
 hlyrecomemum.info
+hlzncxmu.icu
 hm-rc.com
 metrics.hm.com
 s.hm.com
@@ -144038,6 +144040,7 @@ qcerujcajnme.com
 www.qchannel01.cn
 qchannel03.cn
 www.qchannel04.cn
+qcinvdy.top
 qcl777.com
 log.qvb.qcloud.com
 tracker-00.qvb.qcloud.com
@@ -152134,6 +152137,7 @@ evt.s4mdsp.com
 s4te24u.com
 s5mvd2rtg.top
 s7tak.net
+s7vf.cn
 s8bet.com
 g.s8dj.com
 s8powazkowska-modlinska.pl
