@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250225162425
-! Last modified: 2025/02/25 16:24:25
-! Blocked domains: 197592
+! Version: 20250226002409
+! Last modified: 2025/02/26 00:24:09
+! Blocked domains: 197646
 !
 0-0.fr
 0-02.net
@@ -3113,7 +3113,7 @@ vintedstore-delivery.576768.xyz
 57883.net
 578d72001a.com
 oiixx.57930002.xyz
-8a45f0e0a6.579eede9ca.com
+579eede9ca.com
 57udjh.cc
 57zyazmk.jp
 adshow.58.com
@@ -7398,6 +7398,7 @@ admin.adnation.com
 api.adnation.com
 adnatro.com
 adnayagreensolutions.com
+adncdn.net
 adne.info
 adnection.com
 adnegah.net
@@ -17029,6 +17030,7 @@ sandbox.apxor.com
 sse.apxor.com
 www.apxor.com
 apxsoftwares.com
+apxszeaj.com
 apyachts.com
 apycdn.com
 apycomm.com
@@ -27978,6 +27980,7 @@ blastswaggons.com
 blastworthwhilewith.com
 blasze.com
 blasze.tk
+blati.site
 blau-subdomain.b.information.blau.de
 data.b.information.blau.de
 data.testing.blau.de
@@ -28021,6 +28024,7 @@ blefaroplastiabcn.com
 blehcourt.com
 ads.bleikt.is
 blekko.com
+blellumgrittie.shop
 blemblem.us
 blendac.com
 blendedbird.com
@@ -45738,6 +45742,7 @@ contehos.com
 contekgasted.com
 go.contelligent.com
 contema.ru
+contemnomnipresentinstantly.com
 contemplateirony.com
 contemplatepuddingbrain.com
 contemplatethwartcooperation.com
@@ -57752,6 +57757,7 @@ dtprowebdev.info
 dtq9oy2ckjhxu.cloudfront.net
 dtrfashions.com
 vlzcsh.dtrtmen.com
+dtrurjpkugcsv.tech
 dts.ge
 dtscdn.com
 dtscout.com
@@ -58499,6 +58505,7 @@ dyv1bugovvq1g.cloudfront.net
 dyvejyu.com
 dywolfer.de
 dywuhp-unbnf.love
+dyywcxfftue.com
 inpost.dyzaker.org
 dyzgdp.xyz
 dz2fz0bgyq9tn.cloudfront.net
@@ -69139,6 +69146,7 @@ flameuncle.com
 flamingbaronets.com
 flamingbatstudios.com
 flaminglamesuitable.com
+flamssybotic.top
 tr.news.flandrintechnologies.com
 flannelbeforehand.com
 flannellegendary.com
@@ -70323,6 +70331,7 @@ sm.fontaneros-fontaneria.es
 analytics.fontanka.ru
 gmufag.fontanka.ru
 fontbazarbd.com
+fontcpo.com
 fontdeterminer.com
 marketing.fonteva.com
 sggsbd.fonteyn.nl
@@ -72879,6 +72888,7 @@ ne.futuroscope.com
 ef.futuroscope.mobi
 futxaurefront.xyz
 fuurinmaru.com
+fuwalrnce.com
 fuxcmbo.com
 load.data.fuxtec.fr
 fuyviz.com
@@ -73470,6 +73480,7 @@ pm.gamedistribution.com
 tag.atom.gamedistribution.com
 gamedock.io
 auth.gamedream.pro
+gamedrive.org
 media.gameduell.de
 gameelat.com
 gamefabrique.com
@@ -73963,6 +73974,7 @@ gasapplication.com
 gasdasghsk.com
 gaseitycreed.com
 app.gasengineersoftware.co.uk
+gaseousgeneral.com
 gaseouspuggle.com
 gaseriy.com
 som.gaservesamerica.com
@@ -76738,6 +76750,7 @@ gmwpune.com
 tgw.gmx.ch
 wa.gmx.ch
 wa.gmx.co.uk
+epimetheus.navigator.gmx.net
 tgw.gmx.net
 wa.gmx.net
 ymprove.gmx.net
@@ -80969,6 +80982,7 @@ load.ss.happyhelper.dk
 happyhomesassistedliving.com
 happyhomespk.com
 load.server.happylama.se
+happylength.com
 happylife-partner.com
 happylifestylehabits.com
 get.happylivingjourney.com
@@ -82968,6 +82982,7 @@ highlyrecomemu.info
 highmaidfhr.com
 highmanapts.com
 highmetrics.com
+highnessagriculture.com
 highnessdemon.com
 highnets.com
 highperformancecpm.com
@@ -86988,6 +87003,7 @@ id.sv
 ritotapcode.id.vn
 id0984821-s04.shop
 allegrolokalnie.id1264871624.shop
+pay.www.booking.id19045617.info
 id2348.pl
 pocztapl.id2954.com
 0lxpo.id2956718.bet
@@ -91542,6 +91558,7 @@ inwireagency.com
 inwraptsekane.com
 inwroulette.com
 inx.lv
+inxgfxylzkkgi.one
 fpc.inxinternational.com
 fpt.inxinternational.com
 go.inxinternational.com
@@ -96124,6 +96141,7 @@ email-em.jllsweden.se
 jlovoiqtgarh.com
 a8clk.jlp-shop.jp
 jlshayne.info
+jltrhobg.com
 jltropicalbrazil.com
 jlttt.com
 jlxctoig.top
@@ -97339,6 +97357,7 @@ justdakota.top
 justdancingbaby.com
 justdca.com
 justdeckshamilton.ca
+justdy.shop
 justearn.it
 analytics.api.justeattakeaway.com
 justenantrum.com
@@ -99687,6 +99706,7 @@ track.msadcenter.kkal.com
 analytics.kkb.com.tr
 idqwqm.kkday.com
 kkdex.com
+kkeugrilxgql.com
 citibank.kkgreencity.com
 adl.kkguan.com
 kkm.org.in
@@ -100807,6 +100827,7 @@ kqaqvocve.com
 qc.kqbd88.com
 kqbjdvighp.com
 app.e.kqed.org
+kqgn.cn
 kqhgjmap.com
 kqhi97lf.de
 kqjtj.com
@@ -105246,6 +105267,7 @@ literpeore.com
 smetrics.litfulo.com
 lithosiidyn.info
 liticismov.xyz
+liticismoverneme.org
 litigatium.com
 affil.litinove-nadobi.cz
 litle.me
@@ -113946,6 +113968,7 @@ vegetalcule.misdoers.site
 traceparcel-dhlupdate-dh.misecure.com
 www.mypos.misecure.com
 miserablefocus.com
+miserablenobody.com
 miserdiscourteousromance.com
 miserly-phone.com
 miseryclevernessusage.com
@@ -114006,6 +114029,7 @@ missilesocalled.com
 missilesurvive.com
 banner.missingkids.com
 go.missingkids.org
+missingsupervisetwins.com
 aardvark.mission-austria.at
 missionaryhypocrisypeachy.com
 go.missionbio.com
@@ -118093,6 +118117,7 @@ musclesadmonishment.com
 musclesprefacelie.com
 musculahq.appspot.com
 muscularcopiedgulp.com
+musculetepidly.com
 muse.io
 musedemeanouregyptian.com
 tr.observatoire.musee-orangerie.fr
@@ -120548,6 +120573,7 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
+navi42.ru
 navi45.ru
 navi5.com
 navi53.com
@@ -122988,6 +123014,7 @@ info.nilex.com
 www2.nilfisk.com
 bnffqb.nilmoto.com
 nilousplaypen.com
+niltelreekrofik.net
 niltibse.net
 nim.sh
 tracking.nimani.com
@@ -125141,6 +125168,7 @@ finead.o00.kr
 z.o00.kr
 o000oo.com
 o0031.com
+o02251aokk.com
 o0499.com
 o054.info
 o0bc.com
@@ -128849,6 +128877,7 @@ txtag.org-etc-storexkk.xin
 txtag.org-etc-storexox.xin
 txtag.org-etc-storeydw.xin
 olx.org-index.shop
+txtag.org-txtagstorefrontaab.xin
 orga29.com
 go.orgain.com
 organic-harmony.com
@@ -133803,6 +133832,7 @@ pheersie.com
 pheeterdoard.com
 pheftoud.com
 phegnauxoudsez.xyz
+pheidheat.com
 pheksousi.net
 go.phelpsusa.com
 pheniter.com
@@ -136133,6 +136163,7 @@ plynnaze.boats
 plytanagrillapl.com
 yaroec.plytki-lazienki.pl
 plywajacemiasto.rest
+plywoodmergenewspaper.com
 0lxpo.plzakupyinternetowe.shop
 plzblz.xyz
 plzdpos.top
@@ -137387,6 +137418,7 @@ images.connect.portofrotterdam.com
 cap.portorealprotecaoveicular.com.br
 portoteamo.com
 partneri.portske.cz
+portswaving.com
 go.portswigger.net
 go.pardot.porttechnology.org
 affiliate.portu.cz
@@ -138183,6 +138215,7 @@ prediksitotosydney.com
 predmety.in.ua
 predoes.com
 predominanttamper.com
+predownset.shop
 predskolaci.cz
 tracking.predtrk.com
 preen.pro
@@ -138754,6 +138787,7 @@ a.prisacom.com
 ads.prisacom.com
 controlsgc.prisacom.com
 ak-ads-ns.prisasd.com
+priscanvarify.top
 priselapse.com
 export.prisguide.no
 export.prisguiden.no
@@ -147172,6 +147206,7 @@ stat.reg.ru
 go.reg.uk.com
 regaalame.com
 regainthong.com
+regainwoodlandsraised.com
 a8clk.shoes.regal.co.jp
 metrics.regal.es
 jiohog.regalopublicidad.com
@@ -153855,6 +153890,7 @@ app.scrpbx.co
 scruboutdoorsoffensive.com
 scrubsky.com
 scrubswim.com
+scruftsurface.top
 mongoose.scrumgenius.com
 scrutinizeordealscrutinize.com
 scrypoffersapps.com
@@ -154537,6 +154573,7 @@ trk.seepex.com
 lfkesv.seeplaces.com
 seepsoaceva.net
 seepsocu.net
+seeptoafuko.com
 seeptoag.net
 seeq.com
 content.seerealgirls.com
@@ -159709,6 +159746,7 @@ smsmovies.net
 smsnum.com
 www.smspop.com
 gouv.smsregularisation.com
+smstcksjn.com
 affiliate.smsticket.cz
 smsy24.pl
 tracking.smt.se
@@ -164709,6 +164747,7 @@ styleone.store
 ppxtsn.styleonme.com
 styleopticstore.com
 my.stylerow.com
+stylesbatty.top
 stylesbysparkles.com
 piwik.stylestep.de
 a8clk.stylestore.jp
@@ -170636,6 +170675,7 @@ thalitaoliveira.com
 ed.at.thamaster.de
 thamescom.com
 thamkebiofuels.com
+thampheth.com
 thampolsi.com
 ai.thanhnien.vn
 fzip.thanhnien.vn
@@ -170695,6 +170735,7 @@ website-security.thawte.com
 go.thayerleaderdevelopment.com
 go.thayerleadership.com
 thb.com.pe
+thbnntimlw.com
 thbstvd.com
 adebis.thd-web.jp
 thd.cc
@@ -174045,6 +174086,7 @@ tokimekitaine.net
 al.tokimeku-otoriyose.jp
 toknowall.com
 a8cv.toko-navi.com
+toko999.net
 tokoaishah.com
 artykul-gazeta.tokoapril.com
 artykul-pudelek.tokoapril.com
@@ -174749,6 +174791,7 @@ torchtrifling.com
 svmarketing.torcvb.com
 torebki-kazimiery.pl
 toreddorize.com
+torejogging.com
 tores.xyz
 a8clk.toretoku.jp
 o1x-pln.torf.site
@@ -179045,6 +179088,7 @@ tracking.dshb.biology.uiowa.edu
 uioypgnwldkcnt.com
 uiphk.one
 uirvpdor.xyz
+uitesousefulheady.org
 uitopadxdy.com
 sparrow.uitvaartzorg-vanraemdonck.be
 uiwf8-fs.cfd
@@ -181596,6 +181640,7 @@ usherervmege.info
 usherhaze.click
 load.ss.ushi.dk
 om.uship.com
+ushiro.org
 ushoofop.com
 ushoppyworld.com
 ushubemeet.net
@@ -181850,6 +181895,7 @@ uukkrr.net
 526dimg.uunice.com
 weld.uunice.com
 weld830.uunice.com
+uuomdlaslopcrx.com
 uuopp.com
 uurhhtymipx.com
 upsecure.uurwebw.shop
@@ -186218,6 +186264,7 @@ order.vtnd-ordr3283.com
 www.vtoyshop.com
 vtracy.de
 vtroopsoftwaresolutions.com
+vtrrxqbi.xyz
 email-click-test-for-branch.vts.com
 email-clicks.vts.com
 oas.vtsgonline.com
@@ -186821,6 +186868,7 @@ sto1.wallonn.top
 stor.wallonn.top
 wallowwholi.info
 wallowwholikedto.info
+wallpaperflare.com
 wallpapers-all.com
 steamcommunity.wallpapersenginehome.com
 wallpapersfacts.com
@@ -187396,6 +187444,7 @@ wawilsontesting.com
 clicks.wawlabs.com
 collector.wawlabs.com
 trk.wax.insure
+waxa-direct.info
 waxapushlite.com
 waxdpay.com
 waxfantastic.com
@@ -190857,6 +190906,7 @@ wlasnesumienie.lat
 public.wlbaike.com
 wlct-one.de
 mdws.wldcu.com
+wleallwqyblmm.top
 wlhcb.cn
 wlinailzinc.github.io
 s.wlink1.com
@@ -190936,6 +190986,7 @@ wmptpr.com
 wmpuem.com
 wggu.wmra.it
 wmrak.com
+wmrdplrves.com
 wmrok.com
 wmrok.net
 stats.wms-analytics.net
@@ -191283,6 +191334,7 @@ woodpeckersmachine.com
 www2.woodruffsawyer.com
 ss.woodscopenhagen.de
 ss.woodscopenhagen.se
+woodsfalsie.com
 go.woodsidecap.com
 woodstore.club
 go.woodstoxx.be
@@ -195239,6 +195291,7 @@ ypgjkk.xyz
 ypkljvp.com
 ypkxka.xyz
 www.ypmate.com
+ypmtvlaktm.com
 communications.ypo.org
 yprocedentwith.com
 ypsican.com
@@ -196310,6 +196363,7 @@ zerorolex.com
 zerospinstocks.com
 zerostear.world
 zttemail.zerotothree.org
+zerowasteinitiative.com
 zerumiy.com
 zesemen.cz
 zesep.com
