@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250226002409
-! Last modified: 2025/02/26 00:24:09
-! Blocked domains: 197646
+! Version: 20250226092229
+! Last modified: 2025/02/26 09:22:29
+! Blocked domains: 197667
 !
 0-0.fr
 0-02.net
@@ -7681,6 +7681,7 @@ business.adorama.com
 emarketing.adoramapix.com
 efbenj.adorebeauty.com.au
 adorebeauty.org
+adoredcriticism.pro
 adoredubai.com
 adoremena.com
 adoreyourhealth.com
@@ -9668,6 +9669,7 @@ cv.agent-sana.com
 tuvevx.agent-sana.com
 stats.agent.co.il
 agentanalytics.com
+video.agenteimmobiliare.info
 agentinteractive.com
 go.agentpoint.com.au
 metrics.agentprovocateur.com
@@ -9798,6 +9800,7 @@ lp.agoranoticiasurgentes.com
 links.agoratix.com
 agostinodeangelis.com
 sgtm.agostinoricotta.it
+agoutyspattee.shop
 agp-services.com
 agpaving.com
 agqycbadbofog.com
@@ -17650,6 +17653,7 @@ arosegeorgianaglued.com
 aroselibrarian.com
 arosepageant.com
 aroundairports.com
+aroundcommoditysway.com
 aroundmanila.com
 aroundpayslips.com
 aroundridicule.com
@@ -32351,6 +32355,7 @@ adsfeed.brabys.com
 bracalemusic.com
 go.bracco.com
 braccom.ch
+wrapper.bracdn.online
 bracecherry.com
 bracespickedsurprise.com
 braceudder.com
@@ -35447,6 +35452,7 @@ calcpol.com
 calculateproducing.com
 calculatesymbols.com
 calculatingcircle.com
+calculatingvoice.com
 calculatorstatement.com
 calculusmeantimealuminuming.pro
 calculusmeantimehedgehogis.pro
@@ -45201,6 +45207,7 @@ conceptcreating.com
 concerneddisinterestedquestioning.com
 concernedwhichever.com
 concerningblasphemerollback.com
+concernrest.com
 go.concernusa.org
 concert.io
 conceze.info
@@ -56277,6 +56284,7 @@ domainsteam.de
 domakuhitaor.com
 partner.domalep.cz
 www.domamil.cz
+domaqlgjdvo.com
 domashniy-hotel.ru
 domashniy-recepti.ru
 dombnrs.com
@@ -66447,6 +66455,7 @@ fancycollies.com
 fancydune.com
 smetrics.fancyfeast.com
 fancygrove.com
+fancylow.pro
 www.fancyswa.shop
 fancywhim.com
 a.fandango.com
@@ -67193,6 +67202,7 @@ fearesezqer.life
 fearfulfear.com
 fearfulfish.com
 fearfulmint.com
+fearinvulnerablediagnosis.com
 fearjav11.fun
 fearlessdevotion.com
 fearlessfaucet.com
@@ -81021,6 +81031,7 @@ hapyak.com
 hapying.com
 haqable.com
 haqafzlur.com
+haqnabxijzte.com
 banners.haqqin.az
 facebook-ads.hara.vn
 google-ads.hara.vn
@@ -93997,6 +94008,7 @@ jbtul.com
 jbvmix.link
 jscode.jbzj.com
 mm.jbzj.com
+jbzmwqmwqyleb.top
 stat.jc001.cn
 jc32arlvqpv8.com
 jc78.net
@@ -96187,6 +96199,7 @@ jmvisuals.com
 www2.jmwilson.com
 jmwsgroups.com
 jmxgwesrte.com
+jmyalnmmoff.com
 load.sgtm.jna.dk
 jnachb.com
 jncojeans.pl
@@ -105848,6 +105861,7 @@ lnkz.at
 lnnahh.xyz
 lnnsvj.xyz
 lnpost.pl
+lnptph.icu
 lnterac-accepts.com
 lntl-lnc.top
 lntrigulngdates.com
@@ -111457,6 +111471,7 @@ stats.medium.build
 link.medium.com
 read.medium.com
 lightstep.medium.systems
+mediumdisarmament.com
 mediumpimpin.com
 mediumshort.com
 piranha.mediumsuite.co.uk
@@ -117309,6 +117324,7 @@ mqaoweu.icu
 mqcoycx.icu
 mqdownload.com
 usdg.mqfcwtnr.top
+mqfrosboc.com
 www.mqhzdl.com
 content.mql5.com
 mqqf1ty41.top
@@ -134710,6 +134726,7 @@ media.pirtek.nl
 piruletasdementa.com
 pisacnotatki.click
 pisano.com.tr
+pisb.cn
 metrics.pisces-penton.com
 juwhdw.piscine-market.com
 hello.piscine.be
@@ -143953,6 +143970,7 @@ qavgacsmegav.com
 qbaka.net
 dig.qbao.com
 cp.qbaobei.com
+qbblwjrtxvci.com
 qbdgame.com
 qbeera.com
 qbhzghb.xyz
@@ -177581,6 +177599,7 @@ ad-mediation.tuanguwen.com
 cross-promos.tuanguwen.com
 word-res.tuanguwen.com
 word-v1.tuanguwen.com
+tuaos.xyz
 tuaoza.xyz
 tuatarasupply.com
 tuautenticamarcapersonal.com
@@ -178405,6 +178424,7 @@ twtdkzg.com
 twtheef.com
 twttr.com
 a1.twtym.com
+twvtvfifqc.com
 twxftd.icu
 load.d.twycrosszoo.org
 twyn.com
@@ -196857,6 +196877,7 @@ zlukajfilm.pl
 swmkru.zlutahala.cz
 zlviiaom.space
 zlx.com.br
+zlzgfj.icu
 zlzwhrhkavos.xyz
 zm232.com
 creator.zmags.com
