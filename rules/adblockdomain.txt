@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250302162102
-! Last modified: 2025/03/02 16:21:02
-! Blocked domains: 202982
+! Version: 20250303002120
+! Last modified: 2025/03/03 00:21:20
+! Blocked domains: 202995
 !
 0-0.fr
 0-02.net
@@ -722,6 +722,7 @@ www.150170.com
 1548164934.rsc.cdn77.org
 1558334541.rsc.cdn77.org
 15752525.xyz
+159.100.22.89
 15d8f.cc
 ahoy.15five.com
 15gifts.com
@@ -2712,6 +2713,7 @@ www.4937711.com
 7becb5e8a6.494c47a0f2.com
 www.495495.com
 49706204.xyz
+49709796.xyz
 49766251.xyz
 olx.49784354.xyz
 49d4db4864.com
@@ -3647,6 +3649,7 @@ adserver.71i.de
 720-trail.co.uk
 pkobp.720160.com
 72075223.xyz
+72123581.xyz
 gratka.72193847.xyz
 721ffc3ec5.com
 order.7221.info
@@ -4432,6 +4435,7 @@ dc471cf7d1.9bbde61d72.com
 c9e0f8a542.9c6c965f53.com
 js-webt-lol.9cache.com
 9cbj41a5.de
+9cd4abb9e0.com
 9cd76b4462bb.com
 bc13945167.9cf57a043f.com
 f18d369ca1.9d4e58e3a9.com
@@ -10267,6 +10271,7 @@ ailcloister.com
 ailegro.com
 ailehui9149.com
 ailil-fzt.com
+aillaeuyn.com
 tr.news.ailleurs.com
 open.ailo.app
 alior.ailoi2445.com
@@ -49883,6 +49888,7 @@ cxsh.cn.com
 execution-360-cicolusp.cxtrvl.com
 track.msadcenter.cxtv.com
 cxtvli.com
+cxuapz.xyz
 api.cxzudwk.com
 ding.cxzudwk.com
 cxzzyw.com
@@ -59796,6 +59802,7 @@ target.dzbank.de
 dzbkl37t8az8q.cloudfront.net
 dzcx04lyk9hjp.cloudfront.net
 dzdgfp673c1p0.cloudfront.net
+dzdmvnegsov.com
 dzdnffs.xyz
 proxy.dzeio.com
 clck.dzen.ru
@@ -66221,6 +66228,7 @@ eworldrebuild.com
 eworldtrack.com
 ewouwamsubsouvy.net
 ewp.live
+ewpb.site
 analytics.ewpratten.com
 ewrgryxjaq.com
 ewruuqe5p8ca.com
@@ -83035,6 +83043,7 @@ qcmxuy.hardloop.de
 loobmf.hardloop.fr
 hardlycompanionelongated.com
 vp.hardmenrise.online
+hardnessanything.com
 hardnesscorkimmature.com
 hardosale.xyz
 tracking.hardoxwearparts.com
@@ -130585,6 +130594,7 @@ vintet-pl-kl2112.onmenbr1.xyz
 onmicrosoft-online-o365.com
 onmobile.com
 onmore.top
+onmoxskatoxx.com
 onmydigital-app.com
 onmypc.info
 onmypc.net
@@ -138924,6 +138934,7 @@ bxumze.pjstar.com
 pjstat.com
 pjtra.com
 pjvartonsbewand.info
+pjwk.cn
 pk-pomosch.ru
 pk-sec.app
 pk-services.ru
@@ -161894,6 +161905,7 @@ sickbedjibboom.com
 sickflock.com
 sicklybates.com
 sicklypercussivecoordinate.com
+sicksarrish.top
 sicksmash.com
 device-telemetry.sicomasp.com
 sicouthautso.net
@@ -187623,6 +187635,7 @@ sadbmetrics.vehiculosocasionalava.com
 sadbmetrics.vehiculosocasionlarioja.com
 vehosw.com
 vei2noca1.com
+veideasandcome.org
 descarga.veikul.com
 veilcurtin.world
 veille-referencement.com
