@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250304162223
-! Last modified: 2025/03/04 16:22:23
-! Blocked domains: 205998
+! Version: 20250305002433
+! Last modified: 2025/03/05 00:24:33
+! Blocked domains: 206046
 !
 0-0.fr
 0-02.net
@@ -18346,6 +18346,7 @@ as62wl63346.rest
 asacdn.com
 asadcdn.com
 asadexim.com
+asadirectrestof.com
 sstats.asadventure.co.uk
 sstats.asadventure.com
 sstats.asadventure.fr
@@ -19115,6 +19116,7 @@ smetrics.atecsports.com
 atedra.com
 atedtrevor.guru
 ateeqahmedfoundation.com
+atefpurga.top
 ar.atelier-romeo.com
 cv.atelier-shark.com
 atelierbears.com
@@ -19184,6 +19186,7 @@ athomemaking.com
 athosgarden.org
 athyimemediat.com
 athyimemediates.info
+athyimemediates.org
 r1.ati.su
 userdata.ati.su
 aiseet.atianqi.com
@@ -19439,6 +19442,7 @@ attainment.life
 attaintobiit.shop
 attakads.com
 attarpantoon.click
+attbaaxbc.com
 attbfamiliamelhor.com
 server.attelle-solution.fr
 attemptingstray.com
@@ -32666,6 +32670,7 @@ bonertraffic14.info
 bonertraffic14.pro
 bonesimprovements.com
 bonesinoffensivebook.com
+boneteunfixt.shop
 bongacams.com
 bongacams7.com
 bongacash.com
@@ -34723,6 +34728,7 @@ smetrics.brumate.jp
 brumberlina.com
 neowiv.brumbrum.it
 load.gtm.brume.ai
+brumeskedged.top
 trk.brummelandbrown.com
 brumousrocolo.com
 load.ss.brunata.com
@@ -38263,6 +38269,7 @@ cashmylinks.com
 smetrics.cashnetusa.com
 spy.cashnow.ee
 xyz.cashnow.ee
+cashoozincize.top
 cashpage.net
 cashpartner.com
 cashpartners.eu
@@ -48892,6 +48899,7 @@ ad2.cooks.com
 yisbkc.cookson-clal.com
 wuncqh.cooksongold.com
 go.cooktravel.net
+cookypense.shop
 www.cool-downloads.com
 cool-hacks.com
 cool18.com
@@ -51339,6 +51347,7 @@ link.curious.com
 curiouschalk.com
 ttnn.curiousdailynews.com
 curioushingefast.com
+curiouslyconcern.com
 curiouslycultural.com
 ttnn.curiousnewsdaily.com
 buxu.curiousonqna.com
@@ -52847,6 +52856,7 @@ d359wjs9dpy12d.cloudfront.net
 d35fgcharv2shj.cloudfront.net
 d35fnytsc51gnr.cloudfront.net
 d35kbxc0t24sp8.cloudfront.net
+d35nmq1qnoxdb9.cloudfront.net
 d35r45qhjmgs3g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d35ve945gykp9v.cloudfront.net
@@ -57390,6 +57400,7 @@ diken.xyz
 dikersballo.shop
 dikkoplida.cam
 data.diks.net
+dil4q0t0blrf8.cloudfront.net
 dilalla.com.ar
 dilatenine.com
 dosmoney.dilaz.top
@@ -57455,6 +57466,7 @@ dimnessslick.com
 dimondlocksmith.com
 dimpled-frame.pro
 info.dimplexthermal.com
+dimwittedball.pro
 dinamoakademi.com
 gtm.dinamorestaurantbar.it
 dhmonitor.dinaserver.com
@@ -59228,6 +59240,7 @@ vcen.dolphin-browser.com
 dolphinabberantleaflet.com
 dolram.com
 doltishapodes.shop
+dolularhenewrev.org
 dolunaytravel.com
 dolweerum.com
 dolystore.com
@@ -83692,6 +83705,7 @@ saam.gumtree.com.au
 spmaeu.gumtree.com.au
 gunfreeflorida.com
 gunggo.com
+guniterandrena.top
 gunlockpepped.shop
 ad.gunosy.com
 adapi.gunosy.com
@@ -88501,6 +88515,7 @@ horrible.pl
 horribledecorated.com
 horriblysparkling.com
 horridbinding.com
+horrifiedloudly.com
 horrorkings.com
 horrorsofwarmovie.com
 horse-racing-affiliate-program.co.uk
@@ -96937,6 +96952,7 @@ api.iterable.com
 assets.iterable.com
 js.iterable.com
 static.iterable.com
+iterantunacute.shop
 iteratehq.com
 xgefvi.iteshop.com
 images.dm.itesm.mx
@@ -97263,6 +97279,7 @@ iwrcoct.info
 iws-sl.com
 marketing.iwsinc.com
 iwstats.com
+iwtdbhvgvk.com
 iwtif.com
 iwtserve.com
 iwuh.org
@@ -97539,6 +97556,7 @@ jacwkbauzs.com
 jadcenter.com
 jade-associates.com.br
 nfudeh.jadebag.co.kr
+jaded-spell.pro
 jadedi.com
 jadenmartin.com
 jaderooster.com
@@ -99484,6 +99502,7 @@ jellystores.com
 nvuwpi.jelmoli-shop.ch
 te.jelmoli-shop.ch
 tp.jelmoli-shop.ch
+jelokerrvvkqj.top
 jelosea0.pro
 jelyseuu.top
 trk.jemacoair.com
@@ -105809,6 +105828,7 @@ gpqoswrlwv.kvnhz.cn
 kvnuke.github.io
 kvors.com
 kvovs.xyz
+kvpbsnkgjy.xyz
 kvqa.in
 go.kvrma.net
 kvsadman.com
@@ -105860,6 +105880,7 @@ kwizbot.io
 gba.kwm.com
 landing.kwm.com
 pages.kwm.com
+kwqmugaonqtqa.com
 kwqnki.xyz
 nasdaq.kwra.live
 kwt-zajel.com
@@ -106800,6 +106821,7 @@ larpollicwilli.club
 larptexas.com
 larrenpicture.pro
 ads.larryaffiliates.com
+larryhagbut.top
 larrymind.com
 lartaivucy.net
 larukia.pro
@@ -108523,6 +108545,7 @@ lgtvcommon.com
 bizmkt.lguplus.com
 track.biz.lguplus.com
 trk.lgw.io
+lgxdwxzgfxvy.com
 lgygy.cn
 lgzfcnvbjiny.global
 lh031i88q.com
@@ -115134,6 +115157,7 @@ t.mazdausa.com
 maze.co
 mazefoam.com
 mazejoa.com
+mazerflush.shop
 mazlspqnn.ru
 mazowieckie-info.pl
 mazuma.ru
@@ -122264,6 +122288,7 @@ bimg.msk.bg
 bms.msk.bg
 msk.su
 analytics.msk1.ru
+mskpwqlppxham.life
 msl-cf.id
 mslfgl434.pages.dev
 smetrics.mslifelines.com
@@ -122836,6 +122861,7 @@ murkybrashly.com
 murkymeeting.com
 murkymouse.online
 murlidharrope.com
+murmursutta.shop
 murolwsi.com
 load.a.murphybed.se
 murphydrying.com
@@ -125783,6 +125809,7 @@ ndthensome.com
 ndtourist.com
 alerts.ndtv.com
 ads.ndtv1.com
+ndvqhobnheivh.club
 ndxi7-662.cfd
 ndy-73h.cfd
 ndymehnthakuty.com
@@ -128290,6 +128317,7 @@ news.njbiz.com
 marketing.njcpa.org
 njdaniel.com
 bxumze.njherald.com
+njicuiabvwawm.one
 njih.net
 go.njit.edu
 njjavt.xyz
@@ -128652,6 +128680,7 @@ non.li
 nonacne.pl
 nonblasphemouskawer.life
 noncepter.com
+nonchalanceok.com
 nonchalantnerve.com
 noncommittaltextbookcosign.com
 noncuappia.media
@@ -134916,6 +134945,7 @@ orgueapropos.top
 orgyofpedantry.com
 orhavingartisticta.com
 orhavpfavxu.com
+orhenngnxe.xyz
 images.response.orhp.com
 pages.info.orhp.com
 oriaekditdtygdhioigkh.pages.dev
@@ -135944,6 +135974,7 @@ www2.oxfordrmg.com
 oxfordshires.info
 pardot.oxfordski.com
 ushpsl.oxfwbzc.top
+oxfygsqqgnfts.icu
 oxidemustard.com
 oxidetoward.com
 oxidsinertly.digital
@@ -139397,6 +139428,7 @@ penitenceuniversityinvoke.com
 penitentarduous.com
 penitentiaryoverdosetumble.com
 penix.nl
+penjxqxbieezy.top
 go.penlink.com
 app.pennathletics.com
 t.pennathletics.com
@@ -140580,6 +140612,7 @@ phoalard.net
 phoalricmoozils.net
 phoalsie.net
 phoaphoxsurvey.space
+phoasougrair.com
 phoawhoax.com
 phobealliwel.com
 phobia.net
@@ -143077,6 +143110,7 @@ poeticmetric.com
 poeticpackage.com
 poetry4therapy.com
 poetrydeteriorate.com
+poeuktureukwo.com
 poeze.xyz
 ads.pof.com
 pofbpx.icu
@@ -145146,6 +145180,7 @@ tr.presupuesto-b2b.es
 seniorliving.presvillagenorth.org
 tr.info.pret-bpifrance.fr
 mdq6.pretapousser.com
+pretencecomplaintknight.com
 pretenceprevail.com
 pretextunfinished.com
 tr.info.pretflashtpe-bpifrance.fr
@@ -150384,6 +150419,7 @@ qf1d.top
 qf6tm5ug.com
 qfcdgy.cn
 qfdn3gyfbs.com
+qfeadpmagq.com
 qfgtepw.com
 qfhzki.com
 qfiacnkita.com
@@ -152277,6 +152313,7 @@ ranbookslan.com
 ranch-1and.com
 telemetry.rancher.io
 rancheslava.shop
+ranchesparge.com
 activate.ranchosantafereview.com
 ranchsatin.com
 randeczkionline24.pl
@@ -158066,6 +158103,7 @@ brtrack.rummypassion.com
 rumneywhity.com
 rumoaotopo.com
 ams2.rumourritual.com
+rumqrobuv.com
 info.rumsey.com
 rumsroots.com
 rumt-sg.com
@@ -158306,6 +158344,7 @@ rvetreyu.net
 rvfrm2005.com
 rvgr.buzz
 rviqayltwu.love
+rviqwckvfbjtay.com
 rvisofoseveralye.com
 rvisofoseveralyear.com
 rvlookout.com
@@ -159414,6 +159453,7 @@ sanctuarydevelop.xyz
 sanctuarylivestockcousins.com
 sanctuaryparticularly.com
 sanctumcc.com
+sancvquz.com
 sancydubai.com
 biz5.sandai.net
 etl-xlmc-ssl.sandai.net
@@ -160429,6 +160469,7 @@ smetrics.schindler.sa
 smetrics.schindler.sg
 smetrics.schindler.vn
 schington.com
+schizypdq.com
 load.dt.schlafstil.com
 mktg.schlage.com
 nrqsqq.schlanser.ch
@@ -161995,6 +162036,7 @@ owl.sentrydiscord.dev
 info.sentryds.com
 info.sentryhealth.com
 www2.senturus.com
+stats.senty.com.au
 senuti.org
 delivery.senvangvn.com
 test.seo-brain.net
@@ -171210,6 +171252,7 @@ smetrics.stewartseeds.com
 stewomelettegrand.com
 stewsmall.com
 c.stext.id
+steyreeding.shop
 stezhok.com
 stg8.com
 smetrics.stgeorge.com.au
@@ -175946,6 +175989,7 @@ technika-remont.ru
 sgtm.technikboerse.com
 data-080d03ce0d.technikundeinkauf.de
 technines.com
+techniquejeer.com
 mail.techniservinc.com
 technliving.com
 technoarthinfo.com
@@ -186756,6 +186800,7 @@ mecz.ujm.pl
 odbierz-paysafecard.ujm.pl
 pitbull-video.ujm.pl
 polsatboxingnight-transmisjahd.ujm.pl
+ujmz.cn
 ujovcb.cn
 ujrzymyprawde.click
 ujtgtmj.com
@@ -187972,6 +188017,7 @@ unsnareparroty.com
 unsowedcornrow.com
 unspeakablefreezing.com
 unspeakablepurebeings.com
+unspeakableruin.com
 collector.unsplash.com
 logger.unsplash.com
 views.unsplash.com
@@ -193038,6 +193084,7 @@ usr.vjqiqow.top
 www.vjsoft.net
 vjugz.com
 vjybuykaxz4.com
+vjzopfmcar.com
 vjzqfh.icu
 vjzvgvgz.icu
 vk-ads.ru
@@ -198900,6 +198947,7 @@ www2.wkkf.org
 wkmg.co.kr
 wknd.ai
 consent.wko.at
+wkoeoarkqqoez.top
 wkoocuweg.com
 lm1.wkpcw.cn
 wkpgetvhidtj.com
