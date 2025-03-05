@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250305002433
-! Last modified: 2025/03/05 00:24:33
-! Blocked domains: 206046
+! Version: 20250305092410
+! Last modified: 2025/03/05 09:24:10
+! Blocked domains: 206066
 !
 0-0.fr
 0-02.net
@@ -38562,6 +38562,7 @@ smetrics.catxpert.dk
 catztail.com
 cau1aighae.com
 ztnyzi.caudalie.com
+caudatedaystar.top
 caue971.org
 caugrithoowhu.net
 caukoaph.net
@@ -72856,7 +72857,8 @@ empa.flixbus.de
 flixcar.com
 assets-widget-l3.flixcdn.com
 flixdot.com
-flixfiend.top
+adasset.flixfiend.top
+mystats.flixfiend.top
 stats.flixhq.live
 flixmax.stream
 flixprice.com
@@ -75028,6 +75030,7 @@ freeclubnintendocoins.com
 freecodes.us
 freecodesgenerator.com
 freecontent.date
+freecontent.live
 freecontent.stream
 freeconverter.io
 freecounter.it
@@ -83291,6 +83294,7 @@ grushoungy.com
 data-16d7ec9a30.gruss.ms
 grutauvoomtoard.net
 grutcheecolr.net
+grutsokucaiftoa.com
 email.gruv.com
 gruwrebutnar.com
 gruwzapcst.com
@@ -85479,6 +85483,7 @@ ads.hbv.de
 waatch.hbvl.be
 hbwmdl.com
 hbwrapper.com
+hbxmdf.icu
 hbyilin.com
 hbzhenquan.cn
 hbzikbe.com
@@ -111984,6 +111989,7 @@ luxychic.com
 cyeabs.luxyhair.com
 luxyholdings.com
 luxysmart.com
+lu2.luyouwang.com
 luyouxia.net
 luyten-98c.com
 ens.luzernerzeitung.ch
@@ -131563,6 +131569,7 @@ ojhniewdwtiuqd.com
 ojhtpopwofm.com
 ojkduzbm.com
 game.ojlic.co
+ojmv.cn
 ojmvywz.com
 ojobb.com
 ojoglir.com
@@ -140840,6 +140847,7 @@ hfmogh.piatradesign.ro
 piazzetasses.shop
 pib7bocaiuvadosul.com.br
 pica-juicy.picacomic.com
+picadmedia.com
 picantepickleball.com
 picarasgalax.com
 picassara.com
@@ -141377,6 +141385,7 @@ pitlaneupdate.com
 pitoodsouk.net
 pitshopsat.com
 www3s.pitstopautoparts.com
+pittardhectare.com
 ddngtv.pittarello.com
 ads.pittsburghlive.com
 ads2.pittsburghlive.com
@@ -143420,6 +143429,7 @@ analytics.pollardwater.com
 content.pollardwater.com
 pollaretoes.com
 stats.polldaddy.com
+pollentdalaga.shop
 pollet-rauen.de
 a8clk.pollet.tech
 wss.pollfish.com
@@ -147251,6 +147261,7 @@ ptoockex.xyz
 ptooditopuke.com
 ptooftouss.net
 ptookaih.net
+ptookirgoonsa.com
 ptoorauptoud.net
 ptootsailrou.net
 ptootseegle.net
@@ -156593,6 +156604,7 @@ smetrics.dlalekarzy.roche.pl
 smetrics.wszechnica.roche.pl
 metrics.med.roche.ru
 smetrics.med.roche.ru
+rocheachaja.com
 metrics.rochehelse.no
 smetrics.rochehelse.no
 metrics.rocheksa.com
@@ -163725,6 +163737,7 @@ shonevegetable.com
 shonretimus.com
 secure.shoo5woop.com
 www.shoo5woop.com
+shoofabhalu.com
 shoofle.tv
 shoogloonetwork.com
 shookribux.net
@@ -171498,6 +171511,7 @@ stoopedsignbookkeeper.com
 stoopfalse.com
 stoopsellers.com
 stoorgel.com
+stoorgouzoy.com
 stootsou.net
 stoowipicke.com
 stop-adblocker.info
@@ -172171,6 +172185,7 @@ stugsoda.com
 yleied.stuhrling.com
 info.stukent.com
 stukroapseds.net
+stulmunshent.com
 platform.stumbleupon.com
 stummedperca.top
 stumtererum.com
@@ -180263,6 +180278,7 @@ thvhjgxmyjnoqvq.com
 thvisualdesigns.com
 ads.thvli.vn
 one.thx-birthday.com
+thyinegutnic.com
 smetrics.thymes.com
 thymeschange.com
 thymetest.co.za
@@ -180931,6 +180947,7 @@ engage.tines.com
 tinezoe.com
 load.ss.tingbjerghusene.dk
 tingecauyuksehin.com
+tingesfosses.com
 tingexcelelernodyden.info
 tinggalklik.com
 tingisincused.com
@@ -181065,6 +181082,7 @@ smetrics.tirebusiness.com
 tirecolloquialinterest.com
 tireconfessed.com
 tireconnateunion.com
+tiredpause.com
 tiredthroat.com
 tirejav12.fun
 tirend.com
@@ -191908,6 +191926,7 @@ viewscout.com
 info.viewsonic.com
 barnacle.viewsource.io
 viewsoz.com
+logs.viewstats.com
 viewstracker.com
 olx-pol-kxlsw2.viewsy.xyz
 vinted-pl-gj32d.viewsy.xyz
@@ -202128,6 +202147,7 @@ yachatsbigband.com
 data-0142dcfbcf.yacht.de
 load.gtm.yachtic.com
 data-00db6fbb05.yachtrevue.at
+yackedcuttage.com
 yackiemobile.com
 yackpedal.click
 fus.yad2.co.il
