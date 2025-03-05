@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250305162505
-! Last modified: 2025/03/05 16:25:05
-! Blocked domains: 204227
+! Version: 20250306003013
+! Last modified: 2025/03/06 00:30:13
+! Blocked domains: 204243
 !
 0-0.fr
 0-02.net
@@ -8208,6 +8208,7 @@ ads24h.net
 ads2550.bid
 ads280dummy2.com
 ads2ads.net
+ads2native.com
 ads2srv.com
 ads3-adnow.com
 ads360.cn
@@ -20599,6 +20600,7 @@ insights.avad3.com
 app.avada.io
 geoip.apps.avada.io
 avads.co.uk
+avads.live
 avads.net
 olx.available-index.shop
 availablecoder.com
@@ -23044,6 +23046,7 @@ banmamedia.com
 bannanarepublic.com
 track.bannedcelebs.com
 www.bannedretro.com
+banner-iframe.com
 banner-link.com.br
 banner-online.nl
 banner.de
@@ -55354,6 +55357,7 @@ dietschoolvirtually.com
 mqfbmp.dietshin.com
 dietsquad.com
 go.dietwisechoices.com
+dietythraves.top
 mobileads.dieuviet.com
 cc.diewebsitemacherei.de
 jnhfex.diezauberscheren.de
@@ -73011,6 +73015,7 @@ fpctraffic.com
 fpctraffic2.com
 fpctraffic3.com
 fpfbbn.xyz
+fpfhtr.icu
 fpgedsewst.com
 mail.fpi-mail.com
 fpjs.io
@@ -87680,6 +87685,7 @@ usms.hrhlpghq.top
 data.cx.hrhtenerife.com
 hrihfiocc.com
 hrireviewz.com
+hrjbylofyso.com
 hrjciqyu.icu
 trpzjj.hrkgame.com
 hrmdw8da.net
@@ -99920,6 +99926,7 @@ qr.juuice.com
 juutckrt.icu
 load.s.juvelan.net
 track.juventudeduradoura.com
+juvjimicwbauuw.com
 juwakaha.com
 gtm.juwelia.nl
 tmhgma.juwelo.de
@@ -123313,6 +123320,7 @@ nanourly.in
 nanouwho.com
 nanroom.net
 marketing.nanthealth.net
+nanthou.life
 zhawhs.nantucketlooms.com
 nantzes.com
 m.nanyangqiaoxiang.cn
@@ -132128,6 +132136,7 @@ opwoga.xyz
 chomikuj-new-t1.opx.pl
 opxaxqxaqo.com
 dpd.opyhtsin.org
+opzvalfafh.com
 oqbaxgolrabl.com
 oqdtuqat.com
 oqejupqb.xyz
@@ -154261,6 +154270,7 @@ rkgoemmckeo4.shop
 rkgwzfwjgk.com
 rkhovdiminatedmo.org
 rkinstaup.com
+rkksbrkwdqbop.com
 rklmstr.com
 rkmbonline.xyz
 rkmdigital.com
@@ -156339,6 +156349,7 @@ rvere.com
 rvetreyu.net
 rvfrm2005.com
 rvgr.buzz
+rvgtaai.top
 rviqayltwu.love
 rviqwckvfbjtay.com
 rvisofoseveralye.com
@@ -163635,6 +163646,7 @@ sketfarinha.shop
 gtm.sketsaparis.com
 promo.skf.com
 mail.skfbearing.network
+skgpzivadwdte.buzz
 skhf11.com
 skhf66.com
 scfhwp.ski-express.com
@@ -169905,6 +169917,7 @@ streakappealmeasured.com
 streakattempt.com
 streakdancingmantle.com
 metrics.streaks.jp
+tver-metrics.streaks.jp
 app.streaktrivia.com
 bot.streaktrivia.com
 stream-all.com
@@ -174280,6 +174293,7 @@ tracking.teebik.com
 mprkxf.teebooks.com
 gssful.teebooks.it
 teeconomist.com
+teedastoowu.net
 teefogroup.com
 teefookugoo.top
 teeglimu.com
@@ -190086,6 +190100,7 @@ smetrics.vigour.de
 vigourmotorcyclepriority.com
 ss.vigselbutiken.se
 vigsole.com
+vihbuposxci.com
 csbmey.viherpeukalot.fi
 vihppjk.cn
 vihqpr.xyz
@@ -192568,6 +192583,7 @@ sbtxxbt.vwtcy.cn
 vwuiefsgtvixw.xyz
 marketing.vwv.co.uk
 vwvatp.xyz
+vwvj.cn
 vww-facebook.com.vn
 vwwzygltq.com
 vx0c.cfd
