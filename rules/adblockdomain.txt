@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250307162411
-! Last modified: 2025/03/07 16:24:11
-! Blocked domains: 203893
+! Version: 20250308002319
+! Last modified: 2025/03/08 00:23:19
+! Blocked domains: 203911
 !
 0-0.fr
 0-02.net
@@ -4210,6 +4210,7 @@ allegrolokalnie.8914921foa.shop
 allegrolokalnie.8919247-uv9sa0-831iv0a.shop
 f0e0350829.891a559827.com
 89263907.xyz
+89296649.xyz
 89407765.xyz
 allegrolokalnie.894128084u.shop
 allegrolokalnie.894v.rest
@@ -20112,6 +20113,7 @@ auneechuksee.net
 auneghus.net
 aungudie.com
 aunsaick.com
+aunsoocmunoan.net
 aunstollarinets.com
 wopuqq.auntbetty.com.au
 auntiealtogethertumor.com
@@ -59550,6 +59552,7 @@ smetrics.dxc.com
 omni.dxc.technology
 somni.dxc.technology
 dxfidr.xyz
+dxfxprblebylv.com
 dxgo95ahe73e8.cloudfront.net
 dxh2ivs16758.cloudfront.net
 dxj6cq8hj162l.cloudfront.net
@@ -76605,6 +76608,7 @@ getadx.com
 stats.getaim.org
 getairondrone.com
 getallforgames.com
+getallmedia.com
 getalltraffic.com
 go.getalma.com
 getambassador.com
@@ -77819,6 +77823,7 @@ glaidipt.net
 glaigaunsoroogh.com
 glaignatsensah.xyz
 glaikrolsoa.com
+glaiksoachou.com
 glaimpie.xyz
 glairsbecchi.top
 glaisseexoar.net
@@ -83423,6 +83428,7 @@ styles.hautelook.com
 vep.hautnah-kosmetik-grafenau.de
 hautoust.com
 hauufhgezl.com
+hauwoopauy.net
 hauwzm.com
 havanajazzplaza.com
 havando.com
@@ -83520,6 +83526,7 @@ hayserv.com
 hayspost.top
 sstats.hayu.com
 stats.hayu.com
+haywirewooled.com
 jeffrey.hayzlett.com
 data-51ce0248a2.haz.de
 data-60d896f23d.haz.de
@@ -84931,6 +84938,7 @@ hfjmvr.xyz
 hfkncj-qalcg.top
 smetrics.hfma.org
 hfnuqljjnt.com
+hfogzeaggalh.com
 hfoodgroup.com
 marketing.hfore.com
 wap.hfoyjg.cn
@@ -100519,6 +100527,7 @@ hrnhcu.kapiva.in
 kaplanindex.com
 kaplay.com
 kapman.com
+kapnqcbhdxjfokr.com
 kapogaa.com
 kapoorphotostore.com
 erkili.kaporal.com
@@ -127934,6 +127943,7 @@ nretholas.com
 analytics.nrg.com
 nrged.com
 analytics.nrgprotects.com
+nrgv.cn
 106664956b.nrhaw.pl
 142ada5bd7.nrhaw.pl
 1cb24e3250.nrhaw.pl
@@ -133526,6 +133536,7 @@ overcomecheck.com
 overconfidentfood.com
 overcooked-construction.com
 overcovetouslym.info
+overcoythuoc.com
 overcreative.com
 overcross.xyz
 overcrowdsillyturret.com
@@ -144662,6 +144673,7 @@ go.ptglab.com
 deliver.ptgncdn.com
 measure.pti.com.vn
 ptichoolsougn.net
+ptifaustounsaz.com
 ptikodso.net
 ptipsixo.com
 ptipsout.net
@@ -153317,6 +153329,7 @@ partneri.richardstepan.cz
 richarfqjr.com
 richaudience.com
 richdosia.com
+richeighth.shop
 richesofwisdom.com
 richestplacid.com
 go.richeymay.com
@@ -162387,6 +162400,7 @@ zcs.silomanagement.gr
 silpecvret.com
 silphidbilati.com
 boeely.silumen.com
+silurehoghood.com
 ucppeo.silux.hr
 wourib.silux.rs
 lccctb.silux.si
@@ -178069,6 +178083,7 @@ thusenteringhypocrisy.com
 thuseri.top
 olx-pol-kxlsw2.thusly.xyz
 thusmumid.live
+thustilpn.com
 thuthoock.net
 thuthuatxiaomi.com
 addlog.thuvienphapluat.vn
@@ -180313,6 +180328,7 @@ sdr.totango.com
 totemcash.com
 totentacruelor.com
 bhmzab.totes.com
+totesnobis.com
 load.sgtm.totimodesign.com
 totlnkbn.com
 totlnkcl.com
@@ -184420,6 +184436,7 @@ uezbshzpdcbb.info
 ufabetrayal.com
 ufabetsmile.com
 ufabsoonsijeerg.net
+ufachoustoh.net
 ufaexpert.com
 ufalinks12.com
 ufamini.com
@@ -187590,6 +187607,7 @@ uz57.cfd
 dkrxls.uzaktangelir.com
 uzasadnijpowod.click
 uzauxaursachoky.net
+uzbeknisse.top
 uzdhsjuhrw.com
 uzerly.net
 uziaslara.com
