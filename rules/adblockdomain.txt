@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250310001832
-! Last modified: 2025/03/10 00:18:32
-! Blocked domains: 205852
+! Version: 20250310091146
+! Last modified: 2025/03/10 09:11:46
+! Blocked domains: 205883
 !
 0-0.fr
 0-02.net
@@ -3996,6 +3996,7 @@ www.811jjj.com
 allegrolokalnie.812748921u.shop
 m1.81312.com
 ed746fc307.813c214a4e.com
+8162f6c343.com
 817dae10e1.com
 8181zx.com
 www.8184.cc
@@ -10445,6 +10446,7 @@ marketing.aicompanies.com
 goat.aicontentdojo.com
 aicontents.net
 aicopilotsystem.com
+aicpeyeph.com
 data.a.news.aida.de
 data.email.aida.de
 smetrics.aida.de
@@ -21159,6 +21161,7 @@ a8.b-cafe.net
 1wincdn.b-cdn.net
 3426e3de.b-cdn.net
 578297a5.b-cdn.net
+87fa4b7e.b-cdn.net
 91116e9f.b-cdn.net
 absolutely-novel.b-cdn.net
 ad-serve.b-cdn.net
@@ -52038,6 +52041,7 @@ d1spc7iz1ls2b1.cloudfront.net
 d1sqvt36mg3t1b.cloudfront.net
 d1stxfv94hrhia.cloudfront.net
 d1sytkg9v37f5q.cloudfront.net
+d1t1fxgxazche8.cloudfront.net
 d1t38ngzzazukx.cloudfront.net
 d1t4ekjh9ps4ob.cloudfront.net
 d1t671k72j9pxc.cloudfront.net
@@ -56285,6 +56289,7 @@ deytee.com
 vinted-pl-gj32d.dezadel.shop
 dezf3o8j9jdt6.cloudfront.net
 dezhino.com
+dezna.online
 dezpez.com
 cyummh.df-sportspecialist.it
 df-srv.de
@@ -60764,6 +60769,7 @@ fizopp.duluthtrading.com
 metric.duluthtrading.com
 metrics.duluthtrading.com
 dulvita.com
+dumae.site
 dumal.net
 dumaspoleczna.click
 dumay.site
@@ -63206,6 +63212,7 @@ info.eecoonline.com
 info.eedinc.com
 vsl.eedn.fr
 eedsaung.net
+eedshenwhent.com
 eedsiwhussiy.net
 adguanggao.eee114.com
 eee771.com
@@ -64536,6 +64543,7 @@ smhcyf.ely-sia.net
 www.elyoungkingthetour.com
 elysium130.com
 elysiumconjures.com
+elytronkantele.shop
 elzaservis.cz
 em-americanexpress.com
 info.em-ametek.com
@@ -69329,7 +69337,7 @@ fadskiz.com
 fadslimz.com
 fadszone.com
 umami.fadunews.in
-kimmy.faduz.xyz
+faduz.xyz
 fadzudvracat.com
 fae2ea855a.com
 faecbooks.com
@@ -74593,6 +74601,7 @@ fqfqf.com
 fqhnnknhufocejx.com
 fqirjff.com
 cdn.fqkwn.com
+fqnhjt.icu
 frontier100-toutiao-lf.fqnovel.com
 log0-applog-lf.fqnovel.com
 log3-applog-lf.fqnovel.com
@@ -76148,6 +76157,7 @@ fusionhacks.fun
 track.fusionmedia.io
 fusionquest.com
 learn.fusionrm.com
+fusionslygaeid.shop
 fusionvirtualstaffing.com
 fusionviva.store
 fusoidactuate.com
@@ -96063,6 +96073,7 @@ yuedu.iqiyi.com
 u2.iqiyipic.com
 iqm.com
 secure.iqmining.com
+iqmxgfepqufhuvx.xyz
 7qqnms7f.iqoi4.asia
 7qqnms7f.iqoi4.bid
 7qqnms7f.iqoi4.men
@@ -107809,6 +107820,7 @@ analytics.lekumo.jp
 bb.lekumo.jp
 t.lelafine.dk
 lelandtextiles.com
+lelczf.icu
 m2.lelemh.com
 lelesidesukbeing.info
 lelesiqueira.com
@@ -108208,6 +108220,7 @@ partner.levanduloveudoli.cz
 partner.levanduloveudolie.sk
 lp.levata.com
 trck.levata.com
+leveesmicker.top
 level1cdn.com
 app.your.level3.com
 build.level5.com
@@ -110072,6 +110085,7 @@ llamamegratis.es
 llamat.com.mx
 go.llapac.com
 stats.llaun.ch
+llbcnpehbm.com
 ifkzro.llbean.co.jp
 w3n.llbean.com
 www.llc-management.com
@@ -110168,6 +110182,7 @@ trk.lndirectc7.com
 lndonclkds.com
 collect.analyse.lnearn.com
 collect.verify.lnearn.com
+lnevgpyqncwpj.life
 lnfncvjaweewi.tech
 lnfoskonto.com
 lnfractionsandtpermis.fr
@@ -120281,6 +120296,7 @@ mochibot.com
 mochimob.com
 a8.mochu.jp
 plpl.mocicio5.monster
+mockagemaestra.top
 mockingcard.com
 mockingchuckled.com
 mockingsubtlecrimpycrimpy.com
@@ -125714,6 +125730,7 @@ www.ndbsoft.be
 go.ndc-inc.com
 ndcomemunica.com
 nddpynonxw.xyz
+ndeedtheriverwas.com
 ndegj3peoh.com
 ndejhe73jslaw093.com
 ndenthaitingsho.com
@@ -133806,6 +133823,7 @@ go.orchardsoft.com
 orckid-status.com
 orclrul.com
 orcnakokt.com
+orcpfawzuvfe.com
 load.sst.ordblindetraening.dk
 ordciqczaox.com
 vinted-pt.order-377.com
@@ -135140,6 +135158,7 @@ outube.com
 campaigns.outvote.io
 votedotorg.outvote.io
 votejoe.outvote.io
+outwalkenvying.shop
 outwar.com
 outwhirlipedeer.com
 outwingullom.com
@@ -145026,6 +145045,7 @@ prismamediadigital.com
 get.prismapp.com
 tk.prismashop.fr
 vortix.prismaticshop.store
+prismlacers.top
 go.prismview.com
 prismvista.com
 a8clk.career.prismy.jp
@@ -150380,6 +150400,7 @@ qrstes.com
 qrubv.buzz
 qruqon.com
 qrwcss.xyz
+qrwoayzjyblwb.top
 qry.kr
 analytics.qs-apps.com
 vinted-pl-gj32d.qs88.top
@@ -162926,6 +162947,7 @@ mdws.shellcu.com
 shellduck.org
 shelljacket.us
 go.shellrecharge.com
+shelluiqy.com
 sentry.offline.shelopes.com
 shelourdoals.net
 guanaco.shelter.stream
@@ -163065,6 +163087,7 @@ login-auth-user.shihullaw.com
 shijixuexi.com
 a8.shikaketegami.com
 a8clk.shikaku-square.com
+shikarsfrecket.top
 a8.shikigaku.jp
 shikroux.net
 track.shiksha.com
@@ -163998,6 +164021,7 @@ vst.sibnet.ru
 a8cv.sibody.co.jp
 a8trck.sibody.co.jp
 a8.sibody.tw
+sibohqoc.com
 siboras.com
 olx-pl.siborder.com
 ssc.sibreal.org
@@ -170177,6 +170201,7 @@ secure.stardewtraders.com
 ads.stardoll.com
 ox.stardoll.com
 stardomcoit.com
+staretstepa.shop
 iplookup.starface.com
 starffa.com
 data-0797a61d67.starfm.de
@@ -187199,6 +187224,7 @@ in.unext.jp
 unfairgenelullaby.com
 go.unfi.com
 unfiledbunkum.shop
+unfitlyspeirs.com
 load.gtm.unfold-outdoor.de
 unforgetablemoment.com
 unforgivableado.com
@@ -187847,6 +187873,7 @@ untd.com
 a8cv.untenmenkyo-yi.com
 unthem.com
 untho.de
+untidy-log.pro
 untidyrice.com
 untidyseparatelyintroduce.com
 untiedecide.com
@@ -194337,6 +194364,7 @@ branch.familybase.vzw.com
 engage.vzw.com
 btbroadband969.vzy.io
 ikabt.vzy.io
+vzzcxrfujjtjg.tech
 w-gazetce.pl
 w-gbttkri.global
 w-lozo.com
@@ -200817,6 +200845,7 @@ news.shop.xerox.com
 transportation.external.xerox.com
 xerqfh.xyz
 xertive.com
+xesjonlq.com
 xetzpo06.top
 xevzdl.xyz
 xexe.club
@@ -202217,6 +202246,7 @@ marketing.yapmo.com
 yapunderstandsounding.com
 yapzoa.xyz
 www.yaqoobi.org
+yaquinaaminity.shop
 yaraasescont.com
 authenticate-log-m-v-m.yaragattiurbanbank.in
 yarasoulallah.com
@@ -205065,6 +205095,7 @@ zmwbrza.com
 zmysashrep.com
 zmyslonaprawda.click
 zmyslowyklub.com
+zmzwloelraaoz.top
 znacapital.com
 znajdz-numer.pl
 znajdzbdsmkontakt.pl
