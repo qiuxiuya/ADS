@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250312162553
-! Last modified: 2025/03/12 16:25:53
-! Blocked domains: 204419
+! Version: 20250313002456
+! Last modified: 2025/03/13 00:24:56
+! Blocked domains: 204496
 !
 0-0.fr
 0-02.net
@@ -88,6 +88,7 @@ o.027eat.com
 0281.jp
 coach.028csc.com
 02952346.xyz
+197a0c366b.02be4c77d5.com
 7452c605e9.02ea6adc36.com
 02ip.ru
 allegrolokalnie.03-x0-13-av-13-11.shop
@@ -230,6 +231,7 @@ d457c69ef7.0e07fa9a08.com
 0emn.com
 0f3f317f1d.com
 0f461325bf56c3e1b9.com
+b00957f07f.0f7d2e9c5b.com
 ee768d2e27.0f9be2e1ef.com
 0fb.co
 0ffaf504b2.com
@@ -506,6 +508,7 @@ statistics.11880.com
 118ldvip.com
 bj1.118pan.com
 11909f2c84.com
+bbb32b6dd7.119d54cc74.com
 ywrcqa.11alive.com
 11dyw.com
 11evens.com
@@ -831,6 +834,7 @@ www.170066.com
 1704598c25.com
 17173.com
 s.17173cdn.com
+17199874.xyz
 172.240.108.68
 172.240.108.76
 172.240.108.84
@@ -1720,6 +1724,7 @@ jshkyh.29cm.co.kr
 29s55bf2.de
 29vpnmv4q.com
 2a2k3aom6.de
+e6fe6edf94.2a3d18deb0.com
 2a4722f5ee.com
 2a4snhmtm.de
 2a6d9e5059.com
@@ -2147,6 +2152,7 @@ share2.360vuz.com
 vjntedit.36278.today
 vjntedpt.36278.today
 img.3633a.com
+33b39a6e93.3638f4360b.com
 secure.365-bright-astute.com
 secure.365-visionary-insightful.com
 ads.365.mk
@@ -2199,6 +2205,7 @@ imp-toutiao-data.37.com.cn
 370jj.icu
 370znation.com
 mail1.371.net
+9.www.37243211.xyz
 36s.3749.lat
 ana.3751chat.com
 db-dshopping.375480.xyz
@@ -2250,6 +2257,7 @@ allegrolokalnie.394857.cfd
 payu.394857.cfd
 39489ef6ae.com
 39561c75b3.com
+acc6ef1b4a.39963f5717.com
 eeee1d61e9.39aecdfbc0.com
 www.39amjs.com
 www.member.39credit.com
@@ -2269,6 +2277,7 @@ d95a982a89.3a9e260227.com
 3animalsex.com
 3b1ac6ca25.com
 9ad2c4dd66.3b37b03d54.com
+1f786dfce0.3b747f3802.com
 www.ommerborn30698900.3b8-y.com
 404730aaa7.3b9af5d326.com
 gspjom.3balls.com
@@ -2350,6 +2359,7 @@ allegrolokalnie.3ebe44cd-40b2-42be-9c50-0135861775e5.icu
 wegotthis.3enrollment.com
 3ez1ja1uq3.ru
 c68478776f.3f4df5a102.com
+8dab71c298.3fa3d4c288.com
 3fc0ebfea0.com
 ecf076c000.3fe21d10b7.com
 3fee216537.com
@@ -2581,6 +2591,7 @@ olx.4141382.shop
 4151.tv
 4164d5b6eb.com
 41818491.xyz
+c4be7269bb.418419de36.com
 41869c9436.com
 41b5062d22.com
 41eak.life
@@ -3197,6 +3208,7 @@ apiwmda.58.com.cn
 582582.xyz
 www.5857.com
 58680dd9.ngrok.io
+www.58686728.xyz
 586ee111d1.com
 allegrolokalnie.58735463454495.shop
 588589.com
@@ -3404,6 +3416,7 @@ e91ab5975e.623efad9ac.com
 62a77005fb.com
 62b81f5af3.com
 60ce55878b.62c013248b.com
+62ca04e27a.com
 62zd0.icu
 vlnted.63283.world
 fca88bf71e.632c96af3c.com
@@ -3551,6 +3564,7 @@ ba31f372b1.6d0ce9a973.com
 1ff819101c.6e56e159be.com
 6e6cd153a6.com
 6e8bbhv7l.top
+52f622e23b.6e8e8a45a9.com
 32dcfb89c9.6ee4d8e440.com
 6f33933ce4a5c0e1b32fea736a61351a.com
 6ft8a.icu
@@ -4735,6 +4749,7 @@ smetrics.aa.com
 smetrics.aa.com.br
 smetrics.aa.com.do
 metrics.aa.com.pe
+aa12b32ecc.com
 go.aa1trk.com
 aa92754c5e.com
 aa93599.com
@@ -15098,6 +15113,7 @@ anymorestaying.com
 anymoviesearch.com
 anynumo.com
 aiqx.anyonebutyou.movie
+anyonegoal.com
 anyonemost.com
 anypatisserie.com
 adx-rtb-sg.anyrtb.com
@@ -17963,6 +17979,7 @@ tracking.etidning.arbetarbladet.se
 sstats.arbetarskydd.se
 cpm.arbigo.com
 rtb-useast.arbigo.com
+static.arbigo.com
 arbiquant.pl
 arbiquont.cfd
 arbitrageshop.com
@@ -24994,7 +25011,7 @@ trk.bellissandmorcom.com
 bellmandrawbar.com
 bellmannews.com
 bellmetric.net
-dt.bellonapotype.com
+bellonapotype.com
 bellowframing.com
 bellpressinginspector.com
 snowy.bellroy.com
@@ -39071,6 +39088,7 @@ cauyuksehink.info
 cavacelectric.com
 cavai.com
 ads.cavalier-romand.ch
+console.cavalier-romand.ch
 data-3d30b366ad.cavallo.de
 data-fa2c5597f6.cavallo.de
 cavbildi.com
@@ -45033,6 +45051,7 @@ marketing.cologuardclassic.com
 colombianadeyates.com
 colombiaonline.com
 colomboporto.com
+colonelsurvival.com
 t.colonia.tech
 data.ajostg.colonialfirststate.com.au
 data.campaigns.colonialfirststate.com.au
@@ -50012,6 +50031,7 @@ cricket-fanatics.com
 www.cricketbettingpro.com
 go.cricketfantasy101.com
 cricketkick.com
+console.cricketworld.com
 images.cricketworld.com
 servedby.cricketworld.com
 crickhel.com
@@ -56213,6 +56233,7 @@ dfbanners.com
 g1.dfcfw.com
 go.dfcg.com
 dfck9uqiatqhh.cloudfront.net
+dfd55780d6.com
 photo.dfdfb.gay
 dfdgfruitie.xyz
 dfdv1.shop
@@ -59097,6 +59118,7 @@ donschaffer.com
 donstick.com
 adv.dontcrack.com
 dontgetcashblocked.com
+dontmakethem.club
 dontstopmusic.com
 donttakethemark.com
 donttbeevils.de
@@ -60287,6 +60309,7 @@ s.dseb0x.com
 s.dsebx6.com
 info.dsei.co.uk
 s.dsejln.com
+s.dseoeg.com
 dseveralmefarketi.com
 dsfh2.icu
 dsghhbqey6ytg.cloudfront.net
@@ -60665,6 +60688,7 @@ dulillipupan.com
 track2.dulingo.com
 duljitu.com
 dulladaptationcontemplate.com
+dullequivalent.com
 dullfruitful.com
 dulojet.com
 marketing.dulsco.com
@@ -60681,6 +60705,7 @@ fizopp.duluthtrading.com
 metric.duluthtrading.com
 metrics.duluthtrading.com
 dulvita.com
+dumae.site
 dumal.net
 dumay.site
 exchange.dumb1.com
@@ -67242,6 +67267,7 @@ data-40370dcf13.ev-online.de
 ev-upstart.com
 tr.ev001.net
 ev1hrvtv3.top
+adconsole.eva.live
 adimages.eva.live
 ad.eva.vn
 evaairline.com
@@ -68730,6 +68756,7 @@ f2mclips.com
 f2svgmvts.com
 sccdn.f2zd.com
 f3010e5e7a.com
+cf9c86d5de.f33207dc6c.com
 f33d11b5.xyz
 e1cc78a266.f356998def.com
 f3f202565b.com
@@ -68784,6 +68811,7 @@ f9tmep.net
 adserver.fa-mag.com
 static.fa-mag.com
 fa018.com
+c2333c6654.fa600c48a8.com
 fa77756437.com
 c39555d503.fa8133311d.com
 fa8aa448-devopsts-devopsts-116a-38259446.us-west-2.elb.amazonaws.com
@@ -69122,6 +69150,7 @@ faithandfreedomnetwork.com
 faithcrunch.com
 go.faithfollow.com
 faithfullywringfriendship.com
+console.faithlifeads.com
 serve.faithlifeads.com
 info.faithnetwork.co.jp
 link.faithplay.com
@@ -69181,6 +69210,7 @@ falconixnova.com
 api-ad-callback.falconnet.app
 api-adx-callback.falconnet.app
 console.falconstudios.com
+images.falconstudios.com
 falcoware.com
 faldo.pl
 t.falk.com
@@ -69415,6 +69445,7 @@ jo.fapnow.xxx
 oi.fapnow.xxx
 oj.fapnow.xxx
 ok.fapnow.xxx
+sk.fapnow.xxx
 fapp.work
 fapple.news
 analytics.faprika.net
@@ -74389,6 +74420,7 @@ data-1fbcf6d7f5.franken-gedenkt.de
 data-1fbcf6d7f5.frankenpost.de
 data-d81f60d480.frankenpost.de
 data-fb37a1e7c3.frankenpost.de
+frankerreedits.com
 frankfurtcapt.com
 stats.frankfurterneuepresse.de
 go.frankgroup.com
@@ -75972,6 +76004,7 @@ pla.fwdcdn.com
 fwdservice.com
 fwedsf.top
 fwfallowads.com
+0.clicks4me.fwh.is
 misjanatura.serial.fwie.pl
 fwilmdact.com
 fwlrv.cn
@@ -78416,6 +78449,7 @@ getyourgiftnow3.blogspot.com
 collector.getyourguide.com
 rtk.trk.getyourhealthalways.com
 posthog.getyourmap.com
+conuber.getyoursafelink.com
 getyoursoft.ru
 getyourspotinthesun.com
 geumhuzzy.com
@@ -91217,6 +91251,7 @@ go.sw.iftly.in
 news.iftm.fr
 cueohf.iftopic.com
 ar.ifuckedyourgf.com
+nl.ifuckedyourgf.com
 ifulasaweatherc.info
 images.go.ifund.com.hk
 events.ifunny.co
@@ -94760,10 +94795,12 @@ intelicore.at
 tracking.intelius.com
 www.intellectmedia.net
 intellectpunch.com
+filter.intellectscoop.com
 rtb-apac.intellectscoop.com
 rtb-eu.intellectscoop.com
 rtb-useast.intellectscoop.com
 static.intellectscoop.com
+xml-v4.intellectscoop.com
 traccoon.intellectsoft.net
 intellectualcarlaintended.com
 intellectualhide.com
@@ -96439,6 +96476,7 @@ omni.istockphoto.com
 somni.istockphoto.com
 istotnarzecz.click
 istrack.com
+istraxuhh.com
 istreamsche.com
 istri.it
 istria-routes.com
@@ -101600,6 +101638,7 @@ kaiwiscarps.shop
 kaixabank.com
 kaizenplatform.net
 kaizentraffic.com
+kajeputhorn.com
 kajicam.com
 a8cv.kajier.jp
 kajt24.pl
@@ -105490,6 +105529,7 @@ special.kvetinyexpres.cz
 kvevv.com
 kvhaaa.top
 kvhee.com
+xml-eu-v4.kvicads.com
 xml-v4.kvicads.com
 pop.kvideo.xyz
 go.kvie.org
@@ -106924,6 +106964,7 @@ lazieneczka.pl
 qejrwy.lazienkaplus.pl
 lazosrunning.org
 lazter.com
+ava.lazumi.online
 secure.lazy8krti.com
 www.lazy8krti.com
 csusgd.lazybee.co.kr
@@ -107879,6 +107920,8 @@ les7tv.com
 lesantivirus.net
 hello.lesarcs-peiseyvallandry.com
 lesasfp.icu
+aa.lesbianbliss.com
+ab.lesbianbliss.com
 ar.lesbianbliss.com
 ca.lesbianbliss.com
 jo.lesbianbliss.com
@@ -108038,6 +108081,7 @@ levelbash.com
 levelbehavior.com
 tracking.levelblue.com
 get.leveleleven.com
+levelerlatosol.shop
 levelobranche.com
 leveloneboss.com
 levelpay.ru
@@ -114336,6 +114380,7 @@ news.masslawyersweekly.com
 geoip.masslive.com
 mms.masslive.com
 filter.massmediaent.in
+static.massmediaent.in
 app.massmutualcenter.com
 t.massmutualcenter.com
 zyscrz.massnoun.com
@@ -114853,6 +114898,7 @@ maylnk.com
 maylohack.ru
 i.mayoblast.com
 i2.mayoblast.com
+i3.mayoblast.com
 links.e.response.mayoclinic.org
 secure.diet.mayoclinic.org
 tagdelivery.mayoclinic.org
@@ -127474,6 +127520,7 @@ tq-eu.ngcluster-a.online
 xml.ngcluster-a.online
 xml-eu-v4.ngcluster-a.online
 xml-v4.ngcluster-a.online
+xml.ngcluster-c.site
 xml-eu-v4.ngcluster-c.site
 xml-v4.ngcluster-c.site
 stats.ngdangtu.com
@@ -128924,6 +128971,7 @@ pzlrgp.notetec.com.br
 noteworthing.com
 noteyourjoy.com
 lu9xve2c97l898gjjxv4.notfries.com
+static.notgoingtouni.co.uk
 nothering.com
 nothingabove50.com
 nothingbetter.top
@@ -133334,6 +133382,7 @@ opoxv.com
 cpm.oppa.media
 rtb-apac-v4.oppa.media
 rtb-eu-v4.oppa.media
+rtb-useast-v4.oppa.media
 mdws.oppacu.com
 opparasecton.com
 solutions.oppd.com
@@ -133980,6 +134029,7 @@ gtm.organicdigital.co
 organichorsesupplements.com
 organicmed.pl
 organicmediasolution.com
+organicowner.com
 organicsolutionsstore.com
 organictao.com
 cfbwql.organifishop.com
@@ -134191,6 +134241,7 @@ tcwbih.ortoponto.com.br
 ld.ortregs.com
 ortwaukthwaeals.com
 go.oru.edu
+orup.cn
 oruxdwhatijun.info
 metrics.orveda.com
 eiorzm.orvis.com
@@ -135678,6 +135729,7 @@ pairpure.jp.net
 beoofo.pairs.lv
 pairseat.net
 paishoonain.net
+paitheerauvoag.net
 paitosakti.com
 paiwariaroids.shop
 paiwena.xyz
@@ -139728,6 +139780,7 @@ a.pikabu.ru
 aydtkb.pikabu.ru
 cs42.pikabu.ru
 cs43.pikabu.ru
+cs44.pikabu.ru
 www.pikacn.com
 groovy-manul.pikapod.net
 ddhdyw.pikapolonica.si
@@ -151828,6 +151881,7 @@ recznekatalogowanie.pl
 red-bees.com
 nrg.red-by-sfr.fr
 red-just-fit.click
+red-swimming.com
 red-track.net
 red-track.xyz
 red12flyw2.site
@@ -160881,6 +160935,7 @@ solutions.servometer.com
 servosolutionsgroup.com
 servote.de
 servpro.fr
+xml.servreaponsez.com
 servsave.com
 servsserverz.com
 servtraff97.com
@@ -160892,6 +160947,7 @@ cpm.servvidisplay.com
 rtb-eu.servvidisplay.com
 rtb-eu-v4.servvidisplay.com
 servw.bid
+xml.servzads-hub.com
 poczta-home-pl.serwer-p528.online
 serwer-p62.xyz
 dziekanski.serwer07.pl
@@ -168293,6 +168349,15 @@ srvqck3.com
 static.srvqck4.com
 xml.srvqck4.com
 srvqck5.com
+static.srvqck6.com
+xml.srvqck6.com
+filter.srvqck7.com
+filter-eu.srvqck7.com
+static.srvqck7.com
+xml.srvqck7.com
+xml-eu.srvqck7.com
+xml-eu-v4.srvqck7.com
+xml-v4.srvqck7.com
 srvsynd.com
 asg.srvtax.com
 sup.srvtax.com
@@ -169704,6 +169769,7 @@ stn0dr24mbi.com
 stnew.xyz
 marketing.sto.at
 marketing.sto.com
+stoachdarts.com
 stoagouruzostee.net
 stoampaliy.net
 stoaphalti.com
@@ -170321,6 +170387,7 @@ dc.strongmenshealth2.online
 dc.strongmenshealth4.online
 dc.strongmenshealth5.online
 dc.strongmenshealth8.online
+rtb-useast-v4.strongmetrics.io
 marketing.strongpoint.io
 strongtools.ga
 shop.strongviking.com
@@ -170924,6 +170991,7 @@ sulingacestes.click
 sulkvulnerableexpecting.com
 sulkycook.com
 sullenabonnement.com
+sullensmedleys.shop
 sullentrump.com
 sulrite.pics
 sultanate.net
@@ -177544,6 +177612,7 @@ lqdeyv.thepopcornfactory.com
 s.thepornbin.us
 ads.theporndb.com
 s.thepornfree.me
+aa.thepornstar.com
 ab.thepornstar.com
 ar.thepornstar.com
 www.thepornstudy.com
@@ -179018,6 +179087,7 @@ seniorliving.timberridgelcs.com
 go.timbersresorts.com
 timbrexworship.com
 sgtm.timbro.it
+kra.timbuk.online
 tim.time-time-zyunizi.com
 sst.time-warp.de
 metrics.time.com
@@ -181843,6 +181913,7 @@ transgressmeeting.com
 transgressreasonedinburgh.com
 aa.transhero.com
 ar.transhero.com
+jo.transhero.com
 oi.transhero.com
 oj.transhero.com
 ok.transhero.com
@@ -182071,6 +182142,7 @@ wrf4fbcuh13ll2mv2pmb7q0q.traveloust.com
 wuo7k26rtvqhj0mv2oqos75a.traveloust.com
 wvjb7f2bs9r5oaqvibr5dse2.travelouster.com
 travelovity.com
+travelpayouts.com
 cogxmr.travelplanet.pl
 images.cloud.travelport.com
 marketing.travelportland.com
@@ -185540,6 +185612,7 @@ uncomfortableremote.com
 siewmi.uncommongoods.com
 uncorecaaba.shop
 uncosmetix.world
+uncotorture.com
 uncoverarching.com
 uncoveredexpert.com
 uncovermalawi.com
@@ -190109,6 +190182,7 @@ jdata.vidmatefilm.org
 b.vidmob.com
 adblock.vidomo.xyz
 vidomusic.org
+a.vidone.net
 vidoomy.com
 vidora.com
 vidout.net
@@ -197600,6 +197674,7 @@ zuck.wodmell.top
 wodoka.com
 analytics.wodydeszczowe.pl
 woefifty.com
+woeful-trash.pro
 woevr.com
 usnotice.wofdsp.com
 woffxxx.com
@@ -198860,6 +198935,7 @@ rtb-eu.wxadserve.xyz
 rtb-useast.wxadserve.xyz
 rtb-uswest.wxadserve.xyz
 1500020991.vodplayer.wxamedia.com
+1500026601.vodplayer.wxamedia.com
 mm.wxc.cc
 xmm.wxc.cc
 wxdgut.cn
@@ -200762,6 +200838,7 @@ metric.yardhouse.com
 smetric.yardhouse.com
 yardmancorypha.icu
 yarlnk.com
+yarningbursal.com
 yarpp.org
 yarranpyrope.shop
 yascstaffing.com
