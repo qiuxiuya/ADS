@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250319002521
-! Last modified: 2025/03/19 00:25:21
-! Blocked domains: 207696
+! Version: 20250319092557
+! Last modified: 2025/03/19 09:25:57
+! Blocked domains: 207713
 !
 0-0.fr
 0-02.net
@@ -9834,6 +9834,7 @@ affiliates.net
 affiliates.nl
 affiliates.systems
 affiliatesensor.com
+affiliateservices.net
 login.affiliatesit.cz
 go.affiliatesleague.com
 affiliatestonybet.com
@@ -29138,6 +29139,7 @@ business-poland.bjlmedia.com
 fzh.bjlmedia.com
 journal.bjlmedia.com
 as.bjmama.net
+svxwwhsns.bjmdf.bid
 bjmkptrpcrgtjdo.xyz
 vinted-pl-gj32d.bjmxcyd.top
 bjptraining.com
@@ -35456,6 +35458,7 @@ buffi63.com
 www.buffil163.com
 www.buffl163l.com
 buffwojak.com
+bufmjknaeprvyd.com
 dhsjpz.bugaboo.com
 bugabooreynard.top
 bugattest.com
@@ -60080,6 +60083,7 @@ drunkindigenouswaitress.com
 drunkonfunk.com
 drupa.com
 drupalcontrib.org
+druqkstwwvg.com
 wurq5hzgcixkzmc8tlmqag.on.drv.tw
 tr.news.drveto.com
 drvineetsurana.com
@@ -62166,6 +62170,7 @@ echefoph.net
 info.echelonprint.com
 echelonstudiosd.com
 echi-echi-time.org
+echifobi.top
 a8clk.shop.echigofuton.jp
 echinusandaste.com
 echo-nomic.com
@@ -82761,6 +82766,7 @@ groknh.net
 groleegni.net
 gromadzimyfakty.rest
 gromairgexucmo.net
+gromtempair.com
 sgtm.gronelforsyning.dk
 gronsirsou.com
 grookilteepsou.net
@@ -95904,6 +95910,7 @@ iodinedulylisten.com
 iodinsbezette.com
 iodolruddock.com
 advzone.ioe.vn
+ioefhvcc.com
 iofferphoto.com
 ioffers.icu
 marketing.iofficedelivers.com
@@ -101215,6 +101222,7 @@ jskhs.com
 jsks.biz
 aff.jskyservices.com
 analytics.jslib.win
+jslxzx.icu
 jsmcrjmp.com
 jsmcrpu.com
 jsmcrt.com
@@ -108078,6 +108086,7 @@ www1.leddental.com
 ledemondujeu.fr
 info.ledenvereniging.nl
 load.gtm.lederne.dk
+ledfjl.icu
 ledflashlightsmarkting.com
 ledger-clear-sign-activation.com
 ledger-platform.fr
@@ -115293,6 +115302,7 @@ maskoter.com
 kzdmci.masku.com
 qyuzwd.maskworld.com
 static.masoffer.net
+masogjmltljhl.one
 www.re.masoinmobiliaria.com
 qlvxcj.masongarments.com
 crm.masonmac.com
@@ -150905,6 +150915,7 @@ qlnkt.com
 qlnkyy.net
 qlnomb.com
 qlogos.io
+qlpenuxctkhwv.com
 www.qlzn6i1l.com
 mailer.qm-g.com
 qmahepzo.one
@@ -157055,6 +157066,7 @@ info.robinpowered.com
 rugttt.robinson.com
 ww0s.robinson.com
 epats.robinunderwear.com
+robitoaceeb.net
 robizonx.com
 abtesting.roblox.com
 ads.roblox.com
@@ -172187,6 +172199,7 @@ sgtm.sterne-advo.de
 load.www.ss.sterneadvo.de
 sternedfranion.shop
 sternlythese.com
+steroidbazaarbalance.com
 steropestreaks.com
 ox2.sterta.pl
 sterteeraisti.xyz
@@ -202383,6 +202396,7 @@ xebecrounds.click
 tern.xebel.co
 a8clk.www.xebiocard.co.jp
 xebo3gwvz.top
+xeccotftw.com
 xecuted.xyz
 xed.pl
 xedlxeuz.icu
@@ -203307,6 +203321,7 @@ xrea.com
 gtmserver.xrent4u.com
 xrev.top
 go.xrite.com
+xrlzhk.top
 xrngoxoqlpgmc.com
 xroajdnmqr.xyz
 xronize.com
@@ -203444,6 +203459,7 @@ sys7.msg.xunlei.com
 upgrade.xl9.xunlei.com
 watch.advertising.speed.cdn.vip.xunlei.com
 xunlei.it
+xunqrutsl.com
 xunsfr.xyz
 xuongrongnho.com
 analytics.xupervisor.com
@@ -207628,6 +207644,7 @@ adserver.zylom.com
 zylytavo.com
 zymjzwyyjyvb.top
 zymoidarrame.com
+zynewaylxyxex.buzz
 zap.cdn.zynga.com
 zynga2-a.akamaihd.net
 zynoxify.com
