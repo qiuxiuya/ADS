@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250320162515
-! Last modified: 2025/03/20 16:25:15
-! Blocked domains: 208158
+! Version: 20250321002517
+! Last modified: 2025/03/21 00:25:17
+! Blocked domains: 208161
 !
 0-0.fr
 0-02.net
@@ -24832,6 +24832,7 @@ bejbisiting.com
 beka.pl
 bekannt-im-web.de
 mktg.bekapublishing.com
+bekd.cn
 bekhlgq.info
 bekijk-mij.info
 bekirkarsli.com
@@ -39901,6 +39902,7 @@ cdnasiaclub.com
 cdnativ.com
 cdnativepush.com
 cdnaz.win
+hakurei.cdnbo.org
 display.cdnbucket.com
 tracker.cdnbye.com
 cdncontentstorage.com
@@ -185984,7 +185986,7 @@ tricklesmartdiscourage.com
 trickshacks.com
 trickvealwagon.com
 trickynationalityturn.com
-b1.trickyrock.com
+trickyrock.com
 trickyseduction.com
 triclinium.xyz
 rrpand.tricodesdev.com
@@ -188425,6 +188427,7 @@ rk.uhhokker.top
 trew.uhhokker.top
 analytics.uhhospitals.org
 uhiksolsaums.com
+uhityllhn.com
 load.gtm.uhl.de
 uhland24.de
 d-click.uhmailsrvc3.com
