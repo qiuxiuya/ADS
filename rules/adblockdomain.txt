@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250321002517
-! Last modified: 2025/03/21 00:25:17
-! Blocked domains: 208161
+! Version: 20250321092628
+! Last modified: 2025/03/21 09:26:28
+! Blocked domains: 208167
 !
 0-0.fr
 0-02.net
@@ -70559,6 +70559,7 @@ feelthestars.top
 feeltrail.com
 fhqrnb.feelway.com
 partenaires.feerik.com
+feernhuhe.com
 fees-mydhl.com
 s.feestenmetcarrefour.be
 video.feetatube.fun
@@ -117530,7 +117531,6 @@ sgtm.megazone.no
 megdexchange.com
 follow.megghanthompsoncoaching.com
 megmhokluck.shop
-megoindonesia.com
 ss.megorgeous.nl
 megoszthato.blogspot.hu
 megroarsoy.net
@@ -124422,6 +124422,7 @@ musk.site
 muskatchefdom.com
 muskevent.info
 muskimus.com
+musklink.org
 gcirm.muskogeephoenix.com
 s.muskokaregion.com
 muskratmarinesstingeras.pro
@@ -124849,6 +124850,7 @@ gtm.myaza.it
 mybach.xyz
 mybad.fr
 mybagindia.com
+mybancoschiles.gets-it.net
 alyres.mybasic.com.br
 mybasilsoup.com
 mybayarn.top
@@ -193051,6 +193053,7 @@ vhducnso.com
 stape.vhgstore.com
 vhills.net
 vhinyvcsxcga.com
+vhje.cn
 vhjhmsvosxius.click
 vhngny-cfwm.life
 bi.vhost.vn
@@ -196191,6 +196194,7 @@ vvadz.cc
 vvappp.top
 ub-xjp.vvbrd.com
 bxumze.vvdailypress.com
+vvdrhe.win
 vveepee.fr
 vvetransfer-lo-web-online.glitch.me
 vveyc-usa.com
@@ -204344,6 +204348,7 @@ clck.yandex.com
 mc.yandex.com
 mc.yandex.com.tr
 ttnet.yandex.com.tr
+mc.yandex.md
 abt.s3.yandex.net
 analytics.mobile.yandex.net
 appmetrica.yandex.net
@@ -204460,6 +204465,7 @@ rs-staticart.ybcdn.net
 ybej5ohp0x.ru
 ybex.com
 ybhyziittfg.com
+yotrack.cdn.ybn.io
 ybotvisit.com
 ybpxv.com
 ybrantdigital.com
