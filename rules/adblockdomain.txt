@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250321162433
-! Last modified: 2025/03/21 16:24:33
-! Blocked domains: 208404
+! Version: 20250322002434
+! Last modified: 2025/03/22 00:24:34
+! Blocked domains: 208414
 !
 0-0.fr
 0-02.net
@@ -4033,6 +4033,7 @@ werifstnard.801213.com
 8020solutions.net
 f33ad99755.8028acf188.com
 www.8052657.com
+80582834.xyz
 www.805m.com
 805taylor.com
 santander.807536.com
@@ -11304,6 +11305,7 @@ ajybgc.xyz
 ajzgkegtiosk.com
 ak-is2.net
 ak-tracker.com
+ak03211hou.com
 ak0gsh40.com
 aka-root.com
 akabo.ru
@@ -42931,6 +42933,7 @@ cirengsalju.com
 elq.cirium.com
 images.comms.cirium.com
 secureforms.cirium.com
+cirliwrigwu.com
 smetrics.cirquedusoleil.com
 cirrateremord.com
 analytics.cirroenergy.com
@@ -83483,6 +83486,7 @@ guclubranda.com
 info.gucu.org
 mailer.gucu.org
 gucucmaikaups.com
+gucx.cn
 gudangbanner.com
 gudangseo.com
 gudohuxy.uno
@@ -127230,6 +127234,7 @@ nekovashal.info
 dl.nekropol-khv.ru
 nektarbeachhotels.com
 geoip.nekudo.com
+neldipbtg.com
 load.sst.nelen.nl
 www4.neles.com
 nelhon.com
@@ -130835,6 +130840,7 @@ npvos.com
 data-01bd19c0b0.nq-online.de
 nqmoyjyjngc.com
 nqn7la7.de
+nqowmugodougu.com
 nqrkzcd7ixwr.com
 nqslmtuswqdz.com
 nquepostale.fr
@@ -132718,6 +132724,7 @@ og-shopee9.com
 og-sneakers.fr
 a8clk.www.ogacos.com
 ogads-pa.googleapis.com
+ogaku.site
 a8cv.ogaland.com
 load.ss.ogawaeurope.com
 ogclick.com
@@ -164109,6 +164116,7 @@ settlecruise.org
 settledapproximatesuit.com
 settledchagrinpass.com
 settlementcat.com
+settlementlaying.com
 settleshoes.com
 weblink.settrade.com
 settrogens.com
@@ -201053,6 +201061,7 @@ axp.wjbf.com
 t733.wjcl.com
 wjct3s8at.com
 wjcvanniekerk.com
+waaz.wjebboljobvaj.top
 wjhelp.top
 axp.wjhl.com
 wjqnenstfwelf.com
@@ -201588,6 +201597,7 @@ acs.woolworths.com.au
 woomio.com
 woomy.me
 veosfi.woonexpress.nl
+woopojaizeeno.com
 woopra-ns.com
 woopra.com
 hi.wooribank.com
