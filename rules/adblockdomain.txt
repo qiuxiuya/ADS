@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250322162208
-! Last modified: 2025/03/22 16:22:08
-! Blocked domains: 207146
+! Version: 20250323002114
+! Last modified: 2025/03/23 00:21:14
+! Blocked domains: 207165
 !
 0-0.fr
 0-02.net
@@ -14864,6 +14864,7 @@ animemiru.com
 animenime.ru
 animeplaynow.com
 pl1.animes-stream24.net
+animeshoppers.com
 api.animeshqip.icu
 animesvost.ru
 animevostfr.fr
@@ -21151,6 +21152,7 @@ smetrics.aviva.co.uk
 aviwarehouses.com
 store.avixa.org
 analytics.avizia.com
+avkd.cn
 avkeyfinder.store
 tracking.avladies.de
 avloan3431.fun
@@ -24601,6 +24603,7 @@ becrustleom.com
 stats.becu.org
 partner.bed4dogs.com
 bedamnrankled.top
+bedaoibe.com
 bedaslonej.com
 bedaslonejul.cc
 bedaxue.com
@@ -24661,6 +24664,7 @@ smetrics.beefeater.co.uk
 beefedcomicsed.pro
 beefly24.com
 trk.beefmagazine.com
+beefoaloode.net
 8r3wkeprke.beefreedesign.com
 go.stripchat.beeg.com
 beeglain.net
@@ -35555,6 +35559,7 @@ btcduke.com
 marketing.btcelectronics.com
 btcgamblingsite.com
 btcgen.info
+btcijivtsvph.com
 btcili.top
 btckhabar.com
 btcloopholepro.com
@@ -63427,6 +63432,7 @@ data.elcorreo.com
 sadbmetrics.elcorreo.com
 sadbmetrics.elcorreoclasificados.com
 stape-server-side-container.eldabutiken.se
+eldaridpr.com
 elderblossoming.net
 elderlawtogo.com
 elderlybean.com
@@ -74491,6 +74497,7 @@ data-d81f60d480.frankenpost.de
 data-fb37a1e7c3.frankenpost.de
 frankfurtcapt.com
 stats.frankfurterneuepresse.de
+frankgreenauonline.shop
 go.frankgroup.com
 frankiesbikinis.fr
 franklikeme.blogspot.com
@@ -83679,6 +83686,7 @@ gwtixda.com
 engage.cps.gwu.edu
 engage.gsehd.gwu.edu
 gwwhale.com
+gwyvusam.com
 gx101.com
 gxbrowser.net
 gxcb.net
@@ -106439,6 +106447,7 @@ laclinicamed.com
 a8cv.laclulu.com
 lacmoorgigeel.net
 www.lacmp.net
+lacoacmokregh.net
 wyaopp.lacoccinelle.net
 ads.lacoctelera.com
 www.lacodeworks.com
@@ -106873,6 +106882,7 @@ scnd.landsend.co.uk
 scnd.landsend.com
 solutions.business.landsend.com
 scnd.landsend.de
+landsideresendtrousers.com
 analys.landskrona.se
 uarrdg.landsofamerica.com
 info.landstar.com
@@ -111519,6 +111529,7 @@ looseloaf.com
 loosenpuppetnone.com
 check.looser.jp
 loot-skins.com
+lootcs.com
 lootdeck.com
 lootforland.com
 loothoushu.com
@@ -124021,6 +124032,7 @@ ad.museum.or.jp
 ads.museum.or.jp
 museummargin.com
 info.museumofthebible.org
+museuw.com
 museyap.skin
 musfraktbg.top
 musheepsumpatch.net
@@ -126633,6 +126645,7 @@ navi35.ru
 navi36.ru
 navi38.ru
 navi39.ru
+navi42.ru
 navi45.ru
 navi53.com
 navi55.com
@@ -132269,6 +132282,7 @@ check.oegebo.icu
 tracking.info.oegig.at
 oehgk.com
 matomo.oekoloewe.de
+oelj.cn
 oempafnyfiexpe.com
 track.oequilibrionatural.com
 att.trk.oeremil.com
@@ -133090,6 +133104,7 @@ a8clk.okuta.com
 knaqsn.okuta.com
 okwjmii.top
 okxparnalc.com
+zkika.okyla.de
 hello.ola.app
 olabodeoludare.com
 lgd8.olailhascanarias.com
@@ -133583,6 +133598,7 @@ wailing-hamburger-abundant.on-fleek.app
 wailing-keyboard-puny.on-fleek.app
 wide-dinner-shrilling.on-fleek.app
 on-glamour.xyz
+icswdocmv.on-ke.tech
 on-li-ne.net
 on-line.lv
 main.on-linemarkets.com
@@ -142954,6 +142970,7 @@ piwik.pling.com
 tracking.plinga.de
 plinko.com.pl
 plinksplanet.com
+plinsaqhsu.com
 plinvem.click
 plinvestingnow.agency
 plinvestingnow.life
@@ -182235,6 +182252,7 @@ todaysgreatstores.net
 rtk.trk.todaysseniorbenefits.com
 rtk.trk.todaysseniorbenefitsnow.com
 todaystoriesnews.shop
+todayswigcontagious.com
 todayswomanpages.com
 b.todaytix.com
 toddlecausebeeper.com
@@ -204901,6 +204919,7 @@ yxjsibeugmmj.com
 yxkbgg.xyz
 yxmrqc.com
 yxpmkgzsqcxyu.site
+yxqmryq.top
 yxswtummev.info
 yxuytpfe-t.icu
 kampanjer.yxvisa.no
