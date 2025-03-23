@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250323002114
-! Last modified: 2025/03/23 00:21:14
-! Blocked domains: 5761
+! Version: 20250323093837
+! Last modified: 2025/03/23 09:38:37
+! Blocked domains: 5747
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -57,7 +57,6 @@ log.120ask.com
 js1.122cha.com
 ad.12306.cn
 m.1234567.com.cn
-www.12377.cn
 uimg.123hala.com
 123juzi.com
 123juzi.net
@@ -678,7 +677,6 @@ beacon-api.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 chaoku.oss-cn-chengdu.aliyuncs.com
 commondata.oss-cn-hangzhou.aliyuncs.com
-coocentpromotion.oss-us-west-1.aliyuncs.com
 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
 darren01.oss-cn-beijing.aliyuncs.com
 dmg-dd.oss-accelerate.aliyuncs.com
@@ -1295,7 +1293,6 @@ ads.ce.cn
 tvuser-ch.cedock.com
 cgigc.com.cn
 cgvwx.cn
-lc.ch.com
 ads.adagent.chacha.com
 metrics.chacha.com
 tracking.chacha.com
@@ -1877,7 +1874,6 @@ fengyukun03.cn
 fenxi.com
 img.ferlie.net
 ks.ferlytc.com
-ffnews.cn
 ffnvhig.cn
 fghghh.cn
 21.fh21static.com
@@ -2377,7 +2373,6 @@ drcn-weather.cloud.huawei.com
 hwa.his.huawei.com
 httpdns.huaweicloud.com
 uba.huaweicloud.com
-matomo.huazhi.cloud
 hubcloud.com.cn
 hubiazhi.com
 hufajushi.top
@@ -2522,6 +2517,7 @@ innatek.com
 innity.com
 innity.net
 gw.innotechx.com
+inping.com
 click.inplayable.com
 oascentral.inq7.net
 ainu.intel.cn
@@ -2877,7 +2873,6 @@ tddz.ksapisrv.com
 tddznew.ksapisrv.com
 tddzsrc.ksapisrv.com
 uget-log-sdk.ksapisrv.com
-ulog-sdk.ksapisrv.com
 ulog3.ksapisrv.com
 web-trace.ksapisrv.com
 wlog.ksapisrv.com
@@ -2886,7 +2881,6 @@ zt.ksapisrv.com
 andmlb.kshwtj.com
 tracker.kshwtj.com
 w1.kskwai.com
-w2.kskwai.com
 beha.ksmobile.com
 dl.cm.ksmobile.com
 dl.pg.ksmobile.com
@@ -4182,7 +4176,6 @@ adimg.mobile.sina.cn
 click.uve.mobile.sina.cn
 cre-dp.sina.cn
 cre.dp.sina.cn
-dmp.sina.cn
 gk.sina.cn
 log.sina.cn
 log2.sina.cn
@@ -4307,11 +4300,9 @@ mercury-sdk.snssdk.com
 mon.snssdk.com
 mssdk-bu.snssdk.com
 open.snssdk.com
-os-mon.snssdk.com
 pangolin.snssdk.com
 pc-mon.snssdk.com
 sdfp.snssdk.com
-smr.snssdk.com
 tbm.snssdk.com
 tnc3-bjlgy.snssdk.com
 toblog.snssdk.com
@@ -4956,7 +4947,6 @@ kz-monitor-stsdk.vivoglobal.com
 kz-onrt-stsdk.vivoglobal.com
 kz-ort-stsdk.vivoglobal.com
 kz-st-exappupgrade.vivoglobal.com
-kz-st-sl.vivoglobal.com
 kz-st-sysupgrade.vivoglobal.com
 kz-stsdk.vivoglobal.com
 kz-vcode-od.vivoglobal.com
@@ -5002,7 +4992,6 @@ vpadn.com
 vpsgu.cn
 jaccs-lampast.vqulg.cn
 vsojfsoj.com
-ouj.vtqccm.com
 vuhidf.cn
 vungle.cn
 bu1.vvvdj.com
@@ -5226,7 +5215,6 @@ o2o.api.xiaomi.com
 ottl7-l2.pandora.xiaomi.com
 package.box.xiaomi.com
 pi.ias.xiaomi.com
-preload.xiaomi.com
 resolver.mi.xiaomi.com
 ru.video.intl.xiaomi.com
 sdkconfig.ad.india.xiaomi.com
@@ -5393,9 +5381,7 @@ counter.yesky.com
 imgapp.yeyou.com
 ue.yeyoucdn.com
 yezilm.com
-adx-data.yfanads.com
 api.yfanads.com
-tracker.yfanads.com
 ygwdai.cn
 ygxgk.cn
 ygzqlnt.cn
