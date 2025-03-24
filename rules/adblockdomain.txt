@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250324002125
-! Last modified: 2025/03/24 00:21:25
-! Blocked domains: 206809
+! Version: 20250324092814
+! Last modified: 2025/03/24 09:28:14
+! Blocked domains: 206827
 !
 0-0.fr
 0-02.net
@@ -5993,6 +5993,7 @@ acessoclientevalidar.dnsalias.com
 android-stat.acestream.net
 magicplayer-s.acestream.net
 mstat.acestream.net
+acetinsjumbos.top
 acetrk.com
 acevep.com
 ads.aceweb.net
@@ -47317,6 +47318,7 @@ coolemailnames.com
 coolerads.com
 coolerclaimer.click
 coolerconvent.com
+coolergeosid.shop
 coolerpassagesshed.com
 coolestblockade.com
 coolestcatcare.com
@@ -63666,6 +63668,7 @@ marketing.emirsoftware.com
 info.emishealth.com
 emission-online.com
 emissionidiompolygon.com
+emitlavas.click
 emitmagnitude.com
 emitraservices.com
 tarsier.emitremmus.com
@@ -71134,6 +71137,7 @@ sstats.fishersci.pt
 sstats.fishersci.se
 fishersfinds.com
 fishertonsoul.com
+fisheyeskimmed.click
 fishhoo.com
 a8.fishing-v.jp
 ryjipx.fishing.ne.jp
@@ -82740,6 +82744,7 @@ gulfportcabinets.com
 marketing.gulfshores.com
 gulfstay.com
 gulfyteases.shop
+gulgulsinjer.top
 gullible-lawyer.pro
 gullibleanimated.com
 gulliblecamp.com
@@ -84280,6 +84285,7 @@ hashtagmonk.com
 hashturn.com
 pool.hashvault.pro
 hashzone.io
+hasidagamian.click
 hasideanzuage.life
 trk.haskel.com
 ads.haskovo.net
@@ -85331,6 +85337,7 @@ helmpa.xyz
 helmregardiso.com
 heloereister.top
 heloisessa.com
+heloninremake.shop
 help-customs-support.com
 help-disneyplus.com
 help-europe.life
@@ -102713,6 +102720,7 @@ kharwaenema.top
 khatexcepeded.info
 khazaen.com
 khbni.cn
+khegritww.com
 khelafreaxer.com
 kheloharyana.com
 kheloyartournament.com
@@ -103778,6 +103786,7 @@ f.knuffelwuff.es
 n.knuffelwuff.fr
 f.knuffelwuff.nl
 f.knuffelwuff.pl
+knul.cn
 knutenegros.pro
 knvt-telegram.com
 knxabzznddtc.com
@@ -111209,6 +111218,7 @@ lpmt.net
 lpmugcevks.com
 www.lpmxp2017.com
 lpmzt.cn
+lpo03240aou.com
 lpoholidays.com
 lpoms.com
 lppfnf.icu
@@ -122255,6 +122265,7 @@ vyvenv.movistar.com.ec
 movitop.info
 ext.movixhub.com
 movve.com
+mowablegyros.shop
 mowahoe.com
 mowcawdetour.com
 mowcoordinateegypt.com
@@ -135509,6 +135520,7 @@ outstantewq.info
 outster.com
 nepveu.outstore.com.br
 ad.outstream.today
+outtasknapaea.click
 outtimburrtor.com
 outtlook.fr
 outtogetme.com
@@ -142118,6 +142130,7 @@ plebzek.shop
 pleccosale.com
 plecki.com
 plecnyz.icu
+plectrarestio.shop
 pledgeexceptionalinsure.com
 pledgeincludingsteer.com
 meta-events.pledgereg.com
@@ -151463,6 +151476,7 @@ r9qy.cfd
 ra-bp0000.com
 ra-uchwolr.one
 ra1.xyz
+ra10.xyz
 advisor.raa.com
 secure.raab3frog.com
 www.raab3frog.com
@@ -159175,6 +159189,7 @@ a.sami.se
 samiana.com
 samianepa.top
 target.samiltax.com
+samisenlet.click
 samkoproducts.xyz
 tracking.samkrishmachinetools.org
 dgaxzn.samma3a.com
@@ -176925,6 +176940,7 @@ tjyrup.templeandwebster.com.au
 templeoffendponder.com
 go.templeviewcap.com
 hcmw.templodelmasaje.com
+tempo-client-metric-prod.s3.amazonaws.com
 link.tempo.fit
 banners.tempobet.com
 temporal-sour-yardunu-loveyou999-808utu.glitch.me
@@ -194997,6 +195013,7 @@ vx0c.cfd
 lnpospt.vx7prj.cyou
 olix.vx7prj.cyou
 www.vxcash.net
+vxcewh.cn
 partner.vxcp.de
 vxdrfr.xyz
 vxorjza.com
@@ -195175,6 +195192,7 @@ wadauthy.net
 sst.waddengenot.nl
 sst.waddengenotaanzee.nl
 sst.wadlopen-pieterburen.nl
+waefufloaty.shop
 te.waeschepur.de
 tp.waeschepur.de
 waescyne.com
