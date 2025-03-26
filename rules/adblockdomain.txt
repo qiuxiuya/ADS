@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250326002300
-! Last modified: 2025/03/26 00:23:00
-! Blocked domains: 208490
+! Version: 20250326092632
+! Last modified: 2025/03/26 09:26:32
+! Blocked domains: 208502
 !
 0-0.fr
 0-02.net
@@ -93,7 +93,7 @@ o.027eat.com
 027lyty.com
 0281.jp
 allegrolokalnie.028588.shop
-ae33d7ee85.029519cbdc.com
+029519cbdc.com
 02952346.xyz
 197a0c366b.02be4c77d5.com
 7452c605e9.02ea6adc36.com
@@ -11454,6 +11454,7 @@ akernans.com
 akerolabs.com
 ctlxht.akeso.co.kr
 pbclyu.akewatu.fr
+akfteothobqbk.space
 pd.akgeoenergy.com
 pe.akgeoenergy.com
 ljlgf.akgoj.cn
@@ -21391,6 +21392,7 @@ avsfrance.fr
 avsifil.com
 avsink3431.fun
 avskype.com
+avsojlonp.com
 avspda.xyz
 avsplow.com
 avsvmcloud.com
@@ -25528,6 +25530,7 @@ ac.berlinonline.de
 go.berlinpackaging.com
 berlipurplin.com
 ougwqe.berloquebox.com.br
+bermestricker.shop
 ydtzzw.bernabeudigital.com
 ss.bernard-rives.com
 bernardmarket.com
@@ -56510,6 +56513,7 @@ dh0uktvqfaomb.cloudfront.net
 dh3a.yt
 dh6dm31izb875.cloudfront.net
 smetrics.dha.com
+dhaaralzz.com
 dhads.net
 dhamakamusics.com
 dhammasugati.com
@@ -60302,6 +60306,7 @@ drlalitamalik.com
 drleez.xyz
 datastream.drlifestyle.pl
 drlizkwo.com
+drlzlc.top
 drmarlenemd.com
 smetrics.drmartens.co.nz
 smetrics.drmartens.com.au
@@ -82257,6 +82262,7 @@ gqfuf.com
 go.gqgpartners.com
 gqjdweqs.com
 gqjeqaqrxexmd.com
+gqoi.cn
 gquwuefddojikxo.xyz
 partner.gr7.cz
 gr8onlinedeals.com
@@ -87528,6 +87534,7 @@ branch-tradie.hipages.com.au
 branchio.hipages.com.au
 hipals.com
 cpp.hipamo.com
+hipanditlastedallth.com
 hi.hipcamp.com
 adlog.hipcricket.com
 forms.marketing.hiperbaric.com
@@ -128888,6 +128895,7 @@ goto.newmarklearning.com
 newmattresses.net
 newmayads.com
 trk.newmdrn.com
+newmedia.az
 add.newmedia.cz
 ads.newmedia.cz
 newmedia.live
@@ -131977,6 +131985,7 @@ nusantara-food.com
 nuschias.top
 nuseek.com
 nuskin.com
+nuskt.directory
 tnqdqs.nusolbio.co.kr
 app.nusports.com
 t.nusports.com
@@ -172756,6 +172765,7 @@ stebinseng.com
 hornet.stechstudio.com
 gtm.stecksfliserens.dk
 stecmcommunnity.com
+stedallthrought.com
 stedrits.xyz
 steedgodful.com
 steefuceestoms.net
@@ -174347,6 +174357,7 @@ sukienlq.com
 sukienzingspeed.com
 a8cv.worker.sukimaworks.app
 adobe.sukoonglobalhealth.com
+sukspcwrnqpbs.life
 sukterka.ru
 sukui01.com
 sukui02.com
@@ -204114,6 +204125,7 @@ stats.xtb.com
 xtbpol.com
 trk.xtdeco.ro
 xtdvvp.icu
+xtdztyiqyhmet.global
 images.e.xtelligentmedia.com
 stape.xtendhome.cz
 xtendmedia.com
