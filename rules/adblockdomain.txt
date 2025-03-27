@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250327162532
-! Last modified: 2025/03/27 16:25:32
-! Blocked domains: 208001
+! Version: 20250328002534
+! Last modified: 2025/03/28 00:25:34
+! Blocked domains: 208033
 !
 0-0.fr
 0-02.net
@@ -3517,6 +3517,7 @@ jh0spt0d.6619462.com
 6651tp.com
 666579.xyz
 www.6666349.com
+666777888abc.com
 allegro.666933.shop
 6669667.com
 tg.666986.xyz
@@ -19659,6 +19660,7 @@ attractionbanana.com
 attractionmarketing.com
 attractivecap.com
 attractivecutiewcx.com
+attractivereception.com
 attractivesurveys.com
 attractsteadyclients.com
 tracking.attractwomen.com
@@ -33438,6 +33440,7 @@ dl.booksy.com
 go.booksy.com
 link.booksy.com
 refer.booksy.com
+booksylatron.com
 partner.booktook.cz
 booktxt.xyz
 admin.bookview.world
@@ -33643,6 +33646,7 @@ borrowedtransition.com
 borrowhourglass.com
 borrowingbalm.com
 borrowjavgg124.fun
+borrowpreviewcardinal.com
 borsalinofrance.fr
 borsendental.com
 borshh-na-risovom.com
@@ -50718,6 +50722,7 @@ smetrics.cvty.com
 cvujac.xyz
 cvupdateservice.com
 ads.cvut.cz
+cvvczlcg.com
 cvvemdvrojgo.com
 cvw-3.com
 cvwave.com
@@ -61184,7 +61189,7 @@ e7d9861b83.com
 e7e34b16ed.com
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 e82ae52eec.com
-13c29d08a5.e8370630f3.com
+e8370630f3.com
 a8clk.www.e87.com
 hmeagu.e87.com
 e890f5e345.com
@@ -80847,6 +80852,7 @@ gomtdatacom.xyz
 adw.gomtv.com
 ana.gomtv.com
 gomucreu.com
+gomyonis.com
 gonamedia.com
 gonamic.de
 goncoufkfh.com
@@ -81593,6 +81599,7 @@ hynptv.gourmetgiftbaskets.com
 gousouse.com
 goutee.top
 gouthoat.com
+goutscoxite.top
 gouv-ameli-info.fr
 gouv-antai.net
 gouv-critairs.fr
@@ -87409,6 +87416,7 @@ ad-splash.hktvmall.com
 ad-splash-tracking.hktvmall.com
 msbainfo.fbe.hku.hk
 marketing.mba.hkust.edu.hk
+hkzhongzhuangzhan.cc
 sc.hl.co.uk
 ssc.hl.co.uk
 www2.hl.com
@@ -87454,6 +87462,7 @@ hmafhczsos.com
 geoip.hmageo.com
 hmai.jp
 email.everyonesocial.hmausa.com
+hmazuxhikosj.com
 hmbprf.icu
 adbsmetrics.ep.hmc.co.kr
 hmccommerce.com
@@ -87756,6 +87765,7 @@ mailer.holidayseniorliving.com
 holidayvoucher.us
 holidayz100.sbs
 holika.com
+holikedtocometot.com
 a.holimsishoe.click
 holister.fr
 holisti-luxe.com
@@ -92858,6 +92868,7 @@ inappi.co
 inappi.me
 analytics.inappm.com
 inappropriate2.fun
+inappropriatejessamycookery.com
 inareputaonforha.com
 inareputaonforhavin.com
 inaritechnologies.com
@@ -97638,6 +97649,7 @@ jamiesphotos.com
 jamjamjam.biz
 jammasterys.com
 a.jamni.xyz
+jampackedemphasis.com
 jampp.com
 jams.wiki
 jamsaingenieros.com.pe
@@ -102945,6 +102957,7 @@ keepstra.com
 analytics.keepstreams.com
 keepuptime.com
 getapp.keepy.me
+keeraiwhum.com
 fcgatc.keessmit.de
 gnowkn.keessmit.nl
 secure.keet1liod.com
@@ -111619,6 +111632,7 @@ tracker.loropartners.com
 lorsifteerd.net
 lorswhowishe.com
 lorybnfh.com
+lorzelofd.com
 los-amores.com
 smetrics.los40.cl
 smetrics.los40.com
@@ -116016,6 +116030,7 @@ t.mazdausa.com
 mazefoam.com
 mazejoa.com
 mazford.com
+mazgeyfpbvv.com
 mazlspqnn.ru
 mazowieckie-info.pl
 mazuma.ru
@@ -119692,6 +119707,7 @@ mischiefrealizationbraces.com
 miscreantmoon.com
 misdeedtucked.shop
 traceparcel-dhlupdate-dh.misecure.com
+miserable-physical.com
 miserablefocus.com
 miserablenobody.com
 miserdiscourteousromance.com
@@ -121565,6 +121581,7 @@ moende11disney.fr
 cs.moeney.cc
 moengage.com
 wctr.moenninghoff.net
+moenyandluckybymyside.com
 moera.xyz
 tr.apac.coms.moethennessy.com
 tr.ceeregion.moethennessy.com
@@ -129369,6 +129386,7 @@ nigelbingham.com
 nigelblake0405.com
 go.nigelfrank.com
 nigerianpetition.com
+nigglymezzo.top
 nightbesties.com
 nightbyrr.com
 nighter.club
@@ -135542,6 +135560,7 @@ go.orbitanalytics.com
 orbitcarrot.com
 orbitcluster.com
 ad.orbitel.bg
+orbitercocket.top
 orbitinternationalschool.com
 orbitlabs.org
 orbitlost.com
@@ -137472,6 +137491,7 @@ paitheerauvoag.net
 paitosakti.com
 paiwariaroids.shop
 paiwena.xyz
+paiwhainaicas.com
 mm.paizi.net
 paizowheefash.net
 go.pajamaprogram.org
@@ -143753,6 +143773,7 @@ podiumbullet.com
 smetrics.podiumpodcast.com
 podiumprojectiles.com
 meta-events.podiumrunner.com
+podleysensing.shop
 asp.podlist.de
 podlozky-spz.sk
 podmedya.com
@@ -170788,6 +170809,7 @@ ionfip.spoclip.com
 partner.spodni-pradlo-rekova.cz
 spodnice.shop
 ssq.spofbd99.com
+spoh.cn
 spoiledpresence.com
 spoilphysiqueteenagers.com
 spoilqueens.com
@@ -171050,6 +171072,7 @@ spotscenered.info
 spotsniper.ru
 static-cdn.spott.ai
 analytics.spotta.nl
+spotted-alternative.com
 spotted-estate.pro
 spottedblackcat.com
 spottedgrandfather.com
@@ -171295,6 +171318,7 @@ squadron.pro
 share.squadx.online
 squalidscrew.com
 squamishcondo.com
+square-direction.com
 square-planet.com
 p.square1art.com
 inmenw.squaredeco.com
@@ -182930,6 +182954,7 @@ toeapesob.com
 toedrawer.com
 toenailannouncehardworking.com
 toenur.top
+toequiet.website
 toesixover.live
 banners.toeto.com
 www.toexten.com
@@ -183259,6 +183284,7 @@ toothbrushlimbperformance.com
 toothcauldron.com
 partneri.toothy.cz
 tooyaconcept.com
+toozouchoor.net
 top-bloggers.com
 sgtm.top-car-hire.com
 tgg.top-casinos-list.com
@@ -183894,6 +183920,7 @@ load.sgtm.totimodesign.com
 totjbbqm.com
 totlnkbn.com
 totlnkcl.com
+totlov.com
 totocannon.com
 totogetica.com
 totogroup.world
@@ -188513,6 +188540,7 @@ umkezbh.cn
 data-1a0802654a.umkirch.de
 yeggtaosten.umlaudepas.com
 ummahherbals.com
+ummertisaridiculou.com
 mktg.ummhealth.org
 pagename.care.ummhealth.org
 trk.ummhealth.org
@@ -189331,6 +189359,7 @@ unlock-account-payp1.site
 unlock2024app.world
 unlockads.com
 app.unlockar.com
+unlockcontent.org
 unlockecstasyapparatus.com
 unlockedtracks.com
 connect.unlockhealthnow.com
@@ -198586,6 +198615,7 @@ weiha.yt
 1.weiheshidai.com
 data-60d896f23d.weihnachten-in-hannover.de
 weihomegakuen.com
+weike88.com
 ads.weilitoutiao.net
 weilogin.com
 weiluyan.cn
@@ -205633,6 +205663,7 @@ yuppipuppy.com
 yuppyads.com
 yupuwell.world
 yuqmok.xyz
+yuqnyudug.com
 yur-p.ru
 yuri0513kago.com
 yuriereading.blogspot.com
@@ -207772,6 +207803,7 @@ hw.zuimeitianqi.com
 stat.zuimeitianqi.com
 zuisinchills.shop
 zuisinservo.top
+zuizhongyj.com
 zujibumlgc.com
 inpost.zujoklipnol.org
 zukddms.cn
