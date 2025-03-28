@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250328002534
-! Last modified: 2025/03/28 00:25:34
-! Blocked domains: 208033
+! Version: 20250328092616
+! Last modified: 2025/03/28 09:26:16
+! Blocked domains: 208057
 !
 0-0.fr
 0-02.net
@@ -10325,6 +10325,7 @@ cdn62004373.ahacdn.me
 cdn65182383.ahacdn.me
 cdn72891311.ahacdn.me
 cdn81910013.ahacdn.me
+cdn83753766.ahacdn.me
 ahaclub.ru
 ahadsply.com
 ahalogy.com
@@ -12737,6 +12738,7 @@ alotofquotes.com
 aloudhardware.com
 alovirs.com
 alowaretalk.com
+alowbowsohef.com
 trk.bc.aloyoga.com
 aloyogaparis.fr
 aloyogapolska-pl.com
@@ -21582,7 +21584,7 @@ info.azuga.com
 azukgee.cn
 azulcw7.com
 connect.azulseven.com
-applicationinsights.azure.com
+westus-0.in.applicationinsights.azure.com
 message.azuredrifter.com
 adncdnend.azureedge.net
 analytics-consent-manager.azureedge.net
@@ -42148,6 +42150,7 @@ chtatic.appspot.com
 chtbarta.com
 chtntr.com
 chtoumenja.biz
+chtsayil.com
 103.chtsite.com
 chu-allauch.fr
 chu-bordeau.fr
@@ -44713,6 +44716,7 @@ cns-media.com
 go.updates.cnsc.us
 www.cnstats.com
 cnstats.ru
+cnstrc.com
 www.cnt-tm-1.com
 cnt.my
 cnt.nov.ru
@@ -52353,6 +52357,7 @@ d8dcj5iif1uz.cloudfront.net
 d8dkar87wogoy.cloudfront.net
 d8hdm94ldw8yr.cloudfront.net
 m.d8qu.com
+d8sllv1cwflbw.cloudfront.net
 d8xy39jrbjbcq.cloudfront.net
 d8yw4927nnimu.cloudfront.net
 photo.d902.lat
@@ -62948,6 +62953,7 @@ a8cv.eikajapan.com
 eikegolehem.com
 analytics.eikondigital.it
 www.emails.eilcompanies.com
+eildralfl.com
 eileencuringa.com
 adingo.jp.eimg.jp
 get.mobu.jp.eimg.jp
@@ -77494,7 +77500,7 @@ geckad.com
 geckibou.com
 gecko.me
 gecksnabbie.shop
-gecl.xyz
+cdn.gecl.xyz
 liberty.gedads.com
 kingfisher.gedaly.com
 vinted-pl-gj32d.gedia.top
@@ -89146,6 +89152,7 @@ hpskiqiafxshdf.com
 info.hpspartners.com
 hpsports.com
 www.hptennis.com.au
+hptidc.top
 hptransparts.com
 cdxpapi.hptronic.cz
 cdxpcdn.hptronic.cz
@@ -90895,6 +90902,7 @@ icloud-locations.info
 icloud-loging.com
 icloud-storages.com
 icloud-support.fr
+icloud-vietnam.info
 feedbackws.icloud.com
 metrics.icloud.com
 metrics-config.icloud.com
@@ -91724,6 +91732,7 @@ ii-inpost-pl-ii.top
 ii-post-lt.top
 ii0r.cfd
 ii9g0qj9.de
+iiageq.com
 iias.eu
 go.iiba.org
 www.iicdn.com
@@ -99864,6 +99873,7 @@ tracking.jiffyworld.com
 link.jig.space
 pro.jig.space
 jigavlogs.com
+jiggledanezeh.top
 jighucme.com
 jigsawbanana.com
 jigsawchristianlive.com
@@ -103354,6 +103364,7 @@ kfeuewvbd.com
 qpielh.kfhi.or.kr
 kfiopkln.com
 kfjhd.com
+kflhwntytom.com
 kfngvuu.com
 axp.kfor.com
 kfpicimage.xyz
@@ -110065,6 +110076,7 @@ liquidspace.ng
 marketing.liquidvoice.co.uk
 liquordice.com
 liquorelectric.com
+liqw.cn
 liqwid.com
 liqwid.net
 liracdn.com
@@ -115414,6 +115426,7 @@ massifgames.com
 massimodutti-france.fr
 ads.massinfra.nl
 massiveanalyticssys.net
+massivebelieved.com
 store.massivediscounts.co.uk
 massivetreadsuperior.com
 massiveunnecessarygram.com
@@ -160473,6 +160486,7 @@ marketing.sambasafety.com
 sambrlackgvdrg.com
 sambrsikrkam.com
 gabrielahlavack.samcart.com
+samcenter-vn.com
 samchist.ru
 samconus.com
 pages2.samcotech.com
@@ -166360,6 +166374,7 @@ simpodcrer.com
 www2.simprogroup.com
 simptrack.com
 simpunok.com
+hadeseh.simra.cloud
 simsinocasino-fr.fr
 simsinocasinofrance.fr
 ads.simtel.com
@@ -173114,6 +173129,7 @@ link2.strawberrynet.com
 weblog.strawberrynet.com
 strawdeparture.com
 strawpoii.me
+log.strawpoll.com
 straxarpanel.com
 cdn.stray228.com
 strayeds.com
@@ -176698,6 +176714,7 @@ tauronenergya.org
 tauronhub.pro
 sst.taurustraders.de
 taurusx.com
+tautauphaur.net
 tauvoojo.net
 tauzo.xyz
 tavanovincent.com
@@ -177485,6 +177502,7 @@ tekaners.com
 tekhacks.net
 tr.news.teklifim.pro
 tags.tekna.no
+1125bgg.teknikad.com
 revive.teknikveckan.com
 analytics.teknikveckan.se
 ma.tekniskkvalitet.se
@@ -189748,6 +189766,7 @@ uponpanpourchan.net
 uponrimking.live
 uponsurskita.com
 upontogeticr.com
+uposnmb.icu
 uppdragledning.se
 trl.upperbooking.com
 trv.upperbooking.com
@@ -191044,6 +191063,7 @@ vinted-pl-gj32d.uttu.top
 utua.com.br
 utubepwhml.com
 utulni.com
+utumncamethe.com
 utv56.com
 api-fangarma.utyug.media
 thoth.utyug.media
@@ -194695,6 +194715,7 @@ vkhrhbjsnypu.com
 top100.vkirove.ru
 vkkwxlqj.love
 vklike.com
+vkmlabrjpppd.com
 vkmnz.yt
 vknrfwwxhxaxupqp.pro
 vkonche.com
@@ -195571,6 +195592,7 @@ vqfumxea.com
 vqhlhfjmvcvxw.com
 vqhrqt.com
 vqonjcnsl.com
+vqrozzojjlwbz.top
 jaccs-lampast.vqulg.cn
 vqydliiyda.net
 target.vr-bankenportal.de
@@ -203440,6 +203462,7 @@ ssl.xn--vqq79r59m.eu.org
 xn--vtoavenue-b4a.fr
 xn--w9q675dm1p7em.net
 xn--wiadomoci24-kfc.news
+xn--wvvw-icoud-rw3e.com
 xn--wxtr9fwyxk9c.xn--fiqs8s
 xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 xn--xhq9mt12cf5v.ren
@@ -204743,6 +204766,7 @@ yl-sooippd.vip
 aoa.yl16.lat
 gph.yl16.lat
 m7i.yl16.lat
+ylad.ir
 yladihsmkopov.xyz
 yldbt.com
 yldmgrimg.net
