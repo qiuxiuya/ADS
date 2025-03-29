@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250329162259
-! Last modified: 2025/03/29 16:22:59
-! Blocked domains: 209179
+! Version: 20250330002214
+! Last modified: 2025/03/30 00:22:14
+! Blocked domains: 209198
 !
 0-0.fr
 0-02.net
@@ -5097,6 +5097,7 @@ metrics.abanca.com
 smetrics.abanca.com
 target.abanca.com
 abanteswoodie.top
+abanwthwitfb.com
 abaolokvmmblr.top
 abaolokvmmvlv.top
 abaolokvmmwrb.top
@@ -5310,6 +5311,7 @@ vinted-it.abidcreations.com
 vlnted-be.abidcreations.com
 abieghobeish.shop
 flamingo.abihome.de
+abilaotiraz.com
 smetrics.abilify.com
 smetrics.abilifyasimtufii.com
 smetrics.abilifyasimtufiihcp.com
@@ -18489,6 +18491,7 @@ ttn.artofselfcaire.com
 artoken.co
 artoldandhome.com
 artomoropodojoyo.com
+artoomanyrelati.com
 artpaint-market.ru
 artpalette.fr
 artparquet.ru
@@ -25116,6 +25119,7 @@ beqbox.com
 beqcoabc.com
 shop.beqhxl.top
 beqis.com
+beqnnobwt.com
 beqylye.com
 server.beradiancebeauty.com
 berahotelalanya.com
@@ -29121,6 +29125,7 @@ gtmsc.bkv.jobs
 bkvmedec.com.pl
 bkxpph.xyz
 data-997fc825f1.bkz.de
+bkzvlybiumqlb.com
 bl-1.com
 ads.bl-consulting.net
 bl0uxepb4o.com
@@ -43637,6 +43642,7 @@ clockwisefamilyunofficial.com
 clockwiseleaderfilament.com
 clodderpickmaw.com
 clodsplit.com
+cloesfleing.com
 acweb.clog.jp
 jkerpa.clogau.co.uk
 clogcheapen.com
@@ -53646,6 +53652,7 @@ dajomikitl.xyz
 dajswiacllfy.com
 dajtamnrat.com
 dajuvai.com
+dajytkby.com
 dakamcity.com
 dakawm.cc
 sst.dakbeheervdlbv.nl
@@ -97661,7 +97668,7 @@ s.isoporno.com
 lx.isoptichabiru.com
 isotoner.com
 cil.isotope.com
-ly.isotopeweeping.com
+isotopeweeping.com
 track.isovoxbooth.com
 affiliate.ispace.cz
 tr.ispaconsulting.com
@@ -101870,6 +101877,7 @@ jouwaikekaivep.net
 load.ywt.jouwgezondheidstest.nl
 jouwstats.nl
 jovaughnpowell.com
+jovcbp.top
 jovenesat.com
 apptest.jow.fr
 jowingtykhana.click
@@ -105823,6 +105831,7 @@ kopaniebitcoin.pl
 matomo.kopano.com
 kopeukasrsiha.com
 thegreatesthits.kopfhoerer.de
+kophssacques.com
 kopipopup.com
 isic.kopirkaostrava.cz
 kopistender.website
@@ -106512,6 +106521,7 @@ xldqxwdmew.ksoyw.cn
 kspmaaiayadg.com
 kspotson.de
 stats.ksr.onl
+ksro.cn
 yplkoe.kssedu.com
 kssolo.com
 consent.ksta.de
@@ -106981,6 +106991,7 @@ pull-3045.kxcdn.com
 sumome-140a.kxcdn.com
 taponejs-184e.kxcdn.com
 v1-c73e.kxcdn.com
+kxdxsbyomyuim.rocks
 web.kxhelp.top
 kxiaruornurfb.tech
 kxjanwkatrixltf.xyz
@@ -113153,6 +113164,7 @@ luggieimpeyan.top
 lugittolarch.com
 lugoj.net
 lugtzejkowhi.com
+lugwzalsqvacb.one
 luhhcodutax.com
 luis2live.com
 luisardo.com
@@ -115914,6 +115926,7 @@ eikwax.marmot.com
 server.marmote.fr
 marmut.fr
 marnowanieczasu.click
+maroderner.com
 marolles.info
 maromeria.com
 maroohost.online
@@ -126707,6 +126720,7 @@ nadziejaich.rest
 nadziejamy.rest
 go.naea.org
 server.naeh-paradies.de
+naehqgcanrh.xyz
 ulhyys.naehwelt.de
 naemowse.com
 partneri.naenergie.cz
@@ -153023,6 +153037,7 @@ quziao.xyz
 quzmtpxw.xyz
 quzodcttub.com
 quzwteqzaabm.com
+quzxatapvz.com
 smetrics.qvc.com
 target.qvc.com
 zhcxvk.qvc.com
@@ -198162,6 +198177,7 @@ info.watertechonline.com
 waterten.com
 watertowncabinets.com
 ggw.watertu.com
+waterwithhiswing.com
 load.gspwicky.watery.ch
 load.gspwicky.watery.de
 load.gspwicky.watery.dk
@@ -201947,6 +201963,7 @@ wmclickz.ru
 wmctjd.com
 wmeexclusivecourrierservice.com
 wmeozwavstre.com
+wmeqoborqboyv.top
 metrics.wmg.com
 smetrics.wmg.com
 wmgroup.us
@@ -208072,6 +208089,7 @@ zikebya.info
 zikeke7.com
 zikevee.com
 download.zikirapp.com
+zikmoeujcwme.com
 zikpwr.com
 zikroarg.com
 link.zikto.com
@@ -208198,6 +208216,7 @@ ziplinebrakecalculator.com
 ziplink.uk
 smetrics.ziplyfiber.com
 zippercontinual.com
+zipperszebecs.com
 zipperxray.com
 zippingcare.com
 squiggleflap370.zippityzap.uno
