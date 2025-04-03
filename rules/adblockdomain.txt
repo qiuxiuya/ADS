@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250403162604
-! Last modified: 2025/04/03 16:26:04
-! Blocked domains: 209125
+! Version: 20250404002411
+! Last modified: 2025/04/04 00:24:11
+! Blocked domains: 209158
 !
 0-0.fr
 0-02.net
@@ -393,6 +393,7 @@ tracking.10gb.vn
 www.10iski.com
 adm.10jqka.com.cn
 stat.10jqka.com.cn
+10k8ovyv.art
 sadbmetrics.10knocturnagijon.es
 ebistoppan2.10nengenki.com
 ablink.media.10play.com.au
@@ -3111,7 +3112,7 @@ vinted-pl-gj32d.5bahisalon.top
 5c4ccd56c9.com
 load.data.5ca.com
 5cc3ac02.xyz
-71466a5633.5cd9ca94fb.com
+5cd9ca94fb.com
 collector-videoplayer.5centscdn.net
 ads.5ci.lt
 5clo0xmbf.com
@@ -3272,6 +3273,7 @@ www.620035.com
 e91ab5975e.623efad9ac.com
 62842068.xyz
 62a77005fb.com
+62ad.com
 60ce55878b.62c013248b.com
 62ca04e27a.com
 62zd0.icu
@@ -3595,6 +3597,7 @@ jh0spt0d.757864378.com
 allegro.7584743.one
 758xps.com
 75h4x7992.com
+760a131226.com
 www.76181678.com
 76185-094142.shop
 76236osm1.ru
@@ -10184,6 +10187,7 @@ agqycbadbofog.com
 smetrics.agra-net.com
 marketing.agracel.com
 agrainagreenandabean.com
+agraizaupta.com
 agrantsem.com
 1februaryalert.agrapost.com
 1februarypolice.agrapost.com
@@ -13583,6 +13587,7 @@ ad.pr.ameba.jp
 api.curation.ameba.jp
 click.affiliate.ameba.jp
 ln.ameba.jp
+sy.ameba.jp
 usrattr.ameba.jp
 sy.amebame.com
 track.amebame.com
@@ -34478,6 +34483,7 @@ pro.brokaws.top
 toya.brokaws.top
 wask.brokaws.top
 brokemeritreduced.com
+brokenchairlaugh.com
 brokendisrsemo.com.pl
 brokenfee.net
 brokenheartsyndromepedia.com
@@ -46872,6 +46878,7 @@ comparecreditcardoffers.com
 orange-nl.comparecycle.com
 compareddiagram.com
 comparedsilas.com
+comparedsobalike.com
 stape.compareinsulation.io
 inform.comparenchoose.com
 comparepoisonous.com
@@ -53473,6 +53480,7 @@ pxl.darchermedia.com
 darcycapacious.com
 darcyjellynobles.com
 smetric.darden.com
+dardzeglhpsqv.tech
 mwqncw.dare2b.com
 dare2blimitless.com
 daredac.com
@@ -62730,6 +62738,7 @@ ecudisrush.live
 ecudsc.cn
 app.ecupirates.com
 t.ecupirates.com
+ecuryrentattribut.org
 ecusemis.com
 ecustomeropinions.com
 ferret.ecvan.io
@@ -66030,6 +66039,7 @@ erbookkeeper.com
 lfyqsi.erborian.com
 ercarcarelab.com
 ercnnier.com
+ercockremarke.org
 ercoeteasacom.com
 m.ercos.cn
 ercynegetic.com
@@ -68868,6 +68878,7 @@ a8.exwimax.jp
 go.exxat.com
 exxaygm.com
 addata.exxen.com
+exxohwvxupjv.com
 go.exxonmobilchemical.com
 zjhlsx.exxpozed.de
 data-c3a3188a23.exxpress.at
@@ -70550,7 +70561,7 @@ metrics.fedex.com
 smetrics.fedex.com
 go.fedhealth.us
 ok.fedhealthcare.us
-a.fedim.site
+fedim.site
 go.fedmedi.us
 ok.fedmedi.us
 fedoroffssteaks.com
@@ -75852,6 +75863,7 @@ fter-po5.top
 ftertheyhagete.com
 marketing.ftfnews.com
 ftgimports.com
+ftgprtrhfntks.today
 fthbresource.org
 ftheusysianeduk.com
 blfkmp.fti.de
@@ -86991,6 +87003,7 @@ bfjpbw.herrenausstatter.de
 herringgloomilytennis.com
 mxhugn.herringshoes.co.uk
 engage.herrmannsolutions.asia
+herryimmixed.com
 smetrics.herschel.com.au
 hxaypz.herschelsupply.com
 data-f1e447fbcf.hersfelder-zeitung.de
@@ -93360,6 +93373,7 @@ imprintmake.com
 impromot.com
 ctzcqz.impromptugourmet.com
 improperadvantages.com
+impropermoleculeshilling.com
 impropertoothrochester.com
 trck.info.improsafondos.com
 improtants.space
@@ -98159,6 +98173,7 @@ metric.jahnreisen.de
 metrics.jahnreisen.de
 jaibhawaniexpo.com
 cname.jaic-college.jp
+jaifeeveely.com
 jaifoptafoog.com
 dgdct.jaikainsurancebrokerage.com
 jailabridge.com
@@ -109186,6 +109201,7 @@ lepirateportail.net
 cmp.lepoint.fr
 fsegfy.lepoint.fr
 rsc.lepoint.fr
+lepomisprinted.shop
 leportauprincien.com
 lepubs.com
 leqasforsalesre.org
@@ -115052,6 +115068,7 @@ mangomy.co
 mangomy.net
 mangomy.shop
 tracking-api.mangopulse.net
+mangrao.club
 mangtaoxa.xyz
 mangurpositryu.com
 mangustclo.top
@@ -124848,6 +124865,7 @@ open.muze.chat
 muzeiongallery.com
 partneri.muzeslepe.cz
 muzhskoy.xyz
+muzjikspanman.com
 muzlove.com
 muzoohat.net
 muzotur.info
@@ -126874,6 +126892,7 @@ narzuty.sklep.pl
 www.nas-k.co.jp
 nasa138.com
 nasalatiodnc.com
+nasbtywu.com
 analytics.nascar.com
 data.marketing.nascar.com
 metrics.nascar.com
@@ -138995,6 +139014,7 @@ parkticket-pay.com
 parktrip.com
 download.parkunload.com
 parkurl.com
+ad.parkvv.com
 parkwhistler.com
 klktmc.parler.co.jp
 parliamentarypublicationfruitful.com
@@ -139109,6 +139129,7 @@ go.partnersrealestate.com
 partnerstack.com
 insights.partnerwithfacet.com
 partnerz.biz
+partookopp.top
 partouche-pasino.fr
 partouchepasino.fr
 journey.partout.nl
@@ -141754,6 +141775,7 @@ phoukridrap.net
 phoumsoomsoh.com
 phouvemp.net
 phovaiksou.net
+phozeksr.com
 php4you.biz
 phpbbex.com
 ads.phpclasses.org
@@ -151292,6 +151314,7 @@ qateqyo.pro
 qatsbesagne.com
 qaumiwaqar.com
 qavgacsmegav.com
+qavhivvcex.com
 qawxpzm.cn
 qazrvobkmqvmr.top
 qbaka.net
@@ -151310,6 +151333,7 @@ media.wave.qburst.com
 qbzam.yt
 cdn.qc24h.com
 qcbshsmlv.com
+qcbtygylmnfez.fun
 pxl.qccerttest.com
 qccoccocmedia.vn
 qceatqoqwpza.com
@@ -153949,6 +153973,7 @@ ww38.rcv-coinbase.com
 rcvlink.com
 rcvlinks.com
 papemz.rcwilley.com
+rcyorjkze.com
 rczudr.xyz
 rd-direct.com
 matomo.rd.net
@@ -157502,6 +157527,7 @@ rizzonelli.it
 rizzzcasino.fr
 gtm.rjc.nl
 rjeruqs.com
+rjftgiby.com
 rjgriffith.com
 rjidp.cn
 go.rjinvestmentmanagement.com
@@ -182278,6 +182304,7 @@ ticaframeofm.xyz
 ticai20.com
 ticclosely.com
 ticfiles.com
+tichoshirsoohoo.net
 data-01e876a345.tichyseinblick.de
 ticielongsuched.com
 analytics.ticinolibero.ch
@@ -184087,7 +184114,7 @@ topduppy.info
 topekacabinets.com
 marketing.topekapartnership.com
 topelevenhacks.com
-b.topeltof.com
+topeltof.com
 topeuro.biz
 sgtm.topfarmacia.it
 web.email.topfarmacia.it
@@ -187029,6 +187056,7 @@ ts-shimada.com
 ts-tracker.me
 ts134lnki1zd5.pro
 ts166.net
+ts28ll0tk23t2n9pl0n327.xyz
 marketing.tsachoice.com
 marketing.tsadvertising.com
 tsapphires.buzz
@@ -188042,6 +188070,7 @@ twoworldsconnect.com
 twpasol.com
 www.twprofit.com
 link.twrank.com
+twrdzmduxxfjm.world
 twrences.xyz
 twskype.com
 go.twstransworld.com
@@ -188802,6 +188831,7 @@ go.tippie.uiowa.edu
 uioypgnwldkcnt.com
 uiozso.top
 uiphk.one
+tracker.uira.live
 uitesousefulheady.org
 uitjngvykqxxk.space
 uitopadxdy.com
@@ -196980,6 +197010,7 @@ plausible.vucar.vn
 htqfxh.vuch.cz
 app.vucommodores.com
 t.vucommodores.com
+vudachisouxouk.net
 xml-v4.vudhartb.com
 vudkgwfk.xyz
 vudoutch.com
@@ -202371,6 +202402,7 @@ dldev.wooribank.com.kh
 wooribank.info
 woorucauhou.net
 data.woosmap.com
+woosoosaim.com
 wootmedia.net
 wootric-eligibility.herokuapp.com
 wootric.com
@@ -206628,6 +206660,7 @@ analysis.yozocloud.cn
 logger.yp.ca
 adsolutions.yp.com
 ypconvoscodoacodo.com
+ypedyumnpafvy.xyz
 ypersonalrecome.com
 ypflx.com
 ypkxka.xyz
