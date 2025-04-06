@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250406002226
-! Last modified: 2025/04/06 00:22:26
-! Blocked domains: 5948
+! Version: 20250406093930
+! Last modified: 2025/04/06 09:39:30
+! Blocked domains: 5947
 ! unBlocked domains: 15
 !
 ||kwcdn.000dn.com^
@@ -2832,7 +2832,6 @@
 ||jwddpvu.cn^
 ||jxbtl.com^
 ||ad.jxnews.com.cn^
-||dld.jxwan.com^
 ||jy147a.com^
 ||a.jyeoo.com^
 ||jyuskb.cn^
