@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250410162626
-! Last modified: 2025/04/10 16:26:26
-! Blocked domains: 206886
+! Version: 20250411002533
+! Last modified: 2025/04/11 00:25:33
+! Blocked domains: 206915
 !
 0-0.fr
 0-02.net
@@ -3574,7 +3574,7 @@ allegro1-okalnie9.798000.xyz
 9326f4a295.7a90dceb35.com
 9b9812f859.7a9eb57b9d.com
 6fbb07e2de.7aa82805b9.com
-fabd274910.7abdc2aae1.com
+7abdc2aae1.com
 7adpower.com
 7aey.icu
 7anfpatlo8lwmb.com
@@ -3861,6 +3861,7 @@ allegrolokalnie.8919247-uv9sa0-831iv0a.shop
 f0e0350829.891a559827.com
 89263907.xyz
 89296649.xyz
+892azz.xyz
 89407765.xyz
 allegrolokalnie.894128084u.shop
 allegrolokalnie.894v.rest
@@ -21971,6 +21972,7 @@ partners.bangbrosonline.com
 www.bangbuddy.com
 tuplogpublic.bangcdn.net
 bangdom.com
+bangedtelexes.top
 bangercasino.fr
 appanalysis.banggood.com
 bi.banggood.com
@@ -28145,6 +28147,7 @@ bklhnlv.com
 unsugv.bkmkitap.com
 bknstore.com
 bkojzevpe.com
+bkokuwxfetah.com
 sole.bkosmetik.com
 ft.bkprtiqueur.shop
 bkr5xeg0c.com
@@ -43682,6 +43685,7 @@ api.e.coastfashion.com
 coastflorabotanicals.com
 coastlinebravediffers.com
 coastlinejudgement.com
+coastoowhicha.net
 secure.coat0tire.com
 www.coat0tire.com
 coatess.com
@@ -65929,6 +65933,7 @@ europe-west1-bonnier-big-data.cloudfunctions.net
 europe-west1-sonorous-dragon-276210.cloudfunctions.net
 load.ss.europe.bargains
 european-toplist.de
+europeanivanprestigious.com
 tch1.europeanoracle.xyz
 tch14.europeanoracle.xyz
 tch2.europeanoracle.xyz
@@ -79031,6 +79036,7 @@ rubylife.go2cloud.org
 tabmo2018.go2cloud.org
 tapjoy.go2cloud.org
 wmadv.go2cloud.org
+go2crystalroll.com
 go2cup.com
 go2galapagos.com
 go2jump.org
@@ -85049,6 +85055,7 @@ henwisedug.top
 henymia.top
 heoidln.com
 heoreviews.com
+heotherwallow.org
 hepagou.com
 hephungoomsapoo.net
 hepk-gmwitvk.world
@@ -85182,6 +85189,7 @@ smetrics.heroesvacationclub.com
 heroeswm.ru
 heroinalerttactical.com
 heroinesjourneyforwork.com
+heroismgrime.com
 cattle.herojob.de
 hello.heroku.com
 analytics.yopify.com.herokudns.com
@@ -101460,6 +101468,7 @@ ywrcqa.kcentv.com
 btxliveprice.kceyazilim.com
 kcfdom.com
 kcggmyeag.com
+kcglsiv.icu
 kchcentral.com
 kchen.top
 scookies-adobe.kching.be
@@ -101960,6 +101969,7 @@ keywordsconnect.com
 keywordstrategy.org
 keywordsuggestiontools.com
 keyxel.com
+kezesarijvytg.world
 kf-714.cfd
 p.kf3msfm.com
 track.kfacials.com
@@ -109454,6 +109464,7 @@ lmwmm.com
 lmx7.com
 lmy.de
 webcontr.lmz-bw.de
+lmzhpzoycxjfn.top
 data-60d896f23d.ln-online.de
 data-6dde45f576.ln-online.de
 jdgtgb.ln-online.de
@@ -111528,6 +111539,7 @@ lxksalary.com
 lxkzcss.xyz
 lxlpoydodf.com
 lxnkuie.com
+lxoycrhawqjvk.com
 lxpbdp.xyz
 lxqcgj.com
 lxqjy-obtr.love
@@ -115100,6 +115112,7 @@ meapk.com
 meaple-app.com
 mearned.com
 www2.measinc.com
+measlepotomac.shop
 measlyglove.pro
 measlymiddle.com
 measts.com
@@ -117204,6 +117217,7 @@ pcweb.v1.mgtv.com
 mgwlock.com
 mgyccfrshz.com
 mgzjin.cn
+mgzwkefre.com
 mh-miyoshi.jp
 mhacks.net
 contracts.mhainc.com
@@ -129950,6 +129964,7 @@ target.nrma.com.au
 smetrics.nrn.com
 trk.nrn.com
 nrnma.com
+nroyretdhxa.com
 utiq.nrpyrenees.fr
 nrqj.com
 nrqrbwi.top
@@ -132052,6 +132067,7 @@ secado.ojcowizna.eu
 www.jiko.oject.co.uk
 ojhtpopwofm.com
 ojkduzbm.com
+ojkfmoackqp.com
 game.ojlic.co
 ojlkimed.vip
 ojobb.com
@@ -155982,6 +155998,7 @@ inpost-pl-mynid2ihxa.rlsbb.xyz
 vinted-pl-lzlxo.rlsbb.xyz
 vjnted-pl-ijfoks.rlsbb.xyz
 www2.rlsolutions.com
+rltrdlnncsiu.com
 rlylpl6k499y.ru
 events.rm-api.com
 rm0005.net
@@ -158118,6 +158135,7 @@ rwdjrn.icu
 rwequfcn.vip
 m.rwhelp.top
 rwhxz.space
+rwix.cn
 b.rwjf.org
 rwoscaonf.com
 olx.rwpay.ru
@@ -158775,6 +158793,7 @@ ssitectlyst.saksfifthavenue.com
 sakshaydigitalmarketing.com
 hmakpa.saksoff5th.com
 smetrics.saksoff5th.com
+saktuddo.com
 sakudon293ssp.jp
 banner.sakuharuno.com
 sakujaa4.click
@@ -168120,6 +168139,7 @@ cheetah.songrender.com
 lp.songreviewerred.com
 songsar.com
 songsify.com
+songslunger.com
 songsrsuper.com
 songssmoke.com
 songsterritory.com
@@ -171634,6 +171654,7 @@ straitchangeless.com
 straitpaltrybelief.com
 link.straitstimes.com
 strakesimians.shop
+strakvad.com
 straming.fr
 b.stranamam.ru
 stranded-in-iowa.blogspot.com
@@ -182841,6 +182862,7 @@ tracker.com
 tracker24-gps.ru
 trackerads.com
 tracker.trackerbox.com
+trackerflw.com
 trackerhqu.com
 go.trackerl.ink
 track.trackerop.com
@@ -188005,6 +188027,7 @@ unpalatial.com
 unpanchamon.com
 lu9xve2c97l898gjjxv4.unpasted.com
 unphanpyom.com
+unpiecerelumed.top
 unpleasantconcrete.com
 unpleasanthandbag.com
 pl.unpluggedforsight.org
@@ -188476,6 +188499,7 @@ wl.uqwjdhgv.top
 uqydcs.xyz
 uqykeq.xyz
 uqz.com
+uqzoyikxsfhdr.space
 a8clk.ur-s.me
 yxurjd.ur-s.me
 ur0.jp
@@ -195853,6 +195877,7 @@ wbdds.com
 wbdqwpu.com
 wbesryx.cn
 marketing.wbf.com
+wbfkyjvspddnd.site
 wbfuturestrading.com
 mail.wbgh.info
 wbid.ru
@@ -197410,6 +197435,7 @@ www.weknow.ac
 wekomoa.com
 wektrl.com
 wel-wel-fie.com
+welbljlvmmyzw.top
 trk.welchvacuum.com
 go.welcoa.org
 welcome-dfyn.com
@@ -200468,6 +200494,7 @@ ssp.wp.pl
 wp.services
 pixel.wp.tv
 wp3advesting.com
+wp3qhtu5.pro
 wpad.casa
 wpad.engineer
 wpad.exchange
@@ -203692,6 +203719,7 @@ ymehnthakutyfor.com
 ymetrica.com
 ymetrica1.com
 ymewsu.xyz
+ymfmfkxytgxc.com
 ymima360.com
 www.ymissy.com
 gw-iad-bid.ymmobi.com
@@ -206152,6 +206180,7 @@ zoachoar.net
 zoachops.com
 zoagremo.net
 zoaheeth.com
+zoalbrblhbzb.com
 zoaptuteglootoa.net
 zoawufoy.net
 zobacz-film.pl
