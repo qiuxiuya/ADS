@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250413002207
-! Last modified: 2025/04/13 00:22:07
-! Blocked domains: 209880
+! Version: 20250413105519
+! Last modified: 2025/04/13 10:55:19
+! Blocked domains: 209888
 !
 0-0.fr
 0-02.net
@@ -17638,6 +17638,7 @@ aramex-bnw-kw.top
 aramex-eggos.top
 t.aramiciatis.com
 tr.news.aramisauto.com
+bi-metrics.aramuz.net
 secure.aran9midi.com
 www.aran9midi.com
 sgtm.arana.ro
@@ -35774,6 +35775,7 @@ bubblestat.com
 bubblestownly.com
 links.bubbloapp.com
 bubblyzucchini.com
+bubmhm.top
 bubrintta.com
 bubushkalioua.com
 bubusoap.com
@@ -93044,6 +93046,7 @@ ztyumn.ifeng.com
 c0.ifengimg.com
 c1.ifengimg.com
 y3.ifengimg.com
+ifethbrzb.com
 www.ifexcapital.com
 ifgapwtm.info
 jhm3.ifgexecutive.com
@@ -131704,6 +131707,7 @@ cdnhorizon.nnmtools.com
 trackhorizon.nnmtools.com
 nnn.ru
 pgduet.nnnthree.com
+nnntxx.icu
 infostroy.nnov.ru
 nnowa.com
 nnvjbb.xyz
@@ -135099,6 +135103,7 @@ okulary-wieloogniskowe-pl.com
 okularypowiekszajace-pl.com
 a8clk.okuta.com
 knaqsn.okuta.com
+okvt.cn
 okwywrites.com
 okx-walletconnect.com
 okxparnalc.com
@@ -156612,6 +156617,7 @@ reposistory.com
 repostponing.cfd
 tbybao.reppa.de
 qrfoqq.reppara.com.br
+tw.reppublika.com
 repqgn7zzss.click
 reprak.com
 repredicting.com
@@ -188581,6 +188587,7 @@ tr.emailing.tvcaraibes.tv
 logger.tvchosun.com
 tvciekawe.rest
 marketing.tvcn.nl
+tvcnmti.top
 tvcok.ru
 data-c0c484e9be.tvdigital.de
 data-c0c484e9be.tvdirekt.de
@@ -203827,6 +203834,7 @@ wuzbhjpvsf.com
 improving.wuzhuiso.com
 renew.wv-gmbhcokg.de
 wvboajjti.com
+wvcnmte.top
 wvhba6470p.com
 dana-id.wvlis.cfd
 axp.wvnstv.com
