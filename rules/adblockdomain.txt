@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250414002354
-! Last modified: 2025/04/14 00:23:54
-! Blocked domains: 205212
+! Version: 20250414093911
+! Last modified: 2025/04/14 09:39:11
+! Blocked domains: 205220
 !
 0-0.fr
 0-02.net
@@ -21607,6 +21607,7 @@ deprecated-custom-domains.b-cdn.net
 df3a81b4.b-cdn.net
 didna.b-cdn.net
 downloadshi.b-cdn.net
+e045f561.b-cdn.net
 easygdpr.b-cdn.net
 eatthiskok.b-cdn.net
 f3eb2b32.b-cdn.net
@@ -64115,6 +64116,7 @@ data-043610b415.erft-kurier.de
 data-497ecca600.erft-kurier.de
 curzuy.erfurter-jobanzeiger.de
 ergadx.com
+ergiekszra.com
 ergjohl.com
 ergler.com
 ergoapi.com
@@ -81649,6 +81651,7 @@ gsimedia.net
 gsimvqfghc.com
 gsinghexpress.com
 smetrics.gsipartners.com
+gsitrix.com
 gsitv.com
 gsjln04hd.com
 gsjzlssws.com
@@ -84930,6 +84933,7 @@ heroinalerttactical.com
 heroinesjourneyforwork.com
 cattle.herojob.de
 hello.heroku.com
+umami.heroku.uk
 analytics.yopify.com.herokudns.com
 api.wootric.com.herokudns.com
 production.wootric.com.herokudns.com
@@ -181503,6 +181507,7 @@ info.tpx.com
 tqaiowbyilodx.com
 tqatcoach.com
 tqbrnd.xyz
+tqjojh.icu
 tqkksig17.top
 tqlkg.com
 tqlqfhmvainmn.one
@@ -182608,6 +182613,7 @@ go.travismanion.org
 aiqx.travismathew.ca
 aiqx.travismathew.co.uk
 aiqx.travismathew.com
+ubt-sgp.travix.com
 travpayments.com
 travud.com
 trawlsshally.top
@@ -184798,6 +184804,7 @@ txtspjaorddrjqq.com
 txtspy.org
 txtx.jp
 txumirk.com
+txvq.cn
 txvwn.com
 txx8wo72o.top
 8nc8shot.txxx.com
@@ -204929,6 +204936,7 @@ zszy223.com
 zt-m.ru
 ztbuyhouse.com
 ztcadx.com
+ztdbfz.top
 ztdog.com
 images.mkt.zte.com.cn
 beacon.ztgame.com
