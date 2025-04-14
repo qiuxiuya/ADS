@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250414162737
-! Last modified: 2025/04/14 16:27:37
-! Blocked domains: 208400
+! Version: 20250415002514
+! Last modified: 2025/04/15 00:25:14
+! Blocked domains: 208434
 !
 0-0.fr
 0-02.net
@@ -859,6 +859,7 @@ www.16m.cc
 s.17173cdn.com
 17180d187e.com
 17199874.xyz
+171c856581.com
 172.240.108.68
 172.240.108.76
 172.240.108.84
@@ -2667,6 +2668,7 @@ www.44-trk-srv.com
 44-wgu.sbs
 44.228.85.26
 adv.440network.com
+44216f3fdf.com
 campaign-remp.444.hu
 heartbeat.pmd.444.hu
 44592411.xyz
@@ -4159,6 +4161,7 @@ yngnwe.8division.com
 72d6526e68.8e323e599c.com
 8e403e6714.com
 52e0ea674a.8e4e948d2f.com
+8ecc2aee4f.com
 8eef59a5.live
 e02f936aee.8f1de9240f.com
 8feichai.com
@@ -10129,6 +10132,7 @@ al.agriz.net
 tk.agrizone.net
 agrlamondiale.fr
 agrmufot.com
+agrntewawxi.com
 agro-gid.com
 agro.net.ru
 gtm.agroabc.ro
@@ -22027,6 +22031,7 @@ cdn.b2.ai
 b21379380e.com
 b23.ru
 f9d3dca725.b291310c77.com
+b29b70e3ca.com
 tr.communication.b2b-actualites.com
 b2b-mail.net
 b1.b2b168.com
@@ -33053,6 +33058,7 @@ boagleetsurvey.space
 boahnoy.com
 boankn.top
 boannre.com
+boannred.com
 board.com.pl
 info.boardex.com
 boardgamearena.fr
@@ -36652,6 +36658,7 @@ link.alerts.busuu.app
 link.announce.busuu.app
 link.notifications.busuu.app
 events.busuu.com
+busy-man.com
 busybeesbay.com
 busybscc.com
 go.busybusy.com
@@ -44390,6 +44397,7 @@ clipbongda.info
 clipcentric.com
 creatives.cliphunter.com
 ip.cliphunter.com
+b.clipkit.co
 cliplamppostillegally.com
 track2.cliplister.com
 clipperroutesevere.com
@@ -46248,6 +46256,7 @@ go.columbusregion.com
 info.columninfosec.com
 columnisteverything.com
 columnspruce.com
+columnstoodth.com
 coluvaa1.pro
 partner.colway.cz
 e-zpassny.com-accountiud.win
@@ -48044,6 +48053,7 @@ continentalaileendepict.com
 continentalfinishdislike.com
 continentcoaximprovement.com
 continential-corporation.com
+contineyuedi.org
 continuallycomplaints.com
 continuation423.fun
 sogo.uc.continuefaf.top
@@ -49195,6 +49205,7 @@ explore.coursefinders.com
 coursejavgg124.fun
 stats.coursepad.com
 courses-spanish.com
+coursestiffenjealous.com
 coursewimplongitude.com
 courtenaylarnbert.com
 courtesyandcuisine.com
@@ -51198,6 +51209,7 @@ info.curriculumassociates.com
 iready.curriculumassociates.com
 ready.curriculumassociates.com
 curriculumastronautpreview.com
+curriculumoutcry.com
 currnet.top
 go.curry.edu
 metrics.currys.co.uk
@@ -55056,6 +55068,7 @@ marketing.deepcrawl.com
 deepdenim.net
 deepdirects.com
 new.deeper-start.com
+deeperregardingcontend.com
 deepeshdang.com
 freepsncodes.deephack.com
 deephicy.net
@@ -60532,6 +60545,7 @@ lu9xve2c97l898gjjxv4.drivepedia.com
 driver-fixer.com
 a8clk.driver-island.com
 linkto.driver.codes
+driverhugoverblown.com
 driverpack.io
 driverpaksolution.ru
 aibmze.drivers-work.com
@@ -63026,6 +63040,7 @@ ecpms.net
 ecraftcentral.com
 ecrasepetre.shop
 ecredit-lbp.fr
+ecretaboutt.org
 ecrllc.net
 ads.ecrush.com
 ecrwqu.com
@@ -68597,6 +68612,7 @@ logping.exblog.jp
 rep.exblog.jp
 partner.excaliburshop.com
 excapture.com
+excavatenearbywand.com
 excavatorglide.com
 excdayz.com
 mobile.excedo.io
@@ -83043,6 +83059,7 @@ gravelghosts.com
 graveljav128.fun
 gravelyoverthrow.com
 gravenesswomanlesszestfully.com
+gravepteru.com
 graveshakyscoot.com
 graveuniversalapologies.com
 fssxfi.gravidicasstore.com.br
@@ -90917,6 +90934,7 @@ hunttim1.com
 hunyhuny.org
 ups.huonelv.shop
 huoying666.com
+hupot.site
 huppontic.com
 adx.hupu.com
 e-goblin.hupu.com
@@ -98167,6 +98185,7 @@ v3-ad.ixigua.com
 dehua.ixinfan.com
 zjliloveyou.ixiunv.com
 ixjtpbj.cn
+ixlv.cn
 ixnfts.com
 ixnow.xyz
 ixnp.com
@@ -102046,6 +102065,7 @@ jrblfv.icu
 partneri.jrc.cz
 hfkprs.jrcoop.co.kr
 smetrics.jre-travel.com
+jremnjpr.com
 jrfngdrodrdop.icu
 jrgalvez.com
 jriortnf.com
@@ -113688,6 +113708,7 @@ lv8-luygwas-projects.vercel.app
 lv9qr0g0.xyz
 lvaazvwzylzbv.top
 news.lvb.com
+lvcnmtl.top
 lvditoys.com
 engine.lvehaisen.com
 lvhcqaku.com
@@ -115382,6 +115403,7 @@ smetrics.mann-hummel.com
 load.data.mannaz.com
 images.mannenmedia.nl
 mannermo.top
+mannerthiscommissioner.com
 mannesoth.com
 data-f1e447fbcf.mannheim24.de
 data-f59db3288b.mannheim24.de
@@ -116051,7 +116073,6 @@ rum.marquardmedia.hu
 marquesdistribution.com
 xxvwif.marquise.com.au
 analytics.marquiz.ru
-quiz.marquiz.ru
 script.marquiz.ru
 marrakechattractions.com
 marrakechdigital.com
@@ -123294,7 +123315,7 @@ sp.montgomeryadvertiser.com
 srepdata.montgomeryadvertiser.com
 sxjfhh.montgomeryadvertiser.com
 montgomerycabinets.com
-qq2025.monthfour0225.xyz
+monthfour0225.xyz
 billings.monthlybillings.com
 monthlyhat.com
 monthlyincomeacademy.com
@@ -133726,6 +133747,7 @@ go.ofn.org
 ofnatlevi-il.com
 ofninjasktor.com
 www.ofnsv69.com
+ofnuxnwaxhmxsv.com
 ofouvudsouy.net
 ofphanpytor.com
 ofplredpogw.com
@@ -133824,6 +133846,7 @@ ogloszenie-9908905.shop
 allegrolokalnie.ogloszenie3838.shop
 allegrolokalnie.ogloszenie831635.shop
 oglrrokbbxoyw.today
+ognggibtebi.com
 ogniicbnb.ru
 ognyvo.ru
 ogorax.xyz
@@ -151212,6 +151235,7 @@ punany.com
 puncak4d.net
 punch.media
 go.punchh.com
+punchpantherwhip.com
 punctual-window.com
 marketing.punctuation.com
 app.puneeatouts.in
@@ -151543,6 +151567,7 @@ ssp.putaojiu.com
 putbid.net
 putfullfor.live
 puthappyfirst.com
+putimperturbable.com
 my.putlocker.to
 putlockermovie.net
 putlockertv.com
@@ -157007,6 +157032,7 @@ revupads.com
 check.revuq.icu
 info.revvity.cn
 info.revvity.com
+rewaawokwmjba.top
 rewaawoyamvky.top
 rewakenreaware.top
 get.reward.me
@@ -159725,6 +159751,7 @@ rufortouthee.com
 rufreechats.com
 ruftodru.net
 load.ss.rugaardshave.dk
+rugalnylon.com
 rugbyfireworks.com
 utiq.rugbyrama.fr
 rugcrucial.com
@@ -161729,6 +161756,7 @@ renew-ovh.satr.fr
 ffzffn.satra.ru
 satsolana.com
 sattaresultfast.com
+sattiostiounper.com
 satuportal.net
 satura.pl
 saturatedrake.com
@@ -162073,6 +162101,7 @@ scaledb.com
 marketing.scalematrix.com
 scalemonk.com
 rdtk.scalemyclinic.com.au
+scalenizambian.shop
 scalesapologyprefix.com
 scalesreductionkilometre.com
 wctr.scaleup-fulfillment.de
@@ -165275,7 +165304,6 @@ sc.shayugg.com
 beacon.shazam.com
 go.shazam.net
 8685d.shb.pt
-shboshbok.com
 shbqitjfwhhge.club
 shcomputersolutions.com
 jaccs-visititude.shdqxgs.cn
@@ -176703,6 +176731,7 @@ tauronenergya.org
 tauronhub.pro
 sst.taurustraders.de
 taurusx.com
+taut-nature.com
 tautauphaur.net
 tauvineebisigi.net
 tauvoojo.net
@@ -179220,6 +179249,7 @@ glhnkl.terrybicycles.com
 terryfokine.com
 vinted-pl-gj32d.tersedia.xyz
 tersonia.com
+tertiidamsite.com
 tertracks.site
 tertuliasdeacuario.com
 reach.terumo-bct.com
@@ -195784,6 +195814,7 @@ vrehed.com
 vresp-91w.top
 cts.vresp.com
 pixel.vreview.tv
+vrevvaids.com
 vrfupfyu.com
 vrfuznaicvxaj.life
 data-1fbcf6d7f5.vrgugga.de
@@ -199391,6 +199422,7 @@ whaleman.ru
 whalems.com
 whalepeacockwailing.com
 whaleplayful.com
+whaleslightestimposter.com
 www.whalesplash.com
 whammedknavess.top
 whampamp.com
@@ -199690,6 +199722,7 @@ whoged.com
 whogger.com
 gsuldm.whogrill.ru
 tkzvse.whois.co.kr
+whoisezh.com
 whoisfrank.net
 ads.whoishostingthis.com
 whoislying.org
@@ -199845,6 +199878,7 @@ redir-v4.widebluetrue.xyz
 wideeyed-painting.com
 widelinkconsultancies.com
 widelio.com
+widenaccident.com
 wideoalarm.rest
 wideookropny.rest
 wideopolsaty.rest
