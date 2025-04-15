@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250415002514
-! Last modified: 2025/04/15 00:25:14
-! Blocked domains: 208434
+! Version: 20250415093826
+! Last modified: 2025/04/15 09:38:26
+! Blocked domains: 208471
 !
 0-0.fr
 0-02.net
@@ -2836,6 +2836,7 @@ gjhkyh.4fresh.ru
 redtrack.4futureagency.com
 4g0b1inr.de
 data-9ac0797a75.4gamechangers.io
+4gforkh4.icu
 4girlsfingerpaint.com
 4girlsfingerpaint.org
 4gjergkd.ru
@@ -10312,6 +10313,7 @@ imp.aiasahi.jp
 aiassetadvisors.com
 aiassistantguide.com
 aiauditors.org
+aiauqmtsvqoxho.com
 aiavc.com
 smetrics.aiavitality.co.kr
 target.aiavitality.co.kr
@@ -10858,6 +10860,7 @@ aiwutgxp.love
 aixcdn.com
 api.aixifan.com
 aixmasters.com
+aixukiwaikra.com
 dmym.aixyy.com
 aizentech.com
 dmm.aizhan.com
@@ -11314,6 +11317,7 @@ baffae.alcott.eu
 alcozarsale.com
 alcroconawa.com
 tr.news.alcyon.com
+alcyonchocard.com
 alcyongames.com
 secure.alda1mure.com
 www.alda1mure.com
@@ -27988,6 +27992,7 @@ bhclicks.com
 bhcont.com
 bhcumsc.com
 bhcyoekd.cc
+bhdnti.top
 bhealthyeats.com
 bhella.com
 metrics.bhf.org.uk
@@ -42949,6 +42954,7 @@ tr.emailing.cifea-mkg.com
 cdp.cifinancial.com
 jnkqnf.cifraclub.com
 jnkqnf.cifraclub.com.br
+master.cifraclub.com.br
 cifzuqopdpzi.com
 cig-arrete.com
 metrics.cigar.com
@@ -46862,6 +46868,7 @@ comerhurlentertain.com
 comesol.com
 mmulsx.comet.it
 cometappetit.shop
+metrics-us.cometchat.io
 cometlytrack.com
 cometzone.com
 zjhswy.comeup.com.tr
@@ -60802,6 +60809,7 @@ dsjij.yt
 dsjxs.yt
 at.dslbank.de
 mit.dslbank.de
+dsldtohkgc.com
 dslenggui.com
 ad.dslr-forum.de
 responsesite.dsm-firmenich.com
@@ -80054,6 +80062,7 @@ girlstretchingsplendid.com
 info.girlswhoinvest.org
 girlwallpaper.pro
 www.girlz-high.com
+girnalnemean.com
 giro-logistico.com
 track.girogratuito.com
 giromondotour.it
@@ -81814,6 +81823,7 @@ adw.gomtv.com
 ana.gomtv.com
 gomucreu.com
 gomyonis.com
+gonakiecullies.com
 gonamedia.com
 gonamic.de
 goncoufkfh.com
@@ -82369,6 +82379,7 @@ app.gopsusports.com
 t.gopsusports.com
 telem.sre.gopuff.com
 gopusher1.com
+gopypteti.com
 app.goqii.com
 goqise.com
 a8cv.goqoo.me
@@ -84217,6 +84228,7 @@ gucucmaikaups.com
 gudangbanner.com
 gudangseo.com
 gudbracolns.com
+guddledberith.com
 gudgeonfrisch.top
 gudohuxy.uno
 ucdvze.gudrunsjoden.com
@@ -84589,6 +84601,7 @@ gxfh59u4.xyz
 gxfiledownload.com
 gxgbvmg.cn
 gxhzv.cn
+gxiacapeptyos.club
 gxjajt.com
 gxlsjt.com
 gxnfz.com
@@ -98004,6 +98017,7 @@ itxinrou.com
 ityangstudy.cn
 ityonatallco.info
 ityuan.com
+ityvsrlrfrlfdm.com
 piwik.itzbund.de
 itzekromom.com
 hits-i.iubenda.com
@@ -101397,6 +101411,7 @@ joblp.com
 adebis-cname.jobmall.jp
 data-ee807be806.jobmarkt-nrw.de
 data-fdf4690b14.jobmarkt-nrw.de
+jobmkewkzwrkb.top
 data-83d91ea519.jobmorgen.de
 data-f62d7c5cdb.jobmorgen.de
 momyjw.jobninja.com
@@ -105398,6 +105413,7 @@ data-60d896f23d.kn-online.de
 data-6dde45f576.kn-online.de
 a8cv.kn-waterserver.com
 www.knacads.com
+knackedphoned.com
 pages.ajo.knak.link
 knalc.com
 pxl.knam.pro
@@ -106740,6 +106756,7 @@ track.kueez.com
 kueezrtb.com
 data-8ec206415a.kuenste-im-exil.de
 kueyen.net
+kufturtewaist.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kugo.cc
@@ -118941,6 +118958,7 @@ messengeridentifiers.com
 messengerreinsomething.com
 www.messengertools.net
 messiku.com
+messrsmaiidae.top
 messsomehow.com
 messy-brain.com
 messyadvance.com
@@ -125244,6 +125262,7 @@ trk.musthtrack.ca
 riovdv.mustit.co.kr
 mustvideo.fr
 mustwork.work
+mutatesuet.com
 mutcheng.net
 tr.dl.mutcomplementaire.fr
 fish.muted.io
@@ -126819,6 +126838,7 @@ n422.info
 n43vr.com
 n49seircas7r.com
 n4m5x60.com
+n4sredirect.com
 photo.n4ur0jp.us
 n55ylc001.vip
 n56pls.top
@@ -131977,6 +131997,7 @@ klik.nrc.nl
 load.sst.nrc.nl
 go.nrchealth.com
 nrcykmnukb.com
+nrdpfnpqunyle.rocks
 olx.nredirect.shop
 nreg.world
 api.nrelate.com
@@ -135142,6 +135163,7 @@ www.oni-sbc.com
 marketing.oni.co.uk
 oniad.com
 cp.onicon.ru
+oniflhctfubuql.com
 onilladesign.ca
 torrentzwealmisr.onion.pet
 uj3wazyk5u4hnvtk.onion.pet
@@ -140503,6 +140525,7 @@ pekcbuz.com
 pekekyu.com
 pekertattoo.com
 pekomker.shop
+pekr.cn
 pelagicmismate.com
 pelamydlours.com
 pelamydsumatra.shop
@@ -141892,6 +141915,7 @@ phoaphoxsurvey.space
 phoasougrair.com
 phoawhoax.com
 phobia.net
+phobicaraban.com
 phoceansteaks.top
 phockukoagu.net
 phocodontias.info
@@ -142355,7 +142379,7 @@ dc.pimentadaafrica2.online
 dc.pimentadaafrica3.online
 dc.pimentadaafrica4.online
 dc.pimentadaafrica5.online
-ba.pimentoscoter.com
+pimentoscoter.com
 pimentoutas.click
 ss.pimientonegro.com
 ejrq.pimkie.fr
@@ -151076,6 +151100,7 @@ analytics.publitas.com
 sellcentralamazonsupport-de.publittec.com.br
 publix-marketing.com
 metrix.publix.com
+publize.net
 publpush.com
 161779.publy.co
 publy.net
@@ -153068,6 +153093,7 @@ go.quicktapsurvey.com
 log.quickvideolowloaderplayer.live
 quickwest.pro
 quickwittedpronunciation.com
+quickwittedreward.pro
 quickwriter.com
 quidclueless.com
 app.quidd.co
@@ -158531,6 +158557,7 @@ rollerocasino.fr
 rolleto.fr
 rolletocasino.fr
 rolletto.fr
+rolleychacker.top
 stape.rollingcocktails.at
 rollingcounters.com
 rollingfhr.xyz
@@ -159276,6 +159303,7 @@ www.rtcode.com
 log-report.rtcplus.com
 rtdminis.com
 mail.rtdyotrck.com
+rtfgvz.icu
 rtgfnmio.cc
 rtgio.co
 rthbycustomla.info
@@ -160410,7 +160438,7 @@ www2.sabrehospitality.com
 go.sabres.com
 tracking.info.sabres.com
 sswmetrics.sabresonicweb.com
-fq.sabsbonos.com
+sabsbonos.com
 a8cv.sabuma.jp
 a8cv.sabusuta.jp
 install.xchange.sabx.com
@@ -163705,6 +163733,7 @@ sellingmombookstore.com
 mt.sellingrealestatemalta.com
 sellings-global.com
 sellingsimplified.net
+sellisteatin.com
 selllikecrazybook.com
 selllingexpertise.com
 holders.sellpass.io
@@ -180552,6 +180581,7 @@ ads.themovienation.com
 themovietimeapp.com
 themovs.net
 themovyreel.shop
+thempoorduts.com
 themselphenyls.com
 themselvessuit.com
 trk.themspsummit.com
@@ -181543,6 +181573,7 @@ threetruck.com
 threewoodslose.com
 threwdownth.xyz
 thri.xxx
+thricrulnf.com
 metrics.thrifty.com
 smetrics.thrifty.com
 click.thriftybanker.com
@@ -192107,6 +192138,7 @@ vdzna.com
 ad-img.ve.vc
 b128.ve.vc
 sgtm.veabagno.it
+vealbkvvorqry.top
 vebadu.com
 data-1842699cc4.vebidoo.de
 vebo-vast.pages.dev
@@ -199341,6 +199373,8 @@ htrace.wetvinfo.com
 wetwo.yt
 weuebdev.com
 weuppwrlcper.com
+clog.weverse.io
+collection.weverse.io
 wevzbmys.vip
 e.wework.com
 weworuo.com
@@ -202907,6 +202941,7 @@ xajiguo.com
 xajzfwgs.com
 xaker26.net
 xalatlaco.org
+xalawpqfa.com
 xalienstreamx.com
 xalinei.com
 xalphaoffers.com
@@ -205933,6 +205968,7 @@ ypedyumnpafvy.xyz
 ypersonalrecome.com
 ypflx.com
 ypkxka.xyz
+yplqr-fnh.space
 www.ypmate.com
 communications.ypo.org
 matomo.yppcdn.com
@@ -206227,6 +206263,7 @@ ywusfyjhnpflr.top
 123.ywxww.net
 ftp.ywxww.net
 ywyimeike.com
+ywzgjfgx.com
 yx-ads6.com
 adsclick.yx.js.cn
 www.yx3377.com
