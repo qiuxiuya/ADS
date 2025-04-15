@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250415162737
-! Last modified: 2025/04/15 16:27:37
-! Blocked domains: 209150
+! Version: 20250416002334
+! Last modified: 2025/04/16 00:23:34
+! Blocked domains: 209188
 !
 0-0.fr
 0-02.net
@@ -4003,6 +4003,7 @@ s2f.9d75.one
 hgq.9di7.sbs
 9dmnv9z0gtoh.com
 xml.9dotsmedia.com
+9e11ec3a56.com
 9eb10b7a3d04a.com
 9fingergames.com
 9fwz.com
@@ -16006,6 +16007,7 @@ apconsultantgroup.com
 apcontech.in
 email.m.apcoworldwide.com
 fun.apcplay.com
+apdcekrulrpjd.online
 apdozzbkyasc.com
 apdrive.win
 www.ape78cn2.com
@@ -18453,6 +18455,7 @@ www.astalavista.us
 astamonitor.com
 astarboka.com
 partner.astaxanthincz.cz
+asteandstilll.org
 go.astech.com
 marketing.astecsolutions.com
 astehaub.net
@@ -21432,6 +21435,8 @@ babybreathplacenta.com
 sst.babybrezza.fr
 tags.babybunting.co.nz
 tags.babybunting.com.au
+apishow.babybus.com
+apppromoteapi.babybus.com
 collect.babybus.com
 smetrics.babycenter.at
 smetrics.babycenter.ca
@@ -24443,6 +24448,7 @@ beqis.com
 beqylye.com
 server.beradiancebeauty.com
 berangkasilmu.com
+berapt-medii.com
 berate-expressive.com
 berbanjar.com
 berberineindia.com
@@ -27300,6 +27306,7 @@ web.e.bifoldsales.co.uk
 d.bifrost-studio.com
 bifrost.pl
 bifrufhci.com
+bifszaojpkuq.com
 big-bang-ads.com
 stats.big-boards.com
 big-data-server.com
@@ -27822,6 +27829,7 @@ vinted-es.bind9438.com
 binderyvisage.shop
 bindfast.com
 bindingtimetablejosie.com
+bindirect.click
 landsnail.bindle.io
 bindtechs.com
 bineukdwithme.com
@@ -39031,6 +39039,7 @@ info.ccbjournal.com
 marketing.ccbtechnology.com
 ccbuus.dk
 m1.ccc.edu
+ccc9c93083.com
 ccccc66kkkkk.com
 ccccc67kkkkk.com
 ccccc78kkkkk.com
@@ -40155,6 +40164,7 @@ ad.cgi.cz
 cgigc.com.cn
 cgironlozano.com
 info.cgjordaninsurance.com
+cgjowhzaneoli.love
 cgmalight.com
 c.cgmission.com
 cgmt.co.id
@@ -42408,7 +42418,7 @@ citymaxbdr.com
 fahmta.citymetric.com
 citymusicstl.com
 oms.citynews.ca
-cdn.ad.citynews.it
+ad.citynews.it
 dmp.citynews.ovh
 plausible.citynews.ovh
 om.citynews1130.com
@@ -51440,6 +51450,7 @@ czh5aa.xyz
 banners.czi.cz
 czilladx.com
 czncztrk.com
+czuawlppipi.com
 czuvzixm.com
 czwxrnv.com
 bd.czxuexi.com
@@ -54068,6 +54079,7 @@ f2fcd50c02.db2a85c464.com
 db4zl9wffwnmb.cloudfront.net
 db53n.com
 db72c26349.com
+db7q4jg5rkhk8.cloudfront.net
 dba9ytko5p72r.cloudfront.net
 cs02-pps-drcn.dbankcdn.com
 grs.dbankcloud.asia
@@ -60171,6 +60183,7 @@ dreamyviolet.com
 dreamzholiday4u.com
 dreamzonekochi.com
 dreamzonevadapalani.com
+dreary-hunt.com
 drectsearch.com
 www.claus.drehteile-rieche.de
 news.drei.at
@@ -60883,6 +60896,7 @@ duggiesworld.com
 dugothitachan.com
 dugoutstomata.shop
 dugraukeeck.net
+dugrozufo.com
 dugscomme.media
 analytics.dugun.com
 ads.dugwood.com
@@ -70337,6 +70351,7 @@ fantecio.com
 fantito.com
 one.fanuc.eu
 fac.fanucamerica.com
+fanxmfllqbyoy.top
 fanyi100.com.cn
 fanza.cc
 fanzhuang.net.cn
@@ -78606,6 +78621,7 @@ gdevstudios.com
 gdewu.cn
 gdg7ifnwwk.pages.dev
 gdh4szx.appspot.com
+gdihvgebdej.com
 eloqua.gdlcouncil.org
 gdls114.com
 gdmconvtrck.com
@@ -83817,6 +83833,7 @@ grincup.com
 grinderparty.com
 ads.grindinggears.com
 grindworks.co.nz
+grinneddairt.shop
 dl.grip.events
 grip5.help
 go.grip6.com
@@ -86280,6 +86297,7 @@ haugbrathens.com
 marketing.haughn.com
 haughtydistinct.com
 haughtysafety.com
+haugloosigliwha.net
 analytics.hauhau.fi
 haul-n-junk.com
 hauledforewordsentimental.com
@@ -89224,6 +89242,7 @@ mr.homedepot.ca
 swasc.homedepot.ca
 wasc.homedepot.ca
 mr.homedepot.com
+rma.homedepot.com
 swasc.homedepot.com
 wasc.homedepot.com
 homedepoy.com
@@ -93141,6 +93160,7 @@ iiutq.xyz
 iivt.com
 iiwm70qvjmee.com
 www.iiyout.cn
+iiyurraeoh.com
 ij-starts-canon.com
 load.data.ij.no
 ijabd.com
@@ -98940,6 +98960,7 @@ partner.jakfotitsladke.cz
 jakob-mucke.com
 partneri.jakofenix.cz
 jakpodrywacnatinderze.pl
+jakseegrutso.net
 partner.jakserychlenaucit.cz
 kzyljd.jakshoes.com
 openx.jaktsidan.se
@@ -101986,6 +102007,7 @@ jopbvpsglwfm.com
 joplincabinets.org
 a8clk.joppy.jp
 joqowqyaarewj.top
+joqowqymkrowl.top
 marten.joqr.co.jp
 jorbfstarn.com
 trk.jorc.com
@@ -104436,6 +104458,7 @@ kevinsmithson.com
 kevinsnow.online
 kevisto-transporte.com
 copernicus-ccm6v5pgjjmdyp.kewalramtextlles.com
+kewbnmbettrd.xyz
 kexarvamr.com
 kexeko-nokadi.website
 kexojito.com
@@ -116927,6 +116950,7 @@ tc-sentry.mattel163.com
 gtm.matten-welt.com
 www.matteobarone.com
 stats.matteocroce.it
+matterforiwa.org
 matterpalekept.com
 events.matterport.com
 www2.matterport.com
@@ -119677,6 +119701,7 @@ mfles0pio.com
 mfliaw.com
 mflsbcasbpx.com
 mfndsbjvashk.wpenginepowered.com
+mfoizeiwlbijkn.com
 metrics.mfs.com
 smetrics.mfs.com
 curtismscaparrotti03.mfs.gg
@@ -119970,6 +119995,7 @@ a.micorp.com
 micorsoft.fr
 micpn.com
 micrasoft-onedrive.com
+micro-xdb.com
 tx.micro.net.pk
 microad-cn.com
 microad.co.jp
@@ -122400,6 +122426,7 @@ xcgzme.mnogomebeli.com
 mnoso.office-on-the.net
 lp.mnp.ca
 tr.email.mnpaf.fr
+mnrz.cn
 mnsauto-marsan.com
 ea.mnt.fr
 tr.infos.mnt.fr
@@ -133244,6 +133271,7 @@ n9b.o9yo.cfd
 pos.o9yo.cfd
 x82.o9yo.cfd
 oaajylbosyndpjl.com
+oaapfztunpmky.vip
 oabaubsutha.com
 oablages.org.br
 oacaighy.com
@@ -139740,6 +139768,7 @@ saa.paramountpressexpress.com
 paranoiaantiquarianstraightened.com
 paranoiaourselves.com
 paraodriki.com
+paraos.my
 altid.paraplybutik.dk
 parasiteoutdoorsmix.com
 parasitevolatile.com
@@ -142210,6 +142239,7 @@ pgssjxz.com
 pgssl.com
 pgstartjoin.online
 mail.pgtry.com
+pguzquckxbb.com
 go.pgx.com
 pgzs.com
 a8clk.ph-10.com
@@ -142905,6 +142935,7 @@ pi4.piczhq.com
 dr1.piczlabs.com
 dr3.piczlabs.com
 sadbmetrics.pidecita.com
+pidsnbtigntdi.vip
 s.pie.org
 t.pie.org
 a8x.piece-kaitori.jp
@@ -151940,6 +151971,7 @@ qaumiwaqar.com
 qavgacsmegav.com
 qavhivvcex.com
 qawxpzm.cn
+qazjpdzhatxaw.vip
 qbaka.net
 dig.qbao.com
 cp.qbaobei.com
@@ -181122,6 +181154,7 @@ thelovelyhealthy.com
 ssvtez.thelovery.co
 thelovis.com
 thelowcarbfoodie.net
+theltemtirg.net
 theluminousaura.com
 sfbpok.theluxurycloset.com
 thelyricsspot.com
@@ -193686,6 +193719,7 @@ vgzytn.xyz
 ssc.vh1.com
 vhanu.com
 vhapjn.com
+vhbhundyietwwc.com
 vhc-usa.org
 vhdkdkweos.pages.dev
 vhducnso.com
@@ -197134,6 +197168,7 @@ w716eb02n9.ru
 tiktok.w77h6.cloud
 zdw.w8.com.cn
 w888mobi.com
+w9l4tr4013tn5mo27t0w.xyz
 wa-groupbebe.pages.dev
 oikwky.wa-jp.com
 wa-nago-wagona.com
@@ -203168,6 +203203,7 @@ ww6ojvbrc.top
 ww6v.com
 wwads.cn
 wwaeljajwvlrw.top
+wwaeljamkvayk.top
 wwameli.fr
 wwamelie.fr
 wwaol.com
@@ -208468,6 +208504,7 @@ salesiq.zoho.in
 webanalytics.zohodcm.com
 almuradtiles.zohosites.com
 zohoworkspaces.com
+zoiefwqhcaczun.com
 gw.zoilusdoping.top
 zokaukree.net
 p.zol-img.com.cn
@@ -208815,6 +208852,7 @@ zpeqosn.icu
 go.advantage.zpg.co.uk
 tem.zpg.co.uk
 zpgetworker11.com
+zpilkesyasa.com
 zpipacuz-lfa.vip
 zplfwuca.com
 zpppstop.ru
