@@ -3,9 +3,9 @@
 ! Description: 适用于InviZible Pro、personalDNSfilter的去广告合并规则，每8个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250416002334
-! Last modified: 2025/04/16 00:23:34
-! Blocked domains: 209188
+! Version: 20250416093815
+! Last modified: 2025/04/16 09:38:15
+! Blocked domains: 209226
 !
 0-0.fr
 0-02.net
@@ -3952,6 +3952,7 @@ a1.99933.cn
 a1.99966.cn
 9996777888.com
 999aa666bb.com
+999aae0fa7.com
 999bb222ww.com
 999gg.net
 www.999trck.com
@@ -4982,6 +4983,7 @@ ac-orleanstours.fr
 ac-verdailles.fr
 ac-versailes.fr
 c2f7d2d036.ac046e638f.com
+ac359edaf2.com
 ac934intrk.com
 buy-adipex.aca.ru
 buy-hydrocodone.aca.ru
@@ -8705,6 +8707,7 @@ links.e.aecrimecentral.com
 links.es.aecrimecentral.com
 m.aecrimecentral.com
 aecworldexpo.com
+aed08832da.com
 aedi.ai
 aeeg5idiuenbi7erger.com
 aeelookithdifyf.com
@@ -10835,7 +10838,7 @@ fgyhzeretryzet.alevsesli.net
 etracker.alex-gross.com
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 alexa-sitestats.s3.amazonaws.com
-click.alexabyte.site
+alexabyte.site
 alexajstrack.com
 data.fans.alexalbon.com
 smetrics.alexalbon.com
@@ -19097,7 +19100,7 @@ attsparts.com
 atttkaapqvh.com
 at.attualityofficial.com
 marketing.attunelive.com
-yo.attuneuvito.com
+attuneuvito.com
 attvip.mx
 attyclaim.com
 nzmsgb.atu.de
@@ -20700,6 +20703,7 @@ axetogrindstumpremoval.com
 axexory.com
 axf8.net
 axhelp.top
+axhjaxdmoa.com
 axia-hakusan.com
 axiaffiliates.com
 www.axial-partners.com
@@ -21436,8 +21440,11 @@ sst.babybrezza.fr
 tags.babybunting.co.nz
 tags.babybunting.com.au
 apishow.babybus.com
+apishowstats.babybus.com
 apppromoteapi.babybus.com
 collect.babybus.com
+tjinit-event.babybus.com
+tjinit-global-register.babybus.com
 smetrics.babycenter.at
 smetrics.babycenter.ca
 smetrics.babycenter.com.au
@@ -56361,6 +56368,7 @@ dghhot.com
 dghkpp.xyz
 dgifpencaissement.fr
 b1.dgitalnest.ru
+dgjhrv.top
 dgkmdia.com
 t.dgm-au.com
 dgm2.com
@@ -60491,6 +60499,7 @@ drunksvstheworld.com
 drupa.com
 drupalcontrib.org
 wurq5hzgcixkzmc8tlmqag.on.drv.tw
+drvdb9rcebidk.cloudfront.net
 tr.news.drveto.com
 drvidwise.com
 drvineetsurana.com
@@ -65571,6 +65580,7 @@ acton.enrollment.org
 communications.enrouteglobalexchange.com
 ads.enrt.eu
 enrtx.com
+ensaidhethisi.org
 ensap-connect.fr
 ensemble-24.fr
 ensighten.com
@@ -67498,6 +67508,7 @@ tracking.etnia.org.br
 etnogdiale.pro
 content.etoa.org
 etoads.net
+etobeasasile.org
 etobepartouk.com
 etobepartoukfare.info
 log.etoday.co.kr
@@ -77117,6 +77128,7 @@ ne.futuroscope.com
 ef.futuroscope.mobi
 futydei.com
 fuurinmaru.com
+fuvvgziqxmsrg.rocks
 fuwalrnce.com
 fuwjyhsxksp.com
 fuxetay.com
@@ -77177,6 +77189,7 @@ pla.fwdcdn.com
 log.fwdcmp.com
 fwdservice.com
 fwedsf.top
+fwedzajar.com
 fwfallowads.com
 0.clicks4me.fwh.is
 food-network.fwh.is
@@ -77788,7 +77801,6 @@ wrhts9fman346kl533mliace.gameflie.com
 wkf849kg8h224cl53r4jkqpi.gameflown.com
 wg8mp1gl13qed5k5jppjcp5d.gameflta.com
 stats.gamefly.com
-gamefocus.mobi
 ldubbg.gamefools.com
 ads-delivery.gameforge.com
 ads-media.gameforge.com
@@ -79882,6 +79894,7 @@ sst.ghostwriter-castle.com
 ghoudsoldes.fr
 ghrf.pl
 go.ghrr.com
+ghrs.cn
 ghsheukwasa.com
 ghsheukwasana.info
 ghshoppers.com
@@ -81163,6 +81176,7 @@ glxtest.site
 glycocare.org
 track.glycocleanfr.com
 glycogencontrol.net
+glymanicale.com
 glyshalimu.com
 gm-it.consulting
 p.gm99.com
@@ -96970,6 +96984,7 @@ inv-one.com
 images.marketing.invacare.com
 marketing2.invacare.eu.com
 sales.invacare.eu.com
+invadedisheartentrail.com
 invaderimmenseimplication.com
 engage.invadosolutions.com
 invagtabac.pro
@@ -103522,6 +103537,7 @@ smetrics.kao.com
 smetrics.kaobeautybrands.com
 gtm.kaochemicals-eu.com
 cps.kaola.com
+kaolinoleous.com
 go.kaon.com
 kaori-tw.com
 kaorpyqtjjld.com
@@ -107259,6 +107275,7 @@ kxnggkh2nj.com
 kxshyo.com
 kxsvelr.com
 kxtmstjs.org
+kxwvwcki.com
 kxygsjv.icu
 ky595images.com
 kyaa.info
@@ -108762,6 +108779,7 @@ aff-report.lbesecapi.com
 api.lbesecapi.com
 events.lbesecapi.com
 psi.lbesecapi.com
+lbfrruxdynpunl.com
 lbfwxr.icu
 lbifibui.com
 lbjekygz.icu
@@ -116503,6 +116521,7 @@ info.marshmsp.com
 marshnow.com
 wprsah.marshoes.com.br
 info.marshpcs.com
+marsin.shop
 partner.marspom.cz
 gtm.marstrands.se
 cookie.marsus.digital
@@ -131217,6 +131236,7 @@ asd.nl.bauhaus
 nvjrxh.nl.bauhaus
 pardot.nl.edu
 nl03.net
+nl2cq0jr.xyz
 nlaexpress.com.br
 nlbcworks.com
 mdws.nlcu.com
@@ -137829,6 +137849,7 @@ otoyueuprumok.icu
 elgy.otpcrepair.info
 otpercpiheno.blogspot.com
 otpercpiheno.hu
+otqnvgebjhvqq.com
 otqxvqzdgl.com
 www2.otrcapital.com
 o.otrestaurant.com
@@ -143542,6 +143563,7 @@ pj550077.com
 pj88.net
 pjagilteei.com
 pjatr.com
+pjbbhj.icu
 pjdthz.xyz
 pjdwsazzad.com
 pjhku.com
@@ -151135,6 +151157,7 @@ pukaczu.pl
 pukimuki.xyz
 puldhukelpmet.com
 pulfa.com
+pulianmurkly.shop
 pulicarious.com
 pulicidesr.info
 pulinkme.com
@@ -152055,6 +152078,7 @@ metrics.qeedo.de
 link.qeenatha.com
 za.qeeq.com
 qeiiamall.com
+qekbmjyvbekvv.top
 qekisaa.com
 qel-qel-fie.com
 qelapio.com
@@ -157200,6 +157224,7 @@ rfavon.ru
 rfbhopsx.cc
 rfbxbstrk.com
 www2.rfca.org.uk
+rfdqlehuiufyk.click
 rfee.fr
 ssc.rferl.org
 tags.rferl.org
@@ -169430,6 +169455,7 @@ soapsudkerfed.com
 mail.soarcondicionado.com
 soarpower.com
 soathoth.com
+soawunoovaiwhog.net
 sobakemozhno.ru
 sobakenchmaphk.com
 eagsur.sobarroso.pt
@@ -171946,9 +171972,11 @@ squidgameoffiziell.com
 gc.squidsveena.com
 squindlewarp.ru
 insights.squintopera.com
+squiresbruting.top
 osospt.squirly.info
 squirrelformatapologise.com
 go.squirtingorgasmshortcuts.com
+sqypavgncjcyh.com
 msg.sqz.app
 webapp.post.sr-bank.no
 sr7pv7n5x.com
@@ -177696,6 +177724,7 @@ metrics.tdn.com
 analytics.tdnetdiscover.com
 tdniigxiuvyaafv.com
 tdoqiajej.xyz
+tdpjzjpfuiis.com
 tdpujn.xyz
 tdreg.icu
 tdreg.top
@@ -181942,6 +181971,7 @@ login.thing02.com
 rtb-useast.thing02.com
 xml.thing02.com
 analytics.thingeight.com
+thinglairs.com
 thingsafterthought.com
 leopon.thingsin.space
 metrics.thingspeak.com
@@ -186658,6 +186688,7 @@ api.triver.jp
 go.triverity.com
 trivetsbymike.com
 panel.trivia-neuroventas.com
+trivialbaseball.pro
 a.trivita.com
 trivo.uk
 trix.net
@@ -196903,6 +196934,7 @@ vungle.akadns.net
 vungle.cn
 vungle.com
 moja-paczka-pl-myid576xs.vungtau.life
+vunqrotm.com
 vunurye.com
 vunvatro.shop
 vuori-france.fr
@@ -198225,6 +198257,7 @@ wdnkjctmnhqui.com
 wdohhlagnjzi.com
 wdomu24.pl
 wdoyouknowsai.org
+wdpaqlodreen.com
 marketing.wdpartners.com
 wa.wdr.de
 smetrics.wdrake.com
@@ -201253,6 +201286,7 @@ fsdgdfgdfgghjkjhgfd.blob.core.windows.net
 fsuseaad1.blob.core.windows.net
 insitez.blob.core.windows.net
 iriscoremetadataprod.blob.core.windows.net
+mauxyaeeefnrots.z21.web.core.windows.net
 messageprocessing.z13.web.core.windows.net
 nexxtv-events.servicebus.windows.net
 open8video.blob.core.windows.net
@@ -203110,6 +203144,7 @@ wubbaboost.blogspot.com
 wuber.fr
 data-407c1ec0f8.wubv.de
 wuckaity.com
+wucnmte.top
 wuczmaorkqaz.com
 wudcaso.com
 app.wudju.de
@@ -204861,6 +204896,7 @@ xtrafficplus.com
 xtrafficplus.online
 xtrafficplus.shop
 xtrafficplus.xyz
+data-ingest.xtralife.com
 marketing.xtralight.com
 forms.xtralis.com
 xtraserp.com
@@ -205328,6 +205364,7 @@ yakimacabinets.com
 x6.yakiuchi.com
 yakmakhond.top
 yaksgame.com
+yaksgwrkhufex.com
 itp.yaku-job.com
 a8cv.yakuin-organic.co.jp
 a8.yakumatch.com
@@ -209183,6 +209220,7 @@ ck.zzipps.com
 www.zzkrca.com
 zzmaciej.top
 zzmyrz.com
+zzrazrorjqlqw.top
 log-auth.zztfly.com
 zztxfj.xyz
 zztxr.cn
